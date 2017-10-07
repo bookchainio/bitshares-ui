@@ -70,8 +70,8 @@
     "withdraw_full":"Нажмите, чтобы вывести баланс целиком",
     "withdraw_address":"Если у Вас еще нет %(asset)s адреса, то для того чтобы завершить вывод средств, пожалуйста, найдите подходящего провайдера кошелька и создайте его.",
     "memo_tip":"В поле примечания Вы можете включить любое сообщение. Примечание необязательно, но обычно необходимо для перевода на биржи.",
-    "generate":"The generated password was created by your browser, locally. <br /><br /><strong>No one but you has access to it</strong>.<br /><br /> Paste it below and save a copy in a safe place",
-    "copy_password":"Click here to copy the password to your clipboard"
+    "generate":"Сгенерированный пароль был создан локально в Вашем браузере. <br /><br /><strong>Никто, кроме Вас не имеет к нему доступа</strong>.<br /><br /> Вставьте его ниже и сохраните копию в надежном месте",
+    "copy_password":"Нажмите здесь, чтобы скопировать пароль в буфер обмена"
   },
   "propose":"Предложить",
   "cancel":"Отменить",
@@ -841,7 +841,7 @@
     "activate":"Активировать",
     "confirm_remove":"Вы уверены, что хотите удалить %(name)s из Вашего списка доступных узлов?",
     "valid_node_url":"URL-адрес узла должен начинаться с ws:// или wss://",
-    "connection_error":"Unable to connect to API node %(url)s, falling back to known working nodes"
+    "connection_error":"Не удается подключиться к узлу API %(url)s, возврат к известным рабочим узлам"
   },
   "footer":{
     "title":"BitShares",
@@ -946,7 +946,7 @@
     "market_frozen":"Владелец %(asset)s запретил торговлю на этом рынке.",
     "show_star_1":"Показать",
     "show_star_2":"только",
-    "quote":"Quote currency:",
+    "quote":"Валюта котировки:",
     "search":"Искать здесь другие рынки"
   },
   "fees":{
