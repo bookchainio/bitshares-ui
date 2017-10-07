@@ -6,7 +6,7 @@
     "ko":"한국어",
     "de":"Deutsch",
     "es":"Español",
-    "it": "Italiano",
+    "it":"Italiano",
     "tr":"Turkish",
     "ru":"Русский"
   },
@@ -69,11 +69,15 @@
     "copy_tip":"Нажмите, чтобы скопировать текст",
     "withdraw_full":"Нажмите, чтобы вывести баланс целиком",
     "withdraw_address":"Если у Вас еще нет %(asset)s адреса, то для того чтобы завершить вывод средств, пожалуйста, найдите подходящего провайдера кошелька и создайте его.",
-    "memo_tip":"В поле примечания Вы можете включить любое сообщение. Примечание необязательно, но обычно необходимо для перевода на биржи."
+    "memo_tip":"В поле примечания Вы можете включить любое сообщение. Примечание необязательно, но обычно необходимо для перевода на биржи.",
+    "generate":"The generated password was created by your browser, locally. <br /><br /><strong>No one but you has access to it</strong>.<br /><br /> Paste it below and save a copy in a safe place",
+    "copy_password":"Click here to copy the password to your clipboard"
   },
   "propose":"Предложить",
   "cancel":"Отменить",
   "account":{
+    "new_user":"New user?",
+    "existing_user":"Existing user",
     "intro_text_title":"Добро пожаловать в BitShares DEX",
     "intro_text_1":"<b>BitShares 2.0</b> децентрализованная биржа, также известная как DEX - это криптовалютная торговая платформа следующего поколения.",
     "intro_text_2":"<b>DEX</b> децентрализована по самой своей сути, что позволяет Вам торговать основным токеном BitShares (BTS) и разнообразными не требующими доверия активами со стабильной, привязанной к рынку ценой, такими как bitUSD, bitCNY, bitGold и многими другими. Все эти активы могут торговаться <b>без риска</b>, связанного с участием контрагентов, оставляя контроль над Вашими средствами полностью в Ваших руках.",
@@ -837,7 +841,7 @@
     "activate":"Активировать",
     "confirm_remove":"Вы уверены, что хотите удалить %(name)s из Вашего списка доступных узлов?",
     "valid_node_url":"URL-адрес узла должен начинаться с ws:// или wss://",
-    "connection_error": "Unable to connect to API node %(url)s, falling back to known working nodes"
+    "connection_error":"Unable to connect to API node %(url)s, falling back to known working nodes"
   },
   "footer":{
     "title":"BitShares",
@@ -942,7 +946,7 @@
     "market_frozen":"Владелец %(asset)s запретил торговлю на этом рынке.",
     "show_star_1":"Показать",
     "show_star_2":"только",
-    "quote": "Quote currency:",
+    "quote":"Quote currency:",
     "search":"Искать здесь другие рынки"
   },
   "fees":{
@@ -1264,11 +1268,11 @@
     "purchase_1":"Покупайте %(outputAsset)s легко и просто, используя %(inputAsset)s с внешнего кошелька. Этот сервис предоставлен <a href='https://blocktrades.us/' target='blank' rel='noopener noreferrer'><a href='https://blocktrades.us/' target='blank' rel='noopener noreferrer'>Blocktrades</a>",
     "deposit_limit":"Лимит на депозиты",
     "address_with_memo":"%(address)s <span class=\"blocktrades-with-memo\"> с примечанием</span> %(memo)s",
-    "rudex": {
+    "rudex":{
       "support_block":"Для получения поддержки, пожалуйста, свяжитесь с RuDEX по адресу:",
-      "min_amount": "Минимальная сумма: %(minAmount)s %(symbol)s",
-      "min_amount_error": "Пожалуйста введите число >= минимума",
-      "coming_soon": "Скоро"
+      "min_amount":"Минимальная сумма: %(minAmount)s %(symbol)s",
+      "min_amount_error":"Пожалуйста введите число >= минимума",
+      "coming_soon":"Скоро"
     }
   },
   "chat":{
