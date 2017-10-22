@@ -16,7 +16,7 @@
 
 #### Ожидаемые комиссии
 
-Fees paid by {account} are divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
+Комиссии, оплаченные {account}, разделяются между сетью, реферерами и регистраторами один раз в каждый период обслуживания ({maintenanceInterval} секунд). Следующий период обслуживания {nextMaintenanceTime}.
 
 #### Вестинговые комиссии
 
