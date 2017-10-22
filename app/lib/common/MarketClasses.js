@@ -58,8 +58,7 @@ class Asset {
         if (typeof sats !== "number" && typeof real !== "number") {
             throw new Error("Invalid arguments for setAmount");
         }
-        if (real && typeof real !== "undefined") {
-            if (typeof real !== "number" || isNaN(real)) throw new Error("Invalid argument 'real' for setAmount");
+        if (typeof real === "number") {
             this.amount = this.toSats(real);
             this._clearCache();
         } else if(typeof sats === "number") {
@@ -298,6 +297,22 @@ class Price {
             base: this.base.toObject(),
             quote: this.quote.toObject()
         };
+    }
+
+    times(p, common = "1.3.0") {
+        const p2 = (
+            (p.base.asset_id === common &&
+            this.quote.asset_id === common) ||
+            (p.quote.asset_id === common &&
+            this.base.asset_id === common)
+        ) ? p.clone() : p.invert();
+
+        const np = p2.toReal() * this.toReal();
+        return new Price({
+            base: p2.base,
+            quote: this.quote,
+            real: np
+        });
     }
 }
 
@@ -600,6 +615,15 @@ class CallOrder {
         return this.call_price;
     }
 
+    getCollateral() {
+        if (this._collateral) return this._collateral;
+        return this._collateral = new Asset({
+            amount: this.for_sale,
+            asset_id: this.for_sale_id,
+            precision: this.assets[this.for_sale_id].precision
+        });
+    }
+
     /*
     * Assume a USD:BTS market
     * The call order will always be selling BTS in order to buy USD
@@ -674,6 +698,24 @@ class CallOrder {
     totalForSale({noCache = false} = {}) {
         if (!noCache && this._total_for_sale) return this._total_for_sale;
         return this._total_for_sale = (this.total_for_sale || this.amountForSale()).clone();
+    }
+
+    getRatio() {
+        return this.getCollateral().getAmount({real: true}) / this.amountToReceive().getAmount({real: true}) / this.getFeedPrice();
+    }
+
+    getStatus() {
+        const mr = this.assets[this.to_receive_id].bitasset.current_feed.maintenance_collateral_ratio / 1000;
+        const cr = this.getRatio();
+
+        if (isNaN(cr)) return null;
+        if (cr < mr) {
+            return "danger";
+        } else if (cr < (mr + 0.5)) {
+            return "warning";
+        } else {
+            return "";
+        }
     }
 }
 
