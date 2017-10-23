@@ -1223,7 +1223,7 @@
     "qrcode":{
       "label":"QR-код",
       "title":"QR-код закрытого ключа",
-      "input_message":"Please enter a password used to encrypt the QR code.<br />An empty password will show an unencrypted QR code."
+      "input_message":"Пожалуйста, введите пароль, использованный для шифрования QR-кода.<br />Пустой пароль будет отображать незашифрованный QR-код."
     }
   },
   "init_error":{
@@ -1233,7 +1233,7 @@
     "connected":"Соединение установлено",
     "not_connected":"Отключено",
     "browser":"Неподдерживаемый браузер",
-    "browser_text":"The Browser you are using has not been fully tested to support the BitShares Wallet. We highly recommend that you backup your local wallet and import it using the Chrome Browser until we have had more time to fully test your browser of choice. Use at your own risk.",
+    "browser_text":"Браузер, который Вы используете, не тестировался на поддержку кошелька BitShares. Мы настоятельно рекомендуем Вам сделать резервную копию вашего локального кошелька и импортировать его, используя браузер Chrome, пока мы не найдем время, чтобы провести полное тестирование выбранного Вами браузера. Мы не несем ответственности за использование Вами данного браузера.",
     "understand":"Я понимаю"
   },
   "refcode":{
@@ -1319,11 +1319,11 @@
       "min_amount_error":"Пожалуйста введите число >= минимума",
       "coming_soon":"Скоро"
     },
-    "unavailable":"The gateway service for this asset is currently down, please try again later",
-    "unavailable_bridge":"The brdige service for this asset is currently down, please try again later",
-    "unavailable_OPEN":"The OpenLedger Gateway is down or not responding",
-    "unavailable_RUDEX":"The RuDEX Gateway is down or not responding",
-    "unavailable_TRADE":"The Blocktrades Bridge is down or not responding"
+    "unavailable":"Шлюз для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
+    "unavailable_bridge":"Мост для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
+    "unavailable_OPEN":"Шлюз OpenLedger не работает или не отвечает",
+    "unavailable_RUDEX":"Шлюз RuDEX не работает или не отвечает",
+    "unavailable_TRADE":"Шлюз Blocktrades не работает или не отвечает"
   },
   "chat":{
     "title":"Троллбокс",
