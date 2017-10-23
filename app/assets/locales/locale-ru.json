@@ -749,7 +749,7 @@
         "blacklist_authorities":"Источник черного списка",
         "whitelist_markets":"Белый список рынков",
         "blacklist_markets":"Черный список рынков",
-        "enable_flag":"The whitelist flag must be enabled in order to set whitelist authorities"
+        "enable_flag":"Чтобы задать источник белого списка, нужно активировать флажок белого списка"
       }
     },
     "witnesses":{
@@ -802,9 +802,9 @@
     }
   },
   "settings":{
-    "passwordLogin":"Login mode",
-    "cloud_login":"Cloud Wallet Login",
-    "local_wallet":"Local Wallet Login",
+    "passwordLogin":"Режим входа",
+    "cloud_login":"Вход в облачный кошелек (модель \"Аккаунт\")",
+    "local_wallet":"Вход в локальный кошелек (модель \"Кошелек\")",
     "inverseMarket":"Предпочтительная ориентация рынка",
     "unit":"Предпочтительные единицы счета",
     "confirmMarketOrder":"Запрашивать подтверждение рыночных ордеров",
@@ -830,9 +830,9 @@
     "reset":"Сбросить настройки",
     "disableChat":"Отключить чат",
     "general":"Общие",
-    "wallet":"Local Wallet",
+    "wallet":"Локальный кошелек",
     "accounts":"Аккаунты",
-    "no_accounts":"This local wallet does not contain any accounts.",
+    "no_accounts":"Этот локальный кошелек не содержит аккаунтов.",
     "password":"Пароль",
     "backup":"Резервная копия",
     "restore":"Восстановить/импортировать",
