@@ -742,13 +742,13 @@
         "published":"Опубликовано"
       },
       "margin_positions":{
-        "title":"Margin positions"
+        "title":"Маржинальные позиции"
       },
       "whitelist":{
-        "whitelist_authorities":"Whitelist authorities",
-        "blacklist_authorities":"Blacklist authorities",
-        "whitelist_markets":"Market whitelist",
-        "blacklist_markets":"Market blacklist",
+        "whitelist_authorities":"Источник белого списка",
+        "blacklist_authorities":"Источник черного списка",
+        "whitelist_markets":"Белый список рынков",
+        "blacklist_markets":"Черный список рынков",
         "enable_flag":"The whitelist flag must be enabled in order to set whitelist authorities"
       }
     },
