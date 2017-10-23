@@ -838,7 +838,7 @@
     "restore":"Восстановить/импортировать",
     "access":"Доступ",
     "general_text":"Выбрать основные настройки.",
-    "wallet_text":"Control the details of your local wallet.",
+    "wallet_text":"Управление деталями Вашего локального кошелька.",
     "accounts_text":"Список Ваших аккаунтов.",
     "password_text":"Поменяйте пароль.",
     "backup_text":"Создать резервные копии.",
@@ -848,7 +848,7 @@
     "backup_backup":"Восстановить из файла резервной копии (.bin)",
     "backup_key":"Импортировать приватный ключ",
     "backup_legacy":"Импортировать экспорт-файл (.json) ключа BTS 0.9.3c",
-    "backup_brainkey":"Restore using a local wallet brainkey",
+    "backup_brainkey":"Восстановить с помощью brainkey локального кошелька",
     "backupcreate_backup":"Create local wallet backup",
     "backupcreate_brainkey":"Создать резервную копию brainkey",
     "lookup_text":"Нажмите кнопку ниже, чтобы проверить наличие неподтвержденных балансов с BTS 1.0",
@@ -1203,9 +1203,9 @@
     },
     "reserve":{
       "title":"Burn (reserve) asset",
-      "amount":"Amount to burn",
-      "from":"Account to burn from",
-      "submit":"Burn"
+      "amount":"Сумма к сожжению",
+      "from":"Сжечь с аккаунта",
+      "submit":"Сжечь"
     },
     "confirmation":{
       "title":"Введенный Вами адрес недействителен. Вы уверены, что хотите выполнить снятие со счета?",
@@ -1221,8 +1221,8 @@
     },
     "ok":"ОК",
     "qrcode":{
-      "label":"qrcode",
-      "title":"Private key QR code",
+      "label":"QR-код",
+      "title":"QR-код закрытого ключа",
       "input_message":"Please enter a password used to encrypt the QR code.<br />An empty password will show an unencrypted QR code."
     }
   },
