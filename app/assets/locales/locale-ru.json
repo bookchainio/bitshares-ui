@@ -849,11 +849,11 @@
     "backup_key":"Импортировать приватный ключ",
     "backup_legacy":"Импортировать экспорт-файл (.json) ключа BTS 0.9.3c",
     "backup_brainkey":"Восстановить с помощью brainkey локального кошелька",
-    "backupcreate_backup":"Create local wallet backup",
+    "backupcreate_backup":"Создать резервную копию локального кошелька",
     "backupcreate_brainkey":"Создать резервную копию brainkey",
     "lookup_text":"Нажмите кнопку ниже, чтобы проверить наличие неподтвержденных балансов с BTS 1.0",
-    "delete_select":"Select local wallet to delete",
-    "restore_brainkey_text":"In order to restore from a brainkey, you will need to create a new local wallet. Please provide a password and name for your new local wallet below, then enter your brainkey.",
+    "delete_select":"Выберите локальный кошелек для удаления",
+    "restore_brainkey_text":"Чтобы восстановиться с помощью brainkey, Вам нужно создать новый локальный кошелек. Пожалуйста, введите пароль и имя нового локального кошелька в строки ниже, потом введите brainkey.",
     "restore_key_count":"# ключей",
     "restore_default_success":"Настройки были успешно изменены",
     "api_closest":"Автоматически выбирать ближайший",
@@ -871,22 +871,22 @@
     "confirm_remove":"Вы уверены, что хотите удалить %(name)s из Вашего списка доступных узлов?",
     "valid_node_url":"URL-адрес узла должен начинаться с ws:// или wss://",
     "connection_error":"Не удается подключиться к узлу API %(url)s, возврат к известным рабочим узлам",
-    "low_latency":"Low latency",
-    "medium_latency":"Medium latency",
-    "high_latency":"High latency"
+    "low_latency":"Низкое значение задержки",
+    "medium_latency":"Среднее значение задержки",
+    "high_latency":"Высокое значение задержки"
   },
   "footer":{
     "title":"BitShares",
     "block":"Текущий блок",
     "loading":"Загрузка...",
     "backup":"Необходима резервная копия",
-    "nosync":"Your active node is out of sync",
+    "nosync":"Ваш активный узел не синхронизирован",
     "connection":"Нет соединения с блокчейном",
     "brainkey":"Рекомендуется резервная копия brainkey",
     "update_available":"ДОСТУПНО ОБНОВЛЕНИЕ",
-    "synced":"Synced",
-    "unsynced":"Out of sync",
-    "disconnected":"Disconnected"
+    "synced":"Синхронизирован",
+    "unsynced":"Не синхронизирован",
+    "disconnected":"Связь прервана"
   },
   "exchange":{
     "chart_options":{
