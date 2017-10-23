@@ -108,8 +108,8 @@
     "as_collateral":"Обеспечение",
     "open_orders":"Открытые ордера",
     "total_value":"Общая стоимость",
-    "show_hidden":"Hidden",
-    "hide_hidden":"Active",
+    "show_hidden":"Скрытые",
+    "hide_hidden":"Активные",
     "ignore":"Скрыть",
     "unignore":"Отобразить",
     "show_ignored":"Показать скрытые аккаунты",
@@ -130,8 +130,8 @@
       "black_by":"Добавлен в чёрный список",
       "empty_white_by":"Ни один аккаунт не добавил в белый список %(account)s.",
       "empty_black_by":"Ни один аккаунт не добавил в чёрный список %(account)s.",
-      "whitelist_authorities":"Whitelist authority",
-      "blacklist_authorities":"Blacklist authority"
+      "whitelist_authorities":"Источник белого списка",
+      "blacklist_authorities":"Источник черного списка"
     },
     "vesting":{
       "title":"Вестинговый счет",
