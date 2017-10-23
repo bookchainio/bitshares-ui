@@ -137,7 +137,7 @@
       "title":"Вестинговый счет",
       "balance_number":"Баланс #%(id)s",
       "no_balances":"У этого аккаунта нет вестинговых балансов",
-      "explain":"Vesting balances contain any fees earned through the referral program or from worker pay, for example. They have a certain vesting period and are continually unlocked during that vesting period until all of the balances are available"
+      "explain":"Балансы вестинг-счетов включают в себя все вознаграждения, заработанные на партнерской программе или, например, в результате выплат работникам. У них есть определенный вестинг-период, в течение которого средства последовательно разблокируются вплоть до полной доступности всех балансов"
     },
     "member":{
       "stats":"Членство",
