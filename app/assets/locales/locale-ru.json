@@ -417,7 +417,7 @@
     "again":"СДЕЛАТЬ НОВЫЙ ПЕРЕВОД",
     "see":"ПОКАЗАТЬ МОИ ПЕРЕВОДЫ",
     "close":"Закрыть",
-    "memo_unlock":"Unlock your wallet/account in order to see this memo",
+    "memo_unlock":"Разблокируйте Ваш кошелек/аккаунт, чтобы увидеть это примечание",
     "optional":"Опционально"
   },
   "operation":{
@@ -428,8 +428,8 @@
     "proposal_create":"{account} создал предложенную транзакцию",
     "proposal_update":"{account} обновил предложенную транзакцию",
     "proposal_delete":"{account} удалил предложенную транзакцию",
-    "fill_order_buy":"{account} bought {amount} at {price}",
-    "fill_order_sell":"{account} sold {amount} at {price}",
+    "fill_order_buy":"{account} купил {amount} при цене {price}",
+    "fill_order_sell":"{account} продал {amount} при цене {price}",
     "vesting_balance_withdraw":"{account} вывел с вестингового баланса {amount}",
     "balance_claim":"{account} запросил баланс в размере {amount}",
     "publish_feed":"{account} опубликовал котировки {price}",
@@ -439,7 +439,7 @@
     "limit_order_buy":"{account} разместил ордер на покупку {amount} за {price}",
     "limit_order_cancel":"{account} отменил ордер #%(order)s",
     "call_order_update":"{account} изменил {debtSymbol} долг на {debt} и залог на {collateral}",
-    "asset_reserve":"{account} burned (reserved) {amount}",
+    "asset_reserve":"{account} сжег (зарезервировал) {amount}",
     "asset_issue":"{account} эмитировал {amount} к {to}",
     "asset_fund_fee_pool":"{account} финансировал пул комиссий {asset} в размере {amount}",
     "asset_create":"{account} создал актив {asset}",
