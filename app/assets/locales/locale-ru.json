@@ -486,10 +486,10 @@
     "reject":"Отклонить",
     "override_transfer":"Перевести {amount} от {from} к {to} по поручению {issuer}",
     "asset_issue":"Выпустить {amount} {to}, используя {account}",
-    "asset_reserve":"Burn (reserve) {amount} using {account}",
+    "asset_reserve":"Сжечь (зарезервировать) {amount} с помощью {account}",
     "vesting_balance_withdraw":"Вывести {amount} с вестингового баланса {account}",
     "feed_producer":"Обновить поставщиков котировок для актива {asset} используя аккаунт {account}",
-    "call_order_update":"Change {account} {debtSymbol} debt by {debt} and collateral by {collateral}"
+    "call_order_update":"Изменить {debtSymbol} долг {account} на {debt} и залог на {collateral}"
   },
   "transaction":{
     "confirm":"Пожалуйста, подтвердите транзакцию",
@@ -543,7 +543,7 @@
     "deposit_to":"Депонировано на аккаунт",
     "claimed":"Всего затребовано",
     "borrow_amount":"Долг",
-    "borrower":"Borrower",
+    "borrower":"Заемщик",
     "funding_account":"Аккаунт финансирования",
     "delta_collateral":"Изменение залога",
     "delta_debt":"Изменение долга",
@@ -555,7 +555,7 @@
     "outputs":"Выходы",
     "inputs":"Входы",
     "settlement_date":"Дата погашения",
-    "asset_reserve":"burned asset amount",
+    "asset_reserve":"сумма сожженого актива",
     "trxTypes":{
       "all":"Показать все",
       "transfer":"Перевод",
@@ -572,7 +572,7 @@
       "asset_update_bitasset":"Обновление SmartCoin",
       "asset_update_feed_producers":"Обновление производителей котировок актива",
       "asset_issue":"Выпуск актива",
-      "asset_reserve":"Burn asset",
+      "asset_reserve":"Сжечь актив",
       "asset_fund_fee_pool":"Пополнение пула комиссий актива",
       "asset_settle":"Погашение активов",
       "asset_global_settle":"Глобальное погашение активов",
@@ -694,7 +694,7 @@
       "id":"Идентификатор",
       "issuer":"Эмитент",
       "precision":"Точность",
-      "units":"Units"
+      "units":"Ед. измерения"
     },
     "asset":{
       "title":"Актив",
