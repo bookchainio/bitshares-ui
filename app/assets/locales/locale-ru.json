@@ -20,7 +20,7 @@
         "ru": "Русский"
     },
     "incognito": {
-        "no_support": "This BitShares Wallet relies on Local Storage and IndexedDB which are not persistent when using Incognito Browsing. We recommend using a regular browsing session.",
+        "no_support": "Этот кошелек BitShares полагается на локальное хранилище и IndexedDB, которые не сохраняются при использовании режима инкогнито. Мы рекомендуем использовать обычный режим просмотра.",
         "ignore": "Я понимаю, продолжить."
     },
     "sync_fail": {
@@ -237,7 +237,7 @@
             "market": "Предпочтительные рыночные пары",
             "precision_warning": "Предупреждение: количество знаков после запятой не может быть изменено после создания",
             "visible": "Не отображать актив в поиске и в рынках",
-            "cer_warning_1": "Warning",
+            "cer_warning_1": "Предупреждение",
             "cer_warning_2": "Make sure your core exchange rate is higher than the market price, otherwise people will buy your token from the market and drain your fee pool via implicit arbitrage. The core exchange rate should be updated regularly to reflect market pricing of your asset."
         },
         "connections": {
@@ -248,8 +248,8 @@
             "active": "Действующие права доступа",
             "owner": "Права доступа владельца",
             "memo_key": "Ключ примечания",
-            "publish": "Save",
-            "reset": "Cancel",
+            "publish": "Сохранить",
+            "reset": "Отменить",
             "add": "Добавить разрешение",
             "type": "Тип",
             "key": "Ключ/Имя",
@@ -298,7 +298,7 @@
             "url": "Веб-страница",
             "support": "Поддержка",
             "workers": "Элементы бюджета",
-            "publish": "Save",
+            "publish": "Сохранить",
             "add_witness": "Добавить",
             "remove_witness": "Удалить",
             "remove_committee": "Удалить",
