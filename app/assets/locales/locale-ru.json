@@ -238,7 +238,7 @@
             "precision_warning": "Предупреждение: количество знаков после запятой не может быть изменено после создания",
             "visible": "Не отображать актив в поиске и в рынках",
             "cer_warning_1": "Предупреждение",
-            "cer_warning_2": "Make sure your core exchange rate is higher than the market price, otherwise people will buy your token from the market and drain your fee pool via implicit arbitrage. The core exchange rate should be updated regularly to reflect market pricing of your asset."
+            "cer_warning_2": "Убедитесь, что ваш основной обменный курс выше, чем рыночная цена, в противном случае люди будут покупать ваш токен на рынке и опустошат ваш пул комиссий путем арбитража. Основной обменный курс нужно регулярно обновлять, чтобы он отражал рыночную цену вашего актива."
         },
         "connections": {
             "known": "Известен по",
@@ -308,9 +308,9 @@
             "approve_worker": "Одобрить",
             "reject_worker": "Отклонить",
             "worker_account": "Аккаунт работника",
-            "total_votes": "Votes",
+            "total_votes": "Голоса",
             "votes_against": "Голосов против",
-            "daily_pay": "Daily Pay",
+            "daily_pay": "Ежедневная плата",
             "daily": "ежедневно",
             "max_pay": "Максимальная общая выплата",
             "unclaimed": "Невостребованная выплата",
@@ -325,7 +325,7 @@
             "creator": "Автор",
             "recycled": "Возвращается",
             "funding": "Финансирование",
-            "total_budget": "Daily budget",
+            "total_budget": "Ежедневный бюджет",
             "unused_budget": "Неиспользованный бюджет на работников",
             "new": "Proposed(%(count)s)",
             "active": "Active(%(count)s)",
