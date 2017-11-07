@@ -8,4 +8,4 @@ CryptoBridge – сервис шлюза, построенный на бирже
 
 ## Поддержка
 
-CryptoBridge is still finalizing their gateway service and is not yet fully operational to the general public.
+CryptoBridge всё ещё ведет завершающие работы над своим шлюзом, поэтому не весь его функционал доступен для широкой публики.
