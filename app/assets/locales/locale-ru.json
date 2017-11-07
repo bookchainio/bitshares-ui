@@ -344,10 +344,10 @@
             "inactive": "Резервные",
             "about": "Подробнее",
             "create_worker": "Создать новое рабочее предложение",
-            "line": "Line",
-            "save_finish": "Click save to finish",
-            "threshold": "Votes required to activate",
-            "missing": "Needed"
+            "line": "Линия",
+            "save_finish": "Нажмите кнопку \"Сохранить\", чтобы закончить",
+            "threshold": "Необходимо голосов для активации",
+            "missing": "Необходимо"
         },
         "options": {
             "num_witnesses": "Желаемые заверители",
@@ -792,7 +792,7 @@
         },
         "workers": {
             "title": "Имя работника",
-            "period": "Duration",
+            "period": "Длительность работы",
             "daily_pay": "Ежедневная плата (BTS)",
             "website": "Веб-сайт",
             "vesting_pay": "Вестинговый период зарплаты (дней)",
