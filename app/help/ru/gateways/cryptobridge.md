@@ -1,11 +1,11 @@
-# CryptoBridge Gateway Service
+# Шлюз от CryptoBridge
 
-CryptoBridge is a gateway service built on the Bitshares Exchange. A gateway service is responsible for moving cryptocurrencies to and from the Bitshares Exchange. They support a wide range of popular assets. You can easily identify those supported by CryptoBridge because they are prefixed with the word BRIDGE.*. For example BRIDGE.BTC, BRIDGE.LTC etc.
+CryptoBridge – сервис шлюза, построенный на бирже Bitshares. Сервис шлюза ответственнен за ввод и вывод криптовалют с биржи Bitshares. Он поддерживает обширный список популярных активов. Вы легко можете определить, какие из них поддерживает CryptoBridge, так как они обладают префиксом вида BRIDGE.*. Например, BRIDGE.BTC, BRIDGE.LTC и т.п.
 
-## Website
+## Веб-сайт
 
 <https://crypto-bridge.org>
 
-## Support
+## Поддержка
 
 CryptoBridge is still finalizing their gateway service and is not yet fully operational to the general public.
