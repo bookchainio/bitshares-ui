@@ -1,11 +1,11 @@
 # Шлюз от Rudex
 
-Rudex предоставляет сервис шлюза, построенный на бирже Bitshares. Сервис шлюза отвечает за ввод и вывод криптовалют с биржи Bitshares. Он поддерживает обширный список популярных активов. You can easily identify those supported by OpenLedger because they are prefixed with the word RUDEX.*. For example RUDEX.BTC, RUDEX.LTC etc.
+Rudex предоставляет сервис шлюза, построенный на бирже Bitshares. Сервис шлюза отвечает за ввод и вывод криптовалют с биржи Bitshares. Он поддерживает обширный список популярных активов. Вы легко можете определить, какие из них поддерживает Rudex, так как они обладают префиксом вида RUDEX.*. Например, RUDEX.STEEM, RUDEX.SBD и т.п.
 
-## Website
+## Веб-сайт
 
 <https://rudex.org>
 
-## Support
+## Поддержка
 
-If you have questions or experience delays with sending or receiving assets, you may send email to: support@rudex.org
+Если у вас возник вопрос или случилась задержка при отправлении или получении активов, пожалуйста, напишите письмо на support@rudex.org
