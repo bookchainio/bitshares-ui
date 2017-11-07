@@ -815,7 +815,7 @@
             "type": "Тип комиссии",
             "fee": "Стандартная комиссия",
             "feeeq": "(эквивалент)",
-            "feeltm": "Lifetime Member Fee",
+            "feeltm": "Комиссия пожизненного члена",
             "feeltmeq": "(эквивалент)"
         }
     },
@@ -1058,7 +1058,7 @@
         "done": "Готово",
         "verify": "Я записал это",
         "invalid_format": "Недопустимый формат",
-        "enter_password": "Password",
+        "enter_password": "Пароль",
         "confirm_password": "Подтвердить пароль",
         "pass_incorrect": "Неверный пароль",
         "confirm_error": "Подтверждение не совпадает с паролем",
@@ -1098,7 +1098,7 @@
         "not_first_account": "Поскольку у Вас уже есть аккаунт, Вам нужно будет платить за новый аккаунт самостоятельно. Для этого, Ваш аккаунт должен иметь пожизненное членство, которое можно приобрести на странице Вашего аккаунт.",
         "must_be_ltm": "Выплачивающий комиссию аккаунт должен быть пожизненным членом для проведения этой операции.",
         "backup_explain": "Нажав на кнопку ниже, Вы создадите резервную копию с расширением .bin. Этот файл зашифрован паролем Вашего кошелька и содержит все приватные ключи Вашего аккаунта. Он может быть использован для восстановления Вашего кошелька или его перемещения на другой компьютер/браузер.",
-        "backup_new_account": "Congratulations, you've just created a new account on the BitShares blockchain! It is strongly recommended that you make a backup of your wallet now. Without a backup there is no way to restore your account if something happens to your computer.",
+        "backup_new_account": "Поздравляем, Вы только что создали новый аккаунт в блокчейне BitShares! Настоятельно рекомендуем Вам сразу же создать резервную копию кошелька. Без резервной копии восстановить Ваш аккаунт в случае повреждения компьютера будет невозможно.",
         "brainkey_not_backed_up": "Резервная копия этого brainkey никогда не создавалась",
         "brainkey_backed_up": "Последняя резервная копия этого brainkey",
         "new_password": "Новый пароль",
@@ -1172,7 +1172,7 @@
         "current_pass": "Текущий пароль",
         "no_wallet": "У Вас еще нет локального кошелька",
         "generated": "Сгенерированный пароль",
-        "account_exp": "This account will be created on the blockchain and will be your address for any transfers you want to make! <strong>There are no long Bitcoin-style addresses in BitShares!</strong>",
+        "account_exp": "Этот аккаунт будет создан в блокчейне и будет являться Вашим адресом для любых переводов, которые Вы захотите осуществить! <strong>Bitshares использует имена вместо длинных незапоминающихся адресов в стиле Биткоина!</strong>",
         "understand_1": "Я понимаю, что никто не сможет восстановить мой пароль, если я потеряю или забуду его",
         "understand_2": "Я записал или еще как-либо сохранил свой пароль",
         "understand_3": " Я понимаю, что утрачу доступ к своим средствам, если потеряю свой пароль",
@@ -1337,7 +1337,7 @@
             "coming_soon": "Скоро"
         },
         "unavailable": "Шлюз для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
-        "unavailable_bridge": "The bridge service for this asset is currently down, please try again later",
+        "unavailable_bridge": "Мост для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
         "unavailable_OPEN": "Шлюз OpenLedger не работает или не отвечает",
         "unavailable_RUDEX": "Шлюз RuDEX не работает или не отвечает",
         "unavailable_TRADE": "Шлюз Blocktrades не работает или не отвечает"
