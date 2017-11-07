@@ -84,7 +84,7 @@
         "sync_yes": "Данный узел синхронизирован с блокчейном",
         "sync_no": "Данный узел не синхронизирован с блокчейном, попробуйте переключиться на другой",
         "disconnected": "Вы не подключены к узлу API, попробуйте перезагрузиться или задать новую точку доступа в Настройках",
-        "market_fee": "The owner of %(asset)s charges a market fee of %(percent)s%% for buy orders. This fee will be subtracted from the amount you receive when your order fills, it is not paid when placing an order."
+        "market_fee": "Владелец %(asset)s назначил для ордеров на покупку рыночную комиссию в размере %(percent)s%%. Эта комиссия будет вычтена из суммы, полученной Вами при выполнении ордера, в момент же размещения ордера она не взимается."
     },
     "propose": "Предложить",
     "cancel": "Отменить",
@@ -116,7 +116,7 @@
         "more": "показать еще",
         "deposit_withdraw": "Ввод/Вывод",
         "as_collateral": "Обеспечение",
-        "open_orders": "Open Orders",
+        "open_orders": "Открытые ордера",
         "total_value": "Общая стоимость",
         "show_hidden": "Скрытые",
         "hide_hidden": "Активные",
