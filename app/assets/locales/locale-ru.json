@@ -42,7 +42,7 @@
         "create_asset": "Создать актив",
         "update_asset": "Обновить актив",
         "lock": "Выйти (заблокировать локальный кошелек)",
-        "unlock": "Local Wallet Login",
+        "unlock": "Вход в локальный кошелек",
         "unlock_password": "Войти используя пароль",
         "unlock_short": "Войти",
         "help": "Помощь",
