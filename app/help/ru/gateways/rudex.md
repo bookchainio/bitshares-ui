@@ -8,4 +8,4 @@ Rudex предоставляет сервис шлюза, построенный
 
 ## Поддержка
 
-[Open a Ticket](https://rudex.freshdesk.com)
+[Открыть тикет](https://rudex.freshdesk.com)
