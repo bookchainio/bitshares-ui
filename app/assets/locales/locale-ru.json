@@ -306,7 +306,7 @@
             "entermessage": "Введите сообщение сюда",
             "copysuccessful": "Подписанное сообщение скопировано в буфер обмена",
             "copyunsuccessful": "Не удалось скопировать сообщение",
-            "verifyonchange": "Verify while typing"
+            "verifyonchange": "Проверить во время ввода"
         },
         "votes": {
             "proxy_current": "Ваш текущий прокси",
@@ -459,8 +459,8 @@
         "again": "СДЕЛАТЬ НОВЫЙ ПЕРЕВОД",
         "see": "ПОКАЗАТЬ МОИ ПЕРЕВОДЫ",
         "close": "Закрыть",
-        "copy_address": "Copy Address",
-        "copy_memo": "Copy Memo",
+        "copy_address": "Скопировать адрес",
+        "copy_memo": "Скопировать мемо",
         "memo_unlock": "Разблокируйте Ваш кошелек/аккаунт, чтобы увидеть это примечание",
         "optional": "Опционально"
     },
@@ -810,7 +810,7 @@
             "missed": "Пропущено блоков"
         },
         "committee_members": {
-            "title": "Committee",
+            "title": "Комитет",
             "active": "Общее количество активных членов комитета"
         },
         "committee_member": {
@@ -892,13 +892,13 @@
         "backup_key": "Импортировать приватный ключ",
         "backup_legacy": "Импортировать экспорт-файл (.json) ключа BTS 0.9.3c",
         "backup_brainkey": "Восстановить с помощью brainkey локального кошелька",
-        "backup_favorites": "Restore favorites using a json file",
-        "backup_favorites_error": "Could not parse JSON.",
-        "backup_favorites_finish": "Import favorites",
-        "backup_favorites_success": "Successfully restored market favorites",
+        "backup_favorites": "Восстановить избранное с помощью файла json",
+        "backup_favorites_error": "Не удалось распознать JSON.",
+        "backup_favorites_finish": "Импортировать избранное",
+        "backup_favorites_success": "Избранные рынки успешно восстановлены",
         "backupcreate_backup": "Создать резервную копию локального кошелька",
         "backupcreate_brainkey": "Создать резервную копию brainkey",
-        "backupcreate_favorites": "Create favorites backup",
+        "backupcreate_favorites": "Создать резервную копию избранного",
         "backup_favoritesbtn": "Backup favorites",
         "backup_favoritestext": "Back up your favorites to restore them later after updates.",
         "lookup_text": "Нажмите кнопку ниже, чтобы проверить наличие неподтвержденных балансов с BTS 1.0",
