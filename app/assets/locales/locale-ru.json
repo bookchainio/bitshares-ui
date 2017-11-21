@@ -927,7 +927,7 @@
     },
     "footer": {
         "title": "BitShares",
-        "block": "Block",
+        "block": "Блок",
         "loading": "Загрузка...",
         "backup": "Необходима резервная копия",
         "nosync": "Ваш активный узел не синхронизирован",
@@ -937,8 +937,8 @@
         "synced": "Синхронизирован",
         "unsynced": "Не синхронизирован",
         "disconnected": "Связь прервана",
-        "connected": "Connected",
-        "latency": "Latency"
+        "connected": "Соединение установлено",
+        "latency": "Задержка"
     },
     "exchange": {
         "chart_options": {
@@ -1328,7 +1328,7 @@
         "balance": "Текущий остаток на счете",
         "generate": "Сформировать",
         "generate_new": "Получить новый адрес",
-        "generate_new_memo": "Get new memo",
+        "generate_new_memo": "Получить новое мемо",
         "deposit": "Пополнить счет",
         "withdraw": "Вывод",
         "convert": "Конвертировать внутри системы",
@@ -1364,7 +1364,7 @@
         },
         "purchase": "Покупка %(asset)s",
         "purchase_1": "Покупайте %(outputAsset)s легко и просто, используя %(inputAsset)s с внешнего кошелька. Этот сервис предоставлен <a href='https://blocktrades.us/' target='blank' rel='noopener noreferrer'><a href='https://blocktrades.us/' target='blank' rel='noopener noreferrer'>Blocktrades</a>",
-        "purchase_notice": "%(inputAsset)s sent to this address will show up as %(outputAsset)s",
+        "purchase_notice": "%(inputAsset)s, отправленные на этот адрес, будут отображаться как %(outputAsset)s",
         "purchase_notice_memo": "Memo <b>required</b> for proper routing to your account",
         "deposit_limit": "Лимит на депозиты",
         "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\"> с примечанием</span> %(memo)s",
