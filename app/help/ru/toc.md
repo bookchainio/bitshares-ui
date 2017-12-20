@@ -6,19 +6,19 @@
 - [Блокчейн](introduction/blockchain.md)
 - [Голосование](voting.md)
 - [Аккаунты](accounts/general.md)
-- [Proposed Transactions](accounts/proposed.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
-- [Market Pegged Assets](assets/mpa.md) 
+- [Предложенные транзакции](accounts/proposed.md)
+- [Разрешения](accounts/permissions.md)
+- [Подписки](accounts/membership.md)
+- [Привязанные к рынку активы](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
-- [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
-- [Decentralized Exchange](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
-- Gateways 
+- [Эмитированные пользователем активы](assets/uia.md)
+- [Приватизированные BitAssets](assets/privbitassets.md)
+- [Децентрализованная биржа](dex/introduction.md)
+- [Торговля](dex/trading.md)
+- [Короткая продажа BitAssets](dex/shorting.md)
+- Шлюзы 
     - [OpenLedger](gateways/openledger.md)
     - [Rudex](gateways/rudex.md)
     - [CryptoBridge](gateways/cryptobridge.md)
