@@ -35,6 +35,7 @@
         "explorer": "Обозреватель",
         "exchange": "Биржа",
         "payments": "Отправить",
+        "payments_beta": "Send (Beta)",
         "logout": "Выйти",
         "settings": "Настройки",
         "current": "Текущий аккаунт",
@@ -45,6 +46,7 @@
         "unlock": "Вход в локальный кошелек",
         "unlock_password": "Войти используя пароль",
         "unlock_short": "Войти",
+        "lock_short": "Log out",
         "help": "Помощь",
         "locked_tip": "<br/>Нажмите, чтобы войти.<br/><br/>Закрыв окно браузера, Вы также выйдете из аккаунта.",
         "unlocked_tip": "<br/>Нажмите, чтобы выйти.<br/><br/>Закрыв окно браузера, Вы также выйдете из аккаунта.",
@@ -86,7 +88,10 @@
         "disconnected": "Вы не подключены к узлу API, попробуйте перезагрузиться или задать новую точку доступа в Настройках",
         "market_fee": "Владелец %(asset)s назначил для ордеров на покупку рыночную комиссию в размере %(percent)s%%. Эта комиссия будет вычтена из суммы, полученной Вами при выполнении ордера, в момент же размещения ордера она не взимается.",
         "bridge_TRADE": "BlockTrades – это сервис моста, поддерживающий мгновенную торговлю активами. Все детали и условия можно найти на https://blocktrades.us",
-        "over_limit": "Мост не обладает достаточным количеством желаемого актива для данного ордера на покупку"
+        "over_limit": "Мост не обладает достаточным количеством желаемого актива для данного ордера на покупку",
+        "propose_tip": "Propose another user to initiate a transaction",
+        "follow_user": "You are following this user",
+        "follow_user_add": "Click to Follow this user"
     },
     "propose": "Предложить",
     "cancel": "Отменить",
@@ -120,6 +125,9 @@
         "deposit_withdraw": "Ввод/Вывод",
         "as_collateral": "Обеспечение",
         "open_orders": "Открытые ордера",
+        "filter_orders": "Filter",
+        "submit_orders": "Submit",
+        "reset_orders": "Reset",
         "total_value": "Общая стоимость",
         "show_hidden": "Скрытые",
         "hide_hidden": "Активные",
@@ -128,6 +136,7 @@
         "show_ignored": "Показать скрытые аккаунты",
         "hide_ignored": "Не отображать скрытые аккаунты",
         "accounts": "Аккаунты",
+        "contacts": "Contacts",
         "estimate_value": "Текущая стоимость аккаунта",
         "polo_scam": "Этот аккаунт не является реальным аккаунтом Poloniex, пожалуйста, отправьте на этот аккаунт: poloniexwallet.",
         "bittrex_scam": "Этот аккаунт не является реальным аккаунтом Bittrex, пожалуйста, отправьте на этот аккаунт: bittrex-deposit.",
@@ -153,7 +162,7 @@
             "explain": "Балансы вестинг-счетов включают в себя все вознаграждения, заработанные на партнерской программе или, например, в результате выплат работникам. У них есть определенный вестинг-период, в течение которого средства последовательно разблокируются вплоть до полной доступности всех балансов"
         },
         "member": {
-            "stats": "Членство",
+            "stats": "Membership stats",
             "join": "Присоединился",
             "registrar": "Регистратор",
             "referrer": "Аффилированный Реферал",
@@ -241,7 +250,11 @@
             "precision_warning": "Предупреждение: количество знаков после запятой не может быть изменено после создания",
             "visible": "Не отображать актив в поиске и в рынках",
             "cer_warning_1": "Предупреждение",
-            "cer_warning_2": "Убедитесь, что ваш основной обменный курс выше, чем рыночная цена, в противном случае люди будут покупать ваш токен на рынке и опустошат ваш пул комиссий путем арбитража. Основной обменный курс нужно регулярно обновлять, чтобы он отражал рыночную цену вашего актива."
+            "cer_warning_2": "Убедитесь, что ваш основной обменный курс выше, чем рыночная цена, в противном случае люди будут покупать ваш токен на рынке и опустошат ваш пул комиссий путем арбитража. Основной обменный курс нужно регулярно обновлять, чтобы он отражал рыночную цену вашего актива.",
+            "feed_producers": "Feed producers",
+            "add_feed": "Add new feed producer",
+            "feed_not_allowed_1": "Cannot set feed producers on a witness- or committee-fed asset",
+            "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers"
         },
         "connections": {
             "known": "Известен по",
@@ -252,7 +265,7 @@
             "owner": "Права доступа владельца",
             "memo_key": "Ключ примечания",
             "publish": "Сохранить",
-            "reset": "Отменить",
+            "reset": "Reset",
             "add": "Добавить разрешение",
             "type": "Тип",
             "key": "Ключ/Имя",
@@ -297,7 +310,7 @@
             "verifying": "Идет проверка, пожалуйста, подождите...",
             "invalidformat": "Невозможно определить формат подписанного сообщения",
             "invaliduser": "Аккаунт отправителя сообщения не соответствует требованиям",
-            "invalidsignature": "Содержание сообщения может быть сверено с подписью",
+            "invalidsignature": "The content of the message could not be validated against the signature",
             "errorverifying": "Произошла ошибка при проверке сообщения",
             "keymismatch": "Предоставленный публичный ключ отправителя не совпадает с ключом, хранящимся в аккаунте отправителя",
             "sign": "Подписать",
@@ -379,8 +392,8 @@
             "memo_key": "Ключ примечания"
         },
         "upgrade": "Улучшить аккаунт",
-        "unfollow": "Отписаться",
-        "follow": "Следовать",
+        "unfollow": "Remove contact",
+        "follow": "Add contact",
         "pay": "Отправить к",
         "deposit": "Внести депозит в BTS",
         "deposit_address": "Ваш адрес депозита – это имя Вашего аккаунта",
@@ -397,7 +410,8 @@
             "not_found": "Аккаунт %(name)s не существует, вы уверены, что ввели имя аккаунта правильно?",
             "invalid": "Неправильное имя аккаунта",
             "unknown": "Неизвестный аккаунт",
-            "not_yours": "Не Ваш аккаунт"
+            "not_yours": "Не Ваш аккаунт",
+            "memo_missing": "You do not have control of the memo key for this account. In order to use a memo, please set the account memo key to a key you control using the Permissions page."
         },
         "collaterals": "Обеспечение позиций",
         "eq_value": "Ориентировочная стоимость",
@@ -420,10 +434,11 @@
         "settle": "Запросить расчет",
         "no_orders": "Нет открытых ордеров",
         "asset_details": "Детали актива",
-        "portfolio": "Портфель",
+        "portfolio": "Portfolio",
         "activity": "Активность",
         "eq_value_header": "Стоимость ({asset})",
         "qty": "Кол-во",
+        "quote": "Quote",
         "total": "Всего ({asset})"
     },
     "pagination": {
@@ -432,25 +447,29 @@
     },
     "transfer": {
         "header": "Детали транзакции",
+        "header_subheader": "Transfers are used for sending funds to<br /> other BitShares Account Holders",
         "from": "От",
         "pay_from": "Оплатить с",
         "amount": "Количество",
         "to": "Кому",
         "memo": "Примечание",
-        "warn_name_unable_read_memo": "Предупреждение: %(name)s не сможет прочесть это примечание",
+        "warn_name_unable_read_memo": "Proposed sender will be unable to read this memo!",
         "fee": "Комиссия",
         "send": "Отправить",
         "final": "Итоговый баланс",
         "balances": "Балансы",
         "available": "Доступно",
         "errors": {
+            "noFunds": "No funds",
             "req": "Обязательно для заполнения",
             "pos": "Сумма должна быть положительной",
             "valid": "Пожалуйста, введите правильное, положительное число",
             "balance": "Окончательный баланс должен быть больше нуля",
             "insufficient": "Недостаточный баланс",
             "noFeeBalance": "Средств на Вашем балансе недостаточно для оплаты комиссии с использованием данного актива, пожалуйста, выберите другой актив для оплаты комиссии",
-            "noPoolBalance": "Средств на балансе пула комиссий этого актива недостаточно для оплаты комиссий. Пожалуйста, сообщите об этом владельцу актива или выберите другой актив для оплаты комиссий."
+            "noPoolBalance": "Средств на балансе пула комиссий этого актива недостаточно для оплаты комиссий. Пожалуйста, сообщите об этом владельцу актива или выберите другой актив для оплаты комиссий.",
+            "minimum_amount": "Minimum withdraw amount: %(amount)s %(symbol)s",
+            "memo_error": "The transfer memo parsing error, please try again later."
         },
         "back": "НАЗАД",
         "confirm": "ПОДТВЕРДИТЬ",
@@ -459,6 +478,7 @@
         "again": "СДЕЛАТЬ НОВЫЙ ПЕРЕВОД",
         "see": "ПОКАЗАТЬ МОИ ПЕРЕВОДЫ",
         "close": "Закрыть",
+        "cancel": "Cancel",
         "copy_address": "Скопировать адрес",
         "copy_memo": "Скопировать мемо",
         "memo_unlock": "Разблокируйте Ваш кошелек/аккаунт, чтобы увидеть это примечание",
@@ -678,7 +698,8 @@
     "explorer": {
         "accounts": {
             "title": "Аккаунты",
-            "filter": "Фильтровать аккаунты"
+            "filter": "Фильтровать аккаунты",
+            "filter_contacts": "Filter contacts"
         },
         "blocks": {
             "title": "Цепочка блоков",
@@ -868,8 +889,9 @@
         "no": "Нет",
         "walletLockTimeout": "Время автоблокировки кошелька (в секундах, 0 - для отключения)",
         "themes": "Тема",
-        "darkTheme": "Темная тема",
-        "lightTheme": "Светлая тема",
+        "darkTheme": "Dark",
+        "lightTheme": "Light",
+        "midnightTheme": "Midnight",
         "olDarkTheme": "Темная Openledger",
         "reset": "Сбросить настройки",
         "general": "Общие",
@@ -1089,6 +1111,7 @@
         "verify_prior_backup": "Проверьте перед резервным копированием",
         "brainkey_not_verified": "Этот Brainkey не проверен.",
         "cancel": "Отменить",
+        "back": "Back",
         "reset": "Сбросить",
         "done": "Готово",
         "verify": "Я записал это",
@@ -1212,7 +1235,8 @@
         "understand_2": "Я записал или еще как-либо сохранил свой пароль",
         "understand_3": " Я понимаю, что утрачу доступ к своим средствам, если потеряю свой пароль",
         "bts_rules": "Первое правило BitShares: не потеряйте свой пароль.<br/>Второе правило BitShares: не потеряйте свой пароль.<br />Третье правило BitShares: мы не можем восстановить Ваш пароль.<br />Четвертое правило: если Вы помните пароль наизусть, он небезопасен.<br />Пятое правило: используйте только рандомно сгенерированные пароли.<br />Шестое правило: никому не говорите свой пароль.<br />Седьмое правило: всегда храните копию своего пароля.",
-        "ok_done": "Ок, перейти на панель управления"
+        "ok_done": "Ок, перейти на панель управления",
+        "local_switch": "Local wallet detected matching the given password, switching to local wallet mode"
     },
     "borrow": {
         "title": "%(asset_symbol)s маржа",
@@ -1230,6 +1254,10 @@
         }
     },
     "modal": {
+        "send": {
+            "header": "Send from <span class=\"send-name\">%(fromName)s</span>",
+            "header_propose": "Propose Send from <span class=\"send-name\">%(fromName)s</span>"
+        },
         "issue": {
             "to": "Кому",
             "amount": "Сумма к отправке",
@@ -1321,6 +1349,7 @@
         "symbol": "Символ",
         "website": "Посетить веб-сайт",
         "deposit_to": "Пожалуйста, отправьте Ваши %(asset)s на адрес ниже",
+        "deposit_address": "Deposit address",
         "add_funds": "Быстро и легко добавляйте средства на Ваш аккаунт BitShares <strong>%(account)s</strong>. Эта услуга предоставляется Openledger.",
         "withdraw_funds": "Вы собираетесь вывести средства с Вашего аккаунта BitShares на Ваш внешний %(asset)s аккаунт.",
         "balance_asset": "Текущий баланс %(asset)s",
@@ -1380,9 +1409,55 @@
         "unavailable_RUDEX": "Шлюз RuDEX не работает или не отвечает",
         "unavailable_TRADE": "Шлюз Blocktrades не работает или не отвечает",
         "contact_TRADE": "Связаться с Blocktrades",
-        "over_limit": "Лимит исчерпан"
+        "over_limit": "Лимит исчерпан",
+        "agreement": {
+            "hint": "I have read and agreed to",
+            "name": "《Service Agreement》",
+            "register": "Agree",
+            "notice": "Please check the agreement to continue"
+        },
+        "deposit_warning": "Sending any other currency to the %(asset)s address will result in the loss of your deposit",
+        "time": "Time",
+        "info": "Info",
+        "status": "Status",
+        "asset_unavailable": "The gateway for %(asset)s is not in service",
+        "user_unavailable": "User informaction is current unavailable, please try again later",
+        "frozen": "The user account %(account)s was frozen",
+        "transaction_history_info": " %(amount)s %(assetName)s with trancation id: %(txid)s ",
+        "support_gdex": "For support, please contact GDEX",
+        "withdraw_history_status": {
+            "confirming": "confirming",
+            "auditing": "withdraw auditing",
+            "audited": "auditting completed",
+            "refused": "auditting failed",
+            "transfering": "transfering",
+            "success": "success",
+            "fail": "fail"
+        },
+        "deposit_history_status": {
+            "confirming": "deposit confirming",
+            "waiting": "waiting for deposit",
+            "transfering": "transfering",
+            "success": "success",
+            "fail": "fail"
+        }
     },
     "trx_error": {
         "expire": "Срок ожидания Вашей транзакции истек без подтверждения, пожалуйста, повторите попытку позже."
+    },
+    "migration": {
+        "title": "Notice",
+        "announcement_1": "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
+        "text_1": "Local wallet detected",
+        "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
+        "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
+    },
+    "news": {
+        "news": "News",
+        "author": "Author",
+        "subject": "Subject",
+        "errors": {
+            "fetch": "Ops... Something went wrong fetching the news"
+        }
     }
 }
