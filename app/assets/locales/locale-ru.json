@@ -1454,10 +1454,10 @@
     },
     "news": {
         "news": "News",
-        "author": "Author",
-        "subject": "Subject",
+        "author": "Автор",
+        "subject": "Заголовок",
         "errors": {
-            "fetch": "Ops... Something went wrong fetching the news"
+            "fetch": "Упс. Что-то пошло не так с получением новостей"
         }
     }
 }
