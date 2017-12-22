@@ -1453,7 +1453,7 @@
         "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
     },
     "news": {
-        "news": "News",
+        "news": "Новости",
         "author": "Автор",
         "subject": "Заголовок",
         "errors": {
