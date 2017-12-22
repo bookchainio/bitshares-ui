@@ -7,13 +7,13 @@
 - [Votación](voting.md)
 - [Cuentas](accounts/general.md)
 - [Proposed Transactions](accounts/proposed.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
+- [Permisos](accounts/permissions.md)
+- [Membresías](accounts/membership.md)
 - [Market Pegged Assets](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
-- [User Issued Assets](assets/uia.md)
+- [Activos Emitidos por Usuarios](assets/uia.md)
 - [Privatized BitAssets](assets/privbitassets.md)
 - [Decentralized Exchange](dex/introduction.md)
 - [Trading](dex/trading.md)
