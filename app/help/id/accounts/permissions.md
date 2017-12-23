@@ -1,8 +1,8 @@
-# Permissions
+# Hak akses
 
-In BitShares, each account is separated into
+Dalam BitShares, setiap akun dipisahkan menjadi
 
-* **Active Permission**: control over its funds and
+* **Izin Aktif**: kontrol atas dana dan
 * **Owner Permission**: control over the account.
 
 Both can be defined in the `Permissions` tab of your account using so called *authorities* (see below) together with a so called *threshold* that has to be exceeded in order for a transaction to be valid.
