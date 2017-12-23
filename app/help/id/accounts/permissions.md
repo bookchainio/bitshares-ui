@@ -81,6 +81,6 @@ Skema ini memungkinkan:
 * cEO menghabiskan dana
 * kepala Dinas Keuangan membelanjakan dana
 * Bendahara bersama Pengontrol mengeluarkan dana
-* Controller or Treasurer together with the Tax Manager and Accounting to spend funds.
+* Pengontrol atau Bendahara bersama dengan Tax Manager dan Akuntansi untuk menghabiskan dana.
 
-Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
+Oleh karena itu, mencoba kedalaman yang sewenang-wenang dapat direntang untuk membangun yang fleksibel wewenang untuk kebanyakan mencerminkan penggunaan bisnis.
