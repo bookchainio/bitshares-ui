@@ -3,25 +3,25 @@
 Dalam BitShares, setiap akun dipisahkan menjadi
 
 * **Izin Aktif**: kontrol atas dana dan
-* **Owner Permission**: control over the account.
+* **Izin Pemilik**: kontrol atas akun.
 
-Both can be defined in the `Permissions` tab of your account using so called *authorities* (see below) together with a so called *threshold* that has to be exceeded in order for a transaction to be valid.
+Keduanya dapat didefinisikan dalam tab `Permissions` akun Anda menggunakan disebut *otoritas* (Lihat di bawah) dengan disebut *ambang batas* yang melebihi batas dalam rangka untuk transaksi yang berlaku.
 
-## Authorities
+## Otoritas
 
-In BitShares an *authority* consists of one or many entities that authorize an action, such as transfers or trades.
+Dalam BitShares sebuah *authority* terdiri dari satu atau banyak entitas yang memberi otorisasi tindakan, seperti transfer atau perdagangan.
 
-An authority consists of one or several pairs of an account name with a *weight*.
+Otoritas terdiri dari satu atau beberapa pasang nama akun dengan *berat*.
 
-In order to obtain a valid transaction, the sum of the weights from signing the parties has to exceed the threshold as defined in the permissions.
+Untuk mendapatkan transaksi yang valid, jumlah bobot dari penandatanganan para pihak harus melebihi ambang batas sebagaimana didefinisikan dalam izin.
 
-# Examples
+# Contoh
 
-Let's discuss some examples to shed some light on the used terminology and the use-cases. We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
+Mari kita bahas beberapa contoh untuk memberi penjelasan tentang terminologi yang digunakan dan use case. Kami berasumsi bahwa akun baru dibuat dengan izin aktifnya ditetapkan seperti yang dijelaskan di bawah ini. Perhatikan bahwa skema yang sama juga berlaku bagi pemiliknya izin!
 
 ## (Flat) Multi-Signature
 
-A flat multi-signature scheme is composed of `M` entities of which `N` entities must sign in order for the transaction to be valid. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Still we can achieve the very same thing with even more flexibility as we will see now.
+Skema multi-tanda tangan datar terdiri dari entitas `M` entitas `N` harus masuk agar transaksi berlaku. Sekarang, di BitShares, kita punya *bobot* dan * ambang* daripada `M` dan `N`. Masih bisa kita capai Hal yang sama dengan fleksibilitas lebih seperti yang akan kita lihat sekarang.
 
 Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
