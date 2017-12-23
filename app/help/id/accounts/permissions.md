@@ -23,50 +23,50 @@ Mari kita bahas beberapa contoh untuk memberi penjelasan tentang terminologi yan
 
 Skema multi-tanda tangan datar terdiri dari entitas `M` entitas `N` harus masuk agar transaksi berlaku. Sekarang, di BitShares, kita punya *bobot* dan * ambang* daripada `M` dan `N`. Masih bisa kita capai Hal yang sama dengan fleksibilitas lebih seperti yang akan kita lihat sekarang.
 
-Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
+Mari kita asumsikan, Alice, Bob, Charlie dan Dennis punya dana bersama. Kami ingin menjadi mampu membangun transaksi yang valid jika hanya dua yang setuju. Oleh karena itu a Skema**2-of-4** (N-of-M) dapat terlihat seperti berikut:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| Alice         | 33%      |
-| Bob           | 33%      |
-| Charlie       | 33%      |
-| Dennis        | 33%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Akun           | Berat    |
+| -------------- | -------- |
+| Alice          | 33%      |
+| Bob            | 33%      |
+| Charlie        | 33%      |
+| Dennis         | 33%      |
+| \---\---\----  | \---\--- |
+| Batas minimum: | 51%      |
 
-All four participants have a weight of 33% but the threshold is set to 51%. Hence only two out of the four need to agree to validate the transaction.
+Keempat peserta tersebut memiliki bobot 33% namun ambang batasnya ditetapkan menjadi 51%. Makanya hanya dua dari empat kebutuhan untuk setuju memvalidasi transaksi.
 
-Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights to 17 or increase the threshold to 99%.
+Sebagai alternatif, untuk membangun skema 3-of-4, kita dapat menurunkan bobotnya untuk 17 atau meningkatkan ambang batas menjadi 99%.
 
 ## (Flat) Flexible Multi-Signature
 
-With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+Dengan ambang batas dan bobot, sekarang kita memiliki lebih banyak fleksibilitas atas dana kami, atau lebih tepatnya, kita memiliki lebih banyak*kontrol*. Misalnya, kita bisa terpisah bobot untuk orang yang berbeda. Mari asumsikan Alice ingin mengamankan dana di sini melawan pencurian dengan skema multi tanda tangan tapi dia juga tidak mau menyerahkannya banyak kontrol untuk teman-temannya. Oleh karena itu, kita menciptakan otoritas yang mirip dengan:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| Alice         | 49%      |
-| Bob           | 25%      |
-| Charlie       | 25%      |
-| Dennis        | 10%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Akun           | Berat    |
+| -------------- | -------- |
+| Alice          | 49%      |
+| Bob            | 25%      |
+| Charlie        | 25%      |
+| Dennis         | 10%      |
+| \---\---\----  | \---\--- |
+| Batas minimum: | 51%      |
 
-Now the funds can either be accessed by Alice and a single friend or by all three friends together.
+Sekarang dana bisa diakses oleh Alice dan satu teman atau oleh semua tiga teman bersama.
 
 ## Multi-Hierarchical Flexible Multi-Signature
 
-Let's take a look at a simple multi-hierarchical corporate account setup. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
+Mari kita lihat persiapan akun korporat multi-hierarki yang sederhana. Kita sedang melihat perusahaan yang memiliki Chief Financial Officer (CFO) dan beberapa departemen yang bekerja untuknya, seperti Bendahara, Controller, Tax Manager, Akuntansi, dll. Perusahaan juga memiliki CEO yang ingin memiliki belanja hak istimewa. Oleh karena itu kami membangun kewenangan untuk dana sesuai dengan:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| CEO.COMPANY   | 51%      |
-| CFO.COMPANY   | 51%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Akun           | Berat    |
+| -------------- | -------- |
+| CEO.COMPANY    | 51%      |
+| CFO.COMPANY    | 51%      |
+| \---\---\----  | \---\--- |
+| Batas minimum: | 51%      |
 
-whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, the CFO.COMPANY account could look like:
+sedangkan CEO.COMPANY dan CFO.COMPANY memiliki otoritas sendiri. Contohnya, akun CFO.COMPANY bisa terlihat seperti:
 
-| CFO.COMPANY               | Weight   |
+| CFO.COMPANY               | Berat    |
 | ------------------------- | -------- |
 | Chief.COMPANY             | 51%      |
 | Treasurer.COMPANY         | 33%      |
