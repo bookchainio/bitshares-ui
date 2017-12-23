@@ -74,13 +74,13 @@ sedangkan CEO.COMPANY dan CFO.COMPANY memiliki otoritas sendiri. Contohnya, akun
 | Tax Manager.COMPANY       | 10%      |
 | Accounting.COMPANY        | 10%      |
 | \---\---\---\---\---\---- | \---\--- |
-| Threshold:                | 51%      |
+| Batas minimum:            | 51%      |
 
-This scheme allows:
+Skema ini memungkinkan:
 
-* the CEO to spend funds
-* the Chief of Finance Officer to spend funds
-* Treasurer together with Controller to spend funds
+* cEO menghabiskan dana
+* kepala Dinas Keuangan membelanjakan dana
+* Bendahara bersama Pengontrol mengeluarkan dana
 * Controller or Treasurer together with the Tax Manager and Accounting to spend funds.
 
 Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
