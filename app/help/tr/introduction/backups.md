@@ -1,9 +1,8 @@
 # Yedeklemeler
 
-It is recommended to make regular backups of your wallet even though in most cases a single backup may be sufficient. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Hence, if you either lose your wallet or your pass phrase you will be unable to access any of your funds again!
+Çoğu durumda tek bir yedeklemenin yeterli olmasına rağmen cüzdanınızı düzenli olarak yedeklemeniz önerilir. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Dolayısıyla, ya cüzdanınızı ya da şifrenizi kaybederseniz, bir daha fonlarınıza erişemezsiniz!
 
-Backups can be obtain from the Wallet Management Console (`Settings ->
-Wallets`).
+Yedeklemeler, Cüzdan Yönetim Konsolundan edinilebilir(` Ayarlar> Cüzdanlar `).
 
 ## Wallet Exports
 
