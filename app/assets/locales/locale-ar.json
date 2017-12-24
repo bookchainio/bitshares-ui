@@ -4,7 +4,7 @@
             "date": {
                 "short_custom": "%e %b '%y",
                 "market_history": "%H:%M:%S %e/%m",
-                "market_history_us": "%m/%e %H:%M:%S"
+                "market_history_us": "%H:%M:%S %e/%m"
             }
         }
     },
@@ -25,7 +25,7 @@
     },
     "sync_fail": {
         "title": "فشل المزامنة مع ملقم ال API",
-        "sub_text_1": "Please verify that your computer clock is correct.",
+        "sub_text_1": "الرجاء التحقق من أن ساعة جهاز الكمبيوتر الخاص بك مضبوطة بشكل صحيح.",
         "sub_text_2": "Once you've synchronized your clock, please refresh this page.<br/><br/>If your clock is already correct, the API server you're using could be out of sync. In that case, please try a different server from the list below."
     },
     "header": {
@@ -78,11 +78,11 @@
         "transfer_actions": "Click here to make a transfer, or to deposit/withdraw those assets that support it.",
         "deposit_tip": "To complete the deposit, go to your external %(asset)s wallet and make a transfer to the address listed on this page. You will receive the deposit as soon as it has been confirmed. If a memo is shown , it is essential that you include this memo in your transfer.",
         "copy_tip": "Click here to copy the text to your clipboard",
-        "withdraw_full": "Click to withdraw the full balance",
+        "withdraw_full": "انقر لسحب الرصيد بالكامل",
         "withdraw_address": "If you don't already have a %(asset)s address, please find a wallet provider and create one in order to complete the withdrawal.",
         "memo_tip": "You may include any message in the memo field. Memos are optional but generally required for transfers to exchanges.",
         "generate": "The generated password was created by your browser, locally. <br /><br /><strong>No one but you has access to it</strong>.<br /><br /> Paste it below and save a copy in a safe place",
-        "copy_password": "Click here to copy the password to your clipboard",
+        "copy_password": "انقر هنا لنسخ كلمة مرور للحافظة الخاصة بك",
         "sync_yes": "The current node is in sync with the blockchain",
         "sync_no": "The current node is out of sync with the blockchain, try switching to another one",
         "disconnected": "You are not connected to an API node, try reloading or setting a new access point in the Settings",
