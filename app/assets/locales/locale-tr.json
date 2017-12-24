@@ -4,7 +4,7 @@
             "date": {
                 "short_custom": "%e %b '%y",
                 "market_history": "%e/%m %H:%M:%S",
-                "market_history_us": "%m/%e %H:%M:%S"
+                "market_history_us": "%e/%m %H:%M:%S"
             }
         }
     },
@@ -21,7 +21,7 @@
     },
     "incognito": {
         "no_support": "This BitShares Wallet relies on Local Storage and IndexedDB which are not persistent when using Incognito Browsing. We recommend using a regular browsing session.",
-        "ignore": "I understand, continue."
+        "ignore": "Anladım, devam."
     },
     "sync_fail": {
         "title": "API sunucusu bağlantısı yok.",
@@ -35,7 +35,7 @@
         "explorer": "İncele",
         "exchange": "Takas",
         "payments": "Gönder",
-        "payments_beta": "Send (Beta)",
+        "payments_beta": "Gönder (Beta)",
         "logout": "Çıkış",
         "settings": "Ayarlar",
         "current": "Kullanılan Hesap",
@@ -46,7 +46,7 @@
         "unlock": "Kilidi Aç",
         "unlock_password": "Giriş yap",
         "unlock_short": "Giriş",
-        "lock_short": "Log out",
+        "lock_short": "Oturumu Kapat",
         "help": "Yardım",
         "locked_tip": "Cüzdan kilitli.<br/>Açmak için tıkla.",
         "unlocked_tip": "Cüzdan kilidi açık .<br/>Kilitlemek için tıkla.",
@@ -82,7 +82,7 @@
         "withdraw_address": "If you don't already have a %(asset)s address, please find a wallet provider and create one in order to complete the withdrawal.",
         "memo_tip": "You may include any message in the memo field. Memos are optional but generally required for transfers to exchanges.",
         "generate": "The generated password was created by your browser, locally. <br /><br /><strong>No one but you has access to it</strong>.<br /><br /> Paste it below and save a copy in a safe place",
-        "copy_password": "Click here to copy the password to your clipboard",
+        "copy_password": "Şifreyi panonuza kopyalamak için buraya tıklayın",
         "sync_yes": "The current node is in sync with the blockchain",
         "sync_no": "The current node is out of sync with the blockchain, try switching to another one",
         "disconnected": "You are not connected to an API node, try reloading or setting a new access point in the Settings",
@@ -90,16 +90,16 @@
         "bridge_TRADE": "BlockTrades is a bridge which supports instant trade of assets. Details and terms can be found on https://blocktrades.us",
         "over_limit": "The bridge does not have enough of the desired asset for this buy order",
         "propose_tip": "Propose another user to initiate a transaction",
-        "follow_user": "You are following this user",
-        "follow_user_add": "Click to Follow this user"
+        "follow_user": "Bu kullanıcıyı takip ediyorsun",
+        "follow_user_add": "Bu kullanıcıyı takip etmek için tıklayın"
     },
     "propose": "Teklif Et",
     "cancel": "İptal",
     "account": {
-        "new_user": "New user?",
-        "existing_user": "Existing user",
+        "new_user": "Yeni kullanıcı?",
+        "existing_user": "Mevcut kullanıcı",
         "restore": "Restore",
-        "advanced": "Advanced",
+        "advanced": "Gelişmiş",
         "intro_text_title": "Bitshares'e Hoş Geldiniz",
         "intro_text_1": "<b>Bitshares Merkezsiz Kriptopara Borsası</b> (BMKB) kripto para al-sat deneyiminizi kökten değiştirecek, yeni nesil bir borsa platformudur.",
         "intro_text_2": "<b>Bitshares</b>'de al-sat işlemleri herhangi bir aracı olmaksızın, doğrudan kullanıcıların kendi arasında gerçekleşir.",
@@ -126,8 +126,8 @@
         "as_collateral": "Teminat",
         "open_orders": "Açık Emirler",
         "filter_orders": "Filter",
-        "submit_orders": "Submit",
-        "reset_orders": "Reset",
+        "submit_orders": "Gönder",
+        "reset_orders": "Sıfırla",
         "total_value": "Toplam değeri",
         "show_hidden": "Göster",
         "hide_hidden": "Gizle",
@@ -249,7 +249,7 @@
             "market": "Tercih edilen piyasa çifti",
             "precision_warning": "Uyarı: Oluşturduktan sonra ondalık hane sayısı değiştirilemeyebilir.",
             "visible": "Hide asset from search and markets",
-            "cer_warning_1": "Warning",
+            "cer_warning_1": "Uyarı",
             "cer_warning_2": "Make sure your core exchange rate is higher than the market price, otherwise people will buy your token from the market and drain your fee pool via implicit arbitrage. The core exchange rate should be updated regularly to reflect market pricing of your asset.",
             "feed_producers": "Feed producers",
             "add_feed": "Add new feed producer",
@@ -305,7 +305,7 @@
             "invalidkey": "Private key could not be obtained, is the public key valid?",
             "title": "Signed Messages",
             "signmessage": "Sign Message",
-            "verifymessage": "Verify Message",
+            "verifymessage": "Mesajı Doğrulayın",
             "signing": "Signing, please wait ...",
             "verifying": "Verifying, please wait ...",
             "invalidformat": "Signed message format can't be recognized",
@@ -434,8 +434,8 @@
         "settle": "Öde",
         "no_orders": "Açık emir yok",
         "asset_details": "Aktif detayları",
-        "portfolio": "Portfolio",
-        "activity": "Activity",
+        "portfolio": "Portföy",
+        "activity": "Aktivite",
         "eq_value_header": "Value ({asset})",
         "qty": "Qty",
         "quote": "Quote",
@@ -478,9 +478,9 @@
         "again": "BAŞKA BİR TRANSFER GERÇEKLEŞTİR",
         "see": "TRANSFER İŞLEMLERİMİ GÖR",
         "close": "Kapat",
-        "cancel": "Cancel",
-        "copy_address": "Copy Address",
-        "copy_memo": "Copy Memo",
+        "cancel": "İptal",
+        "copy_address": "Adresi kopyala",
+        "copy_memo": "Memoyu kopyala",
         "memo_unlock": "Açıklamayı görmek için cüzdan kilidini açın.",
         "optional": "Tercihe bağlı"
     },
@@ -759,7 +759,7 @@
             "id": "ID",
             "issuer": "İhraç Eden",
             "precision": "Ondalık Sayısı",
-            "units": "Units"
+            "units": "Birimler"
         },
         "asset": {
             "title": "Aktif",
@@ -938,7 +938,7 @@
         "available_nodes": "Available Nodes",
         "add_api": "API ekle",
         "remove_api": "API kaldır",
-        "remove": "Remove",
+        "remove": "Kaldır",
         "activate": "Activate",
         "confirm_remove": "Are you sure you want to remove %(name)s from your available nodes?",
         "valid_node_url": "Node URL must begin with ws:// or wss://",
@@ -959,7 +959,7 @@
         "synced": "Synced",
         "unsynced": "Out of sync",
         "disconnected": "Disconnected",
-        "connected": "Connected",
+        "connected": "Bağlandı",
         "latency": "Latency"
     },
     "exchange": {
