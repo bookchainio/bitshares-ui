@@ -156,22 +156,22 @@
             "blacklist_authorities": "Blacklist authority"
         },
         "vesting": {
-            "title": "Vesting balances",
-            "balance_number": "Balance #%(id)s",
-            "no_balances": "This account has no vesting balances",
+            "title": "الأرصدة المودعة",
+            "balance_number": "رصيد #%(id)s",
+            "no_balances": "هذا الحساب ليس لديه أية أرصدة مودعة",
             "explain": "Vesting balances contain any fees earned through the referral program or from worker pay, for example. They have a certain vesting period and are continually unlocked during that vesting period until all of the balances are available"
         },
         "member": {
             "stats": "Membership stats",
-            "join": "Joined on",
-            "registrar": "Registrar",
+            "join": "انضم في",
+            "registrar": "المسجل",
             "referrer": "Affiliate Referrer",
             "lifetime_referrer": "Lifetime Referrer",
             "network_percentage": "Network",
             "fee_allocation": "Fee Allocation",
             "membership": "Membership",
             "fees_paid": "Total fees paid",
-            "referrals": "Referrals",
+            "referrals": "الإحالات",
             "rewards": "Cashback Rewards",
             "cashback": "Vesting balance amount",
             "vested": "Vested",
@@ -190,7 +190,7 @@
             "remaining": "Days left of vesting period",
             "claim": "Claim now",
             "available": "Available to claim",
-            "referral_link": "Your referral link",
+            "referral_link": "رابط الإحالة الخاص بك",
             "referral_text": "إعطي هذا الرابط للناس الذين تريد أن توجههم إلى BitShares"
         },
         "user_issued_assets": {
@@ -1319,8 +1319,8 @@
     "refcode": {
         "claim": "Claim",
         "claim_refcode": "Claim Referral Code",
-        "refcode_optional": "Referral Code (optional)",
-        "enter_refcode": "Enter referral code"
+        "refcode_optional": "رمز الإحالة (اختياري)",
+        "enter_refcode": "أدخل رمز الإحالة"
     },
     "proposal_create": {
         "review_period": "Review period begin",
