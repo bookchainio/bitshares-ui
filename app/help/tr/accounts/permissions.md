@@ -55,7 +55,7 @@ Now the funds can either be accessed by Alice and a single friend or by all thre
 
 ## Multi-Hierarchical Flexible Multi-Signature
 
-Let's take a look at a simple multi-hierarchical corporate account setup. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
+Şimdi basit çok hiyerarşik kurumsal hesap ayarlarına göz atalım. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
 
 | Account       | Weight   |
 | ------------- | -------- |
