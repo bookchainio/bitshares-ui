@@ -1,4 +1,4 @@
-# Backups
+# Yedeklemeler
 
 It is recommended to make regular backups of your wallet even though in most cases a single backup may be sufficient. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Hence, if you either lose your wallet or your pass phrase you will be unable to access any of your funds again!
 
@@ -9,7 +9,7 @@ Wallets`).
 
 The most convenient way to create a new backup is by exporting the wallet with the provided link in the Wallet Management Console. Please store your backups safe from loss, theft, and natural catastrophes
 
-## Brainkey (advanced users ONLY)
+## Brainkey (SADECE ileri düzey kullanıcılar)
 
 If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
 
