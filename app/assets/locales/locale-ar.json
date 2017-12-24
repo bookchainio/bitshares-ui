@@ -73,7 +73,7 @@
         "cr_warning": "This position has a low level of collateral, and will get margin called if the collateral ratio drops below %(mr)s. Consider adding collateral or closing the position.",
         "propose_scam": "This proposal was created by a known scammer, do not approve it!",
         "login": "This BitShares wallet does not offer a traditional login but instead simply locks or unlocks a wallet that is <b>only</b> stored locally in your browser.<br/><br/>Whenever you close the wallet it will be locked and you will effectively be logged out.",
-        "buy_min": "You will receive at minimum this amount. If there are matching orders with a cheaper price than you specified, you will receive more than this amount.",
+        "buy_min": "سوف تتلقى على الأقل هذا المبلغ. إذا كانت هناك أوامر مطابقة بسعر أرخص مما حددت، سوف تتلقى مبلغ أكثر من هذا.",
         "borrow": "Borrow %(asset)s from the network. This creates a smart contract that locks your collateral until you either modify the position or a margin call is required.",
         "transfer_actions": "Click here to make a transfer, or to deposit/withdraw those assets that support it.",
         "deposit_tip": "To complete the deposit, go to your external %(asset)s wallet and make a transfer to the address listed on this page. You will receive the deposit as soon as it has been confirmed. If a memo is shown , it is essential that you include this memo in your transfer.",
@@ -91,7 +91,7 @@
         "over_limit": "The bridge does not have enough of the desired asset for this buy order",
         "propose_tip": "Propose another user to initiate a transaction",
         "follow_user": "أنت الآن تتبع هذا المستخدم",
-        "follow_user_add": "Click to Follow this user"
+        "follow_user_add": "أنقر هنا لمتابعة هذا المستخدم"
     },
     "propose": "Propose",
     "cancel": "إلغاء",
