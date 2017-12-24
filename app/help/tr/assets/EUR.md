@@ -1,6 +1,6 @@
 [# summary]
 
-### Asset {symbol}
+### Varlık {symbol}
 
 {description}
 
