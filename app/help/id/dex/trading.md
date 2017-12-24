@@ -1,4 +1,4 @@
-# Trading
+# Perdagangan
 
 This page will give a very quick introduction on how to interpret the terms used by the DEX and how trading pairs are presented.
 
