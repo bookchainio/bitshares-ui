@@ -43,7 +43,7 @@
         "create_asset": "إنشاء أصل",
         "update_asset": "تحديث الأصل",
         "lock": "تسجيل الخروج (أقفل المحفظة المحلية)",
-        "unlock": "Local Wallet Login",
+        "unlock": "تسجيل الدخول إلى المحفظة المحلية",
         "unlock_password": "Cloud Wallet Login",
         "unlock_short": "Login",
         "lock_short": "Log out",
