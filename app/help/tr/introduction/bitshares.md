@@ -1,6 +1,6 @@
 # BitShares
 
-## Support
+## Destek
 
 > If you have an issue related to a Gateway provider, please be sure to contact them directly. See Gateways in the left menu.
 
