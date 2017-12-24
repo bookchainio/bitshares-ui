@@ -1,11 +1,11 @@
-# CryptoBridge Gateway Service
+# Layanan Gateway Crypto Gateway
 
-CryptoBridge is a gateway service built on the Bitshares Exchange. A gateway service is responsible for moving cryptocurrencies to and from the Bitshares Exchange. They support a wide range of popular assets. You can easily identify those supported by CryptoBridge because they are prefixed with the word BRIDGE.*. For example BRIDGE.BTC, BRIDGE.LTC etc.
+CryptoBridge adalah layanan gateway yang dibangun di Bitshares Exchange. Layanan gateway bertanggung jawab untuk memindahkan dari kripto ke Bitshares Exchange. Mereka mendukung berbagai aset populer. Anda dapat dengan mudah mengidentifikasi yang didukung oleh CryptoBridge karena sudah diawali dengan kata BRIDGE. *. Misalnya BRIDGE.BTC, BRIDGE.LTC dll.
 
-## Website
+## Situs web
 
 <https://crypto-bridge.org>
 
-## Support
+## Dukungan
 
-CryptoBridge is still finalizing their gateway service and is not yet fully operational to the general public.
+Jembatan Crypto masih menyelesaikan layanan gateway mereka dan belum beroperasi penuh untuk masyarakat umum.
