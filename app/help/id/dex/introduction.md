@@ -1,22 +1,22 @@
-# Decentralized Exchange
+# Pasar Saham yang Terdesentralisasi
 
-The decentralized exchange (further denoted simply as *the DEX*) allows for direct exchange of digital goods traded in the BitShares ecosystem.
+Pertukaran terdesentralisasi (selanjutnya dilambangkan hanya dengan *DEX*) memungkinkannya pertukaran langsung barang digital yang diperdagangkan di ekosistem BitShares.
 
-A decentralized exchange has a very particular set of advantages over traditional centralized exchanges and we would like to address some of them briefly below. Although the BitShares DEX comes with all of them, it is up to the reader and customer to leverage those features in full or only partially.
+Pertukaran yang terdesentralisasi memiliki keuntungan yang sangat spesifik pertukaran terpusat tradisional dan kami ingin menangani beberapa dari mereka sebentar di bawah. Meskipun BitShares DEX hadir dengan semuanya, itu terserah pembaca dan pelanggan untuk memanfaatkan fitur tersebut secara penuh atau hanya sebagian.
 
-* **Separation of Powers**: There is no reason why the same entity needs to be responsible for issuing IOUs and for processing the order book. In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
+* **Pemisahan Kekuasaan**: Tidak ada alasan mengapa entitas yang sama harus bertanggung jawab menerbitkan IOUs dan untuk memproses pesanan buku. Dalam BitShares, urutkan pesanan dilakukan oleh protokol, yang tidak mengetahui implikasi mengenai aset yang terlibat.
 
-* **Global Unified Order Book**: Since BitShares is global, anybody with an internet access can use the DEX for trading. This brings the world's liquidity to a single order book for decentralized trading.
+* **Buku Pesanan Unified Global**: Karena BitShares bersifat global, siapapun yang memiliki akses internet bisa menggunakan DEX untuk perdagangan. Ini membawa likuiditas dunia ke dalam satu buku pesanan tunggal perdagangan terdesentralisasi.
 
-* **Trade Almost Anything**: The BitShares DEX is asset agnostic. Hence you can trade at **any** pair. While some pairs may end up with low liquidity, such as SILVER:GOLD, other pairs such as USD:EUR for FOREX trading will see huge volume.
+* **Perdagangan Hampir Sesuatu**: BitShares DEX adalah aset agnostik. Oleh karena itu Anda dapat melakukan trading pada pasangan **any**. Sementara beberapa pasang mungkin berakhir dengan likuiditas rendah, seperti SILVER: EMAS, lainnya Pasangan seperti USD: EUR untuk perdagangan FOREX akan melihat volume yang besar.
 
-* **No Limits**: The BitShares protocol is unable to limit your trading experience.
+* **Tidak ada Batas**: Protokol BitShares tidak dapat membatasi pengalaman trading Anda.
 
-* **Decentralized**: The DEX is decentralized across the globe. This not only means that there is no single point of failure, but it also implies that the BitShares exchange is open for trading 24/7 because it's always daytime somewhere.
+* **Terdesentralisasi**: DEX didesentralisasikan ke seluruh dunia. Ini tidak hanya berarti tidak ada satu titik kegagalan, tapi juga menyiratkan bahwa pertukaran BitShares adalah terbuka untuk trading 24/7 karena selalu pada siang hari di suatu tempat.
 
-* **Secure**: Your funds and trades are secured with industry-grade elliptic curve cryptography. No one will be able to access your funds unless you let them. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
+* **Amankan**: Dana dan perdagangan Anda dijamin dengan kurva eliptik kelas industri kriptografi. Tidak ada yang bisa mengakses dana Anda kecuali Anda membiarkannya. Untuk lebih memperkuat keamanan, kami mengizinkan pelanggan kami untuk menyusun skema escrow dan multi-signature.
 
-* **Fast**: In contrast to other decentralized networks, the BitShares DEX allows for real-time trading and is only limited by the speed of light and the size of the planet.
+* **Cepat**: Berbeda dengan jaringan desentralisasi lainnya, BitShares DEX memungkinkan untuk real-time trading dan hanya dibatasi oleh kecepatan cahaya dan ukuran planet.
 
 * **Provable Order Matching Algorithm**: What makes the BitShares DEX unique is the provable order matching algorithm. Given a set of orders, you will always be able to provably verify that these orders have been matched properly.
 
