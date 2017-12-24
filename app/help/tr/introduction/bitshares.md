@@ -1,19 +1,19 @@
-# BitShares
+# Bitshares
 
 ## Destek
 
-> If you have an issue related to a Gateway provider, please be sure to contact them directly. See Gateways in the left menu.
+> Bir Ağ Geçidi sağlayıcısı ile ilgili bir sorununuz varsa, lütfen doğrudan bunlarla iletişime geçmeyi unutmayın. Sol menüdeki Ağ Geçitleri'ne bakın.
 
-### Bitshares Chat
+### Bitshares sohbet
 
-You can chat with other member of the Bitshares community in real time at:
+Bitshares topluluğunun diğer üyeleriyle gerçek zamanlı olarak sohbet edebilirsiniz:
 
 - [Telegram](https://t.me/BitSharesDEX)
 - [Discord](https://discord.gg/GsjQfAJ)
 
-### Developers
+### Geliştiriciler
 
-If you are a sofware developer, you may contribute via a bounty system at:
+Bir yazılım geliştiricisiyseniz, şu adresten bir ödül sistemine katkıda bulunabilirsiniz:
 
 - [Github UI](https://github.com/bitshares/bitshares-ui)
 - [Github Core](https://github.com/bitshares/bitshares-core) 
