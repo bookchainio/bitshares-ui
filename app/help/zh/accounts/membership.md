@@ -1,14 +1,14 @@
-# Memberships
+# 会员
 
-Accounts in BitShares are separated into three groups. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
+BitShares中的帐户分成三组。 我们决定给用户选择以升级到类似VIP的账户，如果他们的愿望并且能够从降低的费用和更多的功能里受益。
 
-## Non-Members
+## 非会员
 
-A *regular* account is a *non-member*.
+*普通*帐户是*非会员*。
 
-## Lifetime Members
+## 终生会员
 
-Lifetime Members get a percentage cashback on every transaction fee they pay and qualify to earn referral income from users they register with or referer to the network. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+生存期成员在他们付的每笔交易费用中获得一个百分比返还，并有资格从他们介绍注册的用户那里获得介绍费。 A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
 
 ## Anual Members
 
