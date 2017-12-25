@@ -43,15 +43,15 @@
         "create_asset": "Create Asset",
         "update_asset": "Update Asset",
         "lock": "Log out (lock the local wallet)",
-        "unlock": "Local Wallet Login",
+        "unlock": "Masuk Ke Dompet Lokal",
         "unlock_password": "Cloud Wallet Login",
         "unlock_short": "Login",
-        "lock_short": "Log out",
-        "help": "Help",
+        "lock_short": "Keluar",
+        "help": "Bantuan",
         "locked_tip": "<br/>Click to login.<br/><br/>Closing the browser window will also log you out.",
         "unlocked_tip": "<br/>Click to log out.<br/><br/>Closing the browser window will also log you out.",
-        "account_notify": "The active account is now %(account)s",
-        "account_value": "Account value"
+        "account_notify": "Akun aktif sekarang adalah %(akun)s",
+        "account_value": "Nilai Akun"
     },
     "tooltip": {
         "call_limit": "This is the call price of the least collateralized margin position in the market.",
