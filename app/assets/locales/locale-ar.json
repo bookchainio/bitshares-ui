@@ -166,7 +166,7 @@
             "join": "انضم في",
             "registrar": "المسجل",
             "referrer": "Affiliate Referrer",
-            "lifetime_referrer": "Lifetime Referrer",
+            "lifetime_referrer": "الإحالات الدائمة",
             "network_percentage": "Network",
             "fee_allocation": "Fee Allocation",
             "membership": "Membership",
@@ -871,7 +871,7 @@
         "cloud_login": "Cloud Wallet Login",
         "local_wallet": "Local Wallet Login",
         "inverseMarket": "Market orientation preference",
-        "unit": "Preferred unit of account",
+        "unit": "وحدة الحساب المفضلة",
         "confirmMarketOrder": "Ask for confirmation of market orders",
         "locale": "Switch language",
         "confirm_yes": "Always",
@@ -1070,7 +1070,7 @@
         "core_rate": "Core rate",
         "supply": "Supply",
         "search": "Search",
-        "preferred": "My Favorite Markets"
+        "preferred": "الأسواق المفضلة لدي"
     },
     "wallet": {
         "title": "Wallet",
@@ -1318,7 +1318,7 @@
     },
     "refcode": {
         "claim": "Claim",
-        "claim_refcode": "Claim Referral Code",
+        "claim_refcode": "المطالبة برمز الإحالة",
         "refcode_optional": "رمز الإحالة (اختياري)",
         "enter_refcode": "أدخل رمز الإحالة"
     },
@@ -1450,7 +1450,7 @@
         "announcement_1": "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
         "text_1": "Local wallet detected",
         "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
-        "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
+        "text_3": "الرجاء استخدام <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'> https://wallet.bitshares.org</a> من الآن فصاعدا، سوف تمكنك بيانات الاعتماد الحالية الخاصة بك تسجيل الدخول من هناك كذلك."
     },
     "news": {
         "news": "News",
