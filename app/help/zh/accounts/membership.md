@@ -22,8 +22,8 @@ BitShares中的帐户分成三组。 我们决定给用户选择以升级到类�
 
 ### 未决费用
 
-Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
+在每个维护时间间隔内，支付的费用只分配给网络，推荐者，和注册服务者商。
 
-### Vesting Fees
+### 归属费
 
-Most fees are made available immediately, but fees over the vesting threshold (such as those paid to upgrade your membership or register a premium account name) must vest for some days as defined by the committee.
+大多数费用是立即可用，但是超过归属上限（比如您升级账户或者注册高级帐户所付的费用）的费用必须按委员会规定的天数归属。
