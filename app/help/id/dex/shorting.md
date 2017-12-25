@@ -4,17 +4,17 @@ Untuk meningkatkan eksposur Anda terhadap BTS dan menawarkan likuiditas kepada B
 
 ## Peminjaman
 
-The BitShares network is capable of issuing any amount of any BitAsset and lend it out to participants given enough collateral.
+Jaringan BitShares mampu mengeluarkan sejumlah BitAsset dan pinjaman apapun Bagi peserta diberi cukup jaminan.
 
-- *settlement price*: The price for 1 BTS as it is traded on external exchanges.
-- *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
-- *maximum short squeeze ratio* (MSQR): A ratio defined by the witnesses as to how far shorts are protected against short squeezes
-- *short squeeze protection* (SQP): Defines the most that a margin position will ever be forced to pay to cover 
-- *call price* (CP): The price at which short/borrow positions are margin called
+- *harga penyelesaian*: Harga untuk 1 BTS seperti yang diperdagangkan di bursa eksternal.
+- *rasio jaminan perawatan* (MCR): Rasio yang ditentukan oleh saksi sebagai rasio jaminan minimum yang dipersyaratkan
+- *rasio pemerasan pendek maksimum* (MSQR): Rasio yang ditentukan oleh para saksi mengenai sejauh mana celana pendek terlindungi dari tekanan pendek
+- *proteksi jepret pendek* (SQP): Mendefinisikan yang paling bahwa posisi margin akan dipaksa untuk membayar untuk menutupi 
+- *harga panggilan* (CP): Harga di mana posisi short / borrow disebut margin
 
 ### Margin Call
 
-The BitShares network is capable of margin calling those positions that do not have enough collateral to back their borrowed bitAssets. A margin call will occur any time the highest bid is less than the *call price* and greater than *SQP*. The margin position will be forced to sell its collateral anytime the highest offer to buy the collateral is less than the call price (x/BTS).
+Jaringan BitShares mampu memberi margin pada posisi yang tidak memiliki cukup jaminan untuk mendukung bitAssets pinjaman mereka. A margin call will occur any time the highest bid is less than the *call price* and greater than *SQP*. The margin position will be forced to sell its collateral anytime the highest offer to buy the collateral is less than the call price (x/BTS).
 
     SQP = settlement price / MSQR
     call price = DEBT / COLLATERAL * MCR
