@@ -8,19 +8,19 @@ BitShares中的帐户分成三组。 我们决定给用户选择以升级到类�
 
 ## 终生会员
 
-生存期成员在他们付的每笔交易费用中获得一个百分比返还，并有资格从他们介绍注册的用户那里获得介绍费。 A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+生存期成员在他们付的每笔交易费用中获得一个百分比返还，并有资格从他们介绍注册的用户那里获得介绍费。 终身会员资格的一次性费用由委员会决定。
 
-## Anual Members
+## 年度成员
 
-If a lifetime membership is too much you can still get the same cashback for the next year by becoming an annual subscriber for a smaller one-time fee which lasts for only one year.
+如果您认为终身会员投资太多，您可以通过交纳较少的一次性费用等为一年的会员在下一年得到现金返还。
 
-### Fee Division
+### 费用分配
 
-Every time an account you referred pays a transaction fee, that fee is divided among several different accounts. The network takes a cut, and the Lifetime Member who referred the account gets a cut.
+每次你推荐的账户支付交易费时，这个费用将会分配到多个账户。网络提成一部分，推荐这个账户的终身会员提成一部分。
 
-The registrar is the account that paid the transaction fee to register the account with the network. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
+注册服务者是指收取以在网络上注册帐户的那个账户。 注册服务者可以决定如何在自己和自己的子公司之间分配剩余费用。
 
-### Pending Fees
+### 未决费用
 
 Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
 
