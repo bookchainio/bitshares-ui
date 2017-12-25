@@ -14,19 +14,19 @@ Jaringan BitShares mampu mengeluarkan sejumlah BitAsset dan pinjaman apapun Bagi
 
 ### Margin Call
 
-Jaringan BitShares mampu memberi margin pada posisi yang tidak memiliki cukup jaminan untuk mendukung bitAssets pinjaman mereka. A margin call will occur any time the highest bid is less than the *call price* and greater than *SQP*. The margin position will be forced to sell its collateral anytime the highest offer to buy the collateral is less than the call price (x/BTS).
+Jaringan BitShares mampu memberi margin pada posisi yang tidak memiliki cukup jaminan untuk mendukung bitAssets pinjaman mereka. Sebuah margin call akan terjadi kapan pun tawaran tertinggi kurang dari harga panggilan * * dan lebih besar dari * SQP *. Posisi margin akan dipaksa untuk menjual agunannya kapanpun yang tertinggi Penawaran untuk membeli agunan kurang dari harga panggilan (x / BTS).
 
-    SQP = settlement price / MSQR
+    SQP = harga penyelesaian / MSQR
     call price = DEBT / COLLATERAL * MCR
     
 
-The margin call will take the collateral, buy shares of borrowed bitAsset at market rates up to the SQP and close the position. The remaining BTS of the collateral are returned to the customer.
+Margin call akan mengambil agunan, membeli saham bitAsset yang dipinjam di harga pasar sampai ke SQP dan tutup posisinya. Sisa BTS dari agunan dikembalikan ke pelanggan.
 
-### Settlement
+### Penyelesaian
 
-Holders of any bitAsset can request a settlement at a *fair price* at any time. The settlement closes the borrow/short positions with lowest collateral ratio and sells the collateral for the settlement.
+Pemegang bitAsset manapun dapat meminta penyelesaian pada harga *yang wajar* kapan saja. Penyelesaian menutup posisi pinjam / short dengan rasio agunan terendah dan menjual agunan untuk penyelesaian.
 
-## Selling
+## Penjualan
 
 After borrowing bitAssets, they can be sold free at any of the corresponding markets at any price a buyer is willing to pay. With this step, the short-selling is now complete and you are short that particular bitAsset.
 
