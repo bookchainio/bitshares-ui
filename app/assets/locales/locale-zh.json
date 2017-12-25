@@ -318,8 +318,8 @@
             "automaticcreation": "签名的消息将自动创建",
             "entermessage": "在此输入消息",
             "copysuccessful": "签名的消息已经复制到剪贴板",
-            "copyunsuccessful": "Failed to copy message",
-            "verifyonchange": "Verify while typing"
+            "copyunsuccessful": "复制消息失败",
+            "verifyonchange": "键入时验证"
         },
         "votes": {
             "proxy_current": "你当前选择的投票代理人是",
@@ -383,8 +383,8 @@
             "create_worker": "创建新工作者",
             "line": "线",
             "save_finish": "点击“保存”完成投票",
-            "threshold": "Votes required to activate",
-            "missing": "Needed"
+            "threshold": "投票需要激活",
+            "missing": "需要"
         },
         "options": {
             "num_witnesses": "信任见证人",
@@ -411,7 +411,7 @@
             "invalid": "非法的账户名",
             "unknown": "未知的账户",
             "not_yours": "不是你的账户",
-            "memo_missing": "You do not have control of the memo key for this account. In order to use a memo, please set the account memo key to a key you control using the Permissions page."
+            "memo_missing": "您没有此帐户的备注密钥的控制权。为了使用备注，请在权限许可页面将帐户备注密钥设置为您掌握的密钥。"
         },
         "collaterals": "抵押债仓",
         "eq_value": "换算值",
@@ -438,7 +438,7 @@
         "activity": "活动记录",
         "eq_value_header": "市值 ({asset})",
         "qty": "数量",
-        "quote": "Quote",
+        "quote": "报价",
         "total": "总额 ({asset})"
     },
     "pagination": {
@@ -447,7 +447,7 @@
     },
     "transfer": {
         "header": "转账详情",
-        "header_subheader": "Transfers are used for sending funds to<br /> other BitShares Account Holders",
+        "header_subheader": "转帐用于向 <br/> 其他BitShares帐户持有人发送资金",
         "from": "来自",
         "pay_from": "支付自",
         "amount": "金额",
@@ -460,7 +460,7 @@
         "balances": "余额",
         "available": "可用余额",
         "errors": {
-            "noFunds": "No funds",
+            "noFunds": "没有资金",
             "req": "必填信息",
             "pos": "数量必须大于0",
             "valid": "请输入一个合法的大于0的半角数字",
@@ -478,7 +478,7 @@
         "again": "发起新的转账",
         "see": "查看我的转账记录",
         "close": "关闭",
-        "cancel": "Cancel",
+        "cancel": "取消",
         "copy_address": "Copy Address",
         "copy_memo": "Copy Memo",
         "memo_unlock": "解锁钱包以查看交易备注",
