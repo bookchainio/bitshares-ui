@@ -85,7 +85,7 @@
         "copy_password": "انقر هنا لنسخ كلمة مرور للحافظة الخاصة بك",
         "sync_yes": "العقدة الحالية في تزامن مع البلوكشين",
         "sync_no": "The current node is out of sync with the blockchain, try switching to another one",
-        "disconnected": "You are not connected to an API node, try reloading or setting a new access point in the Settings",
+        "disconnected": "أنت غير متصل بأي عقده API، حاول إعادة تحميل أو إعداد نقطة وصول جديدة بالإعدادات",
         "market_fee": "The owner of %(asset)s charges a market fee of %(percent)s%% for buy orders. This fee will be subtracted from the amount you receive when your order fills, it is not paid when placing an order.",
         "bridge_TRADE": "BlockTrades is a bridge which supports instant trade of assets. Details and terms can be found on https://blocktrades.us",
         "over_limit": "The bridge does not have enough of the desired asset for this buy order",
