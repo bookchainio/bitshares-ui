@@ -1,3 +1,3 @@
 # 帐户
 
-您可能已经注意到，此区块链技术要求您注册帐户名。 这有许多优点：除了改进的可扩展性之外，我们还将身份从交易授权签名中分离出来。 实际上，*拥有一个帐户名*独立于能够*使用其资金*。 Furthermore, both rights (we call them *permissions*) can split among an arbitrary complex relation of people (we call them *authorities*) using *weights* and a required *thresholds*.
+您可能已经注意到，此区块链技术要求您注册帐户名。 这有许多优点：除了改进的可扩展性之外，我们还将身份从交易授权签名中分离出来。 实际上，*拥有一个帐户名*独立于能够*使用其资金*。 此外，两种权益 (我们称它们为*权限 *)可以使用*权重*和必需的*阈值*人们之间复杂的关系 (我们称它们为*权威*)中进行分割。
