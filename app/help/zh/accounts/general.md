@@ -1,3 +1,3 @@
-# Accounts
+# 帐户
 
-As you may have already noticed by now, this blockchain technology requires you to register an account name. This comes with many advantages: Besides improved scalability, we have separated the identity from the transaction authorizing signature. In practice, *owning an account name* is independent from being able to *spend its funds*. Furthermore, both rights (we call them *permissions*) can split among an arbitrary complex relation of people (we call them *authorities*) using *weights* and a required *thresholds*.
+您可能已经注意到，此区块链技术要求您注册帐户名。 这有许多优点：除了改进的可扩展性之外，我们还将身份从交易授权签名中分离出来。 实际上，*拥有一个帐户名*独立于能够*使用其资金*。 Furthermore, both rights (we call them *permissions*) can split among an arbitrary complex relation of people (we call them *authorities*) using *weights* and a required *thresholds*.
