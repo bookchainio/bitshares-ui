@@ -1,1 +1,1 @@
-[Committee members](introduction/committee) may propose changes to the dynamic parameters of the blockchain, such as fees, block time and many other things. It is a position of great responsibility that requires a good understanding of how BitShares works.
+ Anggota komite </ 0> dapat mengajukan perubahan pada parameter dinamis blockchain, seperti biaya, waktu blok dan banyak hal lainnya. Ini adalah posisi tanggung jawab besar yang membutuhkan pemahaman yang baik tentang bagaimana BitShares bekerja.</p>
