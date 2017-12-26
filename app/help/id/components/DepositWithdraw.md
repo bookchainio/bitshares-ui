@@ -1,11 +1,11 @@
-[# receive]
+[# menerima]
 
-### Receiving BTS
+### Menerima BTS
 
-In order to receive BTS from another person or from an exchange, simply give them your account name: **{account}**
+Untuk menerima BTS dari orang lain atau dari bursa, cukup beri mereka nama akun Anda: ** {account} </ 0></p> 
 
-[# deposit-short]
+[# deposit-pendek]
 
-### Depositing or withdrawing coins
+### Menyetorkan atau menarik uang logam
 
-If you want to deposit or withdraw funds, either in fiat or from other blockchains, you may use a [bridge](introduction/bridges_gateways) or [gateway](introduction/bridges_gateways) service to do so.
+Jika Anda ingin menyetorkan atau menarik dana, baik secara fiat atau dari hambatan lain, Anda dapat menggunakan layanan  bridge </ 0> atau  gateway </ 0> untuk melakukannya.</p>
