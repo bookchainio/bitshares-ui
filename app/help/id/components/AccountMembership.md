@@ -1,14 +1,14 @@
-[# lifetime]
+[# seumur hidup]
 
-### Get {feesCashback}% Cashback on Fees
+### Dapatkan {feesCashback}% Cashback on Fees
 
-Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. A Lifetime Membership is just {price}.
+Anggota Lifetime mendapatkan {feeCashback}% cashback pada setiap biaya transaksi yang mereka bayar dan memenuhi syarat untuk mendapatkan pendapatan rujukan dari pengguna yang mereka daftarkan atau lihat ke jaringan. Keanggotaan seumur hidup hanya {price}.
 
-[# fee-division]
+[# pembagian biaya]
 
-#### Fee Division
+#### Divisi Fee
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+Setiap kali {account} membayar biaya transaksi, biaya tersebut dibagi di antara beberapa akun yang berbeda The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
 
 The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
