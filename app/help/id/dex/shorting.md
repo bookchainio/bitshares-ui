@@ -28,12 +28,12 @@ Pemegang bitAsset manapun dapat meminta penyelesaian pada harga *yang wajar* kap
 
 ## Penjualan
 
-After borrowing bitAssets, they can be sold free at any of the corresponding markets at any price a buyer is willing to pay. With this step, the short-selling is now complete and you are short that particular bitAsset.
+Setelah meminjam bitAssets, mereka bisa dijual bebas di salah satu yang sesuai pasar dengan harga berapa pun pembeli bersedia membayar. Dengan langkah ini, short-selling sekarang lengkap dan Anda pendek yang bitAsset tertentu.
 
-## Updating Collateral Ratio
+## Memperbarui jaminan Ratio
 
-At any time, the holder of a borrow/short position can modify the collateral ratio in order to flexibly adjust to market behavior. If the collateral ratio is increase, an additional amount of BTS is locked as collateral, while reducing the collateral ratio will require an amount of the corresponding BitAsset to be payed back to the network.
+Setiap saat, pemegang pinjaman / posisi pendek dapat memodifikasi agunan rasio agar fleksibel menyesuaikan diri dengan perilaku pasar. Jika rasio agunannya adalah meningkat, sejumlah tambahan BTS terkunci sebagai jaminan, sekaligus mengurangi rasio agunan akan memerlukan jumlah BitAsset yang sesuai dibayar kembali ke jaringan.
 
-## Covering
+## Penutup
 
-To close a borrow/short position, one must hold the borrowed amount of that particular bitAsset to hand it over to the BitShares network. After that, the BitAssets are reduced from the corresponding supply and the collateral is released and given back to its owner.
+Untuk menutup posisi meminjam / short, seseorang harus memegang jumlah pinjaman itu bitAsset khusus untuk menyerahkannya ke jaringan BitShares. Setelah itu, BitAssets dikurangi dari suplai yang sesuai dan agunannya dilepaskan dan diserahkan kembali kepada pemiliknya.
