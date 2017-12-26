@@ -22,8 +22,8 @@ Pendaftar {account} memilih untuk membagikan {referrerFee}% dari total biaya den
 
 #### Biaya tertunda
 
-Biaya yang dibayarkan oleh {account} hanya dibagi di antara jaringan, perujuk, dan pendaftar setiap interval perawatan ({maintenanceInterval} detik). The next maintenance time is {nextMaintenanceTime}.
+Biaya yang dibayarkan oleh {account} hanya dibagi di antara jaringan, perujuk, dan pendaftar setiap interval perawatan ({maintenanceInterval} detik). Itu Waktu pemeliharaan berikutnya adalah {nextMaintenanceTime}.
 
-#### Vesting Fees
+#### Biaya rompi
 
-Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
+Sebagian besar biaya segera dibuat, namun biaya di atas {vestingThreshold} (seperti yang dibayar untuk meningkatkan keanggotaan Anda atau mendaftarkan nama akun premium) harus rampung selama total {vestingPeriod} hari.
