@@ -1,3 +1,3 @@
-The memo key is where you receive memos, in order to decode the memos you need to control the private key for the public key.
+Kunci memo adalah di mana Anda menerima memo, untuk memecahkan kode memo yang Anda butuhkan untuk mengontrol kunci privat untuk kunci publik. Konteks | Permintaan Konteks
 
-By using a public/private key pair without spending authority, you may give read-only access to your memos to third parties.
+Dengan menggunakan pasangan kunci publik / pribadi tanpa mengeluarkan wewenang, Anda dapat memberikan akses baca-saja ke memo Anda ke pihak ketiga.
