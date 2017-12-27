@@ -1,18 +1,18 @@
-# Wallet
+# Dompet
 
-As you may have noticed already, this application is a web application and runs in a browser. A connection is established to a trusted node in the network that serves as a gateway to the rest of the ecosystem.
+Seperti yang mungkin sudah Anda perhatikan, aplikasi ini adalah aplikasi web dan berjalan di browser. Sambungan dibuat ke simpul terpercaya di jaringan itu berfungsi sebagai pintu gerbang ke ekosistem lainnya.
 
-## Cloud Wallet
+## Dompet awan
 
-If you registered with a username and password, you have a cloud wallet. Although nothing is technically stored in the cloud, we user the term Cloud Wallet because you can use these credentials (username and password) from any web browser at any time to gain access to your account. The cloud wallet only allows for a single account to be accessed at a time. This is generally the correct choice for new users. While it is possible to change the auto-generated password, we do not recommend doing so at this time. The team is working on a responsible way to manage the password change that requires no technical knowledge. We will make an announcement once it's released.
+Jika Anda terdaftar dengan nama pengguna dan kata sandi, Anda memiliki dompet awan. Meskipun Tidak ada yang disimpan secara teknis di awan, kami pengguna istilah Wallet Dye karena Anda bisa menggunakan kredensial ini (username dan password) dari browser web manapun waktu untuk mendapatkan akses ke akun Anda. Dompet awan hanya memungkinkan untuk satu akun untuk diakses sekaligus. Ini umumnya pilihan yang tepat untuk pengguna baru. Meskipun memungkinkan untuk mengubah kata kunci yang dibuat secara otomatis, kami tidak menyarankan untuk melakukannya pada saat ini. Tim bekerja dengan cara yang bertanggung jawab untuk mengelola perubahan kata sandi yang tidak memerlukan pengetahuan teknis. Kami akan membuat pengumuman setelah dilepaskan.
 
-## Local Wallet
+## Dompet lokal
 
-The local wallet creates a database within your browser. This means that access to your funds it tied to **that browser only**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
+Dompet lokal menciptakan database di dalam browser Anda. Ini berarti akses untuk dana Anda itu terkait dengan **browser itu saja**. Jika Anda mencoba mengakses dompet lokal dari komputer lain, atau browser lainnya, itu akan gagal kecuali Anda secara aktif mengimpor file cadangan Anda dari file cadangan browser asli. Itu Prosesnya sebenarnya mudah. Lihat mengelola[cadangan](/help/introduction/backups).
 
-## Security
+## Keamanan
 
-Rest assured that our servers do not have access to your funds because none of your private keys ever leave your browser. Instead, they are encrypted with your passphrase and are stored in your local browser's database. As such, you should make sure to have a proper [Backup](../introduction/backups.md) in the event something happens to your computer or browser.
+Yakinlah bahwa server kami tidak memiliki akses ke dana Anda karena tidak ada kunci pribadi Anda pernah meninggalkan browser Anda. Sebagai gantinya, mereka dienkripsi dengan passphrase dan disimpan di database browser lokal Anda. As such, you should make sure to have a proper [Backup](../introduction/backups.md) in the event something happens to your computer or browser.
 
 ## Management
 
