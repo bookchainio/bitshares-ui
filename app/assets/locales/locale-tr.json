@@ -1180,13 +1180,13 @@
         "wallet_crucial": "Kural 1: Cüzdanınızın/hesabınızın tek sahibi sizsizniz.<br/>Kural 2: Cüzdanınıza/hesabınıza ait bilgileri kaybederseniz hesabınıza asla ulaşamazsınız.<br/>Kural 3: Cüzdanınıza/hesabınıza ait bilgiler siz hariç hiçkimse tarafından kaydedilmez; sorumluluk tamamen size aittir.<br/>Kural 4: Cüzdanınızı/hesabınızı yedeklemeli ve şifrenizi ya da yedekleme dosyalarını kesinlikle güvende tutmalısınız.<br/>Kural 5: Bu kurallara uymazsanız cüzdanınızdaki/hesabınızdaki bütün dijital varlıkları kaybedebilirsiniz.",
         "wallet_move": "Cüzdan yedekleme dosyalarınızla ya da hesabınıza ait bilgilerinizle dijital varlıklarınıza başka bir bilgisayardan da erişim sağlayabilirsiniz.",
         "wallet_lose_warning": "<strong>IMPORTANT: If you lose your local wallet or your pass phrase you will be unable to access any of your funds again. Make sure you store the backup somewhere safe, and memorize or write down your password!</strong>",
-        "tips_deposit": "Make a deposit",
+        "tips_deposit": "Para yatırma",
         "link_deposit": "Yatır/Çek",
-        "tips_dashboard": "See your dashboard",
+        "tips_dashboard": "Hesap özetinize bakın",
         "tips_transfer": "Transfer işlemi",
         "link_transfer": "Gönder",
-        "tips_settings": "Change the settings",
-        "tips_account": "See your new account",
+        "tips_settings": "Ayarları değiştir",
+        "tips_account": "Yeni hesabınızı görün",
         "link_account": "Hesabım",
         "wallet_new": "Bitshares'e Hoş Geldiniz",
         "create_w_a": "Ücretsiz hesap oluşturun",
@@ -1407,57 +1407,57 @@
         "unavailable_bridge": "Bu öğe için köprü hizmeti şu anda kapalı, lütfen daha sonra tekrar deneyin",
         "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
         "unavailable_RUDEX": "RuDEX ağ geçidi kapandı veya yanıt vermiyor",
-        "unavailable_TRADE": "The Blocktrades Bridge is down or not responding",
-        "contact_TRADE": "Contact Blocktrades",
-        "over_limit": "Limit Reached",
+        "unavailable_TRADE": "Blocktrades köprüsü çalışmıyor veya yanıt vermiyor",
+        "contact_TRADE": "Blocktrades ile iletişim",
+        "over_limit": "Sınıra ulaşıldı",
         "agreement": {
-            "hint": "I have read and agreed to",
-            "name": "《Service Agreement》",
+            "hint": "Okudum ve kabul ettim",
+            "name": "\"Hizmet sözleşmesi\"",
             "register": "Kabul",
             "notice": "Devam etmek için lütfen sözleşmeyi kontrol edin"
         },
-        "deposit_warning": "Sending any other currency to the %(asset)s address will result in the loss of your deposit",
+        "deposit_warning": "%(varlık) adresine başka bir para birimini göndermek depozitonuzun kaybolmasına neden olacaktır",
         "time": "Zaman",
         "info": "Bilgi",
         "status": "Durum",
         "asset_unavailable": "The gateway for %(asset)s is not in service",
-        "user_unavailable": "User informaction is current unavailable, please try again later",
+        "user_unavailable": "Kullanıcı bilgilendirme işlemi mevcut değil, lütfen daha sonra tekrar deneyin",
         "frozen": "The user account %(account)s was frozen",
         "transaction_history_info": " %(amount)s %(assetName)s with trancation id: %(txid)s ",
-        "support_gdex": "For support, please contact GDEX",
+        "support_gdex": "Destek için lütfen GDEX ile iletişime geçin",
         "withdraw_history_status": {
-            "confirming": "confirming",
-            "auditing": "withdraw auditing",
-            "audited": "auditting completed",
-            "refused": "auditting failed",
-            "transfering": "transfering",
+            "confirming": "teyit",
+            "auditing": "denetimi geri çek",
+            "audited": "denetim tamamlandı",
+            "refused": "denetim başarısız oldu",
+            "transfering": "aktarma",
             "success": "başarılı",
-            "fail": "fail"
+            "fail": "başarısız"
         },
         "deposit_history_status": {
-            "confirming": "deposit confirming",
-            "waiting": "waiting for deposit",
+            "confirming": "mevduat onaylama",
+            "waiting": "mevduat beklemek",
             "transfering": "aktarılıyor",
-            "success": "success",
-            "fail": "fail"
+            "success": "başarı",
+            "fail": "başarısız"
         }
     },
     "trx_error": {
         "expire": "Your transaction has expired without being confirmed, please try again later."
     },
     "migration": {
-        "title": "Notice",
-        "announcement_1": "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
-        "text_1": "Local wallet detected",
+        "title": "İhbar",
+        "announcement_1": "Web tabanlı cüzdan için gelişmiş güvenlik sağlamaya yönelik bir çaba harcayarak hemen aşağıdaki adrese geçiriyoruz. Sahip olabileceğiniz tüm yer imlerini güncellediğinizden emin olun.",
+        "text_1": "Yerel cüzdan algılandı",
         "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
-        "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
+        "text_3": "Bundan sonra, lütfen <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'> https://wallet.bitshares.org </a> adresini kullanın , mevcut kimlik bilgileriniz oraya da giriş yapmana izin ver."
     },
     "news": {
-        "news": "News",
-        "author": "Author",
-        "subject": "Subject",
+        "news": "Haber",
+        "author": "Yazar",
+        "subject": "Konu",
         "errors": {
-            "fetch": "Ops... Something went wrong fetching the news"
+            "fetch": "Operasyon... Haber getirilirken bir şeyler ters gitti"
         }
     }
 }
