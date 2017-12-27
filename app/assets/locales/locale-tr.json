@@ -537,7 +537,7 @@
         "status": "Durum",
         "asset_create": "%(asset)s dijital varlığını {account} hesabından oluştur.",
         "asset_update": "Update the asset {asset} using the account {account}",
-        "asset_settle": "Request a settlement of",
+        "asset_settle": "Bir uzlaşma isteyin",
         "update": {
             "active_approvals_to_add": "Eklenecek etkin onaylar",
             "active_approvals_to_remove": "Kaldırılacak etkin onaylar",
@@ -807,14 +807,14 @@
                 "published": "Duyurdu"
             },
             "margin_positions": {
-                "title": "Margin positions"
+                "title": "Marj pozisyonları"
             },
             "whitelist": {
-                "whitelist_authorities": "Whitelist authorities",
-                "blacklist_authorities": "Blacklist authorities",
-                "whitelist_markets": "Market whitelist",
+                "whitelist_authorities": "Beyaz liste yetkilileri",
+                "blacklist_authorities": "Kara liste yetkilileri",
+                "whitelist_markets": "Market beyaz listesi",
                 "blacklist_markets": "Market karaliste",
-                "enable_flag": "The whitelist flag must be enabled in order to set whitelist authorities"
+                "enable_flag": "Beyaz listedeki yetkilileri ayarlamak için beyaz liste bayrağı etkinleştirilmelidir"
             }
         },
         "witnesses": {
@@ -867,7 +867,7 @@
         }
     },
     "settings": {
-        "passwordLogin": "Login mode",
+        "passwordLogin": "Giriş modu",
         "cloud_login": "Bulut cüzdana giriş",
         "local_wallet": "Yerel Cüzdan Girişi",
         "inverseMarket": "Piyasa eğilim tercihi",
@@ -882,7 +882,7 @@
         "add_ws": "Yeni websocket API ekle",
         "remove_ws": "Websocket API'sini kaldır",
         "faucet_address": "Musluk Adresi",
-        "faucet_address_text": "The faucet address is used to pay the registration fee for new users.",
+        "faucet_address_text": "Musluk adresi, yeni kullanıcılar için kayıt ücretini ödemekte kullanılır.",
         "showSettles": "Derinlik tablosunda settle order'ları göster",
         "showAssetPercent": "Bakiyeleri yüzde olarak da göster",
         "yes": "Evet",
@@ -914,15 +914,15 @@
         "backup_key": "Özel anahtar aktar",
         "backup_legacy": "BTS 0.9.3c .json dosyası ile cüzdan kurtar",
         "backup_brainkey": "TekAnahtar yedeği ile cüzdan oluştur",
-        "backup_favorites": "Restore favorites using a json file",
-        "backup_favorites_error": "Could not parse JSON.",
+        "backup_favorites": "Sık kullanılanları json dosyası kullanarak geri yükleme",
+        "backup_favorites_error": "JSON ayrıştırılamadı.",
         "backup_favorites_finish": "Favorileri içe aktar",
-        "backup_favorites_success": "Successfully restored market favorites",
+        "backup_favorites_success": "Pazardaki favorileri başarıyla geri kazandı",
         "backupcreate_backup": "Cüzdanı yedekle",
         "backupcreate_brainkey": "TekAnahtar yedeği oluştur",
-        "backupcreate_favorites": "Create favorites backup",
-        "backup_favoritesbtn": "Backup favorites",
-        "backup_favoritestext": "Back up your favorites to restore them later after updates.",
+        "backupcreate_favorites": "Sık kullanılan yedekleme oluştur",
+        "backup_favoritesbtn": "Sık kullanılanları yedekle",
+        "backup_favoritestext": "Güncellemelerden sonra bunları geri yüklemek için favorilerinizi yedekleyin.",
         "lookup_text": "BTS 1.0'den kalan bakiyelerinizi almak için tıklayın.",
         "delete_select": "Silinecek cüzdanı seçin",
         "restore_brainkey_text": "Hesabınıza TekAnahtar ile erişim sağlamak için öncelikle yeni, boş bir cüzdan oluşturmalısınız. Cüzdanı oluşturmak için lütfen bir cüzdan ismi (herhangi bir şey olabilir, hatırlamanız içindir, sisteme kaydedilmez) ve şifre belirleyin, ve sonra TekAnahtarınızı girin. Bu işlemle yeni bir cüzdan oluşturulup içerisine hesabınız eklenecektir.",
@@ -932,16 +932,16 @@
         "wallet_required": "Wallet model required",
         "wallet_required_text": "In order to restore a backup you will need to switch to the wallet model first, do so by clicking the button below",
         "enable_wallet": "Enable wallet model",
-        "active_node": "Active Node",
-        "node_up": "UP",
-        "node_down": "DOWN",
-        "available_nodes": "Available Nodes",
+        "active_node": "Aktif düğüm",
+        "node_up": "YUKARI",
+        "node_down": "AŞAĞI",
+        "available_nodes": "Kullanılabilir düğümler",
         "add_api": "API ekle",
         "remove_api": "API kaldır",
         "remove": "Kaldır",
         "activate": "Etkinleştir",
-        "confirm_remove": "Are you sure you want to remove %(name)s from your available nodes?",
-        "valid_node_url": "Node URL must begin with ws:// or wss://",
+        "confirm_remove": "% (Ad) 'ların mevcut düğümlerinizden kaldırılmasını istediğinizden emin misiniz?",
+        "valid_node_url": "Düğüm URL'si ws: // veya wss: // ile başlamalıdır",
         "connection_error": "Unable to connect to API node %(url)s, falling back to known working nodes",
         "low_latency": "Düşük Gecikme",
         "medium_latency": "Orta gecikme süresi",
@@ -957,29 +957,29 @@
         "brainkey": "TekAnahtar yedeklemesi tavsiye edilir.",
         "update_available": "GÜNCELLEŞTİRME KULLANILABİLİR",
         "synced": "Senkronize edildi",
-        "unsynced": "Out of sync",
+        "unsynced": "Senkron dışında",
         "disconnected": "Bağlı değil",
         "connected": "Bağlandı",
-        "latency": "Latency"
+        "latency": "Gecikme"
     },
     "exchange": {
         "chart_options": {
-            "tools": "Tools",
-            "title": "Indicators",
+            "tools": "Araçlar",
+            "title": "Göstergeler",
             "sma": "SMA",
             "ema1": "EMA 1",
             "ema2": "EMA 2",
             "smaVolume": "SMA",
-            "macd": "MACD chart",
-            "bb": "Bollinger Bands",
-            "fib": "Draw Fibonacci retracement",
-            "trendline": "Draw trend line",
-            "volume": "Show volume chart",
-            "clamp_chart": "Clamp chart edge",
-            "period": "Period",
-            "height": "Chart height",
-            "price_title": "Price indicators",
-            "volume_title": "Volume indicators"
+            "macd": "MACD grafiği",
+            "bb": "Bollinger bantları",
+            "fib": "Fibonacci düzeltmesini çiz",
+            "trendline": "Eğilim çizgisi çiz",
+            "volume": "Hacim haritasını göster",
+            "clamp_chart": "Kelepçe grafiği kenarı",
+            "period": "Dönem",
+            "height": "Grafik yüksekliği",
+            "price_title": "Fiyat göstergeleri",
+            "volume_title": "Hacim göstergeleri"
         },
         "market": "Piyasa",
         "price_history": "Fiyat Tablosu",
@@ -1057,7 +1057,7 @@
         "show_star_2": "only",
         "quote": "Quote currency:",
         "search": "Search for more markets here",
-        "order_value": "Order value"
+        "order_value": "Sipariş değeri"
     },
     "fees": {
         "title": "Ücret Tarifesi"
@@ -1111,7 +1111,7 @@
         "verify_prior_backup": "Yedeklemeden Önce Doğrula",
         "brainkey_not_verified": "Bu TekAnahtar doğrulanmamış",
         "cancel": "İptal",
-        "back": "Back",
+        "back": "Geri",
         "reset": "Sıfırla",
         "done": "Tamam",
         "verify": "Doğrula",
@@ -1119,7 +1119,7 @@
         "enter_password": "Şifrenizi girin",
         "confirm_password": "Şifreyi Doğrula",
         "pass_incorrect": "Hatalı şifre",
-        "confirm_error": "The confirmation does not match the password",
+        "confirm_error": "Onay, parola ile eşleşmiyor",
         "new_wallet_name": "Yeni Cüzdan Adı",
         "wallet_exist": "Zaten mevcut , yeni bir ad seçin",
         "wallet_exist_with_name": "%(name)s adında bir cüzdan zaten mevcut, lütfen adını değiştirin",
@@ -1400,13 +1400,13 @@
         "rudex": {
             "support_block": "For support, please contact RuDEX at:",
             "min_amount": "Minimum amount: %(minAmount)s %(symbol)s",
-            "min_amount_error": "Please enter number >= minimum",
-            "coming_soon": "Coming soon"
+            "min_amount_error": "Lütfen numarayı girin> = minimum",
+            "coming_soon": "Çok yakında"
         },
-        "unavailable": "The gateway service for this asset is currently down, please try again later",
-        "unavailable_bridge": "The bridge service for this asset is currently down, please try again later",
+        "unavailable": "Bu öğenin ağ geçidi hizmeti şu anda kapalı, lütfen daha sonra tekrar deneyin",
+        "unavailable_bridge": "Bu öğe için köprü hizmeti şu anda kapalı, lütfen daha sonra tekrar deneyin",
         "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
-        "unavailable_RUDEX": "The RuDEX Gateway is down or not responding",
+        "unavailable_RUDEX": "RuDEX ağ geçidi kapandı veya yanıt vermiyor",
         "unavailable_TRADE": "The Blocktrades Bridge is down or not responding",
         "contact_TRADE": "Contact Blocktrades",
         "over_limit": "Limit Reached",
