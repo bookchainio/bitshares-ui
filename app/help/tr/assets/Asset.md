@@ -6,13 +6,13 @@
 
 Issued by: {issuer}
 
-[# annual]
+[# yıllık]
 
 If a lifetime membership is too much you can still get {feesCashback}% cashback for the next year by becoming an annual subscriber for just {price} per year. ![GitHub Logo](/images/logo.png)
 
 [# fee-division]
 
-#### Fee Division
+#### Ücret Bölümü
 
 Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
 
