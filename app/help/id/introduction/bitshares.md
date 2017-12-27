@@ -2,16 +2,16 @@
 
 ## Bantuan
 
-> If you have an issue related to a Gateway provider, please be sure to contact them directly. See Gateways in the left menu.
+> Jika anda memiliki masalah yang berkaitan dengan penyedia gateway, pastikan menghubungi mereka secara langsung. Lihat Gateaway di menu sebelah kiri.
 
-### Bitshares Chat
+### Obrolan Bitshares
 
-You can chat with other member of the Bitshares community in real time at:
+Anda dapat mengobrol dengan anggota lain dari komunitas Bitshares di waktu sebenarnya di:
 
 - [Telegram](https://t.me/BitSharesDEX)
 - [Discord](https://discord.gg/GsjQfAJ)
 
-### Developers
+### Pengembang
 
 If you are a sofware developer, you may contribute via a bounty system at:
 
