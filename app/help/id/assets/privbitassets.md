@@ -1,5 +1,5 @@
-# BitAssets Privatized
+# Privatized BitAssets
 
-BitAssets Privatisasi melayani pelanggan yang ingin mengeluarkan pasar dipatok aset tapi tidak ingin para saksi mempublikasikan harganya. Sebagai gantinya, kapan Dengan menciptakan bitasset * privatisasi </ 0>, penerbit dapat menentukan satu set otoritas yang melakukannya diizinkan untuk menerbitkan harga untuk aset tertentu itu. Penerbit bisa selanjutnya menentukan semua jenis biaya yang melibatkan aset ini dan menghasilkan keuntungan.</p> 
+Privatized BitAssets serve those customers that would like to issue a market pegged asset but do not want the witnesses to publish the prices. Instead, when creating a *privatized* bitasset, the issuer can define a set of authorities that are allowed to publish the price for that particular asset. The issuer can further define all kinds of fees involving this asset and make a profit.
 
-Fitur ini sangat diminati untuk pertukaran dan institut yang dimilikinya akses ke harga real-time dan ingin meningkatkan exposure dan volume.
+This feature is of particular interest for exchanges and institutes that have access to real-time prices and would like to increase exposure and volume.
