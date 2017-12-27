@@ -88,7 +88,7 @@
         "disconnected": "أنت غير متصل بأي عقده API، حاول إعادة تحميل أو إعداد نقطة وصول جديدة بالإعدادات",
         "market_fee": "مالك %(asset)s رسوم سوق من %(percent)s%% لأوامر شراء. سيتم طرح هذه الرسوم من المبلغ الذي ستتلقاه عندما ينفذ الامر الخاص بك، وأنها لا تدفع عند وضع الأمر.",
         "bridge_TRADE": "BlockTrades هو أحد الجسور التي تدعم التجارة الفورية للأصول. ويمكن الاطلاع على التفاصيل و الشروط على https://blocktrades.us",
-        "over_limit": "The bridge does not have enough of the desired asset for this buy order",
+        "over_limit": "الجسر ليس لديه ما يكفي من الأصول المطلوبة لأمر الشراء هذا",
         "propose_tip": "اقتراح مستخدم آخر لبدء المعاملة",
         "follow_user": "أنت الآن تتبع هذا المستخدم",
         "follow_user_add": "أنقر هنا لمتابعة هذا المستخدم"
@@ -98,7 +98,7 @@
     "account": {
         "new_user": "مستخدم جديد؟",
         "existing_user": "المستخدم موجود",
-        "restore": "Restore",
+        "restore": "إستعادة النسخة الإحتياطية",
         "advanced": "خيارات متقدمة",
         "intro_text_title": "مرحبا بكم في BitShares",
         "intro_text_1": "التبادلات اللامركزية",
