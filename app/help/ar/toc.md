@@ -16,9 +16,9 @@
 - [الأصول الصادرة عن المستخدم](assets/uia.md)
 - [BitAssets التي تمت خصخصتها](assets/privbitassets.md)
 - [التبادلات اللامركزية](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
-- Gateways 
+- [المتاجرة](dex/trading.md)
+- [بيع BitAssets باختصار](dex/shorting.md)
+- البوابات 
     - [OpenLedger](gateways/openledger.md)
     - [Rudex](gateways/rudex.md)
     - [CryptoBridge](gateways/cryptobridge.md)
