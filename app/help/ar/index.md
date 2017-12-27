@@ -1,15 +1,15 @@
-# Graphene Help
+# تعليمات Graphene
 
-بيتشاريس 2.0 هي منصة "العقود المالية الذكية" التي تستند إلى تكنولوجيا [Graphene](https://github.com/cryptonomex/graphene) أنشأها [Cryptonomex](http://cryptonomex.com). You can see Graphene as a toolkit or technology for real-time blockchains.
+بيتشاريس 2.0 هي منصة "العقود المالية الذكية" التي تستند إلى تكنولوجيا [Graphene](https://github.com/cryptonomex/graphene) أنشأها [Cryptonomex](http://cryptonomex.com). يمكنك أن ترى الجرافين كأدوات أو تكنولوجيا لمباشرة اللبوكشين.
 
 هذا المقطع من التعليمات يعطي لمحة موجزة ويصف المفاهيم الأساسية لهذا التطبيق.
 
 ## مقدمة
 
-- [بيتشاريس](introduction/bitshares.md)
+- [BitShares](introduction/bitshares.md)
 - [المحفظة](introduction/wallets.md)
 - [النسخ الإحتياطية](introduction/backups.md)
-- [بلوكشين](introduction/blockchain.md)
+- [Blockchain](introduction/blockchain.md)
 - [الشهود](introduction/witness.md)
 - [العمال](introduction/workers.md)
 - [أعضاء اللجنة](introduction/committee.md)
@@ -22,9 +22,9 @@
 
 ## الأصول
 
-- [Market Pegged Assets](assets/mpa.md) (BitUSD, BitEUR, BitGOLD, Bit\*,...)
-- [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
+- [الأصول المتعلقة بالسوق](assets/mpa.md) (BitUSD, BitEUR, BitGOLD, Bit\*,...)
+- [الأصول الصادرة عن المستخدم](assets/uia.md)
+- [BitAssets التي تمت خصخصتها](assets/privbitassets.md)
 
 ## التبادلات اللامركزية
 
@@ -34,4 +34,4 @@
 
 * * *
 
-[Glossary](glossary.md)
+[معجم المصطلحات](glossary.md)
