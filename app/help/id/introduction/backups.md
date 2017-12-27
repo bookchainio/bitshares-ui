@@ -12,6 +12,6 @@ Cara yang paling bagus membuat cadangan baru adalah dengan mengekspor dompet den
 
 Jika anda pernah secara manual mengimpor kunci akun ke dompet anda, anda juga dapat memcadangkan akun anda dan dana dengan mengekspor *brainkey*, rangkaian kata dari kunci anda berasal secara deterministik.
 
-## Remark: Hierarchical Authorities (advanced uses ONLY)
+## Catatan; Otoritas Hirarkis (HANYA pengguna lanjutan)
 
-If you are using hierarchical authorities (account and/or active permissions), backing up your keys alone may not be sufficient to regain access to your funds! Please revise the documentations about hierarchical authorities.
+Jika anda menggunakan otoritas hirarkis (akun dan/atau izin aktif), mencadangankan kunci anda sendiri tidak bisa mengembalikan akses ke dana anda! Harap merevisi dokumentasi tentang otoritas hirarkis.
