@@ -5,11 +5,11 @@
 - [النسخ الإحتياطية](introduction/backups.md)
 - [Blockchain](introduction/blockchain.md)
 - [التصويت](voting.md)
-- [Accounts](accounts/general.md)
-- [Proposed Transactions](accounts/proposed.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
-- [Market Pegged Assets](assets/mpa.md) 
+- [الحسابات](accounts/general.md)
+- [المعاملات المقترحة](accounts/proposed.md)
+- [الصلاحيات](accounts/permissions.md)
+- [العضويات](accounts/membership.md)
+- [الأصول المرتبطة بالسوق](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
