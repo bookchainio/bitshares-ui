@@ -20,11 +20,11 @@ Jika anda seorang pengembang software, Anda dapat berkontribusi melalui sistem h
 
 ## Pendahuluan
 
-Selamat datang di pertukaran desentralisasi tercepat di dunia (THE DEX). BitShares sepertinya memperluas inovasi blockchain untuk semua industri yang bergantung pada internet dengan menyediakan layanan mereka. Whether its banking, stock exchanges, lotteries, voting, music, auctions or many others, a digital public ledger allows for the creation of distributed autonomous companies (or DACs) that provide better quality services at a fraction of the cost incurred by their more traditional, centralized counterparts. The advent of DACs ushers in a new paradigm in organizational structure in which companies can run without any human management and under the control of an incorruptible set of business rules. These rules are encoded in publicly auditable open source software distributed across the computers of the companies’ shareholders, who effortlessly secure the company from arbitrary control.
+Selamat datang di pertukaran desentralisasi tercepat di dunia (THE DEX). BitShares sepertinya memperluas inovasi blockchain untuk semua industri yang bergantung pada internet dengan menyediakan layanan mereka. Apakah itu perbankan, bursa saham, lotere, pemungutan suara, musik, lelang atau yang lainnya, buku besar umum digital yang membolehkan penciptaan dari perusahaan otonom yang didistriusikan (atau DACs) yang menyediakan layanan yang berkualitas lebih baik dan lebih sedikit biaya dari yang dikeluarkan oleh mereka yang lebih tradisional dan terpusat. Munculnya DACs mengantarkan pada paradigma baru dalam struktur organisasi dimana perusahaan dapat menjalankan tanpa manajemen manusia dan dibawah kendali dari aturan bisnis yang tidak bisa dikorupsi. Aturan-aturan ini dikodekan secara software open source yang dapat diaudit dan disebarkan melalui komputer pemegang saham perusahaan, yang dengan mudah mengamankan perusahaan dari kontrol yang sewenang-wenang.
 
-BitShares does for business what bitcoin did for money by utilizing distributed consensus technology to create companies that are inherently global, transparent, trustworthy, efficient and most importantly profitable.
+BitShares melakukan bisnis yang bitcoin lakukan untuk uang dengan memanfaatkan teknologi konsensus yang disebarkan untuk membuat perusahaan yang secara global diwarisi, transparansi, dipercaya, efisien dan paling menguntungkan.
 
-## Wallet
+## Dompet
 
 This wallet allows access most features of the BitShares network including
 
