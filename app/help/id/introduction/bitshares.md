@@ -26,7 +26,7 @@ BitShares melakukan bisnis yang bitcoin lakukan untuk uang dengan memanfaatkan t
 
 ## Dompet
 
-This wallet allows access most features of the BitShares network including
+Dompet ini membolehkan akses banyak fitur jaringan BitShares termasuk
 
 - [BitAssets](/help/assets/mpa.md)
 - [User-Issued Assets](/help/assets/uia.md)
