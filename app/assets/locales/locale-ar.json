@@ -56,8 +56,8 @@
     "tooltip": {
         "call_limit": "This is the call price of the least collateralized margin position in the market.",
         "margin_price": "This is the maximum price that a margin called position can be made to pay. It also called the Squeeze Price.",
-        "settle_price": "This is the price at which settle orders will execute.",
-        "sign_owner": "If you are the owner of this account, please check this to make sure the transaction gets signed properly. This is only necessary if you are using the owner account and that account is not included in the active permissions.",
+        "settle_price": "هذا هو الثمن الذي سيتم اعتماده عند تنفيذ الأوامر.",
+        "sign_owner": "إذا كنت مالك هذا الحساب، الرجاء التحقق من أن تحصل الصفقة على التوقيع بشكل صحيح. يعد هذا ضروريا فقط إذا كنت تستخدم حساب المالك، وأن لم يتم تضمين هذا الحساب في الأذونات المفعلة.",
         "latest_price": "هذا هو آخر سعر رأي في هذه السوق.",
         "no_price": "There's no recent price available for this asset that can be used to estimate its value.",
         "hide_asset": "انقر هنا لإخفاء هذا الأصل من هذه القائمة.",
