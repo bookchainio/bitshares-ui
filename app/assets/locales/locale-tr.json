@@ -1197,9 +1197,9 @@
         "step_2": "2. Adım - Güvenlik",
         "step_3": "3. Adım - Artık hazırsınız!",
         "congrat": "Tebrikler!",
-        "tips_explore": "Now that you've successfully created an account and downloaded the backup, it's time to get started. Click on one of the links below to start exploring.",
-        "tips_header": "You can also find these same links in the top menu, and in the drop-down menu next to your account name.",
-        "tips_login": "IMPORTANT: There is no login/logout functionality here, you merely unlock your wallet when you wish to make a transaction.",
+        "tips_explore": "Artık başarıyla bir hesap oluşturduktan ve yedeklemeyi indirdikten sonra başlama zamanı geldi. Araştırmaya başlamak için aşağıdaki bağlantılardan birine tıklayın.",
+        "tips_header": "Aynı bağlantıları en üstteki menüde ve hesap adınızın yanındaki açılır menüde de bulabilirsiniz.",
+        "tips_login": "ÖNEMLİ: Burada oturum açma / kapatma işlevi yoktur, işlem yapmak istediğinizde cüzdanınızın kilidini açmanız yeterlidir.",
         "import_key_success": "İşleminiz başarıyla tamamlandı!",
         "brainkey_seq_reset": "TekAnahtarı sıfırla",
         "brainkey_seq_reset_text": "Cüzdanınıza ait TekAnahtarı sıfırlayarak özel anahtarlarınızı yeniden üretmek için burayı kullanabilirsiniz.",
@@ -1233,10 +1233,10 @@
         "account_exp": "This account will be created on the blockchain and will be your address for any transfers you want to make! <strong>There are no long Bitcoin-style addresses in BitShares!</strong>",
         "understand_1": "I understand that no one can recover my password if I lose or forget it",
         "understand_2": "I have written down or otherwise stored my password",
-        "understand_3": " I understand that I will lose access to my funds if I lose my password",
+        "understand_3": " Parolamı kaybedersem paramın erişimini kaybedeceğimi anlıyorum",
         "bts_rules": "The first rule of Bitshares is: Do not lose your password.<br/>The second rule of Bitshares is: Do not lose your password.<br />The third rule of Bitshares is: We cannot recover your password.<br />The fourth rule: If you can remember the password, it's not secure.<br />The fifth rule: Use only randomly-generated passwords.<br />The sixth rule: Do not tell anyone your password.<br />The seventh rule: Always back up your password.",
-        "ok_done": "OK, take me to the dashboard",
-        "local_switch": "Local wallet detected matching the given password, switching to local wallet mode"
+        "ok_done": "Tamam, beni gösterge tablosuna götürün",
+        "local_switch": "Yerel cüzdanın verilen parolayla eşleşmesi algılandı, yerel cüzdan moduna geçildi"
     },
     "borrow": {
         "title": "%(asset_symbol)s Marjin",
@@ -1244,7 +1244,7 @@
         "coll_ratio": "Teminat oranı",
         "call_limit": "Piyasa Çağrı Limiti",
         "adjust": "Pozisyonu Güncelle",
-        "adjust_short": "Adjust",
+        "adjust_short": "Ayarlamak",
         "close": "Pozisyonu Kapat",
         "update": "Güncelle",
         "errors": {
@@ -1273,8 +1273,8 @@
             "submit": "Yatır"
         },
         "convert": {
-            "amount": "Amount to Convert",
-            "submit": "Ok"
+            "amount": "Dönüştürme miktarı",
+            "submit": "Tamam"
         },
         "settle": {
             "title": "%(asset)s ödenmesini talep et",
@@ -1293,17 +1293,17 @@
             "cancel": "İptal"
         },
         "proposals": {
-            "pay_with": "Pay with account",
-            "approval_add": "Approval to add",
-            "approval_remove": "Approval to remove",
-            "key_approval_add": "Key approval to add",
-            "key_approval_remove": "Key approval to remove"
+            "pay_with": "Hesaba yatır",
+            "approval_add": "Onay eklemek için onay",
+            "approval_remove": "Kaldırma onayı",
+            "key_approval_add": "Eklenecek anahtar onay",
+            "key_approval_remove": "Kaldırılacak anahtar onay"
         },
         "ok": "Uygula",
         "qrcode": {
-            "label": "qrcode",
-            "title": "Private key QR code",
-            "input_message": "Please enter a password used to encrypt the QR code.<br />An empty password will show an unencrypted QR code."
+            "label": "QR kod",
+            "title": "Özel anahtar QR kodu",
+            "input_message": "Lütfen QR kodunu şifrelemek için kullanılan bir şifre girin. <br /> Boş bir şifre, şifrelenmemiş bir QR kodu gösterecektir."
         }
     },
     "init_error": {
@@ -1327,7 +1327,7 @@
         "expiration_time": "Bitiş süresi",
         "proposed_operations": "Teklif edilen işlemler",
         "fee_paying_account": "Ücreti ödeyen hesap",
-        "id": "Proposal object id"
+        "id": "Teklif nesnesi kimliği"
     },
     "gateway": {
         "fee": "Gateway fee",
@@ -1349,7 +1349,7 @@
         "symbol": "Sembol",
         "website": "Websitesini ziyaret edin",
         "deposit_to": "Yükleme işlemi için lütfen aşağıdaki adrese %(asset)s transferi yapın",
-        "deposit_address": "Deposit address",
+        "deposit_address": "Depozito adresi",
         "add_funds": "Quickly and easily add funds to your BitShares account <strong>%(account)s</strong>. This service is provided by Openledger.",
         "withdraw_funds": "You are going to withdraw funds from your BitShares account to your external %(asset)s account.",
         "balance_asset": "Current %(asset)s balance",
@@ -1360,7 +1360,7 @@
         "generate_new_memo": "Yeni memo al",
         "deposit": "Yatır",
         "withdraw": "Çek",
-        "convert": "Internal conversion",
+        "convert": "Dahili dönüşüm",
         "withdraw_now": "Şimdi Çek",
         "convert_now": "Şimdi Dönüştür",
         "inventory": "Envanter",
@@ -1389,7 +1389,7 @@
         "gateway_text": "Geçitler BitShares'de tanımlı dijital varlıklardan gerçek enstrümanlara geçmenizi sağlar (ve tam tersi), örn. OPEN.BTC'den  BTC'ye.",
         "fiat_text": "Buradaki kripto para yatırma işlemleri CCEDK tarafından sağlanan bir hizmettir. Bu hizmetten faydalanmanız için öncelikle CCEDK kaydınız olmalıdır. Kayıt işleminden sonra aşağıdaki dönüşümleri yapabilirsiniz:",
         "meta": {
-            "open_website": "Open Website"
+            "open_website": "Web Sitesini Aç"
         },
         "purchase": "%(asset)s satın al",
         "purchase_1": "%(inputAsset)s kullanarak hızlı ve kolayca %(outputAsset)s satın almak için burayı kullanabilirsiniz. Bu hizmet <a href='https://blocktrades.us/' target='blank' rel='noopener noreferrer'>Blocktrades</a> tarafından sağlanmaktadır.",
@@ -1398,7 +1398,7 @@
         "deposit_limit": "Yatırma limiti",
         "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\">with memo</span> %(memo)s",
         "rudex": {
-            "support_block": "For support, please contact RuDEX at:",
+            "support_block": "Destek için lütfen şu adresten RuDEX ile iletişime geçin:",
             "min_amount": "Minimum amount: %(minAmount)s %(symbol)s",
             "min_amount_error": "Lütfen numarayı girin> = minimum",
             "coming_soon": "Çok yakında"
