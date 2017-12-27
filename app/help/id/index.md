@@ -1,37 +1,37 @@
-# Graphene Help
+# Bantuan Grafena
 
-BitShares 2.0 is a Financial Smart Contracts platform that is based on the [Graphene](https://github.com/cryptonomex/graphene) technology built by [Cryptonomex](http://cryptonomex.com). You can see Graphene as a toolkit or technology for real-time blockchains.
+BitShare 2.0 adalah platform kontrak keuangan yang bagus yang didasarkan pada[grafena](https://github.com/cryptonomex/graphene)teknologi yang dibangun dengan[cryptonomex](http://cryptonomex.com). Anda dapat melihat grafena sebagai toolkit atau teknologi blockchains real-time.
 
-This help section gives a brief overview and describes the most basic concepts of this application.
+Bagian bantuan ini memberikan gambaran singkat dan menjelaskan konsep dasar dari aplikasi ini.
 
-## Introduction
+## Pendahuluan
 
 - [BitShares](introduction/bitshares.md)
-- [Wallet](introduction/wallets.md)
-- [Backups](introduction/backups.md)
+- [Dompet](introduction/wallets.md)
+- [Cadangan](introduction/backups.md)
 - [Blockchain](introduction/blockchain.md)
-- [Witnesses](introduction/witness.md)
-- [Workers](introduction/workers.md)
-- [Committe Members](introduction/committee.md)
+- [Saksi](introduction/witness.md)
+- [Pekerja](introduction/workers.md)
+- [Anggota Komite](introduction/committee.md)
 
-## Accounts
+## Akun
 
-- [Introduction](accounts/general.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
+- [Pendahuluan](accounts/general.md)
+- [Hak akses](accounts/permissions.md)
+- [Keanggotaan](accounts/membership.md)
 
-## Assets
+## Aset
 
-- [Market Pegged Assets](assets/mpa.md) (BitUSD, BitEUR, BitGOLD, Bit\*,...)
+- [pasar dipatok aset](assets/mpa.md)(BitUSD, BitEUR, BitGOLD, Bit\*,...)
 - [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
+- [BitAssets diprivatisasi](assets/privbitassets.md)
 
-## Decentralized Exchange
+## Pertukaran desentralisasi
 
-- [Introduction](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
+- [Pendahuluan](dex/introduction.md)
+- [Perdagangan](dex/trading.md)
+- [BitAssets Penjualan singkat](dex/shorting.md)
 
 * * *
 
-[Glossary](glossary.md)
+[Glosarium](glossary.md)
