@@ -1,3 +1,3 @@
-### Glossary
+### Glosarium
 
-[Back to index](index.md)
+[Kembali ke Indeks](index.md)
