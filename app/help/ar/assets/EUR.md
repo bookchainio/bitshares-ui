@@ -1,9 +1,9 @@
 [# summary]
 
-### Asset {symbol}
+### {symbol} الأصل
 
 {description}
 
 صادر عن: {issuer}
 
-The Euro (sign: €; symbol: EUR) is the official currency of participating countries in the Europ zone.
+ال Euro (علامة: يورو؛ رمز: EUR) هي العملة الرسمية للبلدان المشاركة في منطقة أوروبا.
