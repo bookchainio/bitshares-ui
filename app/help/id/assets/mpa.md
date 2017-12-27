@@ -1,12 +1,12 @@
-# Market Pegged Assets
+# Aset Tertagih Pasar
 
-A crypto-currency, with the properties and advantages of Bitcoin, that is capable of maintaining price parity with a globally adopted currency (e.g. U.S. dollar), has high utility for convenient and censorship resistant commerce. This can be achieved by BitShares' market pegged assets (MPA), a new type of freely traded digital asset whose value is meant to track the value of a conventional underlying asset by means of contracts for difference (CFD).
+Mata uang kripto, dengan properti dan kelebihan Bitcoin, yang mampu mempertahankan paritas harga dengan mata uang yang diadopsi secara global (misalnya dolar A.S.), memiliki utilitas yang tinggi untuk perdagangan yang mudah dan penyensoran. Hal ini dapat dicapai oleh aset terpikat pasar BitShares (MPA), jenis baru dari aset digital yang diperdagangkan secara bebas yang nilainya dimaksudkan untuk melacak nilai underlying asset konvensional dengan menggunakan kontrak untuk selisih (CFD).
 
-A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as *collateral* in a CFD.
+A *SmartCoin* (sinonim untuk MPA) adalah kripto-mata uang yang *selalu* memiliki nilai 100% atau lebih dari nilai yang didukung oleh mata uang inti BitShares (BTS), yang dapat mereka gunakan dikonversi setiap saat, seperti *agunan* dalam CFD.
 
-What makes MPAs unique is that they are free from counterparty risk even though they resemble a CFD backed by collateral. This is achievable by letting the network itself (implemented as a software protocol) be responsible for securing the collateral and performing settlements as will be described in more detail below.
+Apa yang membuat KPL unik adalah bahwa mereka bebas dari risiko counterparty meskipun mereka menyerupai CFD yang didukung oleh agunan. Hal ini dapat dicapai dengan membiarkan jaringan itu sendiri (diimplementasikan sebagai protokol perangkat lunak) bertanggung jawab untuk mengamankan agunan dan melakukan permukiman seperti yang akan dijelaskan lebih rinci di bawah ini.
 
-This is a subset of the available market pegged assets:
+Ini adalah subset dari aset dipatok pasar yang tersedia:
 
 * BitUSD
 * BitCNY
