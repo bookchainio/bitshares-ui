@@ -1,13 +1,13 @@
 # Blockchain
 
-Sebagai mata uang yang paling kripto, Grafena membuat penggunaan blockchain untuk memperbarui peserta tentang transfer dan aktifitas pasar. Karena blok selalu merujuk pada blok sebelumnya, kita mendapatkan rantai blok (blockchain) yang berisi semua transaksi setiap dibuat dalam jaringan. Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
+Sebagai mata uang yang paling kripto, Grafena membuat penggunaan blockchain untuk memperbarui peserta tentang transfer dan aktifitas pasar. Karena blok selalu merujuk pada blok sebelumnya, kita mendapatkan rantai blok (blockchain) yang berisi semua transaksi setiap dibuat dalam jaringan. Karena blockchain adalah buku besar yang dapat diaudit dan diakses, semua orang dapat melihat lebih dekat dan menverifikasi transfer juga pesanan pasar dan pesanan buku.
 
-Of course, this web wallet offers a block explorer to assist you with your audit.
+Tentu saja, dompet web ini menawarkan penjelajah blok yang membantu anda dengan audit anda.
 
-## Consensus Mechanism
+## Mekanisme Konsensus
 
-Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. In essence, the shareholders of BitShares (holders of the BTS token) can cast a vote for their preferred block producers on the blockchain. Those so called *witnesses* with the most votes are allowed to produce blocks.
+Yang sebenarnya membolehkan untuk*menghasilkan*block dimana waktu instan yang diartikan dengan mekanisme konsensus yang disebut *didelegasikan bukti saham*. Pada dasarnya, para pemegang saham BitShares (Pemegang token BTS) bisa memberikan suara untuk produsen blok yang mereka suka pada blockchain. Mereka disebut *saksi*dengan suara terbanyak diperbolehhkan untuk menghasilkan blok.
 
-## Transactions
+## Transaksi
 
-The Graphene blockchain technology offers a variety of transaction types. Users are not only able to simply transfer assets between each other, but there are also transactions to interact with the decentralized exchange. Most of these transaction types are labeled with a self-explaining tag, others require more knowledge about the inner workings of the company.
+Teknologi lockchain grafena menawarkan berbagai jenis transaksi. Pengguna tidak hanya dapat mentransfer aset antara satu dengan yang lainnya, tetapi juga dapat bertransaksi dengan pertukaran desentralisasi. Sebagian besar jenis transaksi ini diberi label dengan tag sendiri, yang lainnya memerlukan pengetahuan lebih banyak tentang pekerjaan dalam dari perusahaan.
