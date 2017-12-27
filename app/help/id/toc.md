@@ -1,14 +1,14 @@
-#### Table of Contents
+#### Daftar isi
 
 - [BitShares](introduction/bitshares.md)
-- [Wallet](introduction/wallets.md)
-- [Backups](introduction/backups.md)
+- [Dompet](introduction/wallets.md)
+- [Cadangan](introduction/backups.md)
 - [Blockchain](introduction/blockchain.md)
 - [Voting](voting.md)
-- [Accounts](accounts/general.md)
-- [Proposed Transactions](accounts/proposed.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
+- [Akun](accounts/general.md)
+- [Usulan transaksi](accounts/proposed.md)
+- [Hak Akses](accounts/permissions.md)
+- [Keanggotaan](accounts/membership.md)
 - [Market Pegged Assets](assets/mpa.md) 
     - bitUSD
     - bitEUR
