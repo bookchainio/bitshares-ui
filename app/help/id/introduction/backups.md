@@ -8,9 +8,9 @@ Cadangan dapat diperoleh dari pusat manajemen dompet(`pengaturan-> dompet`).
 
 Cara yang paling bagus membuat cadangan baru adalah dengan mengekspor dompet dengan link yang disediakan di pusat manajemen dompet. Harap menyimpan cadangan anda aman dari kehilangan, pencurian dan bencana alam
 
-## Brainkey (advanced users ONLY)
+## Brainkey (HANYA pengguna lanjutan)
 
-If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
+Jika anda pernah secara manual mengimpor kunci akun ke dompet anda, anda juga dapat memcadangkan akun anda dan dana dengan mengekspor *brainkey*, rangkaian kata dari kunci anda berasal secara deterministik.
 
 ## Remark: Hierarchical Authorities (advanced uses ONLY)
 
