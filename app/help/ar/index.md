@@ -7,20 +7,20 @@ This help section gives a brief overview and describes the most basic concepts o
 ## Introduction
 
 - [BitShares](introduction/bitshares.md)
-- [Wallet](introduction/wallets.md)
-- [Backups](introduction/backups.md)
-- [Blockchain](introduction/blockchain.md)
-- [Witnesses](introduction/witness.md)
-- [Workers](introduction/workers.md)
-- [Committe Members](introduction/committee.md)
+- [المحفظة](introduction/wallets.md)
+- [النسخ الإحتياطية](introduction/backups.md)
+- [بلوكشين](introduction/blockchain.md)
+- [الشهود](introduction/witness.md)
+- [العمال](introduction/workers.md)
+- [أعضاء اللجنة](introduction/committee.md)
 
-## Accounts
+## الحسابات
 
-- [Introduction](accounts/general.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
+- [مقدمة](accounts/general.md)
+- [الصلاحيات](accounts/permissions.md)
+- [العضويات](accounts/membership.md)
 
-## Assets
+## الأصول
 
 - [Market Pegged Assets](assets/mpa.md) (BitUSD, BitEUR, BitGOLD, Bit\*,...)
 - [User Issued Assets](assets/uia.md)
@@ -28,7 +28,7 @@ This help section gives a brief overview and describes the most basic concepts o
 
 ## Decentralized Exchange
 
-- [Introduction](dex/introduction.md)
+- [مقدمة](dex/introduction.md)
 - [Trading](dex/trading.md)
 - [Short Selling BitAssets](dex/shorting.md)
 
