@@ -1,9 +1,9 @@
-[# ringkasan]
+[# summary]
 
-### Aset {simbol}
+### Asset {symbol}
 
-{deskripsi}
+{description}
 
-Diterbitkan oleh: {issuer}
+Issued by: {issuer}
 
-Euro (tanda: €; simbol: EUR) adalah mata uang resmi negara-negara peserta di zona Europ
+The Euro (sign: €; symbol: EUR) is the official currency of participating countries in the Europ zone.
