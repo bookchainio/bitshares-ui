@@ -1,3 +1,3 @@
-Izin pemilik menentukan siapa yang memiliki kontrol atas akun. Pemilik dapat menimpa semua kunci dan mengubah pengaturan akun apapun
+Owner permissions define who has control over the account. Owners may overwrite all keys and change any account settings.
 
-Lihat  izin </ 0> untuk lebih jelasnya.</p>
+See [permissions](accounts/permissions) for more details.
