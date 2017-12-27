@@ -1,20 +1,20 @@
-[# summary]
+[# ringkasan]
 
-### Asset {symbol}
+### Aset {simbol}
 
-{description}
+{deskripsi}
 
-Issued by: {issuer}
+Diterbitkan oleh: {issuer}
 
-[# annual]
+[# tahunan]
 
-If a lifetime membership is too much you can still get {feesCashback}% cashback for the next year by becoming an annual subscriber for just {price} per year. ![GitHub Logo](/images/logo.png)
+Jika keanggotaan seumur hidup terlalu banyak, Anda masih bisa mendapatkannya {feesCashback}% Cashback untuk tahun depan dengan menjadi dengan menjadi pelanggan tahunan saja {price} pertahun. ![GitHub Logo](/images/logo.png)
 
-[# fee-division]
+[# pembagian-biaya]
 
-#### Fee Division
+#### Pembagian biaya
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+Setiap kali {account} membayar biaya transaksi, biaya tersebut dibagi di antara beberapa akun yang berbeda. Jaringan mengambil pemotongan {networkFee}%, dan Anggota Lifetime yang merujuk {account} mendapat potongan {lifetimeFee}%.
 
 The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
