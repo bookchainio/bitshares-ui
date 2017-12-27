@@ -1,23 +1,23 @@
-[# seumur hidup]
+[# lifetime]
 
-### Dapatkan {feesCashback}% Cashback on Fees
+### Get {feesCashback}% Cashback on Fees
 
-Anggota Lifetime mendapatkan {feeCashback}% cashback pada setiap biaya transaksi yang mereka bayar dan memenuhi syarat untuk mendapatkan pendapatan rujukan dari pengguna yang mereka daftarkan atau lihat ke jaringan. Keanggotaan seumur hidup hanya {price}.
+Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. A Lifetime Membership is just {price}.
 
-[# pembagian biaya]
+[# fee-division]
 
-#### Divisi Fee
+#### Fee Division
 
-Setiap kali {account} membayar biaya transaksi, biaya tersebut dibagi di antara beberapa akun yang berbeda Jaringan mengambil pemotongan {networkFee}%, dan Anggota Lifetime yang merujuk {account} mendapatkan potongan% lifetimeFee}.
+Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
 
-The * registrar </ 0> adalah akun yang membayar biaya transaksi untuk mendaftar {account} dengan jaringan. Pendaftar bisa memutuskan bagaimana caranya bagi sisa {referrerTotalFee}% antara mereka dan program Perujuk Afiliasi </ 0> mereka sendiri.</p> 
+The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
-Pendaftar {account} memilih untuk membagikan {referrerFee}% dari total biaya dengan * Perujuk Afiliasi </ 0> dan menyimpan {registrarFee}% dari total biaya untuk mereka sendiri.</p> 
+{account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
 
-#### Biaya tertunda
+#### Pending Fees
 
-Biaya yang dibayarkan oleh {account} dibagi antara jaringan, perujuk, dan pendaftar setiap interval perawatan ({maintenanceInterval} detik). Itu Waktu pemeliharaan berikutnya adalah {nextMaintenanceTime}.
+Fees paid by {account} are divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
 
-#### Biaya rompi
+#### Vesting Fees
 
-Sebagian besar biaya segera dibuat, namun biaya di atas {vestingThreshold} (seperti yang dibayar untuk meningkatkan keanggotaan Anda atau mendaftarkan nama akun premium) harus rampung selama total {vestingPeriod} hari.
+Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
