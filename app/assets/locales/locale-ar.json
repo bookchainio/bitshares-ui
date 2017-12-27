@@ -59,7 +59,7 @@
         "settle_price": "هذا هو الثمن الذي سيتم اعتماده عند تنفيذ الأوامر.",
         "sign_owner": "إذا كنت مالك هذا الحساب، الرجاء التحقق من أن تحصل الصفقة على التوقيع بشكل صحيح. يعد هذا ضروريا فقط إذا كنت تستخدم حساب المالك، وأن لم يتم تضمين هذا الحساب في الأذونات المفعلة.",
         "latest_price": "هذا هو آخر سعر رأي في هذه السوق.",
-        "no_price": "There's no recent price available for this asset that can be used to estimate its value.",
+        "no_price": "لا تتوفر أية أسعار أخيرة لهذا الأصل التي يمكن استخدامها لتقدير قيمته.",
         "hide_asset": "انقر هنا لإخفاء هذا الأصل من هذه القائمة.",
         "show_asset": "انقر هنا لإظهار هذا الأصل في القائمة الرئيسية.",
         "settle": "Settling will let you convert your holdings of %(asset)s to BTS after a delay of 24 hours, at a price equal to the feed price at that time.",
