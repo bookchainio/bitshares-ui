@@ -1,13 +1,12 @@
 # Cadangan
 
-Direkomendasikan untuk membuat cadangan secara teratur dari dompet anda meskipun dalam banyak kasus satu cadangan mungkin cukup. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Hence, if you either lose your wallet or your pass phrase you will be unable to access any of your funds again!
+Direkomendasikan untuk membuat cadangan secara teratur dari dompet anda meskipun dalam banyak kasus satu cadangan mungkin cukup. Harap dicatat untuk menyelamatkan cadangan anda perlu juga memberikan kata sandi karena **cadangan dienkripsi**. Oleh karena itu, jika anda kehilangan dompet maupun kata sandi anda anda tidak akan dapat mengakses dana anda lagi!
 
-Backups can be obtain from the Wallet Management Console (`Settings ->
-Wallets`).
+Cadangan dapat diperoleh dari pusat manajemen dompet(`pengaturan-> dompet`).
 
-## Wallet Exports
+## Dompet ekspor
 
-The most convenient way to create a new backup is by exporting the wallet with the provided link in the Wallet Management Console. Please store your backups safe from loss, theft, and natural catastrophes
+Cara yang paling bagus membuat cadangan baru adalah dengan mengekspor dompet dengan link yang disediakan di pusat manajemen dompet. Harap menyimpan cadangan anda aman dari kehilangan, pencurian dan bencana alam
 
 ## Brainkey (advanced users ONLY)
 
