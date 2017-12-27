@@ -1,6 +1,6 @@
-# Backups
+# Cadangan
 
-It is recommended to make regular backups of your wallet even though in most cases a single backup may be sufficient. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Hence, if you either lose your wallet or your pass phrase you will be unable to access any of your funds again!
+Direkomendasikan untuk membuat cadangan secara teratur dari dompet anda meskipun dalam banyak kasus satu cadangan mungkin cukup. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Hence, if you either lose your wallet or your pass phrase you will be unable to access any of your funds again!
 
 Backups can be obtain from the Wallet Management Console (`Settings ->
 Wallets`).
