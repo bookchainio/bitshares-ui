@@ -1,6 +1,6 @@
-## Bridge and gateway services
+## Layanan jembatan dan gerbang
 
-Both bridges and gateways allow you to deposit and withdraw coins, but there is a difference in the amount of trust you need to place in the service providers.
+Kedua jembatan dan gateway memungkinkan Anda untuk menyimpan dan menarik koin, namun ada perbedaan dalam jumlah kepercayaan yang Anda butuhkan untuk ditempatkan di penyedia layanan.
 
 ### Bridges: trust-free model
 
