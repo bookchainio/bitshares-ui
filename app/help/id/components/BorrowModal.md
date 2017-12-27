@@ -1,3 +1,3 @@
-Perbarui posisi margin {debt} Anda dengan menyesuaikan tingkat hutang dan jaminan.
+Update your {debt} margin position by adjusting the debt and collateral levels.
 
-Tingkat agunan dan hutang dapat disesuaikan dengan cara apapun yang Anda inginkan, selama rasio jaminan Anda tetap berada di atas rasio agunan pemeliharaan {mr}.  Baca lebih lanjut. </ 0></p>
+Collateral and debt levels can be adjusted in any way you desire, as long as your collateral ratio stays above the maintenance collateral ratio of {mr}. [Read more.](dex/shorting)
