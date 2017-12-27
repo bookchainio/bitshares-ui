@@ -9,16 +9,16 @@
 - [Usulan transaksi](accounts/proposed.md)
 - [Hak Akses](accounts/permissions.md)
 - [Keanggotaan](accounts/membership.md)
-- [Market Pegged Assets](assets/mpa.md) 
+- [Market pegged Assets](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
 - [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
-- [Decentralized Exchange](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
-- Gateways 
+- [BitAssets diprivitalisasi](assets/privbitassets.md)
+- [Pertukaran desentalisasi](dex/introduction.md)
+- [Perdagangan](dex/trading.md)
+- [BitAssets Penjualan Singkat](dex/shorting.md)
+- Gateaway 
     - [OpenLedger](gateways/openledger.md)
     - [Rudex](gateways/rudex.md)
-    - [CryptoBridge](gateways/cryptobridge.md)
+    - [CrytoBridge](gateways/cryptobridge.md)
