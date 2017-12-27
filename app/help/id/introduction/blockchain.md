@@ -1,6 +1,6 @@
 # Blockchain
 
-As most crypto currencies, Graphene makes use of a blockchain to update participants about transfers and market activities. Since blocks always refer to the previous block, we get a chain of blocks (blockchain) that contains all transactions every made in the network. Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
+Sebagai mata uang yang paling kripto, Grafena membuat penggunaan blockchain untuk memperbarui peserta tentang transfer dan aktifitas pasar. Karena blok selalu merujuk pada blok sebelumnya, kita mendapatkan rantai blok (blockchain) yang berisi semua transaksi setiap dibuat dalam jaringan. Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
 
 Of course, this web wallet offers a block explorer to assist you with your audit.
 
