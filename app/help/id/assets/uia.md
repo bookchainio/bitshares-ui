@@ -1,5 +1,5 @@
-# Aktiva yang Diterbitkan
+# User Issued Assets
 
-Selain aset * yang dipatok di atas </ 0>, BitShares memungkinkan individu dan perusahaan untuk membuat dan menerbitkan token mereka sendiri untuk apa saja mereka bisa bayangkan Kasus penggunaan potensial untuk aset pengguna yang dikeluarkan oleh pengguna (UIA) tak terhitung banyaknya. Di satu sisi, UIA bisa dijadikan acara sederhana tiket diendapkan pada pelanggan ponsel untuk melewati pintu masuk a konser. Di sisi lain, mereka bisa digunakan untuk pendanaan, kepemilikan, Melacak atau bahkan menjual ekuitas suatu perusahaan dalam bentuk saham.</p> 
+In addition to the aforementioned *market pegged* assets, BitShares allows individuals and companies to create and issue their own tokens for anything they can imagine. The potential use cases for so called user-issued assets (UIA) are innumerable. On the one hand, UIAs can be used as simple event tickets deposited on the customers mobile phone to pass the entrance of a concert. On the other hand, they can be used for crowd funding, ownership tracking or even to sell equity of a company in form of stock.
 
-Jelas, peraturan yang berlaku untuk setiap jenis token sangat bervariasi dan bervariasi sering berbeda di setiap yurisdiksi. Makanya, BitShares hadir dengan tools itu izinkan emiten untuk tetap mematuhi semua peraturan yang berlaku saat menerbitkannya Aset yang mengasumsikan regulator mengizinkan aset tersebut berada di tempat pertama.
+Obviously, the regulations that apply to each kind of token vary widely and are often different in every jurisdiction. Hence, BitShares comes with tools that allow issuers to remain compliant with all applicable regulations when issuing assets assuming regulators allow such assets in the first place.
