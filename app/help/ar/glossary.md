@@ -1,3 +1,3 @@
-### Glossary
+### معجم المصطلحات
 
-[Back to index](index.md)
+[العودة إلى الفهرس](index.md)
