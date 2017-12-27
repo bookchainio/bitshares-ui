@@ -2,12 +2,12 @@
 
 Kedua jembatan dan gateway memungkinkan Anda untuk menyimpan dan menarik koin, namun ada perbedaan dalam jumlah kepercayaan yang Anda butuhkan untuk ditempatkan di penyedia layanan.
 
-### Bridges: trust-free model
+### Jembatan: model bebas kepercayaan
 
-A bridge service provides a way to deposit an amount of a crypto-currency other than BitShares, and in turn receive a SmartCoin equivalent. SmartCoins have no counterparty risk, so the only risk you experience when using a bridge is during the short time it takes to complete the transfer. This is better than a centralized exchange such as Poloniex, where you are always at risk of the exchange being hacked, going bankrupt, or experiencing any number of other issues.
+Layanan jembatan menyediakan cara untuk menyimpan sejumlah mata uang kripto selain BitShares, dan pada gilirannya menerima kesetaraan SmartCoin. SmartCoins tidak memiliki risiko counterparty, jadi satu-satunya risiko yang Anda alami saat menggunakan jembatan adalah dalam waktu singkat yang diperlukan untuk menyelesaikan transfer. Ini lebih baik daripada pertukaran terpusat seperti Poloniex, di mana Anda selalu berisiko ditukar dengan hack, bangkrut, atau mengalami sejumlah masalah lainnya.
 
-### Gateways: trust-based model
+### Gateways: model berbasis trust
 
-Gateways are basically equivalent to the standard exchange model where you depend on the solvency of the exchange to be able to redeem your coins. Generally gateways issue assets prefixed with their symbol, like OPEN, TRADE, or META. These assets are backed 100% by the real BTC or ETH or any other coin that people deposit with the gateways.
+Gateway pada dasarnya setara dengan model pertukaran standar di mana Anda bergantung pada solvabilitas pertukaran untuk dapat menukarkan koin Anda. Umumnya akun gateway mengeluarkan aset yang diawali dengan simbol mereka, seperti OPEN, TRADE, atau META. Aset ini didukung 100% oleh BTC atau ETH nyata atau koin lainnya yang orang depositkan dengan gateway.
 
-An OPEN.BTC is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, CCEDK for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
+OPEN.BTC dengan demikian secara teori setara dengan BTC yang Anda dapatkan di Poloniex, yang bisa diawali dengan POLO.BTC. Dalam kedua kasus tersebut Anda mengandalkan penyedia layanan, CCEDK untuk OPEN. aset dan Poloniex untuk POLO. aset, untuk tetap pelarut agar bisa mengembalikan nilai aset yang telah mereka keluarkan. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
