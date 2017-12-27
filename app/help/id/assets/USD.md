@@ -1,9 +1,9 @@
-[# ringkasan]
+[# summary]
 
-### Aset {simbol}
+### Asset {symbol}
 
-{deskripsi}
+{description}
 
-Diterbitkan oleh: {issuer}
+Issued by: {issuer}
 
-Dolar Amerika Serikat (tanda: $; symbol: USD) adalah mata uang resmi Amerika Serikat.
+The United States dollar (sign: $; symbol: USD) is the official currency of the United States of America.
