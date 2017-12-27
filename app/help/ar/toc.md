@@ -1,10 +1,10 @@
-#### Table of Contents
+#### الفهرس
 
 - [BitShares](introduction/bitshares.md)
-- [Wallet](introduction/wallets.md)
-- [Backups](introduction/backups.md)
+- [المحفظة](introduction/wallets.md)
+- [النسخ الإحتياطية](introduction/backups.md)
 - [Blockchain](introduction/blockchain.md)
-- [Voting](voting.md)
+- [التصويت](voting.md)
 - [Accounts](accounts/general.md)
 - [Proposed Transactions](accounts/proposed.md)
 - [Permissions](accounts/permissions.md)
@@ -13,9 +13,9 @@
     - bitUSD
     - bitEUR
     - bitGOLD
-- [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
-- [Decentralized Exchange](dex/introduction.md)
+- [الأصول الصادرة عن المستخدم](assets/uia.md)
+- [BitAssets التي تمت خصخصتها](assets/privbitassets.md)
+- [التبادلات اللامركزية](dex/introduction.md)
 - [Trading](dex/trading.md)
 - [Short Selling BitAssets](dex/shorting.md)
 - Gateways 
