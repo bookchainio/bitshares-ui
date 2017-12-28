@@ -1,6 +1,6 @@
-[# connection-error] We couldn't establish websocket connection to a full node.
+[# Koneksi-error] Kita tidak bisa membuat sambungan websocket ke sebuah node yang penuh.
 
-Possible reasons: TODO
+Kemungkinan alasan: TODO
 
-- reason #1
-- reason #2
+- alasan #1
+- alasan #2
