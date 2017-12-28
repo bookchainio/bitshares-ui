@@ -2,5 +2,5 @@
 
 Possible reasons: TODO
 
-- reason #1
-- reason #2
+- السبب #1
+- السبب #2
