@@ -2,4 +2,4 @@
 
 Setelah pembuatan, Anda hanya dapat menghapus izin diberikan, Anda tidak dapat mengaktifkan izin yang di nonaktifkan pada penciptaan.
 
-[# flags] Flags define which asset features are active or inactive. They can be switched on and off by the asset owner at any time.
+[# bendera] Bendera menentukan fitur aset aktif dan tidak aktif. Mereka dapat diaktifkan dan dinonaktifkan oleh pemilik aset setiap saat.
