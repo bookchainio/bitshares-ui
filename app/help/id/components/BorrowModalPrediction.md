@@ -1,3 +1,3 @@
-This is a binary prediction market.
+Ini adalah pasar prediksi biner.
 
-The collateral ratio of this market is 1:1.
+Rasio agunan pasar ini adalah 1:1.
