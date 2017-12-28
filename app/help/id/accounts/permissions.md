@@ -17,7 +17,7 @@ Untuk mendapatkan transaksi yang valid, jumlah bobot dari penandatanganan para p
 
 # Contoh
 
-Mari kita bahas beberapa contoh untuk memberi penjelasan tentang terminologi yang digunakan dan use case. Kami berasumsi bahwa akun baru dibuat dengan izin aktifnya ditetapkan seperti yang dijelaskan di bawah ini. Perhatikan bahwa skema yang sama juga berlaku bagi pemiliknya izin!
+Mari kita bahas beberapa contoh untuk memberi penjelasan tentang terminologi yang digunakan dan use-case. Kami berasumsi bahwa akun baru dibuat dengan izin aktifnya ditetapkan seperti yang dijelaskan di bawah ini. Perhatikan bahwa skema yang sama juga berlaku bagi pemiliknya izin!
 
 ## (Flat) Multi-Signature
 
