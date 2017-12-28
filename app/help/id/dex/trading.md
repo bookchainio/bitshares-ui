@@ -27,7 +27,7 @@ Jelas, apa yang ada di sisi penawaran dari pasangan USD: EUR akan berada di sisi
 
 ## Perdagangan
 
-Untuk menempatkan order perdagangan, Anda harus mengisi formulir di * ask * atau sisi * bid * (masing-masing, * beli </ 0> atau * jual * samping). Anda perlu mendefinisikannya harga * * dan * jumlah * untuk menjual/membeli. The cost for this order will be calculated automatically. Perhatikan bahwa akan ada biaya tambahan yang diperlukan untuk benar-benar memesan.</p> 
+Untuk menempatkan order perdagangan, Anda harus mengisi formulir di * ask * atau sisi * bid * (masing-masing, * beli </ 0> atau * jual * samping). Anda perlu mendefinisikannya harga * * dan * jumlah * untuk menjual/membeli. Biaya untuk pesanan ini adalah dihitung secara otomatis. Perhatikan bahwa akan ada biaya tambahan yang diperlukan untuk benar-benar memesan.</p> 
 
 Setelah pesanan terisi (yaitu seseorang menjual/membeli penawaran Anda), akun Anda akan dikreditkan oleh aset yang bersangkutan.
 
