@@ -8,22 +8,22 @@ A *reguler* akun adalah *bukan-anggota</​​0>.</p>
 
 ## Anggota seumur hidup
 
-Lifetime Members get a percentage cashback on every transaction fee they pay and qualify to earn referral income from users they register with or referer to the network. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+Anggota Lifetime mendapatkan persentase cashback pada setiap biaya transaksi yang mereka bayar dan memenuhi syarat untuk mendapatkan pendapatan rujukan dari pengguna yang mereka daftarkan atau rujuk ke jaringan. Keanggotaan seumur hidup dikaitkan dengan biaya satu kali tertentu yang ditentukan oleh panitia.
 
-## Anual Members
+## Anggota Anual
 
-If a lifetime membership is too much you can still get the same cashback for the next year by becoming an annual subscriber for a smaller one-time fee which lasts for only one year.
+Jika keanggotaan seumur hidup terlalu banyak, Anda masih bisa mendapatkan cashback yang sama untuk tahun depan dengan menjadi pelanggan tahunan dengan biaya satu kali lebih kecil yang hanya bertahan satu tahun.
 
-### Fee Division
+### Divisi Fee
 
-Every time an account you referred pays a transaction fee, that fee is divided among several different accounts. The network takes a cut, and the Lifetime Member who referred the account gets a cut.
+Setiap kali akun yang Anda referensikan membayar biaya transaksi, biaya tersebut dibagi di antara beberapa akun yang berbeda. Jaringan mengambil jalan pintas, dan Lifetime Member yang menyebut akun tersebut mendapat potongan.
 
-The registrar is the account that paid the transaction fee to register the account with the network. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
+Registrar adalah akun yang membayar biaya transaksi untuk mendaftarkan akun dengan jaringan. Pendaftar bisa memutuskan bagaimana membagi biaya yang tersisa antara mereka dan afiliasi mereka sendiri.
 
-### Pending Fees
+### Biaya tertunda
 
-Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
+Biaya yang dibayarkan hanya dibagi antara jaringan, perujuk, dan pendaftar setiap interval perawatan.
 
-### Vesting Fees
+### Biaya rompi
 
-Most fees are made available immediately, but fees over the vesting threshold (such as those paid to upgrade your membership or register a premium account name) must vest for some days as defined by the committee.
+Sebagian besar biaya segera tersedia, namun biaya di atas ambang vesting (seperti yang dibayarkan untuk meningkatkan keanggotaan Anda atau mendaftarkan nama akun premium) harus dilewati beberapa hari seperti yang ditentukan oleh panitia.
