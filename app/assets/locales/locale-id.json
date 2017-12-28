@@ -81,7 +81,7 @@
         "withdraw_full": "Klik untuk menarik saldo penuh",
         "withdraw_address": "Anda belum memiliki alamat %(asset)s, temukan penyedia dompet dan buat satu untuk menyelesaikan penarikan.",
         "memo_tip": "Anda bisa memasukkan pesan apapun di kolom memo. Memo bersifat opsional namun umumnya diperlukan untuk transfer ke bursa.",
-        "generate": "The generated password was created by your browser, locally. <br /><br /><strong>No one but you has access to it</strong>.<br /><br /> Paste it below and save a copy in a safe place",
+        "generate": "Kata sandi yang dihasilkan dibuat oleh browser Anda, secara lokal. <br/> <br/> <strong> Tak seorang pun kecuali Anda memiliki akses ke sana </ strong>. <br/> <br/> Tempelkan di bawah dan simpan salinan nya di tempat yang aman",
         "copy_password": "Click here to copy the password to your clipboard",
         "sync_yes": "The current node is in sync with the blockchain",
         "sync_no": "The current node is out of sync with the blockchain, try switching to another one",
