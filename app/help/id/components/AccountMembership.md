@@ -2,11 +2,11 @@
 
 ### Mendapatkan {feesCashback}% Cashback biaya
 
-Anggota seumur hidup memperoleh {feesCashback}% cashback setiap transaksi biaya mereka membayar dan memenuhi syarat untuk memperoleh penghasilan referral dari pengguna mereka mendaftar atau merujuk ke jaringan. A Lifetime Membership is just {price}.
+Anggota seumur hidup memperoleh {feesCashback}% cashback setiap transaksi biaya mereka membayar dan memenuhi syarat untuk memperoleh penghasilan referral dari pengguna mereka mendaftar atau merujuk ke jaringan. Keanggotaan adalah seumur hidup adalah {price}.
 
 [# pembagian-biaya]
 
-#### Pembagian biaya
+#### Biaya Divisi
 
 Setiap kali {account} membayar biaya transaksi, biaya yang dibagi antara beberapa akun yang berbeda. Jaringan mengambil pemotongan {networkFee}%, dan Anggota Lifetime yang merujuk {account} mendapat potongan {lifetimeFee}%.
 
