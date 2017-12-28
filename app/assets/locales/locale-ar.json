@@ -26,7 +26,7 @@
     "sync_fail": {
         "title": "فشل المزامنة مع ملقم ال API",
         "sub_text_1": "الرجاء التحقق من أن ساعة جهاز الكمبيوتر الخاص بك مضبوطة بشكل صحيح.",
-        "sub_text_2": "Once you've synchronized your clock, please refresh this page.<br/><br/>If your clock is already correct, the API server you're using could be out of sync. In that case, please try a different server from the list below."
+        "sub_text_2": "بمجرد مزامنة ساعة الكمبيوتر الخاص بك، الرجاء تحديث هذه الصفحة. <br/> <br/> إذا كانت ساعتك بالفعل صحيحة، يمكن أن يكون ملقم API الذي تستخدمه غير متزامن. وفي هذه الحالة، يرجى إختيار ملقم مختلف من القائمة أدناه."
     },
     "header": {
         "title": "واجهة المستخدم BitShares",
@@ -48,7 +48,7 @@
         "unlock_short": "تسجيل الدخول",
         "lock_short": "تسجيل الخروج",
         "help": "المساعدة",
-        "locked_tip": "<br/>Click to login.<br/><br/>Closing the browser window will also log you out.",
+        "locked_tip": "<br/> انقر لتسجيل الدخول. <br/> <br/> إغلاق نافذة المتصفح سيؤدي أيضا إلى تسجيل الخروج.",
         "unlocked_tip": "<br/>Click to log out.<br/><br/>Closing the browser window will also log you out.",
         "account_notify": "الحساب النشط الآن هو %(account)s",
         "account_value": "قيمة الحساب"
