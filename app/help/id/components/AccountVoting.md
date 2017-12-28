@@ -1,7 +1,7 @@
-### Voting
+### Pemungutan suara
 
-Voting in BitShares is important for both the security and the development of the network. Votes determine which Witnesses are selected to handle the network, which Committee Members have the power to vote on important policies and which Worker Proposals are accepted to improve or expand features.
+Voting di BitShares sangat penting untuk keamanan dan pengembangan jaringan. Suara menentukan Saksi mana yang dipilih untuk menangani jaringan, Anggota Komite mana yang memiliki hak untuk memberikan suara pada kebijakan penting dan Proposal Pekerja diterima untuk memperbaiki atau memperluas fitur.
 
-If you don't fully understand the various roles listed above, you may choose to delegate your voting power to a Proxy, who can then vote on your behalf. If you do choose to use a Proxy, you will be unable to vote for Witnesses, Committee Members and Worker Proposals. You can always release your proxy at a later date if you decide to participate in the full voting process.
+Jika Anda tidak sepenuhnya memahami berbagai peran yang tercantum di atas, Anda dapat memilih untuk mendelegasikan kekuatan suara Anda ke Proxy, yang kemudian dapat memilih atas nama Anda. Jika Anda memilih untuk menggunakan Proxy, Anda akan mampu memilih saksi, anggota Komite dan pekerja proposal. Anda selalu dapat melepaskan proxy Anda di kemudian hari jika Anda memutuskan untuk berpartisipasi dalam proses pemungutan suara penuh.
 
-**Be sure to select Publish Changes once you've made your selection.**
+**** Pastikan untuk memilih mempublikasikan perubahan di atas setelah Anda membuat pilihan Anda </ 0>.**</p>
