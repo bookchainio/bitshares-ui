@@ -1,12 +1,12 @@
-# Memberships
+# Keanggotaan
 
-Accounts in BitShares are separated into three groups. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
+Account di BitShares dipisahkan menjadi tiga kelompok. Kami memutuskan untuk memberi pengguna opsi untuk meningkatkan akun mereka menjadi status seperti VIP jika mereka menginginkan dan mendapatkan keuntungan dari pengurangan biaya dan fitur tambahan.
 
-## Non-Members
+## Bukan anggota
 
-A *regular* account is a *non-member*.
+A *reguler* akun adalah *bukan-anggota</​​0>.</p> 
 
-## Lifetime Members
+## Anggota seumur hidup
 
 Lifetime Members get a percentage cashback on every transaction fee they pay and qualify to earn referral income from users they register with or referer to the network. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
 
