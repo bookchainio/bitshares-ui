@@ -1,3 +1,3 @@
-Active permissions define the accounts that have permission to spend funds for this account.
+Izin aktif menentukan akun yang memiliki izin untuk membelanjakan dana untuk akun ini.
 
-They can be used to easily setup a multi-signature scheme, see [permissions](accounts/permissions) for more details.
+Mereka dapat digunakan untuk mengatur skema multi-tanda tangan dengan mudah, lihat perizinan untuk lebih jelasnya.
