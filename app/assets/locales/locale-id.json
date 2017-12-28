@@ -82,7 +82,7 @@
         "withdraw_address": "Anda belum memiliki alamat %(asset)s, temukan penyedia dompet dan buat satu untuk menyelesaikan penarikan.",
         "memo_tip": "Anda bisa memasukkan pesan apapun di kolom memo. Memo bersifat opsional namun umumnya diperlukan untuk transfer ke bursa.",
         "generate": "Kata sandi yang dihasilkan dibuat oleh browser Anda, secara lokal. <br/> <br/> <strong> Tak seorang pun kecuali Anda memiliki akses ke sana </ strong>. <br/> <br/> Tempelkan di bawah dan simpan salinan nya di tempat yang aman",
-        "copy_password": "Click here to copy the password to your clipboard",
+        "copy_password": "Klik di sini untuk menyalin kata sandi ke clipboard Anda",
         "sync_yes": "The current node is in sync with the blockchain",
         "sync_no": "The current node is out of sync with the blockchain, try switching to another one",
         "disconnected": "You are not connected to an API node, try reloading or setting a new access point in the Settings",
