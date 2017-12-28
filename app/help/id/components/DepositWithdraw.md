@@ -1,8 +1,8 @@
-[# receive]
+[# menerima]
 
-### Receiving BTS
+### Menerima BTS
 
-In order to receive BTS from another person or from an exchange, simply give them your account name: **{account}**
+Untuk menerima BTS dari orang lain atau dari bursa, cukup beri mereka nama akun Anda: ** {account} **
 
 [# deposit-short]
 
