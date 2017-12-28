@@ -8,4 +8,4 @@ Untuk menerima BTS dari orang lain atau dari bursa, cukup beri mereka nama akun 
 
 ### Depositing or withdrawing coins
 
-If you want to deposit or withdraw funds, either in fiat or from other blockchains, you may use a [bridge](introduction/bridges_gateways) or [gateway](introduction/bridges_gateways) service to do so.
+Jika Anda ingin menyetor atau menarik dana, fiat atau dari blockchains lain, Anda dapat menggunakan layanan [jembatan](introduction/bridges_gateways) atau [gateway](introduction/bridges_gateways) untuk melakukannya.
