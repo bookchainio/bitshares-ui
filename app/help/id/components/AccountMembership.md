@@ -8,7 +8,7 @@ Anggota seumur hidup memperoleh {feesCashback}% cashback setiap transaksi biaya 
 
 #### Pembagian biaya
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+Setiap kali {account} membayar biaya transaksi, biaya yang dibagi antara beberapa akun yang berbeda. Jaringan mengambil pemotongan {networkFee}%, dan Anggota Lifetime yang merujuk {account} mendapat potongan {lifetimeFee}%.
 
 The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
