@@ -2,15 +2,15 @@
     "counterpart": {
         "formats": {
             "date": {
-                "short_custom": "%e %b '%y",
-                "market_history": "%e/%m %H:%M:%S",
+                "short_custom": "%e%b'%y",
+                "market_history": "%e/% m%H:%M%S",
                 "market_history_us": "%m/%e %H:%M:%S"
             }
         }
     },
     "languages": {
         "en": "English",
-        "zh": "Cina Sederhana",
+        "zh": "简体 中文",
         "fr": "Français",
         "ko": "한국어",
         "de": "Deutsch",
@@ -1335,16 +1335,16 @@
         "assets": {
             "open": "<br/><br/>The %(asset)s asset is backed 1:1 by real %(backed)s and can be deposited or withdrawn using the gateway service provided by Openledger.",
             "trade": "<br/> <br/> The % (aset) s aset didukung 1: 1 dengan nyata % (didukung) s dan dapat disimpan atau ditarik menggunakan layanan gateway disediakan oleh Blocktrades.",
-            "bit": "<br/>bit%(asset)s is a derivative that tracks the real value of %(backed)s. It is 100%% decentralized, trustless and backed by collateral held by the blockchain in a smart contract.",
-            "bitcny": "<br/><br/>bitCNY can be deposited or withdrawn 1:1 to real Yuan using a gateway service such as Magic Wallet. For more info, see https://www.magicw.net/"
+            "bit": "<br/> bit % (aset) adalah derivatif yang melacak nilai sebenarnya dari % (didukung) s. Ini adalah 100 %% yang terdesentralisasi, tidak berdaya dan didukung oleh agunan yang dipegang oleh blockchain dalam sebuah kontrak yang cerdas.",
+            "bitcny": "<br/> <br/> bitCNY dapat disetorkan atau ditarik 1: 1 ke real Yuan menggunakan layanan gateway seperti Magic Wallet. Untuk info lebih lanjut, lihat https://www.magicw.net/"
         },
-        "your_account": "Your account",
-        "bitkapital_text": "Choose an asset to deposit or withdraw:",
-        "bitkapital_withdraw": "You are withdrawing",
-        "bitkapital_receive": "You will receive",
+        "your_account": "Akun Anda",
+        "bitkapital_text": "Pilihlah aset untuk deposit atau withdraw:",
+        "bitkapital_withdraw": "Anda menarik diri",
+        "bitkapital_receive": "Anda akan menerima",
         "iban": "IBAN",
-        "service": "Transfer Service",
-        "bridge": "Bridge",
+        "service": "Layanan Transfer",
+        "bridge": "Jembatan",
         "gateway": "Gateway",
         "symbol": "Symbol",
         "website": "Visit the website",
@@ -1398,66 +1398,66 @@
         "deposit_limit": "Deposit limit",
         "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\">with memo</span> %(memo)s",
         "rudex": {
-            "support_block": "For support, please contact RuDEX at:",
-            "min_amount": "Minimum amount: %(minAmount)s %(symbol)s",
-            "min_amount_error": "Please enter number >= minimum",
-            "coming_soon": "Coming soon"
+            "support_block": "Untuk dukungan, silahkan menghubungi RuDEX di:",
+            "min_amount": "Jumlah minimum: % (minAmount) s% (simbol) s",
+            "min_amount_error": "Harap masukkan nomor> = minimum",
+            "coming_soon": "Segera akan datang"
         },
-        "unavailable": "The gateway service for this asset is currently down, please try again later",
-        "unavailable_bridge": "The bridge service for this asset is currently down, please try again later",
-        "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
-        "unavailable_RUDEX": "The RuDEX Gateway is down or not responding",
-        "unavailable_TRADE": "The Blocktrades Bridge is down or not responding",
-        "contact_TRADE": "Contact Blocktrades",
-        "over_limit": "Limit Reached",
+        "unavailable": "Layanan gateway untuk aset ini saat ini turun, coba lagi nanti",
+        "unavailable_bridge": "Layanan jembatan untuk aset ini saat ini turun, coba lagi nanti",
+        "unavailable_OPEN": "Gateway OpenLedger sedang down atau tidak merespons",
+        "unavailable_RUDEX": "Gateway RuDEX sedang down atau tidak merespons",
+        "unavailable_TRADE": "Jembatan Blocktrades tidak aktif atau tidak merespons",
+        "contact_TRADE": "Hubungi Blocktrade",
+        "over_limit": "Batas Tercapai",
         "agreement": {
-            "hint": "I have read and agreed to",
-            "name": "《Service Agreement》",
-            "register": "Agree",
-            "notice": "Please check the agreement to continue"
+            "hint": "Saya telah membaca dan menyetujui",
+            "name": "\"Perjanjian Layanan\"",
+            "register": "Setuju",
+            "notice": "Silakan periksa kesepakatan untuk melanjutkan"
         },
-        "deposit_warning": "Sending any other currency to the %(asset)s address will result in the loss of your deposit",
+        "deposit_warning": "Mengirim mata uang lain ke alamat % (aset) akan mengakibatkan hilangnya setoran Anda",
         "time": "Time",
         "info": "Info",
         "status": "Status",
-        "asset_unavailable": "The gateway for %(asset)s is not in service",
-        "user_unavailable": "User informaction is current unavailable, please try again later",
-        "frozen": "The user account %(account)s was frozen",
-        "transaction_history_info": " %(amount)s %(assetName)s with trancation id: %(txid)s ",
-        "support_gdex": "For support, please contact GDEX",
+        "asset_unavailable": "Gateway untuk % (aset) s tidak dalam pelayanan",
+        "user_unavailable": "Informasi pengguna saat ini tidak tersedia, silakan coba lagi nanti",
+        "frozen": "Akun pengguna % (akun) dibekukan",
+        "transaction_history_info": " % (jumlah) s% (asetName) dengan id trancation: % (txid) s ",
+        "support_gdex": "Untuk dukungan, silahkan hubungi GDEX",
         "withdraw_history_status": {
-            "confirming": "confirming",
-            "auditing": "withdraw auditing",
-            "audited": "auditting completed",
-            "refused": "auditting failed",
-            "transfering": "transfering",
-            "success": "success",
-            "fail": "fail"
+            "confirming": "mengkonfirmasikan",
+            "auditing": "menarik audit",
+            "audited": "audit selesai",
+            "refused": "audit gagal",
+            "transfering": "mentransfer",
+            "success": "keberhasilan",
+            "fail": "gagal"
         },
         "deposit_history_status": {
-            "confirming": "deposit confirming",
-            "waiting": "waiting for deposit",
-            "transfering": "transfering",
-            "success": "success",
-            "fail": "fail"
+            "confirming": "deposit mengkonfirmasikan",
+            "waiting": "menunggu deposit",
+            "transfering": "mentransfer",
+            "success": "keberhasilan",
+            "fail": "gagal"
         }
     },
     "trx_error": {
-        "expire": "Your transaction has expired without being confirmed, please try again later."
+        "expire": "Transaksi Anda telah kedaluwarsa tanpa dikonfirmasi, silakan coba lagi nanti."
     },
     "migration": {
-        "title": "Notice",
-        "announcement_1": "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
-        "text_1": "Local wallet detected",
-        "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
-        "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
+        "title": "Melihat",
+        "announcement_1": "Sebagai upaya untuk memberikan keamanan yang lebih baik untuk dompet berbasis web, kami memigrasikannya, segera berlaku ke alamat di bawah ini. Pastikan untuk memperbarui bookmark yang mungkin Anda miliki.",
+        "text_1": "Dompet lokal terdeteksi",
+        "text_2": "Tolong cadangkan dompet Anda sekarang dan pulihkan file cadangan ke <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'> https://wallet.bitshares.org </a >, yang akan menjadi alamat baru Anda untuk dompet web. Terima kasih atas dukunganmu.",
+        "text_3": "Gunakan <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'> https://wallet.bitshares.org </a> mulai sekarang, kredensial Anda yang ada akan Biarkan Anda masuk ke sana juga."
     },
     "news": {
-        "news": "News",
-        "author": "Author",
-        "subject": "Subject",
+        "news": "Berita",
+        "author": "Penulis",
+        "subject": "Subyek",
         "errors": {
-            "fetch": "Ops... Something went wrong fetching the news"
+            "fetch": "Ops... Ada yang salah mengambil berita"
         }
     }
 }
