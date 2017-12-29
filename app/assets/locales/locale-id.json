@@ -520,14 +520,14 @@
         "witness_create": "{account} ditingkatkan menjadi saksi",
         "witness_update": "{account} perbarui info kesaksiannya",
         "witness_pay": "Menarik saksi membayar ke rekening",
-        "witness_receive": "Received witness from witness",
-        "committee_member_update_global_parameters": "{account} updated the global committee parameters",
-        "worker_create": "{account} created a worker proposal with daily pay of {pay}",
-        "override_transfer": "{issuer} transferred {amount} from {from} to {to}"
+        "witness_receive": "Menerima saksi dari saksi",
+        "committee_member_update_global_parameters": "{account} memperbarui parameter komite global",
+        "worker_create": "{account} membuat proposal pekerja dengan gaji harian {pay}",
+        "override_transfer": "{issuer} ditransfer {amount} dari {from} ke {to}"
     },
     "proposal": {
-        "transfer": "Transfer {amount} from {from} to {to}",
-        "limit_order_create": "Place order to buy %(buy_amount)s for %(sell_amount)s for %(account)s",
+        "transfer": "Transfer {amount} dari {from} ke {to}",
+        "limit_order_create": "Tempatkan untuk membeli %(buy_amount)s untuk %(sell_amount)s untuk %(account)s",
         "limit_order_sell": "Place an order to sell {amount} at {price} for {account}",
         "limit_order_buy": "Place an order to buy {amount} at {price} for {account}",
         "committee_member_update_global_parameters": "Update committee global parameters by {account}",
