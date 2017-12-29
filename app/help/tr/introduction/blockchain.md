@@ -1,8 +1,8 @@
 # Blokzinciri
 
-As most crypto currencies, Graphene makes use of a blockchain to update participants about transfers and market activities. Since blocks always refer to the previous block, we get a chain of blocks (blockchain) that contains all transactions every made in the network. Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
+Çoğu şifreleme para birimi olan Graphene, transferleri ve piyasa faaliyetleri hakkında katılımcıları güncellemek için bir blockchain kullanıyor. Bloklar hep bir önceki bloğa işaret ettiğinden, ağda yapılan her işlemi içeren bir blockchain'e (blok zinciri) sahibiz. Blok zinciri herkes tarafından erişilebilir ve denetlenebilir bir defterdir. Herkes, piyasa emirlerinin ve sipariş kitaplarının yanı sıra transferleri de yakından inceleyebilir ve doğrulayabilir.
 
-Of course, this web wallet offers a block explorer to assist you with your audit.
+Elbette, bu web cüzdanında denetiminizde size yardımcı olacak bir blok araştırmacı bulunur.
 
 ## Uzlaşma Mekanizması
 
