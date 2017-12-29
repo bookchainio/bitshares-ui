@@ -31,4 +31,4 @@ To place a trading order, it is required to fill the form on either the *ask* or
 
 Sipariş doldurulduğunda (diğer birisi teklifinizi sattı / satın aldı), hesabınız ilgili varlık tarafından gösterilir.
 
-Unfilled orders can be canceled at any time.
+Doldurulmamış siparişler istediğiniz zaman iptal edilebilir.
