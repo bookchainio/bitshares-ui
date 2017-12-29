@@ -8,4 +8,4 @@ CryptoBridge, Bitshares Exchange'de kurulmuş bir ağ geçidi hizmetidir. Kripto
 
 ## Destek
 
-CryptoBridge is still finalizing their gateway service and is not yet fully operational to the general public.
+CryptoBridge hala ağ geçidi servisini tamamlıyor ve henüz genel kamuoyunda tam olarak aktif değil.
