@@ -310,7 +310,7 @@
             "verifying": "التحقق من ذلك، الرجاء الانتظار...",
             "invalidformat": "لا يمكن التعرف على تنسيق الرسالة الموقعة",
             "invaliduser": "حساب مرسل الرسالة غير صحيح",
-            "invalidsignature": "The content of the message could not be validated against the signature",
+            "invalidsignature": "لا يمكن التحقق من صحة مضمون الرسالة مقابلة التوقيع",
             "errorverifying": "An error occured while verifying the message",
             "keymismatch": "Given public key of the sender doesn't to the one stored in the senders account",
             "sign": "Sign",
