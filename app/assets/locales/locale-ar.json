@@ -322,11 +322,11 @@
             "verifyonchange": "تحقق أثناء الكتابة"
         },
         "votes": {
-            "proxy_current": "Your current proxy is",
+            "proxy_current": "الوكيل الحالي الخاص بك",
             "proxy_short": "Proxy",
-            "workers_short": "Workers",
-            "proxy": "Manually enter an account as your proxy",
-            "no_proxy": "No Proxy",
+            "workers_short": "العمال",
+            "proxy": "أدخل حساب الوكيل الخاص بك يدوياً",
+            "no_proxy": "لا يوجد وكيل",
             "clear_proxy": "Remove proxy",
             "go_proxy": "Go to",
             "name": "Name",
@@ -349,7 +349,7 @@
             "votes_against": "Votes against",
             "daily_pay": "Daily Pay",
             "daily": "daily",
-            "max_pay": "Maximum total pay",
+            "max_pay": "الأجر الإجمالي الأقصى",
             "unclaimed": "Unclaimed pay",
             "status": {
                 "title": "Status",
@@ -367,7 +367,7 @@
             "new": "Proposed(%(count)s)",
             "active": "Active(%(count)s)",
             "w_approved_by": "Witnesses approved by %(account)s",
-            "w_not_approved_by": "Witnesses not approved by %(account)s",
+            "w_not_approved_by": "الشهود التي لم يوافق عليها %(account)s",
             "cm_approved_by": "Committee members approved by %(account)s",
             "cm_not_approved_by": "Committee members not approved by %(account)s",
             "already": "Account is already in the list",
