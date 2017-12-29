@@ -1187,28 +1187,28 @@
         "link_transfer": "Transfer",
         "tips_settings": "Ubah pengaturannya",
         "tips_account": "Lihat akun baru Anda",
-        "link_account": "Account",
-        "wallet_new": "New BitShares account",
-        "create_w_a": "Create a local wallet containing an account",
-        "create_a": "Create a new blockchain account",
-        "create_success": "Your local wallet has been created",
-        "all_set": "You're all set!",
-        "step_1": "Create a wallet",
+        "link_account": "Rekening",
+        "wallet_new": "Akun BitShares baru",
+        "create_w_a": "Buat dompet lokal yang berisi akun",
+        "create_a": "Buat akun blockchain baru",
+        "create_success": "Dompet lokal Anda telah dibuat",
+        "all_set": "Anda sudah siap!",
+        "step_1": "Buat dompet",
         "step_2": "Create a backup",
-        "step_3": "Getting Started",
-        "congrat": "Congratulations, you're ready!",
-        "tips_explore": "Now that you've successfully created an account and downloaded the backup, it's time to get started. Click on one of the links below to start exploring.",
-        "tips_header": "You can also find these same links in the top menu, and in the drop-down menu next to your account name.",
-        "tips_login": "IMPORTANT: There is no login/logout functionality here, you merely unlock your wallet when you wish to make a transaction.",
-        "import_key_success": "Successfully imported %(count)s keys.",
-        "brainkey_seq_reset": "Reset brainkey sequence",
-        "brainkey_seq_reset_text": "Use this to reset the sequence counter used to derive private keys from the wallet brainkey.<br />It can be used to force a regeneration of private keys from your wallet brain key.",
-        "brainkey_seq_reset_button": "Reset now",
-        "brainkey_reset_success": "Sequence reset. In order to regenerate your private keys from the wallet brain key, refresh your browser then unlock the wallet.",
-        "wallet_password": "Login anywhere using your password",
-        "password_lose_warning": "<strong>IMPORTANT: If you forget your pass phrase you will be unable to access your account, we cannot reset or restore your password! Make sure you memorize or write down your password!</strong>",
-        "password_crucial": "In case you haven't already done so, it is crucial that you take the time to write down your password now, whether it be on paper, a password manager, or somewhere else. If you lose or forget this password your account will be lost, <strong>we cannot help you get it back</strong>.",
-        "password_show": "Show me my password",
+        "step_3": "Mulai",
+        "congrat": "Selamat, kamu sudah siap!",
+        "tips_explore": "Setelah berhasil membuat akun dan mengunduh cadangan, sekarang saatnya untuk memulai. Klik salah satu link di bawah ini untuk mulai mengeksplorasi.",
+        "tips_header": "Anda juga dapat menemukan tautan yang sama ini di menu paling atas, dan di menu drop-down di sebelah nama akun Anda.",
+        "tips_login": "PENTING: Tidak ada fungsi login / logout di sini, Anda hanya membuka dompet saat Anda ingin melakukan transaksi.",
+        "import_key_success": "Berhasil mengimpor kunci % (hitungan).",
+        "brainkey_seq_reset": "Setel ulang urutan otak otak",
+        "brainkey_seq_reset_text": "Gunakan ini untuk mengatur ulang penghitung urutan yang digunakan untuk mendapatkan kunci pribadi dari brainkey dompet. <br /> Ini bisa digunakan untuk memaksa regenerasi kunci pribadi dari kunci otak dompet Anda.",
+        "brainkey_seq_reset_button": "Set ulang sekarang",
+        "brainkey_reset_success": "Urutan reset. Untuk menumbuhkan kunci pribadi Anda dari kunci otak dompet, segarkan browser Anda lalu buka dompetnya.",
+        "wallet_password": "Login dimana saja dengan menggunakan kata sandi anda",
+        "password_lose_warning": "<strong> PENTING: Jika Anda lupa frasa sandi Anda, Anda tidak dapat mengakses akun Anda, kami tidak dapat menyetel ulang atau mengembalikan kata sandi Anda! Pastikan Anda menghafal atau menuliskan kata sandi Anda! </ strong>",
+        "password_crucial": "Jika Anda belum melakukannya, penting bagi Anda meluangkan waktu untuk menuliskan kata sandi Anda sekarang, baik itu di atas kertas, manajer kata sandi, atau di tempat lain. Jika Anda kehilangan atau lupa kata sandi ini, akun Anda akan hilang, <strong> kami tidak dapat membantu Anda mendapatkannya kembali </strong>.",
+        "password_show": "Tunjukkan kata sandi saya",
         "tips_explore_pass": "Now that you've successfully created an account and backed up your password, it's time to get started. Click on one of the links below to start exploring.",
         "create_account_password_text": "The keys for this new account will be derived using your password. <strong>Nothing is stored in the browser or in a central server, so you will need to ensure you remember this password!!</strong> Store it using a password manager or by writing it down manually.",
         "create_password": "Create a new account using a password",
@@ -1277,64 +1277,64 @@
             "submit": "Ok"
         },
         "settle": {
-            "title": "Request settlement of %(asset)s",
-            "amount": "Amount to settle",
-            "submit": "Settle asset"
+            "title": "Permintaan penyelesaian % (aset) s",
+            "amount": "Jumlah untuk menyelesaikan",
+            "submit": "Selesaikan aset"
         },
         "reserve": {
-            "title": "Burn (reserve) asset",
-            "amount": "Amount to burn",
-            "from": "Account to burn from",
-            "submit": "Burn"
+            "title": "Burn (cadangan) aset",
+            "amount": "Jumlah untuk membakar",
+            "from": "Akun untuk dibakar",
+            "submit": "Membakar"
         },
         "confirmation": {
-            "title": "The address you entered does not appear valid, are you sure you want to make the withdrawal?",
-            "accept": "Yes",
-            "cancel": "No"
+            "title": "Alamat yang Anda masukkan tidak tampak valid, apakah Anda yakin ingin melakukan penarikan?",
+            "accept": "Iya nih",
+            "cancel": "Tidak"
         },
         "proposals": {
-            "pay_with": "Pay with account",
-            "approval_add": "Approval to add",
-            "approval_remove": "Approval to remove",
-            "key_approval_add": "Key approval to add",
-            "key_approval_remove": "Key approval to remove"
+            "pay_with": "Bayar dengan akun",
+            "approval_add": "Persetujuan untuk menambahkan",
+            "approval_remove": "Persetujuan untuk menghapus",
+            "key_approval_add": "Persetujuan utama untuk menambahkan",
+            "key_approval_remove": "Persetujuan kunci untuk menghapus"
         },
-        "ok": "OK",
+        "ok": "Baik",
         "qrcode": {
-            "label": "qrcode",
-            "title": "Private key QR code",
-            "input_message": "Please enter a password used to encrypt the QR code.<br />An empty password will show an unencrypted QR code."
+            "label": "kode qR",
+            "title": "Kode QR kunci pribadi",
+            "input_message": "Masukkan kata sandi yang digunakan untuk mengenkripsi kode QR. <br /> Kata sandi kosong akan menampilkan kode QR yang tidak terenkripsi."
         }
     },
     "init_error": {
-        "title": "Application initialization issues",
-        "ws_status": "Full node connection status",
-        "retry": "Retry",
-        "connected": "Connected",
-        "not_connected": "Not connected",
-        "browser": "Unsupported browser",
-        "browser_text": "The Browser you are using has not been fully tested to support the BitShares Wallet. We highly recommend that you backup your local wallet and import it using the Chrome Browser until we have had more time to fully test your browser of choice. Use at your own risk.",
-        "understand": "I understand"
+        "title": "Masalah inisialisasi aplikasi",
+        "ws_status": "Status koneksi simpul penuh",
+        "retry": "Mencoba kembali",
+        "connected": "Terhubung",
+        "not_connected": "Tidak terhubung",
+        "browser": "Browser tidak didukung",
+        "browser_text": "Browser yang Anda gunakan belum sepenuhnya diuji untuk mendukung Dompet BitShares. Sebaiknya cadangkan dompet lokal Anda dan impor menggunakan Browser Chrome sampai kami memiliki lebih banyak waktu untuk sepenuhnya menguji peramban pilihan Anda. Gunakan dengan risiko Anda sendiri.",
+        "understand": "Saya mengerti"
     },
     "refcode": {
-        "claim": "Claim",
-        "claim_refcode": "Claim Referral Code",
-        "refcode_optional": "Referral Code (optional)",
-        "enter_refcode": "Enter referral code"
+        "claim": "Klaim",
+        "claim_refcode": "Kode Rujukan Klaim",
+        "refcode_optional": "Kode Referral (opsional)",
+        "enter_refcode": "Masukkan kode rujukan"
     },
     "proposal_create": {
-        "review_period": "Review period begin",
-        "expiration_time": "Expiration time",
-        "proposed_operations": "Proposed operations",
-        "fee_paying_account": "Fee paying account",
-        "id": "Proposal object id"
+        "review_period": "Periode peninjauan dimulai",
+        "expiration_time": "Waktu kedaluwarsa",
+        "proposed_operations": "Usulan operasi",
+        "fee_paying_account": "Rekening membayar biaya",
+        "id": "Id objek proposal"
     },
     "gateway": {
-        "fee": "Gateway fee",
-        "title": "Deposit & Withdraw",
+        "fee": "Biaya Gateway",
+        "title": "Deposit & Tarik",
         "assets": {
             "open": "<br/><br/>The %(asset)s asset is backed 1:1 by real %(backed)s and can be deposited or withdrawn using the gateway service provided by Openledger.",
-            "trade": "<br/><br/>The %(asset)s asset is backed 1:1 by real %(backed)s and can be deposited or withdrawn using the gateway service provided by Blocktrades.",
+            "trade": "<br/> <br/> The % (aset) s aset didukung 1: 1 dengan nyata % (didukung) s dan dapat disimpan atau ditarik menggunakan layanan gateway disediakan oleh Blocktrades.",
             "bit": "<br/>bit%(asset)s is a derivative that tracks the real value of %(backed)s. It is 100%% decentralized, trustless and backed by collateral held by the blockchain in a smart contract.",
             "bitcny": "<br/><br/>bitCNY can be deposited or withdrawn 1:1 to real Yuan using a gateway service such as Magic Wallet. For more info, see https://www.magicw.net/"
         },
