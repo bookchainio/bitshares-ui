@@ -8,6 +8,6 @@ Elbette, bu web cüzdanında denetiminizde size yardımcı olacak bir blok araş
 
 Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. In essence, the shareholders of BitShares (holders of the BTS token) can cast a vote for their preferred block producers on the blockchain. Those so called *witnesses* with the most votes are allowed to produce blocks.
 
-## Transactions
+## İşlemler
 
-The Graphene blockchain technology offers a variety of transaction types. Users are not only able to simply transfer assets between each other, but there are also transactions to interact with the decentralized exchange. Most of these transaction types are labeled with a self-explaining tag, others require more knowledge about the inner workings of the company.
+Graphene blok zincir teknolojisi çeşitli işlem türleri sunar. Kullanıcılar yalnızca varlıkları birbirleri arasında basitçe aktarabilirler, aynı zamanda merkezileşmemiş exchange'le etkileşime giren işlemler de vardır. Bu işlem türlerinin çoğunun kendine özgü bir etiketi vardır, diğerleri ise şirketin iç işleyişi hakkında daha fazla bilgiye ihtiyaç duyarlar.
