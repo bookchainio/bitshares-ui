@@ -298,16 +298,16 @@
             "memo_warning": "WARNING: If you replace the memo key you will be unable to read old memos when logging in with your password, and unless you import the new memo private key into your old wallet that wallet will be unable to decode new memos",
             "use_text": "Use",
             "remove_text": "Remove",
-            "valid_pub": "Valid Public Key"
+            "valid_pub": "مفتاح عمومي سارية المفعول"
         },
         "signedmessages": {
-            "menuitem": "Signed Messages",
+            "menuitem": "رسائل موقعة",
             "invalidkey": "Private key could not be obtained, is the public key valid?",
-            "title": "Signed Messages",
-            "signmessage": "Sign Message",
+            "title": "رسائل موقعة",
+            "signmessage": "رسالة تسجيل الدخول",
             "verifymessage": "تحقق من الرسالة",
-            "signing": "Signing, please wait ...",
-            "verifying": "Verifying, please wait ...",
+            "signing": "تسجيل الدخول, الرجاء الانتظار...",
+            "verifying": "التحقق من ذلك، الرجاء الانتظار...",
             "invalidformat": "لا يمكن التعرف على تنسيق الرسالة الموقعة",
             "invaliduser": "حساب مرسل الرسالة غير صحيح",
             "invalidsignature": "The content of the message could not be validated against the signature",
