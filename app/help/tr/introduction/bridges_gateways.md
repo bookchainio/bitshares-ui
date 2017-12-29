@@ -1,13 +1,13 @@
-## Bridge and gateway services
+## Köprü ve ağ geçidi hizmetleri
 
-Both bridges and gateways allow you to deposit and withdraw coins, but there is a difference in the amount of trust you need to place in the service providers.
+Her iki köprü ve ağ geçidi para yatırmanıza ve para çekmenize izin verir, ancak servis sağlayıcılara yerleştirmeniz gereken güven miktarında bir fark vardır.
 
-### Bridges: trust-free model
+### Köprüler: güvenilmez model
 
-A bridge service provides a way to deposit an amount of a crypto-currency other than BitShares, and in turn receive a SmartCoin equivalent. SmartCoins have no counterparty risk, so the only risk you experience when using a bridge is during the short time it takes to complete the transfer. This is better than a centralized exchange such as Poloniex, where you are always at risk of the exchange being hacked, going bankrupt, or experiencing any number of other issues.
+Bir köprü hizmeti, BitShares dışındaki bir miktar şifreleme para birimini biriktirmenin ve ardından bir SmartCoin eşdeğeri almanın bir yolunu sunar. SmartCoin'lerin karşı tarafa riski yok, bu nedenle bir köprü kullanırken karşılaştığınız tek risk, aktarımı kısa bir süre içinde tamamlamak olacaktır. Bu, döviz bozdurulması, iflası veya başka herhangi bir sorun yaşama riski taşıyan Poloniex gibi merkezi bir borsadan daha iyidir.
 
-### Gateways: trust-based model
+### Ağ geçitleri: güven temelli model
 
-Gateways are basically equivalent to the standard exchange model where you depend on the solvency of the exchange to be able to redeem your coins. Generally gateways issue assets prefixed with their symbol, like OPEN, TRADE, or META. These assets are backed 100% by the real BTC or ETH or any other coin that people deposit with the gateways.
+Gateways are basically equivalent to the standard exchange model where you depend on the solvency of the exchange to be able to redeem your coins. Genellikle ağ geçitlerinden, AÇIK, TİCARET veya META gibi sembolleri öneki olan öğeler çıkarılır. Bu varlıklar, gerçek BTC, ETH veya kişilerin ağ geçitlerinde biriktirdikleri diğer paralarla %100 desteklenir.
 
-An OPEN.BTC is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, CCEDK for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
+OPEN.BTC teorik olarak POLONIX üzerinde elde ettiğiniz BTC'ye eşdeğerdir ve POLO.BTC öneki olabilir. In both cases you rely on the service provider, CCEDK for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
