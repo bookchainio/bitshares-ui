@@ -8,27 +8,27 @@ BitShares da hemen hemen her varlık, diğer tüm varlıklarla işlem görebilir
 
 Tutarlılık uğruna, çiftlerin aşağıdaki gibi temsil edileceği şekilde * taban </ 0> ve * alıntı </ 0> genelleştirilmiş terimlerini kullanacağız</p> 
 
-    *quote* : *base*
+    * alıntı *: * tabanı *
     
 
 and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD pair.
 
-## Order Books
+## Kitap Siparişi
 
-The order book consists of an *ask* and a *bid* side. Since trading pairs do not have a preferred orientation, and can be flipped, the following table shall give an overview of ask/bid and the corresponding buy/sell operations for each side:
+The order book consists of an *ask* and a *bid* side. Alım satım çiftlerinin tercih edilen yönelimleri olmadığı ve tersine çevrilebileceği için, aşağıdaki tabloda, her iki tarafın sorma / teklif ve buna karşılık gelen satın alma / satma işlemleri hakkında genel bir bilgi verilmektedir:
 
-| Side          | Sell      | Buy       |
+| Yan           | Sat       | satın al  |
 | ------------- | --------- | --------- |
-| Ask           | *quote*   | *base*    |
-| Bid           | *base*    | *quote*   |
+| Ask           | *alıntı*  | *baz*     |
+| teklif        | *baz*     | *alıntı*  |
 | \---\---\---- | \---\---- | \---\---- |
 
-Obviously, what is on the bid side of the USD:EUR pair will be on the ask side on the EUR:USD pair. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
+Açıkçası, USD: EUR çiftinin teklif tarafındaki durum EUR: USD çifti için sorulacak taraf olacaktır. Elbette fiyatlar dahili ve kesir olarak gösterilir, bu nedenle her iki çift için de özdeş olur.
 
-## Trading
+## Ticari
 
-To place a trading order, it is required to fill the form on either the *ask* or the *bid* side (respectively, *buy* or *sell* side). You will need to define a *price* and an *amount* to sell/buy. The cost for this order will be calculated automatically. Note that there will be an additional fee required to actually place the order.
+To place a trading order, it is required to fill the form on either the *ask* or the *bid* side (respectively, *buy* or *sell* side). You will need to define a *price* and an *amount* to sell/buy. Bu siparişin maliyeti otomatik olarak hesaplanacaktır. Aslında sipariş vermek için ek bir ücret gerekeceğini unutmayın.
 
-Once the order is filled (i.e. someone sold/bought your offer), your account will be credited by the corresponding asset.
+Sipariş doldurulduğunda (diğer birisi teklifinizi sattı / satın aldı), hesabınız ilgili varlık tarafından gösterilir.
 
 Unfilled orders can be canceled at any time.
