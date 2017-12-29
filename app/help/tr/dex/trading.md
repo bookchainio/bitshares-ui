@@ -1,12 +1,12 @@
-# Trading
+# Ticari
 
-This page will give a very quick introduction on how to interpret the terms used by the DEX and how trading pairs are presented.
+Bu sayfada, DEX tarafından kullanılan terimlerin nasıl yorumlanacağı ve ticaret çiftlerinin nasıl sunulduğu hakkında çok hızlı bir giriş sunulacaktır.
 
-## Pairs
+## Çiftler
 
-In BitShares, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+BitShares da hemen hemen her varlık, diğer tüm varlıklarla işlem görebilir. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
 
-For sake of consistency, we will use the generalized terms *base* and *quote* such that pairs are represented as
+Tutarlılık uğruna, çiftlerin aşağıdaki gibi temsil edileceği şekilde * taban </ 0> ve * alıntı </ 0> genelleştirilmiş terimlerini kullanacağız</p> 
 
     *quote* : *base*
     
