@@ -741,43 +741,43 @@
             "new_listing": "Daftar baru",
             "asset_update": "Aset untuk memperbarui",
             "common_options": "Pilihan umum",
-            "new_options": "New options",
-            "new_producers": "New feed producers",
-            "asset_issue": "Amount to issue",
-            "max_margin_period_sec": "Max margin period (s)",
-            "call_limit": "Call limit",
-            "short_limit": "Short limit",
-            "settlement_price": "Settlement price",
-            "go_to": "Go to block"
+            "new_options": "Pilihan baru",
+            "new_producers": "Produsen pakan baru",
+            "asset_issue": "Jumlah yang akan dikeluarkan",
+            "max_margin_period_sec": "Periode(s) margin maksimum",
+            "call_limit": "Batas panggilan",
+            "short_limit": "Batas pendek",
+            "settlement_price": "Harga penyelesaian",
+            "go_to": "Pergi untuk memblokir"
         },
         "assets": {
-            "title": "Assets",
+            "title": "Aset",
             "market": "SmartCoins",
-            "user": "User Issued Assets",
-            "prediction": "Prediction market assets",
-            "symbol": "Symbol",
+            "user": "Aktiva yang Diterbitkan",
+            "prediction": "Prediksi aset pasar",
+            "symbol": "Simbol",
             "id": "ID",
-            "issuer": "Issuer",
-            "precision": "Precision",
-            "units": "Units"
+            "issuer": "Penerbit",
+            "precision": "Presisi",
+            "units": "Unit"
         },
         "asset": {
-            "title": "Asset",
-            "not_found": "The asset %(name)s does not exist",
-            "invalid": "The asset name %(name)s is invalid",
+            "title": "Aset",
+            "not_found": "Aset %(name)s tidak ada",
+            "invalid": "Nama aset %(name)s tidak valid",
             "summary": {
-                "asset_type": "Asset type",
-                "issuer": "Issuer",
-                "current_supply": "Current supply",
-                "stealth_supply": "Stealth supply",
-                "market_fee": "Market fee",
-                "max_market_fee": "Max market fee"
+                "asset_type": "Jenis aset",
+                "issuer": "Penerbit",
+                "current_supply": "Persediaan saat ini",
+                "stealth_supply": "Menyediakan stealth",
+                "market_fee": "Biaya pasar",
+                "max_market_fee": "Biaya pasar maks"
             },
             "price_feed": {
-                "title": "Price Feed",
-                "settlement_price": "Settlement price",
-                "maintenance_collateral_ratio": "Maintenance collateral ratio (MCR)",
-                "maximum_short_squeeze_ratio": "Maximum short squeeze ratio (MSSR)"
+                "title": "Harga Pakan",
+                "settlement_price": "Harga penyelesaian",
+                "maintenance_collateral_ratio": "Rasio jaminan pemeliharaan (maintenance agunan ratio/MCR)",
+                "maximum_short_squeeze_ratio": "Rasio pemerasan pendek maksimum (MSSR)"
             },
             "fee_pool": {
                 "title": "Fee Pool",
@@ -804,16 +804,16 @@
                 "maintenance_collateral_ratio": "MCR",
                 "maximum_short_squeeze_ratio": "MSSR",
                 "publisher": "Penerbit",
-                "published": "Published"
+                "published": "Dipublikasikan"
             },
             "margin_positions": {
-                "title": "Margin positions"
+                "title": "Posisi margin"
             },
             "whitelist": {
-                "whitelist_authorities": "Whitelist authorities",
-                "blacklist_authorities": "Blacklist authorities",
-                "whitelist_markets": "Market whitelist",
-                "blacklist_markets": "Market blacklist",
+                "whitelist_authorities": "Otoritas whitelist",
+                "blacklist_authorities": "Otoritas blacklist",
+                "whitelist_markets": "Daftar putih pasar",
+                "blacklist_markets": "Daftar hitam pasar",
                 "enable_flag": "The whitelist flag must be enabled in order to set whitelist authorities"
             }
         },
@@ -905,7 +905,7 @@
         "general_text": "Sesuaikan pengaturan dasar.",
         "wallet_text": "Kontrol rincian dompet lokal Anda.",
         "accounts_text": "Daftar akun anda.",
-        "password_text": "Change your password.",
+        "password_text": "Ganti kata sandi anda.",
         "backup_text": "Create backups here.",
         "restore_text": "Restore from a backup or import keys.",
         "access_text": "",
