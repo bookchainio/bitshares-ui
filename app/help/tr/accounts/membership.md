@@ -12,9 +12,9 @@ Lifetime Members get a percentage cashback on every transaction fee they pay and
 
 ## Yıllık Üyeler
 
-If a lifetime membership is too much you can still get the same cashback for the next year by becoming an annual subscriber for a smaller one-time fee which lasts for only one year.
+Bir ömür boyu üyelik çok fazla ise, yine de aynı nakit parayı alabilirsin. gelecek yıl bir yıllık bir abone olabilirsin sadece bir yıl sürer.
 
-### Fee Division
+### Ücret Bölümü
 
 Every time an account you referred pays a transaction fee, that fee is divided among several different accounts. The network takes a cut, and the Lifetime Member who referred the account gets a cut.
 
