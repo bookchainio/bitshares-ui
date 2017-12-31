@@ -17,11 +17,11 @@ Geçerli bir işlem elde etmek için, imzalamadan gelen ağırlıkların toplam�
 
 # Örnekler
 
-Let's discuss some examples to shed some light on the used terminology and the use-cases. Etkin izinleriyle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Note that the same scheme also works for the owner permissions!
+Let's discuss some examples to shed some light on the used terminology and the use-cases. Etkin izinleriyle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Aynı düzenin sahibi için de çalıştığını unutmayın. izinler!
 
-## (Flat) Multi-Signature
+## (Düz) Çoklu İmza
 
-A flat multi-signature scheme is composed of `M` entities of which `N` entities must sign in order for the transaction to be valid. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Still we can achieve the very same thing with even more flexibility as we will see now.
+Düz çok imzalı bir şema, `N` varlıklarının bulunduğu `M` varlıklardan oluşur işlemin geçerli olabilmesi için imzalanması gerekir. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Still we can achieve the very same thing with even more flexibility as we will see now.
 
 Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
