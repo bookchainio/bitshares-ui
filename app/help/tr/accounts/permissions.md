@@ -40,9 +40,9 @@ Alternatif olarak, 3'lük-4'lük bir şema oluşturabilmek için ağırlıkları
 
 ## (Düz) Esnek Çoklu İmza
 
-Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esneklik sahibiyiz. Daha doğrusu, daha fazla sahibiz *control*. For instance, we can have separate weights for different people. Alice, buraya para yatırmak istediğini varsayalım çok imzalı bir şemayla hırsızlığa karşı, ama aynı zamanda teslim etmek istemiyor arkadaşlarına daha fazla kontrol. Hence, we create an authority similar to:
+Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esneklik sahibiyiz. Daha doğrusu, daha fazla sahibiz *control*. Farklı insanlar için ağırlıklar ayrı olabilir, örneğin. Alice, buraya para yatırmak istediğini varsayalım çok imzalı bir şemayla hırsızlığa karşı, ama aynı zamanda arkadaşlarına daha fazla kontrol teslim etmek istemiyor. Dolayısıyla, benzer bir otorite yaratırız:
 
-| Account       | Weight   |
+| Hesap         | Ağırlık  |
 | ------------- | -------- |
 | Alice         | 49%      |
 | Bob           | 25%      |
@@ -51,7 +51,7 @@ Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esn
 | \---\---\---- | \---\--- |
 | Threshold:    | 51%      |
 
-Now the funds can either be accessed by Alice and a single friend or by all three friends together.
+Artık fonlara Alice ve tek bir arkadaş tarafından erişilebilir ya da herkes tarafından erişilebilir. üç arkadaş birlikte.
 
 ## Multi-Hierarchical Flexible Multi-Signature
 
