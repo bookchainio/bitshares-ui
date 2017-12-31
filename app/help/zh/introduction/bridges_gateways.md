@@ -8,6 +8,6 @@
 
 ### 网关：基于信任的模式
 
-网关等价于标准的交易所模型，你依赖于交易所的偿付能力来支付你的币。 一般来讲，网关发行用他们的符号，比如OPEN、TRADE、或者META，开头的资产。 These assets are backed 100% by the real BTC or ETH or any other coin that people deposit with the gateways.
+网关等价于标准的交易所模型，你依赖于交易所的偿付能力来支付你的币。 一般来讲，网关发行用他们的符号，比如OPEN、TRADE、或者META，开头的资产。 这些资产以100%真正的其他人存入网关的比特币或者以太币或者其他货币为后备。
 
-An OPEN.BTC is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, CCEDK for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
+OPEN.BTC理论上等同于你在Poloniex上得到的比特币。在那里，可以被称为POLO.BTC。 对于这两种情况，你依赖于服务提供商，CCEDK for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. 因为网关紧紧提供这一项服务，通常只有一方运行交易所。所以有人可以宣称他们有容易确保财产的安全。
