@@ -21,7 +21,7 @@ Let's discuss some examples to shed some light on the used terminology and the u
 
 ## (Düz) Çoklu İmza
 
-Düz çok imzalı bir şema, `N` varlıklarının bulunduğu `M` varlıklardan oluşur işlemin geçerli olabilmesi için imzalanması gerekir. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Still we can achieve the very same thing with even more flexibility as we will see now.
+Düz çok imzalı bir şema, `N` varlıklarının bulunduğu `M` varlıklardan oluşur işlemin geçerli olabilmesi için imzalanması gerekir. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Hala bunu başarabiliriz aynı şeyi daha fazla esneklik ile şimdi göreceğimiz gibi.
 
 Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
@@ -40,7 +40,7 @@ Alternatif olarak, 3'lük-4'lük bir şema oluşturabilmek için ağırlıkları
 
 ## (Düz) Esnek Çoklu İmza
 
-Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esneklik sahibiyiz. Daha doğrusu, daha fazla sahibiz *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esneklik sahibiyiz. Daha doğrusu, daha fazla sahibiz *control*. For instance, we can have separate weights for different people. Alice, buraya para yatırmak istediğini varsayalım çok imzalı bir şemayla hırsızlığa karşı, ama aynı zamanda teslim etmek istemiyor arkadaşlarına daha fazla kontrol. Hence, we create an authority similar to:
 
 | Account       | Weight   |
 | ------------- | -------- |
