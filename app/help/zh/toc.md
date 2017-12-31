@@ -14,11 +14,11 @@
     - bitEUR
     - bitGOLD
 - [用户发行资产](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
-- [Decentralized Exchange](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
-- Gateways 
+- [私有化的BitAssets](assets/privbitassets.md)
+- [去中心化交易所](dex/introduction.md)
+- [交易](dex/trading.md)
+- [卖空BitAssets](dex/shorting.md)
+- 网关 
     - [OpenLedger](gateways/openledger.md)
     - [Rudex](gateways/rudex.md)
     - [CryptoBridge](gateways/cryptobridge.md)
