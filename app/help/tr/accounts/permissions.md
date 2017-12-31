@@ -17,7 +17,7 @@ Geçerli bir işlem elde etmek için, imzalamadan gelen ağırlıkların toplam�
 
 # Örnekler
 
-Let's discuss some examples to shed some light on the used terminology and the use-cases. We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
+Let's discuss some examples to shed some light on the used terminology and the use-cases. Etkin izinleriyle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Note that the same scheme also works for the owner permissions!
 
 ## (Flat) Multi-Signature
 
@@ -25,16 +25,16 @@ A flat multi-signature scheme is composed of `M` entities of which `N` entities 
 
 Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
-| Account       | Weight   |
+| Hesap         | Ağırlık  |
 | ------------- | -------- |
 | Alice         | 33%      |
 | Bob           | 33%      |
 | Charlie       | 33%      |
 | Dennis        | 33%      |
 | \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Eşik:         | 51%      |
 
-All four participants have a weight of 33% but the threshold is set to 51%. Hence only two out of the four need to agree to validate the transaction.
+Dört katılımcının da % 33 ağırlığı var, ancak eşik% 51 olarak belirlendi. Dolayısıyla dört ortakdan sadece ikisi işlemin geçerliliğini onaylamayı kabul etmelidir.
 
 Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights to 17 or increase the threshold to 99%.
 
