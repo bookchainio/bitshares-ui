@@ -1,6 +1,6 @@
-# Blockchain
+# 区块链
 
-As most crypto currencies, Graphene makes use of a blockchain to update participants about transfers and market activities. Since blocks always refer to the previous block, we get a chain of blocks (blockchain) that contains all transactions every made in the network. Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
+就像大多数密码货币，石墨烯利用区块链来更新参与者有关转账和市场活动的信息。 因为块总是引用前面的块，所以我们得到一串块 (区块链)。它包含了网络中的所有交易。 Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
 
 Of course, this web wallet offers a block explorer to assist you with your audit.
 
