@@ -36,11 +36,11 @@ Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be ab
 
 Dört katılımcının da % 33 ağırlığı var, ancak eşik% 51 olarak belirlendi. Dolayısıyla dört ortakdan sadece ikisi işlemin geçerliliğini onaylamayı kabul etmelidir.
 
-Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights to 17 or increase the threshold to 99%.
+Alternatif olarak, 3'lük-4'lük bir şema oluşturabilmek için ağırlıkları 17'ye düşürebilir veya eşiği% 99'a yükseltebilirsiniz.
 
-## (Flat) Flexible Multi-Signature
+## (Düz) Esnek Çoklu İmza
 
-With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esneklik sahibiyiz. Daha doğrusu, daha fazla sahibiz *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
 
 | Account       | Weight   |
 | ------------- | -------- |
@@ -74,9 +74,9 @@ whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, th
 | Tax Manager.COMPANY       | 10%      |
 | Accounting.COMPANY        | 10%      |
 | \---\---\---\---\---\---- | \---\--- |
-| Threshold:                | 51%      |
+| Eşik:                     | 51%      |
 
-This scheme allows:
+Bu şema şunlara izin verir:
 
 * the CEO to spend funds
 * the Chief of Finance Officer to spend funds
