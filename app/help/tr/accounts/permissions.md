@@ -9,13 +9,13 @@ Both can be defined in the `Permissions` tab of your account using so called *au
 
 ## Yetkililer
 
-In BitShares an *authority* consists of one or many entities that authorize an action, such as transfers or trades.
+BitShares'te bir *authority*, yetkili olan bir veya birden fazla varlıktan oluşan İşlemler, örneğin transferler veya işlemler.
 
-An authority consists of one or several pairs of an account name with a *weight*.
+Bir yetki, bir hesap adının bir veya birkaç çiftinden oluşur *weight*.
 
-In order to obtain a valid transaction, the sum of the weights from signing the parties has to exceed the threshold as defined in the permissions.
+Geçerli bir işlem elde etmek için, imzalamadan gelen ağırlıkların toplamı tarafların izinlerde tanımlanan eşiği aşmaları gerekir.
 
-# Examples
+# Örnekler
 
 Let's discuss some examples to shed some light on the used terminology and the use-cases. We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
 
