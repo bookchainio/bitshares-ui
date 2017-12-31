@@ -1,19 +1,19 @@
-#### Table of Contents
+#### 目录
 
 - [BitShares](introduction/bitshares.md)
-- [Wallet](introduction/wallets.md)
-- [Backups](introduction/backups.md)
-- [Blockchain](introduction/blockchain.md)
-- [Voting](voting.md)
-- [Accounts](accounts/general.md)
-- [Proposed Transactions](accounts/proposed.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
-- [Market Pegged Assets](assets/mpa.md) 
+- [钱包](introduction/wallets.md)
+- [备份](introduction/backups.md)
+- [区块链](introduction/blockchain.md)
+- [投票](voting.md)
+- [帐户](accounts/general.md)
+- [提议的交易](accounts/proposed.md)
+- [权限](accounts/permissions.md)
+- [会员](accounts/membership.md)
+- [市场绑定资产](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
-- [User Issued Assets](assets/uia.md)
+- [用户发行资产](assets/uia.md)
 - [Privatized BitAssets](assets/privbitassets.md)
 - [Decentralized Exchange](dex/introduction.md)
 - [Trading](dex/trading.md)
