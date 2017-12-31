@@ -4,31 +4,31 @@ Halaman ini akan memberikan pengenalan yang sangat cepat tentang cara untuk mena
 
 ## Pairs
 
-In BitShares, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a*market pair*. For instance, we can trade USD against EUR in the USD: EUR pair.
+In BitShares, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
 
 Untuk kepentingan konsistensi, kami akan menggunakan istilah umum *dasar* dan *kutipan* sedemikian rupa sehingga pasang direpresentasikan sebagai
 
-    *quote*: *base*
+    *quote* : *base*
     
 
-and for instance with * base * being USD and * quote * being EUR, denote the EUR: USD pair.
+and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD pair.
 
 ## Order Books
 
-The order book consists of an * ask * and a * bid * side. Since trading pairs do not have a preferred orientation, and can be flipped, the following table shall give an overview of ask / bid and the corresponding buy / sell operations for each side:
+The order book consists of an *ask* and a *bid* side. Since trading pairs do not have a preferred orientation, and can be flipped, the following table shall give an overview of ask/bid and the corresponding buy/sell operations for each side:
 
-| Sisi          | Jual      | Beli      |
+| Sisi          | Sell      | Buy       |
 | ------------- | --------- | --------- |
 | Ask           | *quote*   | *base*    |
-| Tawaran       | *base*    | *quote*   |
+| Bid           | *base*    | *quote*   |
 | \---\---\---- | \---\---- | \---\---- |
 
-Jelas, apa yang ada di sisi penawaran dari pasangan USD: EUR akan berada di sisi permintaan pada pasangan EUR: USD. Tentu saja harga secara internal diwakili sebagai pecahan, dan dengan demikian menghasilkan kedua pasang itu identik.
+Obviously, what is on the bid side of the USD:EUR pair will be on the ask side on the EUR:USD pair. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
 
-## Perdagangan
+## Trading
 
-Untuk menempatkan order perdagangan, Anda harus mengisi formulir di * ask * atau sisi * bid * (masing-masing, * beli </ 0> atau * jual * samping). Anda perlu mendefinisikannya harga * * dan * jumlah * untuk menjual/membeli. Biaya untuk pesanan ini adalah dihitung secara otomatis. Perhatikan bahwa akan ada biaya tambahan yang diperlukan untuk benar-benar memesan.</p> 
+To place a trading order, it is required to fill the form on either the *ask* or the *bid* side (respectively, *buy* or *sell* side). You will need to define a *price* and an *amount* to sell/buy. The cost for this order will be calculated automatically. Note that there will be an additional fee required to actually place the order.
 
-Setelah pesanan terisi (yaitu seseorang menjual/membeli penawaran Anda), akun Anda akan dikreditkan oleh aset yang bersangkutan.
+Once the order is filled (i.e. someone sold/bought your offer), your account will be credited by the corresponding asset.
 
-Perintah yang tidak terisi dapat dibatalkan setiap saat.
+Unfilled orders can be canceled at any time.
