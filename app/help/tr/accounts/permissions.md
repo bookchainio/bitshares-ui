@@ -1,6 +1,6 @@
 # İzinler
 
-In BitShares, each account is separated into
+Bitshares'de her bir hesap şunlara ayrılmıştır
 
 * **Active Permission**: control over its funds and
 * **Owner Permission**: control over the account.
