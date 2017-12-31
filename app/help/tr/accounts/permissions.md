@@ -17,13 +17,13 @@ Geçerli bir işlem elde etmek için, imzalamadan gelen ağırlıkların toplam�
 
 # Örnekler
 
-Let's discuss some examples to shed some light on the used terminology and the use-cases. Etkin izinleriyle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Aynı düzenin sahibi için de çalıştığını unutmayın. izinler!
+Kullanılan terminoloji ve bu terminolojiyi biraz aydınlatacak bazı örnekler üzerinde tartışalım -olayları kullanın. Etkin izinleriyle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Aynı düzenin sahibi için de çalıştığını unutmayın. izinler!
 
 ## (Düz) Çoklu İmza
 
 Düz çok imzalı bir şema, `N` varlıklarının bulunduğu `M` varlıklardan oluşur işlemin geçerli olabilmesi için imzalanması gerekir. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Hala bunu başarabiliriz aynı şeyi daha fazla esneklik ile şimdi göreceğimiz gibi.
 
-Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
+Alice, Bob, Charlie ve Dennis'in ortak fonları olduğunu varsayalım. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
 | Hesap         | Ağırlık  |
 | ------------- | -------- |
@@ -53,11 +53,11 @@ Eşik ve ağırlıkları kullanarak artık fonlarımız üzerinde daha fazla esn
 
 Artık fonlara Alice ve tek bir arkadaş tarafından erişilebilir ya da herkes tarafından erişilebilir. üç arkadaş birlikte.
 
-## Multi-Hierarchical Flexible Multi-Signature
+## Çok Hiyerarşili Esnek Çoklu İmza
 
 Şimdi basit çok hiyerarşik kurumsal hesap ayarlarına göz atalım. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
 
-| Account       | Weight   |
+| Hesap         | Ağırlık  |
 | ------------- | -------- |
 | CEO.COMPANY   | 51%      |
 | CFO.COMPANY   | 51%      |
@@ -78,9 +78,9 @@ whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, th
 
 Bu şema şunlara izin verir:
 
-* the CEO to spend funds
-* the Chief of Finance Officer to spend funds
-* Treasurer together with Controller to spend funds
-* Controller or Treasurer together with the Tax Manager and Accounting to spend funds.
+* para harcama CEO'su
+* fon harcamaya Finans memuru şefi
+* Hazine Müsteşarlığı ile birlikte Kontrolörle para harcamak
+* Denetçi veya Sayman, Vergi Müdürü ve Muhasebe ile birlikte para harcamak.
 
 Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
