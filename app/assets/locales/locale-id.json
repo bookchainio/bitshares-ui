@@ -1396,14 +1396,14 @@
         "purchase_notice": "%(inputAsset)s yang dikirim ke alamat ini akan muncul sebagai %(outputAsset)s",
         "purchase_notice_memo": "Memo <b>wajib</b> untuk perutean yang benar ke akun Anda",
         "deposit_limit": "Batas deposit",
-        "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\">with memo</span> %(memo)s",
+        "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\">dengan memo</span> %(memo)s",
         "rudex": {
-            "support_block": "For support, please contact RuDEX at:",
-            "min_amount": "Minimum amount: %(minAmount)s %(symbol)s",
-            "min_amount_error": "Please enter number >= minimum",
-            "coming_soon": "Coming soon"
+            "support_block": "Untuk dukungan, silahkan menghubungi RuDEX di:",
+            "min_amount": "Jumlah minimal: %(minAmount)s %(symbol)s",
+            "min_amount_error": "Harap masukkan nomor>= minimum",
+            "coming_soon": "Segera datang"
         },
-        "unavailable": "The gateway service for this asset is currently down, please try again later",
+        "unavailable": "Layanan gateway untuk aset ini saat ini turun, silakan coba lagi nanti",
         "unavailable_bridge": "The bridge service for this asset is currently down, please try again later",
         "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
         "unavailable_RUDEX": "The RuDEX Gateway is down or not responding",
