@@ -1,13 +1,13 @@
 # 区块链
 
-就像大多数密码货币，石墨烯利用区块链来更新参与者有关转账和市场活动的信息。 因为块总是引用前面的块，所以我们得到一串块 (区块链)。它包含了网络中的所有交易。 Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
+就像大多数密码货币，石墨烯利用区块链来更新参与者有关转账和市场活动的信息。 因为块总是引用前面的块，所以我们得到一串块 (区块链)。它包含了网络中的所有交易。 由于区块链是可公开访问和可审核的账本，因此每个人都可以仔细查看并验证转帐以及市场订单和订单簿。
 
-Of course, this web wallet offers a block explorer to assist you with your audit.
+当然，这个网络钱包提供了一个区块浏览器以协助您的审计。
 
-## Consensus Mechanism
+## 共识机制
 
-Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. In essence, the shareholders of BitShares (holders of the BTS token) can cast a vote for their preferred block producers on the blockchain. Those so called *witnesses* with the most votes are allowed to produce blocks.
+究竟是谁被允许在哪一个瞬间*生成* 一个块取决于一个 被称为 * 委托的权益证明*的共识机制。 实质上，BitShares的股东 (BTS代币的持有者) 可以投票支持他们在区块链上的首选的区块生产者。 那些所谓的具有最多选票的*见证人*可以生成块。
 
-## Transactions
+## 交易
 
-The Graphene blockchain technology offers a variety of transaction types. Users are not only able to simply transfer assets between each other, but there are also transactions to interact with the decentralized exchange. Most of these transaction types are labeled with a self-explaining tag, others require more knowledge about the inner workings of the company.
+石墨烯区块链技术提供了各种交易类型。 用户不仅能够相互之间传递资产，而且还可以有交易与去中心化交易所互动。 Most of these transaction types are labeled with a self-explaining tag, others require more knowledge about the inner workings of the company.
