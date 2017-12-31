@@ -10,4 +10,4 @@
 
 ## 交易
 
-石墨烯区块链技术提供了各种交易类型。 用户不仅能够相互之间传递资产，而且还可以有交易与去中心化交易所互动。 Most of these transaction types are labeled with a self-explaining tag, others require more knowledge about the inner workings of the company.
+石墨烯区块链技术提供了各种交易类型。 用户不仅能够相互之间传递资产，而且还可以有交易与去中心化交易所互动。 大多数交易类型都有自我解释的标签，其他的则需要有关公司内部工作的更多知识。
