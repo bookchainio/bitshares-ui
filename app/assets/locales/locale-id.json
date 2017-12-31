@@ -557,7 +557,7 @@
     },
     "transaction": {
         "confirm": "Mohon konfirmasi transaksi",
-        "broadcast_success": "Transaction has been broadcast",
+        "broadcast_success": "Transaksi telah disiarkan",
         "transaction_confirmed": "Transaction confirmed",
         "broadcast_fail": "Failed to broadcast the transaction: %(message)s",
         "broadcasting": "Broadcasting transaction..",
