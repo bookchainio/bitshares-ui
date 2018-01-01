@@ -1,6 +1,6 @@
 # Üyelikler
 
-BitShares'teki hesaplar üç gruba ayrılmıştır. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
+BitShares'teki hesaplar üç gruba ayrılmıştır. Kullanıcılarımız eğer arzu ederlerse onların indirimli ücretlerden ve ek özelliklerden kazanç sağlamaları için onlara hesaplarını VIP benzeri bir duruma yükseltme seçeneği vermeye karar verdik.
 
 ## Üye olmayanlar
 
@@ -8,7 +8,7 @@ BitShares'teki hesaplar üç gruba ayrılmıştır. We decided to give users the
 
 ## Ömür boyu üyeler
 
-Lifetime Members get a percentage cashback on every transaction fee they pay and qualify to earn referral income from users they register with or referer to the network. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+Ömür boyu üyelerimiz, ödediği her işlem ücreti karşılığında yüzdelik bir oranda nakit para kazanır ve ağa kaydolan ya da referans gönderen kullanıcılar tarafından da ilave sevk geliri kazanmaya hak kazanacaklardır. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
 
 ## Yıllık Üyeler
 
