@@ -1219,7 +1219,7 @@
         "wallet_model_2": "Dompet lokal memiliki keamanan terbaik, namun terbatas pada browser dan komputer Anda saat ini. Untuk memigrasikan dompet ke browser atau komputer lain, Anda dapat menggunakan file cadangan atau brainkey.",
         "wallet_model_3": "<li>Multiple accounts</li><li>Wallet file backup required</li><li>High security</li>",
         "password_model_1": "Dompet awan menggunakan kata sandi yang dikombinasikan dengan nama akun Anda untuk menghasilkan kunci pribadi Anda dengan cepat. Ini membatasi Anda untuk hanya masuk dengan satu akun sekaligus, sebagai pengganti kemudahan penggunaan dan kenyamanan.",
-        "password_model_2": "The cloud wallet lets you login to your wallet from anywhere using only your account name and password, but <strong> your password is vulnerable to brute-force attacks which means it is important to use a very long password, ideally 20+ characters!</strong>",
+        "password_model_2": "Dompet awan memungkinkan Anda masuk ke dompet Anda dari manapun hanya dengan menggunakan nama akun dan kata sandi Anda, namun <strong> kata sandi Anda rentan terhadap serangan brute force yang berarti penting untuk menggunakan kata sandi yang sangat panjang, idealnya 20+ karakter! </strong>",
         "password_model_3": "<li>Single account</li><li>Easy login</li><li>Moderate security</li>",
         "use_wallet": "Use a local wallet",
         "use_password": "Use a cloud wallet",
@@ -1249,7 +1249,7 @@
         "update": "Update",
         "errors": {
             "below": "Your collateral ratio is below %(mr)s which is not allowed.",
-            "close": "Your collateral ratio is close to %(mr)s which means this position is in danger of being margin called if the price drops.",
+            "close": "Rasio jaminan Anda mendekati %(mr)s yang berarti posisi ini dalam bahaya menjadi margin disebut jika harga turun.",
             "collateral": "Insufficient collateral balance"
         }
     },
@@ -1303,7 +1303,7 @@
         "qrcode": {
             "label": "qrcode",
             "title": "Private key QR code",
-            "input_message": "Please enter a password used to encrypt the QR code.<br />An empty password will show an unencrypted QR code."
+            "input_message": "Masukkan kata sandi yang digunakan untuk mengenkripsi kode QR.<br />Kata sandi kosong akan menampilkan kode QR yang tidak dienkripsi."
         }
     },
     "init_error": {
@@ -1313,7 +1313,7 @@
         "connected": "Connected",
         "not_connected": "Not connected",
         "browser": "Unsupported browser",
-        "browser_text": "The Browser you are using has not been fully tested to support the BitShares Wallet. We highly recommend that you backup your local wallet and import it using the Chrome Browser until we have had more time to fully test your browser of choice. Use at your own risk.",
+        "browser_text": "Browser yang Anda gunakan belum sepenuhnya diuji untuk mendukung Dompet BitShares. Sebaiknya cadangkan dompet lokal Anda dan impor menggunakan Browser Chrome sampai kami memiliki lebih banyak waktu untuk sepenuhnya menguji peramban pilihan Anda. Gunakan dengan risiko Anda sendiri.",
         "understand": "I understand"
     },
     "refcode": {
