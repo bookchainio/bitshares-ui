@@ -1230,16 +1230,16 @@
         "current_pass": "Current password",
         "no_wallet": "You do not have a local wallet yet",
         "generated": "Generated password",
-        "account_exp": "This account will be created on the blockchain and will be your address for any transfers you want to make! <strong>There are no long Bitcoin-style addresses in BitShares!</strong>",
-        "understand_1": "I understand that no one can recover my password if I lose or forget it",
-        "understand_2": "I have written down or otherwise stored my password",
-        "understand_3": " I understand that I will lose access to my funds if I lose my password",
-        "bts_rules": "The first rule of BitShares is: Do not lose your password.<br/>The second rule of BitShares is: Do not lose your password.<br />The third rule of BitShares is: We cannot recover your password.<br />The fourth rule: If you can remember the password, it's not secure.<br />The fifth rule: Use only randomly-generated passwords.<br />The sixth rule: Do not tell anyone your password.<br />The seventh rule: Always back up your password.",
+        "account_exp": "Akun ini akan dibuat di blockchain dan akan menjadi alamat anda untuk transfer yang ingin anda buat! <strong>Tidak ada Bitcoin yang panjang-alamat di BitShares!</strong>",
+        "understand_1": "Saya mengerti bahwa tidak ada yang bisa mengembalikan kata sandi saya jika saya kehilangan atau melupakannya",
+        "understand_2": "Saya telah menuliskan atau menyimpan kata sandi saya",
+        "understand_3": " Saya mengerti bahwa saya akan kehilangan akses ke dana saya jika kehilangan kata sandi saya",
+        "bts_rules": "Aturan pertama BitShares adalah: Jangan sampai kehilangan kata sandinya.<br/>Aturan kedua BitShares adalah: Jangan sampai kehilangan kata sandinya.<br />Aturan ketiga dari BitShares adalah: Kami tidak dapat memulihkan kata sandi anda.<br />Aturan keempat: Jika Anda bisa mengingat kata sandinya, itu tidak aman.<br />Aturan kelima: Gunakan hanya secara acak-kata kunci yang dihasilkan.<br />Aturan Ke enam: Jangan beritahu siapapun password anda.<br />Aturan Ketujuh: Selalu cadangkan sandi Anda.",
         "ok_done": "OK, take me to the dashboard",
-        "local_switch": "Local wallet detected matching the given password, switching to local wallet mode"
+        "local_switch": "Dompet lokal terdeteksi sesuai dengan kata kunci yang diberikan, beralih ke mode dompet lokal"
     },
     "borrow": {
-        "title": "%(asset_symbol)s Margin",
+        "title": "Batas %(asset_symbol)s",
         "no_valid": "No valid feeds for %(asset_symbol)s",
         "coll_ratio": "Ratio",
         "call_limit": "Market Call Limit",
@@ -1264,9 +1264,9 @@
             "submit": "Issue Asset"
         },
         "withdraw": {
-            "amount": "Amount to Withdraw",
-            "address": "Withdraw to Address",
-            "submit": "Withdraw"
+            "amount": "Jumlah untuk menarik",
+            "address": "Alamat untuk manarik",
+            "submit": "Penarikan"
         },
         "deposit": {
             "amount": "Amount to Deposit",
