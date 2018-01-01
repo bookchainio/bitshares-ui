@@ -2,7 +2,7 @@
 
 ### Get {feesCashback}% Cashback on Fees
 
-Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. A Lifetime Membership is just {price}.
+Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. Bir ömür boyu üyelik sadece {price}.
 
 [# ücret-bölüm]
 
