@@ -15,9 +15,9 @@ and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD
 
 ## Order Books
 
-The order book consists of an *ask* and a *bid* side. Since trading pairs do not have a preferred orientation, and can be flipped, the following table shall give an overview of ask/bid and the corresponding buy/sell operations for each side:
+The order book consists of an *ask* and a *bid* side. Karena pasangan perdagangan tidak memiliki orientasi yang diinginkan, dan dapat dibalik, tabel berikut harus diberikan ikhtisar permintaan / penawaran dan operasi pembelian/penjualan yang sesuai untuk masing-masing pihak:
 
-| Sisi          | Sell      | Buy       |
+| Sisi          | Jual      | Buy       |
 | ------------- | --------- | --------- |
 | Ask           | *quote*   | *base*    |
 | Bid           | *base*    | *quote*   |
