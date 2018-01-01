@@ -1,5 +1,5 @@
-[# izinler] İzinler, bir varlığın mevcut özelliklerini tanımlamaktadır. However, even if a feature is permitted, it must still be activated using the corresponding flag in order to be enforced by the blockchain.
+[# izinler] İzinler, bir varlığın mevcut özelliklerini tanımlamaktadır. Bununla birlikte, eğer bir özelliğe izin verilse bile, blokzinciri tarafından uygulanması için ilgili bayrak kullanılarak etkinleştirilmesi gerekmektedir.
 
-After creation, you may only remove a given permission, you cannot enable a permission that was disabled on creation.
+Oluşturulduktan sonra, yalnızca belirli bir izni kaldırabilirsiniz, oluşturulduktan sonra devre dışı bırakılmış bir izni tekrar etkinleştiremezsiniz.
 
-[# flags] Flags define which asset features are active or inactive. They can be switched on and off by the asset owner at any time.
+[# bayraklar] Bayraklar hangi varlık özelliklerinin etkin veya pasif olduğunu tanımlamaktadırlar. Varlık sahibi tarafından istenilen bir zamanda açılıp kapatılabilirler.
