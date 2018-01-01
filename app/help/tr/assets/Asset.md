@@ -8,9 +8,9 @@ Tarafından: {issuer}
 
 [# yıllık]
 
-Eğer ömür boyu üyelik çok fazla olur ise, yılda sadece {fiyat} için bir yıllık abone olarak. önümüzdeki yıl için {feesCashback}% oranında geri ödeme almaya devam edebilirsiniz. ![GitHub Logo](/images/logo.png)
+Eğer ömür boyu üyelik çok fazla olur ise, yılda sadece {fiyat} için bir yıllık abone olarak. önümüzdeki yıl için {feesCashback}% oranında geri ödeme almaya devam edebilirsiniz. ![Github logo](/images/logo.png)
 
-[# fee-division]
+[# ücret-bölüm]
 
 #### Ücret Bölümü
 
@@ -22,8 +22,8 @@ Eğer ömür boyu üyelik çok fazla olur ise, yılda sadece {fiyat} için bir y
 
 #### Bekleyen Ücretler
 
-Fees paid by {account} are only divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
+{Account} tarafından ödenen ücretler, her bakım sürecinde ({maintenanceInterval} zamanları) yalnızca ağ, yönlendirenler ve kayıt memurları arasında bölünür. Bir sonraki bakım zamanı {nextMaintenanceTime} 'dir.
 
-#### Vesting Fees
+#### Katılım Ücretleri
 
-Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
+Çoğu ücretler hemen verilmektedir, ancak {vestingThreshold} üzerindeki ücretler (üyeliğinizi yükseltmek veya bir premium hesap adı kaydetmek için ödenenler gibi) toplam {vestingPeriod} gün için hak edilmelidir.
