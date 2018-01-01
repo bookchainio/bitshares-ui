@@ -1269,34 +1269,34 @@
             "submit": "Penarikan"
         },
         "deposit": {
-            "amount": "Amount to Deposit",
+            "amount": "Jumlah untuk deposit",
             "submit": "Deposit"
         },
         "convert": {
-            "amount": "Amount to Convert",
-            "submit": "Ok"
+            "amount": "Jumlah untuk Mengkonversi",
+            "submit": "Okay"
         },
         "settle": {
-            "title": "Request settlement of %(asset)s",
-            "amount": "Amount to settle",
-            "submit": "Settle asset"
+            "title": "Penyelesaian permintaan dari %(asset)s",
+            "amount": "Jumlah untuk penyelesaian",
+            "submit": "Selesaikan aset"
         },
         "reserve": {
             "title": "Burn (reserve) asset",
-            "amount": "Amount to burn",
+            "amount": "Jumlah untuk hangus",
             "from": "Account to burn from",
-            "submit": "Burn"
+            "submit": "Membakar"
         },
         "confirmation": {
-            "title": "The address you entered does not appear valid, are you sure you want to make the withdrawal?",
-            "accept": "Yes",
-            "cancel": "No"
+            "title": "Alamat yang anda masukkan tidak tampak sah, apakah Anda yakin ingin melakukan penarikan?",
+            "accept": "Ya",
+            "cancel": "Tidak"
         },
         "proposals": {
-            "pay_with": "Pay with account",
-            "approval_add": "Approval to add",
-            "approval_remove": "Approval to remove",
-            "key_approval_add": "Key approval to add",
+            "pay_with": "Pembayaran dengan akun",
+            "approval_add": "Persetujuan untuk menambahkan",
+            "approval_remove": "Persetujuan untuk menghapus",
+            "key_approval_add": "Kunci persetujuan untuk menghapus",
             "key_approval_remove": "Key approval to remove"
         },
         "ok": "OK",
@@ -1338,15 +1338,15 @@
             "bit": "<br/>bit%(asset)s is a derivative that tracks the real value of %(backed)s. It is 100%% decentralized, trustless and backed by collateral held by the blockchain in a smart contract.",
             "bitcny": "<br/><br/>bitCNY can be deposited or withdrawn 1:1 to real Yuan using a gateway service such as Magic Wallet. For more info, see https://www.magicw.net/"
         },
-        "your_account": "Your account",
-        "bitkapital_text": "Choose an asset to deposit or withdraw:",
+        "your_account": "Akun anda",
+        "bitkapital_text": "Memilih aset untuk deposit atau penarikan:",
         "bitkapital_withdraw": "You are withdrawing",
-        "bitkapital_receive": "You will receive",
+        "bitkapital_receive": "Anda akan menerima",
         "iban": "IBAN",
-        "service": "Transfer Service",
+        "service": "Layanan servis",
         "bridge": "Bridge",
         "gateway": "Gateway",
-        "symbol": "Symbol",
+        "symbol": "Simbol",
         "website": "Visit the website",
         "deposit_to": "Silakan kirim %(asset)s anda ke alamat di bawah ini",
         "deposit_address": "Alamat deposit",
