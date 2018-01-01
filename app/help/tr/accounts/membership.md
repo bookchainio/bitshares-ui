@@ -4,7 +4,7 @@ BitShares'teki hesaplar üç gruba ayrılmıştır. We decided to give users the
 
 ## Üye olmayanlar
 
-A *regular* account is a *non-member*.
+*üye olmayan* *sıradan*bir hesaptır.
 
 ## Ömür boyu üyeler
 
