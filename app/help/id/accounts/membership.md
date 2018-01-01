@@ -10,19 +10,19 @@ A *regular* account is a *non-member*.
 
 Lifetime Members get a percentage cashback on every transaction fee they pay and qualify to earn referral income from users they register with or referer to the network. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
 
-## Anual Members
+## Anggota tahunan
 
-If a lifetime membership is too much you can still get the same cashback for the next year by becoming an annual subscriber for a smaller one-time fee which lasts for only one year.
+Jika keanggotaan seumur hidup terlalu banyak Anda masih bisa mendapatkan uang kembali yang sama untuk tahun depan dengan menjadi pelanggan tahunan dengan biaya satu kali lebih kecil hanya berlangsung selama satu tahun.
 
-### Fee Division
+### Biaya divisi
 
-Every time an account you referred pays a transaction fee, that fee is divided among several different accounts. The network takes a cut, and the Lifetime Member who referred the account gets a cut.
+Setiap kali akun yang anda referensikan membayar biaya transaksi, biaya itu terbagi di antara beberapa akun yang berbeda. Jaringan mengambil potongan, dan anggota seumur hidup yang disebut akun mendapat pemetongan.
 
-The registrar is the account that paid the transaction fee to register the account with the network. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
+Registrar adalah akun yang membayar biaya transaksi untuk mendaftar akun dengan jaringan. Pendaftar bisa memutuskan bagaimana membagi biaya yang tersisa antara mereka dan afiliasi mereka sendiri.
 
-### Pending Fees
+### Biaya Tertunda
 
-Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
+Biaya yang dibayarkan hanya dibagi antara jaringan, perujuk, dan pendaftar setiap interval perawatan.
 
 ### Vesting Fees
 
