@@ -18,9 +18,9 @@ Eğer ömür boyu üyelik çok fazla olur ise, yılda sadece {fiyat} için bir y
 
 * kayıt memuru </ 0>, {hesabı}'nı ağa kaydetmek için işlem ücretini ödeyen hesaptır. Kayıt memuru, kalan %{referrerTotalFee} oranının kendileri ile kendi * İştirakçi Yönlendiricisi </ 0> arasında nasıl pay edileceğine karar verir.</p> 
 
-{account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
+{account} 'nın kayıt memuru toplam ücretin %{referrerFee}' sini * İştirakçi yönlendiricisi</ 0> ile paylaşmayı ve toplam ücretin %{registration_Fee}' sini kendileri için tutmayı tercih eder.</p> 
 
-#### Pending Fees
+#### Bekleyen Ücretler
 
 Fees paid by {account} are only divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
 
