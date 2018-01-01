@@ -8,7 +8,7 @@ BitShares'teki hesaplar üç gruba ayrılmıştır. Kullanıcılarımız eğer a
 
 ## Ömür boyu üyeler
 
-Ömür boyu üyelerimiz, ödediği her işlem ücreti karşılığında yüzdelik bir oranda nakit para kazanır ve ağa kaydolan ya da referans gönderen kullanıcılar tarafından da ilave sevk geliri kazanmaya hak kazanacaklardır. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+Ömür boyu üyelerimiz, ödediği her işlem ücreti karşılığında yüzdelik bir oranda nakit para kazanır ve ağa kaydolan ya da referans gönderen kullanıcılar tarafından da ilave sevk geliri kazanmaya hak kazanacaklardır. Ömür boyu üyeliği, komite tarafından belirlenecek olan bir defalık bir ücretle ilişkilendirilir.
 
 ## Yıllık Üyeler
 
@@ -22,8 +22,8 @@ Kayıtevi, işlem ücretini kaydettirmek için ödenen hesaptır. şebeke ile he
 
 ### Bekleyen Ücretler
 
-Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
+Ödenen ücretler, her bakım süresinde ağ, yönlendiriciler ve kayıt memurlarına pay edilir.
 
 ### Katılım Ücretleri
 
-Most fees are made available immediately, but fees over the vesting threshold (such as those paid to upgrade your membership or register a premium account name) must vest for some days as defined by the committee.
+Çoğu ücretler hemen verilir, fakat hak kazanma eşiğinin üzerindeki ücretler (üyeliğinizi yükseltmek veya bir premium hesap adı kaydetmek için ödenenler gibi), komite tarafından belirlenen bazı günler için hak edilmelidir.
