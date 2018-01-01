@@ -4,7 +4,7 @@ Halaman ini akan memberikan pengenalan yang sangat cepat tentang cara untuk mena
 
 ## Pairs
 
-In BitShares, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+Di BitShares, hampir semua aset bisa diperdagangkan dengan semua aset lainnya. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
 
 Untuk kepentingan konsistensi, kami akan menggunakan istilah umum *dasar* dan *kutipan* sedemikian rupa sehingga pasang direpresentasikan sebagai
 
@@ -23,7 +23,7 @@ The order book consists of an *ask* and a *bid* side. Karena pasangan perdaganga
 | Bid           | *base*    | *quote*   |
 | \---\---\---- | \---\---- | \---\---- |
 
-Obviously, what is on the bid side of the USD:EUR pair will be on the ask side on the EUR:USD pair. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
+Obviously, what is on the bid side of the USD:EUR pair will be on the ask side on the EUR:USD pair. Tentu saja harga secara internal diwakili sebagai pecahan, dan dengan demikian menghasilkan kedua pasang itu identik.
 
 ## Trading
 
