@@ -790,7 +790,7 @@
             },
             "permissions": {
                 "title": "Izin",
-                "max_market_fee": "Max market fee",
+                "max_market_fee": "Max biaya pasar",
                 "max_supply": "Pasokan maksimal",
                 "blacklist_authorities": "Otoritas blacklist",
                 "blacklist_markets": "Pasar daftar hitam",
@@ -799,11 +799,11 @@
             },
             "price_feed_data": {
                 "title": "Price Feed Data",
-                "settlement_price": "Settlement price",
+                "settlement_price": "Penyelesaian harga",
                 "core_exchange_rate": "CER",
                 "maintenance_collateral_ratio": "MCR",
                 "maximum_short_squeeze_ratio": "MSSR",
-                "publisher": "Publisher",
+                "publisher": "Penerbit",
                 "published": "Dipublikasikan"
             },
             "margin_positions": {
@@ -835,13 +835,13 @@
             "active": "Jumlah anggota panitia aktif"
         },
         "committee_member": {
-            "title": "Committee member"
+            "title": "Anggota Komite"
         },
         "workers": {
-            "title": "Worker name",
-            "period": "Duration",
-            "daily_pay": "Daily pay (BTS)",
-            "website": "Website",
+            "title": "Nama Pekerja",
+            "period": "Durasi",
+            "daily_pay": "Pembayaran harian (BTS)",
+            "website": "Situs web",
             "vesting_pay": "Periode vestasi gaji (hari)",
             "create": "Buat proposal pekerja baru",
             "create_text_1": "Untuk membuat pekerja baru Anda, silahkan isi formulir di bawah ini. Pekerja akan dibuat menggunakan akun Anda saat ini aktif, yang sudah harus menjadi anggota seumur hidup.",
@@ -856,14 +856,14 @@
             "title": "Usulan transaksi"
         },
         "account": {
-            "title": "Account"
+            "title": "Akun"
         },
         "fees": {
-            "type": "Fee Type",
-            "fee": "Standard Fee",
-            "feeeq": "(equivalent)",
+            "type": "Jenis biaya",
+            "fee": "Biaya standar",
+            "feeeq": "(setara)",
             "feeltm": "Biaya Anggota Seumur Hidup",
-            "feeltmeq": "(equivalent)"
+            "feeltmeq": "(setara)"
         }
     },
     "settings": {
@@ -874,24 +874,24 @@
         "unit": "Unit akun pilihan",
         "confirmMarketOrder": "Mintalah konfirmasi pesanan pasar",
         "locale": "Ganti bahasa",
-        "confirm_yes": "Always",
-        "confirm_no": "Never",
+        "confirm_yes": "Selalu",
+        "confirm_no": "Jangan Pernah",
         "always_confirm": "Selalu minta konfirmasi",
-        "wallets": "Wallets",
-        "apiServer": "Full node API server",
-        "add_ws": "Add Node",
-        "remove_ws": "Remove Node",
+        "wallets": "Dompet",
+        "apiServer": "Server API penuh",
+        "add_ws": "Tambah Node",
+        "remove_ws": "Menghapus Node",
         "faucet_address": "Faucet",
         "faucet_address_text": "Alamat keran digunakan untuk membayar biaya registrasi untuk pengguna baru.",
         "showSettles": "Tampilkan settle order secara mendalam",
         "showAssetPercent": "Tampilkan persentase aset di halaman akun",
-        "yes": "Yes",
+        "yes": "Ya",
         "no": "No",
         "walletLockTimeout": "Wallet auto-lock time (seconds, 0 to disable)",
-        "themes": "Theme",
-        "darkTheme": "Dark",
-        "lightTheme": "Light",
-        "midnightTheme": "Midnight",
+        "themes": "Tema",
+        "darkTheme": "Gelap",
+        "lightTheme": "Terang",
+        "midnightTheme": "Tengah malam",
         "olDarkTheme": "Openledger dark",
         "reset": "Reset settings",
         "general": "General",
@@ -976,9 +976,9 @@
             "trendline": "Draw trend line",
             "volume": "Show volume chart",
             "clamp_chart": "Clamp chart edge",
-            "period": "Period",
-            "height": "Chart height",
-            "price_title": "Price indicators",
+            "period": "Periode",
+            "height": "Tinggi grafik",
+            "price_title": "Indikator harga",
             "volume_title": "Volume indicators"
         },
         "market": "Market",
