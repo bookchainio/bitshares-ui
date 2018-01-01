@@ -1,10 +1,10 @@
-[# summary]
+[# Özet]
 
-### Asset {symbol}
+### Varlık {symbol}
 
 {description}
 
-Issued by: {issuer}
+Tarafından: {issuer}
 
 [# yıllık]
 
