@@ -14,9 +14,9 @@ Eğer ömür boyu üyelik çok fazla olur ise, yılda sadece {fiyat} için bir y
 
 #### Ücret Bölümü
 
-{Account} her zaman bir işlem ücreti ödediğinde, bu ücret birkaç farklı hesap arasında bölünür. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+{Account} her zaman bir işlem ücreti ödediğinde, bu ücret birkaç farklı hesap arasında bölünür. Ağ %{networkFee}'lik bir pay alır ve {account} alanını tanıtan Ömür Boyu Üye, %{lifetimeFee} oranında bir pay elde eder.
 
-The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
+* kayıt memuru </ 0>, {hesabı}'nı ağa kaydetmek için işlem ücretini ödeyen hesaptır. Kayıt memuru, kalan %{referrerTotalFee} oranının kendileri ile kendi * İştirakçi Yönlendiricisi </ 0> arasında nasıl pay edileceğine karar verir.</p> 
 
 {account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
 
