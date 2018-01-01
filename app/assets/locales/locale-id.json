@@ -1244,24 +1244,24 @@
         "coll_ratio": "Rasio",
         "call_limit": "Batas Panggilan Pasar",
         "adjust": "Perbarui posisi",
-        "adjust_short": "Adjust",
-        "close": "Close position",
-        "update": "Update",
+        "adjust_short": "Sesuaikan",
+        "close": "Tutup posisi",
+        "update": "Memperbarui",
         "errors": {
-            "below": "Your collateral ratio is below %(mr)s which is not allowed.",
+            "below": "Rasio jaminan Anda di bawah %(mr)s yang tidak diperbolehkan.",
             "close": "Rasio jaminan Anda mendekati %(mr)s yang berarti posisi ini dalam bahaya menjadi margin disebut jika harga turun.",
-            "collateral": "Insufficient collateral balance"
+            "collateral": "Saldo agunan tidak mencukupi"
         }
     },
     "modal": {
         "send": {
-            "header": "Send from <span class=\"send-name\">%(fromName)s</span>",
-            "header_propose": "Propose Send from <span class=\"send-name\">%(fromName)s</span>"
+            "header": "Dikirim dari <span class=\"send-name\">%(fromName)s</span>",
+            "header_propose": "Usulkan Kirim dari <span class=\"send-name\">%(fromName)s</span>"
         },
         "issue": {
-            "to": "Issue To",
-            "amount": "Amount to Issue",
-            "submit": "Issue Asset"
+            "to": "Isu ke",
+            "amount": "Jumlah untuk Isu",
+            "submit": "Masalah Aset"
         },
         "withdraw": {
             "amount": "Jumlah untuk menarik",
@@ -1282,9 +1282,9 @@
             "submit": "Selesaikan aset"
         },
         "reserve": {
-            "title": "Burn (reserve) asset",
+            "title": "Membakar (cadangan) aset",
             "amount": "Jumlah untuk hangus",
-            "from": "Account to burn from",
+            "from": "Akun untuk dibakar dari",
             "submit": "Membakar"
         },
         "confirmation": {
@@ -1297,33 +1297,33 @@
             "approval_add": "Persetujuan untuk menambahkan",
             "approval_remove": "Persetujuan untuk menghapus",
             "key_approval_add": "Kunci persetujuan untuk menghapus",
-            "key_approval_remove": "Key approval to remove"
+            "key_approval_remove": "Persetujuan kunci untuk menghapus"
         },
-        "ok": "OK",
+        "ok": "Oke",
         "qrcode": {
-            "label": "qrcode",
-            "title": "Private key QR code",
+            "label": "kode Qr",
+            "title": "Kunci pribadi Kode QR",
             "input_message": "Masukkan kata sandi yang digunakan untuk mengenkripsi kode QR.<br />Kata sandi kosong akan menampilkan kode QR yang tidak dienkripsi."
         }
     },
     "init_error": {
-        "title": "Application initialization issues",
-        "ws_status": "Full node connection status",
-        "retry": "Retry",
-        "connected": "Connected",
-        "not_connected": "Not connected",
-        "browser": "Unsupported browser",
+        "title": "Masalah inisialisasi aplikasi",
+        "ws_status": "Status koneksi simpul penuh",
+        "retry": "Mencoba kembali",
+        "connected": "Terhubung",
+        "not_connected": "Tidak terhubung",
+        "browser": "Browser tidak didukung",
         "browser_text": "Browser yang Anda gunakan belum sepenuhnya diuji untuk mendukung Dompet BitShares. Sebaiknya cadangkan dompet lokal Anda dan impor menggunakan Browser Chrome sampai kami memiliki lebih banyak waktu untuk sepenuhnya menguji peramban pilihan Anda. Gunakan dengan risiko Anda sendiri.",
-        "understand": "I understand"
+        "understand": "Saya mengerti"
     },
     "refcode": {
-        "claim": "Claim",
-        "claim_refcode": "Claim Referral Code",
-        "refcode_optional": "Referral Code (optional)",
-        "enter_refcode": "Enter referral code"
+        "claim": "Klaim",
+        "claim_refcode": "Klaim kode rujukan",
+        "refcode_optional": "Kode rujukan (opsional)",
+        "enter_refcode": "Masukkan kode rujukan"
     },
     "proposal_create": {
-        "review_period": "Review period begin",
+        "review_period": "Periode peninjauan dimulai",
         "expiration_time": "Expiration time",
         "proposed_operations": "Proposed operations",
         "fee_paying_account": "Fee paying account",
