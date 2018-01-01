@@ -8,13 +8,13 @@ Tarafından: {issuer}
 
 [# yıllık]
 
-If a lifetime membership is too much you can still get {feesCashback}% cashback for the next year by becoming an annual subscriber for just {price} per year. ![GitHub Logo](/images/logo.png)
+Eğer ömür boyu üyelik çok fazla olur ise, yılda sadece {fiyat} için bir yıllık abone olarak. önümüzdeki yıl için {feesCashback}% oranında geri ödeme almaya devam edebilirsiniz. ![GitHub Logo](/images/logo.png)
 
 [# fee-division]
 
 #### Ücret Bölümü
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+{Account} her zaman bir işlem ücreti ödediğinde, bu ücret birkaç farklı hesap arasında bölünür. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
 
 The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
