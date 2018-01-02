@@ -8,7 +8,7 @@ A *regular* account is a *non-member*.
 
 ## Anggota seumur hidup
 
-Anggota Lifetime mendapatkan persentase cashback pada setiap biaya transaksi yang mereka bayar dan memenuhi syarat untuk mendapatkan pendapatan rujukan dari pengguna yang mereka daftarkan atau rujuk ke jaringan. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+Anggota Lifetime mendapatkan persentase cashback pada setiap biaya transaksi yang mereka bayar dan memenuhi syarat untuk mendapatkan pendapatan rujukan dari pengguna yang mereka daftarkan atau rujuk ke jaringan. Keanggotaan seumur hidup dikaitkan dengan biaya satu kali tertentu yang didefinisikan oleh panitia.
 
 ## Anggota tahunan
 
@@ -24,6 +24,6 @@ Registrar adalah akun yang membayar biaya transaksi untuk mendaftar akun dengan 
 
 Biaya yang dibayarkan hanya dibagi antara jaringan, perujuk, dan pendaftar setiap interval perawatan.
 
-### Vesting Fees
+### Biaya rompi
 
 Sebagian besar biaya segera tersedia, namun biaya di atas ambang vesting (seperti yang dibayar untuk meningkatkan keanggotaan Anda atau mendaftarkan akun premium nama) harus rampung beberapa hari seperti yang ditentukan oleh panitia.
