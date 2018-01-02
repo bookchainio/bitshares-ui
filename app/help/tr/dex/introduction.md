@@ -12,9 +12,9 @@ Merkezi olmayan bir borsanın geleneksel merkezileştirilmiş borsalara göre ç
 
 * **Limit Yok**: BitShares protokolü alım-satım deneyiminizi sınırlamamaktadır.
 
-* **Merkezi Olmayan**: DEX bütün dünyaya merkezi olmayacak şekilde dağılmıştır. This not only means that there is no single point of failure, but it also implies that the BitShares exchange is open for trading 24/7 because it's always daytime somewhere.
+* **Merkezi Olmayan**: DEX bütün dünyaya merkezi olmayacak şekilde dağılmıştır. Bu sadece tek bir hata noktası yoktur anlamına gelmez, ancak BitShares borsası alım satım için 7/24 açıktır, çünkü her zaman bir yerlerde gündüzdür.
 
-* **Secure**: Your funds and trades are secured with industry-grade elliptic curve cryptography. No one will be able to access your funds unless you let them. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
+* ** Güvenli **: Fonlarınız ve alım-satım işlemleriniz endüstri düzeyinde eliptik eğri şifrelemesi ile güvence altına alınmıştır. Hiç kimse siz izin vermediğiniz sürece sizin fonlarına erişemez. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
 
 * **Fast**: In contrast to other decentralized networks, the BitShares DEX allows for real-time trading and is only limited by the speed of light and the size of the planet.
 
