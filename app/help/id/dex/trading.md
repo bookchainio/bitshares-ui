@@ -31,4 +31,4 @@ To place a trading order, it is required to fill the form on either the *ask* or
 
 Once the order is filled (i.e. someone sold/bought your offer), your account will be credited by the corresponding asset.
 
-Unfilled orders can be canceled at any time.
+Perintah yang tidak terisi dapat dibatalkan setiap saat.
