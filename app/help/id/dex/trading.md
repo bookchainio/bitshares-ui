@@ -17,11 +17,11 @@ and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD
 
 The order book consists of an *ask* and a *bid* side. Karena pasangan perdagangan tidak memiliki orientasi yang diinginkan, dan dapat dibalik, tabel berikut harus diberikan ikhtisar permintaan / penawaran dan operasi pembelian/penjualan yang sesuai untuk masing-masing pihak:
 
-| Sisi          | Jual      | Buy       |
-| ------------- | --------- | --------- |
-| Ask           | *quote*   | *base*    |
-| Bid           | *base*    | *quote*   |
-| \---\---\---- | \---\---- | \---\---- |
+| Sisi          | Jual          | Membeli       |
+| ------------- | ------------- | ------------- |
+| Meminta       | *kutipan*     | *mendasarkan* |
+| Tawaran       | *mendasarkan* | *quote*       |
+| \---\---\---- | \---\----     | \---\----     |
 
 Jelas, apa yang ada di sisi penawaran pasangan USD: EUR akan berada di sisi permintaan pada pasangan EUR: USD. Tentu saja harga secara internal diwakili sebagai pecahan, dan dengan demikian menghasilkan kedua pasang itu identik.
 
