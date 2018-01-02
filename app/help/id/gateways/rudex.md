@@ -1,4 +1,4 @@
-# Rudex Gateway Service
+# Layanan Rudex Gateway
 
 Rudex adalah layanan gateway yang dibangun di Bursa Bitshares. Layanan gateway bertanggung jawab untuk memindahkan kripto dari dan ke Bitshares Exchange. Mereka mendukung berbagai aset populer. Anda dapat dengan mudah mengidentifikasi yang didukung oleh OpenLedger karena semuanya diawali dengan kata RUDEX. *. For example RUDEX.BTC, RUDEX.LTC etc.
 
