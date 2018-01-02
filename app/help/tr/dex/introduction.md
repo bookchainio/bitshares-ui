@@ -1,6 +1,6 @@
 # Merkezi Olmayan Takas
 
-The decentralized exchange (further denoted simply as *the DEX*) allows for direct exchange of digital goods traded in the BitShares ecosystem.
+Merkezi olmayan borsa (daha basit olarak *DEX*olarak adlandırılır), BitShares ekosisteminde işlem gören dijital ürünlerin doğrudan alınıp satılmasına izin vermektedir.
 
 A decentralized exchange has a very particular set of advantages over traditional centralized exchanges and we would like to address some of them briefly below. Although the BitShares DEX comes with all of them, it is up to the reader and customer to leverage those features in full or only partially.
 
