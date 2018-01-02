@@ -10,7 +10,7 @@
     },
     "languages": {
         "en": "English",
-        "zh": "简体中文",
+        "zh": "الصينية المبسطة",
         "fr": "Français",
         "ko": "한국어",
         "de": "Deutsch",
@@ -125,12 +125,12 @@
         "deposit_withdraw": "إيداع/سحب",
         "as_collateral": "ضمانات إضافية",
         "open_orders": "الأوامر المفتوحة",
-        "filter_orders": "Filter",
+        "filter_orders": "تصفية",
         "submit_orders": "إعتماد",
-        "reset_orders": "Reset",
+        "reset_orders": "إعادة الضبط",
         "total_value": "القيمة الإجمالية",
-        "show_hidden": "Hidden",
-        "hide_hidden": "Active",
+        "show_hidden": "مخفية",
+        "hide_hidden": "ناشط",
         "ignore": "Hide",
         "unignore": "Unhide",
         "show_ignored": "إظهار الحسابات المخفية",
@@ -427,8 +427,8 @@
         "name_input": {
             "name_is_taken": "سبق التسجيل بهذا الإسم من قبل.",
             "not_found": "لم يتم العثور على الحساب.",
-            "premium_name_faucet": "This is a premium name which is not supported by this faucet. Please enter a regular name containing least one dash, a number or no vowels.",
-            "premium_name_warning": "This is a premium name which is more expensive than a name containing a dash (-) or a number."
+            "premium_name_faucet": "هذا اسم مميز وهو غير مدعوم من طرف هذا الصنبور. الرجاء إدخال اسم عادي يحتوي على شرطة واحدة على الأقل، أو رقم أو بدون حروف علة.",
+            "premium_name_warning": "هذا اسم مميز وهو أكثر تكلفة من اسم يحتوي على شرطة (-) أو عدد."
         },
         "propose_from": "Propose From",
         "settle": "Settle",
