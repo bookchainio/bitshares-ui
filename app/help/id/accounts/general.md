@@ -1,3 +1,3 @@
-# Accounts
+# Akun
 
 Seperti yang mungkin sudah Anda sadari sekarang, teknologi blockchain ini mengharuskan Anda untuk mendaftarkan nama akun. Ini datang dengan banyak kelebihan: Selain ditingkatkan Skalabilitas, kami telah memisahkan identitas dari otorisasi transaksi tanda tangan. In practice, *owning an account name* is independent from being able to *spend its funds*. Furthermore, both rights (we call them *permissions*) can split among an arbitrary complex relation of people (we call them *authorities*) using *weights* and a required *thresholds*.
