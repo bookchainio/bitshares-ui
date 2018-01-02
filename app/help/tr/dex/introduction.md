@@ -1,4 +1,4 @@
-# Decentralized Exchange
+# Merkezi Olmayan Takas
 
 The decentralized exchange (further denoted simply as *the DEX*) allows for direct exchange of digital goods traded in the BitShares ecosystem.
 
