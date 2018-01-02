@@ -150,7 +150,7 @@
             "empty_black": "%(account)s has not blacklisted any accounts.",
             "white_by": "أضيف إلى اللائحة البيضاء من طرف",
             "black_by": "أضيف إلى اللائحة السوداء من طرف",
-            "empty_white_by": "وقد لا يوجد أي حساب أضاف %(account)s في لائحته البيضاء.",
+            "empty_white_by": "لا يوجد أي حساب أضاف %(account)s في لائحته البيضاء.",
             "empty_black_by": "وقد لا يوجد أي حساب أضاف %(account)s في لائحته السوداء.",
             "whitelist_authorities": "سلطة القائمة البيضاء",
             "blacklist_authorities": "سلطة القائمة السوداء"
