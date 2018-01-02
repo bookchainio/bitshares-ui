@@ -4,9 +4,9 @@ Merkezi olmayan borsa (daha basit olarak *DEX*olarak adlandırılır), BitShares
 
 Merkezi olmayan bir borsanın geleneksel merkezileştirilmiş borsalara göre çok ayırt edici ve önemli avantajları vardır ve bunlardan bazılarına aşağıda kısaca değinmek istiyoruz. BitShares DEX bütün hepsiyle birlikte gelmesine rağmen, bu özelliklerin tamamen veya yalnızca bir bölümünün kullanılması okuyucunun ve müşterinin elindedir.
 
-* **Separation of Powers**: There is no reason why the same entity needs to be responsible for issuing IOUs and for processing the order book. In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
+* **Güçlerin Ayrılması**: Aynı kuruluşun, IOU'ların verilmesinden ve sipariş defterinin işletilmesinden sorumlu olması için hiçbir neden yoktur. BitShares'te sipariş eşleştirmesi bir protokol ile gerçekleştirilir, bu protokol ilgili varlıklarla ilgili sonuçlardan habersizdir.
 
-* **Global Unified Order Book**: Since BitShares is global, anybody with an internet access can use the DEX for trading. This brings the world's liquidity to a single order book for decentralized trading.
+* **Evrensel Birleşik Birleşik Sipariş Defteri**: BitShares evrensel olduğundan, internet erişimine sahip olan herkes alım satım için DEX'i kullanabilir. This brings the world's liquidity to a single order book for decentralized trading.
 
 * **Trade Almost Anything**: The BitShares DEX is asset agnostic. Hence you can trade at **any** pair. While some pairs may end up with low liquidity, such as SILVER:GOLD, other pairs such as USD:EUR for FOREX trading will see huge volume.
 
