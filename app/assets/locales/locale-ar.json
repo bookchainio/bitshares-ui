@@ -76,7 +76,7 @@
         "buy_min": "سوف تتلقى على الأقل هذا المبلغ. إذا كانت هناك أوامر مطابقة بسعر أرخص مما حددت، سوف تتلقى مبلغ أكثر من هذا.",
         "borrow": "Borrow %(asset)s from the network. This creates a smart contract that locks your collateral until you either modify the position or a margin call is required.",
         "transfer_actions": "اضغط هنا لإتمام عملية النقل، أو بإيداع/سحب تلك الأصول التي تدعم ذلك.",
-        "deposit_tip": "To complete the deposit, go to your external %(asset)s wallet and make a transfer to the address listed on this page. You will receive the deposit as soon as it has been confirmed. If a memo is shown , it is essential that you include this memo in your transfer.",
+        "deposit_tip": "لإكمال الإيداع، انتقل إلى محفظة %(asset)s الخارجية وأجر تحويل إلى العنوان الموجود في هذه الصفحة. سوف تتلقى الإيداع في أقرب وقت ممكن عند التأكد من الإيداع . وإذا تبين أن هناك ملحوظة، من الضروري أن تقوم بتضمين هذه الملحوظة في التحويل الخاص بك.",
         "copy_tip": "انقر هنا لنسخ النص إلى الحافظة الخاصة بك",
         "withdraw_full": "انقر لسحب الرصيد بالكامل",
         "withdraw_address": "If you don't already have a %(asset)s address, please find a wallet provider and create one in order to complete the withdrawal.",
