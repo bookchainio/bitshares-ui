@@ -127,7 +127,7 @@
         "open_orders": "Открытые ордера",
         "filter_orders": "Фильтровать",
         "submit_orders": "Submit",
-        "reset_orders": "Reset",
+        "reset_orders": "Сбросить",
         "total_value": "Общая стоимость",
         "show_hidden": "Скрытые",
         "hide_hidden": "Активные",
@@ -136,7 +136,7 @@
         "show_ignored": "Показать скрытые аккаунты",
         "hide_ignored": "Не отображать скрытые аккаунты",
         "accounts": "Аккаунты",
-        "contacts": "Contacts",
+        "contacts": "Контакты",
         "estimate_value": "Текущая стоимость аккаунта",
         "polo_scam": "Этот аккаунт не является реальным аккаунтом Poloniex, пожалуйста, отправьте на этот аккаунт: poloniexwallet.",
         "bittrex_scam": "Этот аккаунт не является реальным аккаунтом Bittrex, пожалуйста, отправьте на этот аккаунт: bittrex-deposit.",
@@ -162,7 +162,7 @@
             "explain": "Балансы вестинг-счетов включают в себя все вознаграждения, заработанные на партнерской программе или, например, в результате выплат работникам. У них есть определенный вестинг-период, в течение которого средства последовательно разблокируются вплоть до полной доступности всех балансов"
         },
         "member": {
-            "stats": "Membership stats",
+            "stats": "Статистика членства",
             "join": "Присоединился",
             "registrar": "Регистратор",
             "referrer": "Аффилированный Реферал",
@@ -251,7 +251,7 @@
             "visible": "Не отображать актив в поиске и в рынках",
             "cer_warning_1": "Предупреждение",
             "cer_warning_2": "Убедитесь, что ваш основной обменный курс выше, чем рыночная цена, в противном случае люди будут покупать ваш токен на рынке и опустошат ваш пул комиссий путем арбитража. Основной обменный курс нужно регулярно обновлять, чтобы он отражал рыночную цену вашего актива.",
-            "feed_producers": "Feed producers",
+            "feed_producers": "Производители котировок",
             "add_feed": "Add new feed producer",
             "feed_not_allowed_1": "Cannot set feed producers on a witness- or committee-fed asset",
             "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers"
