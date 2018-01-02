@@ -4,7 +4,7 @@ Halaman ini akan memberikan pengenalan yang sangat cepat tentang cara untuk mena
 
 ## Pairs
 
-Di BitShares, hampir semua aset bisa diperdagangkan dengan semua aset lainnya. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+Di BitShares, hampir semua aset bisa diperdagangkan dengan semua aset lainnya. Begitu kita punya mengambil dua aset, biasanya kita mengacu pada *pasangan pasar*. Misalnya, kita bisa perdagangan USD terhadap EUR dalam pasangan USD: EUR.
 
 Untuk kepentingan konsistensi, kami akan menggunakan istilah umum *dasar* dan *kutipan* sedemikian rupa sehingga pasang direpresentasikan sebagai
 
@@ -27,7 +27,7 @@ Jelas, apa yang ada di sisi penawaran pasangan USD: EUR akan berada di sisi perm
 
 ## Trading
 
-To place a trading order, it is required to fill the form on either the *ask* or the *bid* side (respectively, *buy* or *sell* side). You will need to define a *price* and an *amount* to sell/buy. Biaya untuk pesanan ini adalah dihitung secara otomatis. Perhatikan bahwa akan ada biaya tambahan yang diperlukan untuk benar-benar memesan.
+Untuk menempatkan order trading, diperlukan mengisi form pada salah satu *meminta* atau itu *tawaran* sisi (masing-masing, *membeli* atau *menjual* sisi). You will need to define a *price* and an *amount* to sell/buy. Biaya untuk pesanan ini adalah dihitung secara otomatis. Perhatikan bahwa akan ada biaya tambahan yang diperlukan untuk benar-benar memesan.
 
 Setelah pesanan terisi (yaitu seseorang menjual/membeli penawaran Anda), akun Anda akan dikreditkan oleh aset yang bersangkutan.
 
