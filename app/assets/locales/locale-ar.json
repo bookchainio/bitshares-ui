@@ -252,12 +252,12 @@
             "cer_warning_1": "تحذير",
             "cer_warning_2": "Make sure your core exchange rate is higher than the market price, otherwise people will buy your token from the market and drain your fee pool via implicit arbitrage. The core exchange rate should be updated regularly to reflect market pricing of your asset.",
             "feed_producers": "Feed producers",
-            "add_feed": "Add new feed producer",
-            "feed_not_allowed_1": "Cannot set feed producers on a witness- or committee-fed asset",
+            "add_feed": "إضافة منتج جديد للمستجدات",
+            "feed_not_allowed_1": "يتعذر تعيين منتجي المستجدات من بين الشهود أو اللجنة مستجدات الأصول",
             "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers"
         },
         "connections": {
-            "known": "Known by",
+            "known": "معروفة من قبل",
             "black": "أضيف إلى اللائحة السوداء من طرف"
         },
         "perm": {
@@ -268,7 +268,7 @@
             "reset": "إعادة الضبط",
             "add": "إضافة صلاحية",
             "type": "النوع",
-            "key": "Key/Name",
+            "key": "المفتاح / الاسم",
             "weight": "Weight",
             "threshold": "Threshold",
             "confirm_add": "أضف",
@@ -284,10 +284,10 @@
             "acct_or_key": "حساب/مفتاح/عنوان",
             "key_viewer": "عارض المفتاح الخاص",
             "public": "المفتاح العمومي",
-            "private": "Private key (WIF - Wallet Import Format)",
+            "private": "المفتاح الخاص ( WIF - تنسيق استيراد المحفظة)",
             "show": "\t\nإظهار",
             "brain": "Brainkey position",
-            "from": "Imported from account",
+            "from": "المستوردة من الحساب",
             "sign_owner": "تسجيل الدخول كمالك",
             "password_model": "المحفظة السحابية",
             "password_model_1": "If you want to be able to login from anywhere using only your password and account name, you can use this page to add new keys to your permissions. If you also want to remove the original keys, you can do so in the active/owner permissions tabs.",
