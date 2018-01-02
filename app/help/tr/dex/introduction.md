@@ -10,9 +10,9 @@ Merkezi olmayan bir borsanın geleneksel merkezileştirilmiş borsalara göre ç
 
 * **Alım-Satım Neredeyse Hiçbir şey **: BitShares DEX bilinmez bir varlıktır. Bu nedenle **herhangi bir** çift ile alım satım yapabilirsiniz. GÜMÜŞ:ALTIN gibi, bazı çiftler düşük likiditeye neden olabilirken, USD:EUR gibi bazı çiftler ise FOREX alım satımlarında büyük bir hacim göstermektedir.
 
-* **No Limits**: The BitShares protocol is unable to limit your trading experience.
+* **Limit Yok**: BitShares protokolü alım-satım deneyiminizi sınırlamamaktadır.
 
-* **Decentralized**: The DEX is decentralized across the globe. This not only means that there is no single point of failure, but it also implies that the BitShares exchange is open for trading 24/7 because it's always daytime somewhere.
+* **Merkezi Olmayan**: DEX bütün dünyaya merkezi olmayacak şekilde dağılmıştır. This not only means that there is no single point of failure, but it also implies that the BitShares exchange is open for trading 24/7 because it's always daytime somewhere.
 
 * **Secure**: Your funds and trades are secured with industry-grade elliptic curve cryptography. No one will be able to access your funds unless you let them. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
 
