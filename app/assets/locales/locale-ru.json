@@ -90,8 +90,8 @@
         "bridge_TRADE": "BlockTrades – это сервис моста, поддерживающий мгновенную торговлю активами. Все детали и условия можно найти на https://blocktrades.us",
         "over_limit": "Мост не обладает достаточным количеством желаемого актива для данного ордера на покупку",
         "propose_tip": "Propose another user to initiate a transaction",
-        "follow_user": "You are following this user",
-        "follow_user_add": "Click to Follow this user"
+        "follow_user": "Вы подписаны на этого пользователя",
+        "follow_user_add": "Нажмите, чтобы подписаться на этого пользователя"
     },
     "propose": "Предложить",
     "cancel": "Отменить",
@@ -125,7 +125,7 @@
         "deposit_withdraw": "Ввод/Вывод",
         "as_collateral": "Обеспечение",
         "open_orders": "Открытые ордера",
-        "filter_orders": "Filter",
+        "filter_orders": "Фильтровать",
         "submit_orders": "Submit",
         "reset_orders": "Reset",
         "total_value": "Общая стоимость",
