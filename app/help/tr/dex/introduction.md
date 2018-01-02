@@ -2,7 +2,7 @@
 
 Merkezi olmayan borsa (daha basit olarak *DEX*olarak adlandırılır), BitShares ekosisteminde işlem gören dijital ürünlerin doğrudan alınıp satılmasına izin vermektedir.
 
-A decentralized exchange has a very particular set of advantages over traditional centralized exchanges and we would like to address some of them briefly below. Although the BitShares DEX comes with all of them, it is up to the reader and customer to leverage those features in full or only partially.
+Merkezi olmayan bir borsanın geleneksel merkezileştirilmiş borsalara göre çok ayırt edici ve önemli avantajları vardır ve bunlardan bazılarına aşağıda kısaca değinmek istiyoruz. BitShares DEX bütün hepsiyle birlikte gelmesine rağmen, bu özelliklerin tamamen veya yalnızca bir bölümünün kullanılması okuyucunun ve müşterinin elindedir.
 
 * **Separation of Powers**: There is no reason why the same entity needs to be responsible for issuing IOUs and for processing the order book. In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
 
