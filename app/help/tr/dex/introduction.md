@@ -6,9 +6,9 @@ Merkezi olmayan bir borsanın geleneksel merkezileştirilmiş borsalara göre ç
 
 * **Güçlerin Ayrılması**: Aynı kuruluşun, IOU'ların verilmesinden ve sipariş defterinin işletilmesinden sorumlu olması için hiçbir neden yoktur. BitShares'te sipariş eşleştirmesi bir protokol ile gerçekleştirilir, bu protokol ilgili varlıklarla ilgili sonuçlardan habersizdir.
 
-* **Evrensel Birleşik Birleşik Sipariş Defteri**: BitShares evrensel olduğundan, internet erişimine sahip olan herkes alım satım için DEX'i kullanabilir. This brings the world's liquidity to a single order book for decentralized trading.
+* **Evrensel Birleşik Birleşik Sipariş Defteri**: BitShares evrensel olduğundan, internet erişimine sahip olan herkes alım satım için DEX'i kullanabilir. Bu, dünyanın likiditesini merkezi olmayan ticaret için tek bir sipariş defteri haline getiriyor.
 
-* **Trade Almost Anything**: The BitShares DEX is asset agnostic. Hence you can trade at **any** pair. While some pairs may end up with low liquidity, such as SILVER:GOLD, other pairs such as USD:EUR for FOREX trading will see huge volume.
+* **Alım-Satım Neredeyse Hiçbir şey **: BitShares DEX bilinmez bir varlıktır. Bu nedenle **herhangi bir** çift ile alım satım yapabilirsiniz. GÜMÜŞ:ALTIN gibi, bazı çiftler düşük likiditeye neden olabilirken, USD:EUR gibi bazı çiftler ise FOREX alım satımlarında büyük bir hacim göstermektedir.
 
 * **No Limits**: The BitShares protocol is unable to limit your trading experience.
 
