@@ -67,7 +67,7 @@
         "show_block": "انقر هنا لإظهار كتلة #%(block)s التي وقعت فيها هذه الصفقة.",
         "coll_ratio": "The collateral ratio of the position is COLLATERAL * FEED PRICE / DEBT.",
         "call_price": "This is the call price of the position. If the feed price goes below the call price, the position will be margin called.",
-        "close_position": "Click here to close your position. You will need to have at least %(amount)s %(asset)s in order to do so.",
+        "close_position": "انقر هنا لإغلاق الموقف الخاص بك. وسوف تحتاج إلى أن يكون لديك على الأقل %(asset)s %(amount)s من أجل القيام بذلك.",
         "update_position": "أنقر هنا لتحديث موقفك. يمكنك في أي وقت تغيير الدين و/أو مستويات ضمان موقفك.",
         "cr_danger": "This position is currently being margin called. Consider adding collateral to bring the collateral ratio above %(mr)s or closing the position.",
         "cr_warning": "This position has a low level of collateral, and will get margin called if the collateral ratio drops below %(mr)s. Consider adding collateral or closing the position.",
