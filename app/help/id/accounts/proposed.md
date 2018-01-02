@@ -1,3 +1,3 @@
-# Proposed Transactions
+# Usulan Transaksi
 
 Ini adalah fitur lanjutan dari Bitshares yang dapat diakses dari fitur kirim. Hal ini memungkinkan untuk sesuatu yang dikenal multisig. Bayangkan Anda memiliki satu akun tapi membutuhkan lebih dari satu orang untuk memberi otorisasi transaksi. Kemampuan ini dibangun menjadi bitshares, namun membutuhkan pengetahuan yang maju dan ada proses setup. Jika sebelumnya Anda belum mensetup multisig untuk akun Anda, aman untuk mengatakan bahwa Anda tidak memerlukannya.
