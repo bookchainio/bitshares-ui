@@ -64,7 +64,7 @@
         "show_asset": "انقر هنا لإظهار هذا الأصل في القائمة الرئيسية.",
         "settle": "Settling will let you convert your holdings of %(asset)s to BTS after a delay of 24 hours, at a price equal to the feed price at that time.",
         "filter_ops": "Use this list to filter your history by operation type.",
-        "show_block": "Click here to show block #%(block)s where this transaction occurred.",
+        "show_block": "انقر هنا لإظهار كتلة #%(block)s التي وقعت فيها هذه الصفقة.",
         "coll_ratio": "The collateral ratio of the position is COLLATERAL * FEED PRICE / DEBT.",
         "call_price": "This is the call price of the position. If the feed price goes below the call price, the position will be margin called.",
         "close_position": "Click here to close your position. You will need to have at least %(amount)s %(asset)s in order to do so.",
@@ -72,7 +72,7 @@
         "cr_danger": "This position is currently being margin called. Consider adding collateral to bring the collateral ratio above %(mr)s or closing the position.",
         "cr_warning": "This position has a low level of collateral, and will get margin called if the collateral ratio drops below %(mr)s. Consider adding collateral or closing the position.",
         "propose_scam": "تم إنشاء هذا الاقتراح من قبل مخادع معروف، لا توافق عليه!",
-        "login": "This BitShares wallet does not offer a traditional login but instead simply locks or unlocks a wallet that is <b>only</b> stored locally in your browser.<br/><br/>Whenever you close the wallet it will be locked and you will effectively be logged out.",
+        "login": "محفظة بيتشاريس هذه لا تقدم تسجيل الدخول التقليدية ولكن بدلا من ذلك ببساطة إقفال أو فتح المحفظة التي هي <b>فقط</b> مخزنة محلياً في المتصفح الخاص بك. <br/> <br/> كلما قمت بإغلاق المحفظة سوف تكون مؤمنة وسيتم تسجيل خروجك بشكل فعال.",
         "buy_min": "سوف تتلقى على الأقل هذا المبلغ. إذا كانت هناك أوامر مطابقة بسعر أرخص مما حددت، سوف تتلقى مبلغ أكثر من هذا.",
         "borrow": "Borrow %(asset)s from the network. This creates a smart contract that locks your collateral until you either modify the position or a margin call is required.",
         "transfer_actions": "اضغط هنا لإتمام عملية النقل، أو بإيداع/سحب تلك الأصول التي تدعم ذلك.",
@@ -152,8 +152,8 @@
             "black_by": "أضيف إلى اللائحة السوداء من طرف",
             "empty_white_by": "وقد لا يوجد أي حساب أضاف %(account)s في لائحته البيضاء.",
             "empty_black_by": "وقد لا يوجد أي حساب أضاف %(account)s في لائحته السوداء.",
-            "whitelist_authorities": "Whitelist authority",
-            "blacklist_authorities": "Blacklist authority"
+            "whitelist_authorities": "سلطة القائمة البيضاء",
+            "blacklist_authorities": "سلطة القائمة السوداء"
         },
         "vesting": {
             "title": "الأرصدة المودعة",
@@ -194,7 +194,7 @@
             "referral_text": "إعطي هذا الرابط للناس الذين تريد أن توجههم إلى BitShares"
         },
         "user_issued_assets": {
-            "symbol": "Symbol",
+            "symbol": "الرمز",
             "name": "إسم الأصل",
             "description": "الوصف",
             "max_supply": "العرض الأقصى",
