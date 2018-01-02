@@ -972,7 +972,7 @@
             "smaVolume": "SMA",
             "macd": "Bagan MACD",
             "bb": "Band bolinger",
-            "fib": "Draw Fibonacci retracement",
+            "fib": "Menggambar retracement Fibonacci",
             "trendline": "Gambarkan garis tren",
             "volume": "Tampilkan bagan volume",
             "clamp_chart": "Penjepit tepi grafik",
