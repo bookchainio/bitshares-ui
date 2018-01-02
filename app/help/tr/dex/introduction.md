@@ -14,9 +14,9 @@ Merkezi olmayan bir borsanın geleneksel merkezileştirilmiş borsalara göre ç
 
 * **Merkezi Olmayan**: DEX bütün dünyaya merkezi olmayacak şekilde dağılmıştır. Bu sadece tek bir hata noktası yoktur anlamına gelmez, ancak BitShares borsası alım satım için 7/24 açıktır, çünkü her zaman bir yerlerde gündüzdür.
 
-* ** Güvenli **: Fonlarınız ve alım-satım işlemleriniz endüstri düzeyinde eliptik eğri şifrelemesi ile güvence altına alınmıştır. Hiç kimse siz izin vermediğiniz sürece sizin fonlarına erişemez. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
+* ** Güvenli **: Fonlarınız ve alım-satım işlemleriniz endüstri düzeyinde eliptik eğri şifrelemesi ile güvence altına alınmıştır. Hiç kimse siz izin vermediğiniz sürece sizin fonlarına erişemez. Güvenliği daha da güçlendirmek için, müşterilerimize emanet sistemi kurulumu ve çok imzalı planlar oluşturma olanaklarını sağlamaktayız.
 
-* **Fast**: In contrast to other decentralized networks, the BitShares DEX allows for real-time trading and is only limited by the speed of light and the size of the planet.
+* **Hızlı**: Diğer merkezi olmayan ağların aksine, BitShares DEX gerçek zamanlı ticarete izin verir ve yalnızca ışık hızı ve gezegenin boyutu tarafından sınırlandırılır.
 
 * **Provable Order Matching Algorithm**: What makes the BitShares DEX unique is the provable order matching algorithm. Given a set of orders, you will always be able to provably verify that these orders have been matched properly.
 
