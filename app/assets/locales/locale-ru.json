@@ -1422,33 +1422,33 @@
         "status": "Статус",
         "asset_unavailable": "Шлюз для %(asset)s в данный момент не работает",
         "user_unavailable": "В настоящий момент информация о пользователе недоступна, повторите попытку позже",
-        "frozen": "The user account %(account)s was frozen",
-        "transaction_history_info": " %(amount)s %(assetName)s with trancation id: %(txid)s ",
-        "support_gdex": "For support, please contact GDEX",
+        "frozen": "Аккаунт пользователя %(account)s был заморожен",
+        "transaction_history_info": " %(amount)s %(assetName)s с id транзакции: %(txid)s ",
+        "support_gdex": "Для получения поддержки, пожалуйста, свяжитесь с GDEX",
         "withdraw_history_status": {
-            "confirming": "confirming",
-            "auditing": "withdraw auditing",
-            "audited": "auditting completed",
+            "confirming": "подтверждается",
+            "auditing": "аудит вывода",
+            "audited": "аудит завершен",
             "refused": "auditting failed",
-            "transfering": "transfering",
-            "success": "success",
-            "fail": "fail"
+            "transfering": "передача",
+            "success": "успех",
+            "fail": "не удалось"
         },
         "deposit_history_status": {
-            "confirming": "deposit confirming",
-            "waiting": "waiting for deposit",
-            "transfering": "transfering",
-            "success": "success",
-            "fail": "fail"
+            "confirming": "подтверждение депозита",
+            "waiting": "ожидание депозита",
+            "transfering": "передача",
+            "success": "успех",
+            "fail": "не удалось"
         }
     },
     "trx_error": {
         "expire": "Срок ожидания Вашей транзакции истек без подтверждения, пожалуйста, повторите попытку позже."
     },
     "migration": {
-        "title": "Notice",
-        "announcement_1": "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
-        "text_1": "Local wallet detected",
+        "title": "Уведомление",
+        "announcement_1": "Дабы обеспечить повышенную безопасность веб-кошелька, мы переносим его на указанный ниже адрес. Обязательно обновите любые закладки, которые у вас есть.",
+        "text_1": "Обнаружен локальный кошелек",
         "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
         "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
     },
