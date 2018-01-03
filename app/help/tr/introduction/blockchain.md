@@ -1,6 +1,6 @@
 # Blokzinciri
 
-Çoğu şifreleme para birimi olan Graphene, transferleri ve piyasa faaliyetleri hakkında katılımcıları güncellemek için bir blockchain kullanıyor. Bloklar hep bir önceki bloğa işaret ettiğinden, ağda yapılan her işlemi içeren bir blockchain'e (blok zinciri) sahibiz. Blok zinciri herkes tarafından erişilebilir ve denetlenebilir bir defterdir. Herkes, piyasa emirlerinin ve sipariş kitaplarının yanı sıra transferleri de yakından inceleyebilir ve doğrulayabilir.
+Çoğu şifreleme para birimi olan Graphene, transferleri ve piyasa faaliyetleri hakkında katılımcıları güncellemek için bir blockchain kullanıyor. Bloklar hep bir önceki bloğa işaret ettiğinden, ağda yapılan her işlemi içeren bir blockchain'e (blok zincirine) sahibiz. Blok zinciri herkes tarafından erişilebilir ve denetlenebilir bir defterdir. Herkes, piyasa emirlerinin ve sipariş kitaplarının yanı sıra transferleri de yakından inceleyebilir ve doğrulayabilir.
 
 Elbette, bu web cüzdanında denetiminizde size yardımcı olacak bir blok araştırmacı bulunur.
 
