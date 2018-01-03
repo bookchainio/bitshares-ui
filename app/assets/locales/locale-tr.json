@@ -411,7 +411,7 @@
             "invalid": "Geçersiz hesap adı",
             "unknown": "Hesap kayıtlı değil",
             "not_yours": "Hesap sizin değil",
-            "memo_missing": "Bu hesap için not tuşunun kontrolüne sahip değilsiniz. Bir not kullanmak için lütfen hesap belleğini İzinler sayfasını kullanarak kontrol ettiğiniz bir anahtara getirin."
+            "memo_missing": "Bu hesap için not tuşunun kontrolüne sahip değilsiniz. Bir not kullanmak için lütfen hesap belleğini izinler sayfasını kullanarak kontrol ettiğiniz bir anahtara getirin."
         },
         "collaterals": "Teminat Pozisyonları",
         "eq_value": "Eş Değeri",
