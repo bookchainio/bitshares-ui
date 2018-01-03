@@ -1449,7 +1449,7 @@
         "title": "Уведомление",
         "announcement_1": "Дабы обеспечить повышенную безопасность веб-кошелька, мы переносим его на указанный ниже адрес. Обязательно обновите любые закладки, которые у вас есть.",
         "text_1": "Обнаружен локальный кошелек",
-        "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
+        "text_2": "Пожалуйста, создайте резервную копию своего кошелька и восстановите файл резервной копии на <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, который станет вашим новым адресом для веб-кошелька. Спасибо за ваше содействие.",
         "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
     },
     "news": {
