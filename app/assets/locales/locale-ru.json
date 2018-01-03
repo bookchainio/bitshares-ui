@@ -468,8 +468,8 @@
             "insufficient": "Недостаточный баланс",
             "noFeeBalance": "Средств на Вашем балансе недостаточно для оплаты комиссии с использованием данного актива, пожалуйста, выберите другой актив для оплаты комиссии",
             "noPoolBalance": "Средств на балансе пула комиссий этого актива недостаточно для оплаты комиссий. Пожалуйста, сообщите об этом владельцу актива или выберите другой актив для оплаты комиссий.",
-            "minimum_amount": "Minimum withdraw amount: %(amount)s %(symbol)s",
-            "memo_error": "The transfer memo parsing error, please try again later."
+            "minimum_amount": "Минимальная сумма для вывода: %(amount)s %(symbol)s",
+            "memo_error": "Произошла ошибка считывания мемо перевода, пожалуйста, повторите попытку позже."
         },
         "back": "НАЗАД",
         "confirm": "ПОДТВЕРДИТЬ",
@@ -699,7 +699,7 @@
         "accounts": {
             "title": "Аккаунты",
             "filter": "Фильтровать аккаунты",
-            "filter_contacts": "Filter contacts"
+            "filter_contacts": "Фильтровать контакты"
         },
         "blocks": {
             "title": "Цепочка блоков",
@@ -1111,7 +1111,7 @@
         "verify_prior_backup": "Проверьте перед резервным копированием",
         "brainkey_not_verified": "Этот Brainkey не проверен.",
         "cancel": "Отменить",
-        "back": "Back",
+        "back": "Назад",
         "reset": "Сбросить",
         "done": "Готово",
         "verify": "Я записал это",
@@ -1236,7 +1236,7 @@
         "understand_3": " Я понимаю, что утрачу доступ к своим средствам, если потеряю свой пароль",
         "bts_rules": "Первое правило BitShares: не потеряйте свой пароль.<br/>Второе правило BitShares: не потеряйте свой пароль.<br />Третье правило BitShares: мы не можем восстановить Ваш пароль.<br />Четвертое правило: если Вы помните пароль наизусть, он небезопасен.<br />Пятое правило: используйте только рандомно сгенерированные пароли.<br />Шестое правило: никому не говорите свой пароль.<br />Седьмое правило: всегда храните копию своего пароля.",
         "ok_done": "Ок, перейти на панель управления",
-        "local_switch": "Local wallet detected matching the given password, switching to local wallet mode"
+        "local_switch": "Обнаружен локальный кошелек, соответствующий данному паролю, переключение в режим локального кошелька"
     },
     "borrow": {
         "title": "%(asset_symbol)s маржа",
@@ -1255,8 +1255,8 @@
     },
     "modal": {
         "send": {
-            "header": "Send from <span class=\"send-name\">%(fromName)s</span>",
-            "header_propose": "Propose Send from <span class=\"send-name\">%(fromName)s</span>"
+            "header": "Отправить с <span class=\"send-name\">%(fromName)s</span>",
+            "header_propose": "Предложить отправить с <span class=\"send-name\">%(fromName)s</span>"
         },
         "issue": {
             "to": "Кому",
@@ -1349,7 +1349,7 @@
         "symbol": "Символ",
         "website": "Посетить веб-сайт",
         "deposit_to": "Пожалуйста, отправьте Ваши %(asset)s на адрес ниже",
-        "deposit_address": "Deposit address",
+        "deposit_address": "Адрес депозита",
         "add_funds": "Быстро и легко добавляйте средства на Ваш аккаунт BitShares <strong>%(account)s</strong>. Эта услуга предоставляется Openledger.",
         "withdraw_funds": "Вы собираетесь вывести средства с Вашего аккаунта BitShares на Ваш внешний %(asset)s аккаунт.",
         "balance_asset": "Текущий баланс %(asset)s",
@@ -1411,10 +1411,10 @@
         "contact_TRADE": "Связаться с Blocktrades",
         "over_limit": "Лимит исчерпан",
         "agreement": {
-            "hint": "I have read and agreed to",
-            "name": "《Service Agreement》",
-            "register": "Agree",
-            "notice": "Please check the agreement to continue"
+            "hint": "Я прочитал(-а) и согласен с",
+            "name": "《Соглашение о предоставлении услуг》",
+            "register": "Принять",
+            "notice": "Пожалуйста, примите соглашение, чтобы продолжить"
         },
         "deposit_warning": "Sending any other currency to the %(asset)s address will result in the loss of your deposit",
         "time": "Time",
