@@ -6,12 +6,12 @@
 
 ## 钱包导出
 
-The most convenient way to create a new backup is by exporting the wallet with the provided link in the Wallet Management Console. Please store your backups safe from loss, theft, and natural catastrophes
+创建新备份最方便的方法是通过钱包管理控制板中的链接导出钱包。 请妥善保存你的备份以防丢失、盗窃、以及自然灾害。
 
-## Brainkey (advanced users ONLY)
+## Brainkey（仅限于高级用户）
 
-If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
+如果你从了没有讲一个账户密钥人工导入你的钱包，你可以通过导出*brainkey*（由你的密钥确定性地导出的一串单词）备份你的帐户和资金。
 
-## Remark: Hierarchical Authorities (advanced uses ONLY)
+## 备注：分级权限（仅限于高级用户）
 
-If you are using hierarchical authorities (account and/or active permissions), backing up your keys alone may not be sufficient to regain access to your funds! Please revise the documentations about hierarchical authorities.
+如果你使用分级权限（账户和／或活动许可），仅仅备份你的密钥可能不足以重新存取你的资金！ 请修改有关分级权限的文档。
