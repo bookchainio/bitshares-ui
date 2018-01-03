@@ -1,10 +1,10 @@
-# Wallet
+# 钱包
 
-As you may have noticed already, this application is a web application and runs in a browser. A connection is established to a trusted node in the network that serves as a gateway to the rest of the ecosystem.
+你也行已经注意到，这个应用程序是网络应用程序，在浏览器中运行。 与网络中可信节点所建立的连接，是到生态系统其余部分的网关。
 
-## Cloud Wallet
+## 云钱包
 
-If you registered with a username and password, you have a cloud wallet. Although nothing is technically stored in the cloud, we user the term Cloud Wallet because you can use these credentials (username and password) from any web browser at any time to gain access to your account. The cloud wallet only allows for a single account to be accessed at a time. This is generally the correct choice for new users. While it is possible to change the auto-generated password, we do not recommend doing so at this time. The team is working on a responsible way to manage the password change that requires no technical knowledge. We will make an announcement once it's released.
+如果你用用户名和密码注册，那么你拥有一个云钱包。 虽然技术上没有任何东西存储在云中，我们使用云钱包这个术语，因为您可以使用这些凭证 (用户名和密码) 从任何网络浏览器在任何时候访问您的帐户。 云钱包只允许一次访问一个帐户。 这通常是新用户的正确选择。 While it is possible to change the auto-generated password, we do not recommend doing so at this time. The team is working on a responsible way to manage the password change that requires no technical knowledge. We will make an announcement once it's released.
 
 ## Local Wallet
 
