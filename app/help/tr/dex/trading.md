@@ -23,7 +23,7 @@ The order book consists of an *ask* and a *bid* side. Alım satım çiftlerinin 
 | teklif        | *baz*     | *alıntı*  |
 | \---\---\---- | \---\---- | \---\---- |
 
-Açıkçası, USD: EUR çiftinin teklif tarafındaki durum EUR: USD çifti için sorulacak taraf olacaktır. Elbette fiyatlar dahili ve kesir olarak gösterilir, bu nedenle her iki çift için de özdeş olur.
+Açıkçası, USD: EUR'nun teklif tarafındaki kısım, EUR: USD çifti için sorulacak taraf olacaktır. Elbette fiyatlar dahili ve kesir olarak gösterilir, bu nedenle her iki çift için de özdeş olur.
 
 ## Ticari
 
