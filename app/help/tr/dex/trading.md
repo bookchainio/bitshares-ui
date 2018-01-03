@@ -6,7 +6,7 @@ Bu sayfada, DEX tarafından kullanılan terimlerin nasıl yorumlanacağı ve tic
 
 BitShares da hemen hemen her varlık, diğer tüm varlıklarla işlem görebilir. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
 
-Tutarlılık uğruna, çiftlerin aşağıdaki gibi temsil edileceği şekilde * taban </ 0> ve * alıntı </ 0> genelleştirilmiş terimlerini kullanacağız</p> 
+Tutarlılık uğruna, çiftlerin aşağıdaki gibi temsil edilen * taban * ve * alıntı * genelleştirilmiş terimlerini kullanacağız
 
     * alıntı *: * tabanı *
     
