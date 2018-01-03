@@ -17,7 +17,7 @@ and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD
 
 The order book consists of an *ask* and a *bid* side. Alım satım çiftlerinin tercih edilen yönelimleri olmadığı ve tersine çevrilebileceği için, aşağıdaki tabloda, her iki tarafın sorma / teklif ve buna karşılık gelen satın alma / satma işlemleri hakkında genel bir bilgi verilmektedir:
 
-| Yan           | Sat       | satın al  |
+| Yan           | Sat       | Satın al  |
 | ------------- | --------- | --------- |
 | Ask           | *alıntı*  | *baz*     |
 | teklif        | *baz*     | *alıntı*  |
