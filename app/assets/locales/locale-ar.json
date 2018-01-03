@@ -253,7 +253,7 @@
             "cer_warning_2": "Make sure your core exchange rate is higher than the market price, otherwise people will buy your token from the market and drain your fee pool via implicit arbitrage. The core exchange rate should be updated regularly to reflect market pricing of your asset.",
             "feed_producers": "Feed producers",
             "add_feed": "إضافة منتج جديد للمستجدات",
-            "feed_not_allowed_1": "يتعذر تعيين منتجي المستجدات من بين الشهود أو اللجنة مستجدات الأصول",
+            "feed_not_allowed_1": "يتعذر تعيين منتجي المستجدات من بين الشهود أو لجنة مستجدات الأصول",
             "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers"
         },
         "connections": {
