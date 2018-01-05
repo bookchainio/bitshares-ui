@@ -20,9 +20,9 @@ BitShares ağı, ödünç alınan bitAsset'leri geri yüklemek için yeterli tem
     call price = DEBT / COLLATERAL * MCR
     
 
-The margin call will take the collateral, buy shares of borrowed bitAsset at market rates up to the SQP and close the position. The remaining BTS of the collateral are returned to the customer.
+Teminat çağrısı teminatı alacak, ödünç alınan bedAsset hisselerini SQP'ye kadar piyasa fiyatlarında satın alacak ve pozisyonunu kapatacaktır. Teminatın kalan BTS'si müşteriye iade edilir.
 
-### Settlement
+### Ödeme
 
 Holders of any bitAsset can request a settlement at a *fair price* at any time. The settlement closes the borrow/short positions with lowest collateral ratio and sells the collateral for the settlement.
 
