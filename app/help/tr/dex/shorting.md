@@ -36,4 +36,4 @@ Borç / kısa pozisyon sahibi, herhangi bir zamanda, piyasa davranışını esne
 
 ## Kapsam
 
-Bir borçlanma / açık pozisyonunu kapatmak için, BitShares ağına aktarmak için ödünç alınan belirli bitAsset tutarını tutmalısınız. After that, the BitAssets are reduced from the corresponding supply and the collateral is released and given back to its owner.
+Bir borçlanma / açık pozisyonunu kapatmak için, BitShares ağına aktarmak için ödünç alınan belirli bitAsset tutarını tutmalısınız. Bundan sonra, BitAsset'lere karşılık gelen arzdan azaltılır, teminat serbest bırakılır ve sahibine geri verilir.
