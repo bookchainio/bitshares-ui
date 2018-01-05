@@ -551,9 +551,9 @@
         "override_transfer": "从 {from} 到 {to} 转账 {amount}， 由 {issuer} 授权",
         "asset_issue": "用{account}向{to}发出{amount}",
         "asset_reserve": "用{account}焚毁 (储备) {amount}",
-        "vesting_balance_withdraw": "Withdraw {amount} from vesting balance of {account}",
-        "feed_producer": "Update the feed producers for the asset {asset} using the account {account}",
-        "call_order_update": "Change {account} {debtSymbol} debt by {debt} and collateral by {collateral}"
+        "vesting_balance_withdraw": "从{account} 的归属余额中提取{amount}",
+        "feed_producer": "使用帐户{account}更新资产{asset}的喂价提供者",
+        "call_order_update": "改变{account}{debtSymbol} 债务 {debt} ，以及抵押 {collateral}"
     },
     "transaction": {
         "confirm": "请确认交易",
@@ -607,7 +607,7 @@
         "deposit_to": "向账户存入",
         "claimed": "领取总额",
         "borrow_amount": "借入金额",
-        "borrower": "Borrower",
+        "borrower": "借贷者",
         "funding_account": "出资账户",
         "delta_collateral": "保证金变化",
         "delta_debt": "债务变化",
@@ -807,14 +807,14 @@
                 "published": "发布时间"
             },
             "margin_positions": {
-                "title": "Margin positions"
+                "title": "抵押债仓"
             },
             "whitelist": {
-                "whitelist_authorities": "Whitelist authorities",
-                "blacklist_authorities": "Blacklist authorities",
-                "whitelist_markets": "Market whitelist",
-                "blacklist_markets": "Market blacklist",
-                "enable_flag": "The whitelist flag must be enabled in order to set whitelist authorities"
+                "whitelist_authorities": "白名单权限",
+                "blacklist_authorities": "黑名单权限",
+                "whitelist_markets": "市场白名单",
+                "blacklist_markets": "市场黑名单",
+                "enable_flag": "为了设置白名单权限，白名单标记必须启用"
             }
         },
         "witnesses": {
@@ -868,8 +868,8 @@
     },
     "settings": {
         "passwordLogin": "使用账户模式登录",
-        "cloud_login": "Cloud Wallet Login",
-        "local_wallet": "Local Wallet Login",
+        "cloud_login": "云钱包登录",
+        "local_wallet": "本地钱包登录",
         "inverseMarket": "市场交易对视角",
         "unit": "显示记账单位",
         "confirmMarketOrder": "市场订单要求确认",
@@ -882,7 +882,7 @@
         "add_ws": "添加新的 websocket API",
         "remove_ws": "删除 websocket API",
         "faucet_address": "水龙头地址",
-        "faucet_address_text": "The faucet address is used to pay the registration fee for new users.",
+        "faucet_address_text": "Faucet地址用于支付新用户的注册费用。",
         "showSettles": "在深度图中显示清算订单",
         "showAssetPercent": "在账户页上显示资产/供给占比",
         "yes": "是",
@@ -891,7 +891,7 @@
         "themes": "主题",
         "darkTheme": "黑色主题",
         "lightTheme": "白色主题",
-        "midnightTheme": "Midnight",
+        "midnightTheme": "午夜",
         "olDarkTheme": "OpenLedger黑",
         "reset": "恢复默认值",
         "general": "通用设置",
