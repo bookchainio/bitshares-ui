@@ -1,18 +1,18 @@
-# Kısa Satış Bit Varlıkları
+# Kısa Satış BitAssests
 
-In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go *borrow* this bitAsset from the network and *sell it short*. We will here briefly describe the procedure.
+In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go *borrow* this bitAsset from the network and *sell it short*. Burada prosedür kısaca açıklanmıştır.
 
 ## Borçlanma
 
-The BitShares network is capable of issuing any amount of any BitAsset and lend it out to participants given enough collateral.
+BitShares ağı, herhangi bir BitAsset'i, yeterli teminat verilmiş katılımcılara borç verebilmektedir.
 
-- *settlement price*: The price for 1 BTS as it is traded on external exchanges.
-- *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
+- *settlement price*: Harici borsalarda işlem gören 1 BTS fiyatı.
+- *maintenance collateral ratio*(MCR): Tanıkların minimum asgari teminat oranı olarak tanımladıkları oran
 - *maximum short squeeze ratio* (MSQR): A ratio defined by the witnesses as to how far shorts are protected against short squeezes
-- *short squeeze protection* (SQP): Defines the most that a margin position will ever be forced to pay to cover 
-- *call price* (CP): The price at which short/borrow positions are margin called
+- *short squeeze protection* (SQP): Bir marj pozisyonunu karşılamak için ödenecek en fazla tutarı tanımlar 
+- *call price* (CP): Kısa / borçlanma pozisyonlarının marjı olarak adlandırılan fiyat
 
-### Margin Call
+### Teminat Çağrısı
 
 The BitShares network is capable of margin calling those positions that do not have enough collateral to back their borrowed bitAssets. A margin call will occur any time the highest bid is less than the *call price* and greater than *SQP*. The margin position will be forced to sell its collateral anytime the highest offer to buy the collateral is less than the call price (x/BTS).
 
