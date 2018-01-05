@@ -24,16 +24,16 @@ Teminat çağrısı teminatı alacak, ödünç alınan bedAsset hisselerini SQP'
 
 ### Ödeme
 
-Holders of any bitAsset can request a settlement at a *fair price* at any time. The settlement closes the borrow/short positions with lowest collateral ratio and sells the collateral for the settlement.
+BitAsset sahipleri istediği bir fiyattan, istediği zaman *fair price* bir uzlaşma talep edebilir. Yerleşim, en düşük teminat oranına sahip borç / kısa pozisyonları kapatır ve ödeme için teminatı satar.
 
-## Selling
+## Satış
 
-After borrowing bitAssets, they can be sold free at any of the corresponding markets at any price a buyer is willing to pay. With this step, the short-selling is now complete and you are short that particular bitAsset.
+BitAssets'i ödünç alındıktan sonra, alıcıların ödemeyi düşündüğü herhangi bir fiyata karşılık gelen pazarlardan herhangi birinde ücretsiz olarak satılabilirler. With this step, the short-selling is now complete and you are short that particular bitAsset.
 
-## Updating Collateral Ratio
+## Teminat Oranı Güncellemesi
 
-At any time, the holder of a borrow/short position can modify the collateral ratio in order to flexibly adjust to market behavior. If the collateral ratio is increase, an additional amount of BTS is locked as collateral, while reducing the collateral ratio will require an amount of the corresponding BitAsset to be payed back to the network.
+Borç / kısa pozisyon sahibi, herhangi bir zamanda, piyasa davranışını esnek bir şekilde ayarlamak için teminat oranını değiştirebilir. Teminat oranı artarsa, ek BTS miktarı teminat olarak kilitlenirken, teminat oranının düşürülmesine karşılık gelen BitAsset'in şebekeye geri ödenmesini gerektirir.
 
-## Covering
+## Kapsam
 
-To close a borrow/short position, one must hold the borrowed amount of that particular bitAsset to hand it over to the BitShares network. After that, the BitAssets are reduced from the corresponding supply and the collateral is released and given back to its owner.
+Bir borçlanma / açık pozisyonunu kapatmak için, BitShares ağına aktarmak için ödünç alınan belirli bitAsset tutarını tutmalısınız. After that, the BitAssets are reduced from the corresponding supply and the collateral is released and given back to its owner.
