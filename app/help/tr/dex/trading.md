@@ -4,7 +4,7 @@ Bu sayfada, DEX tarafından kullanılan terimlerin nasıl yorumlanacağı ve tic
 
 ## Çiftler
 
-BitShares da hemen hemen her varlık, diğer tüm varlıklarla işlem görebilir. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+BitShares da hemen hemen her varlık, diğer tüm varlıklarla işlem görebilir. Once we have picked two assets, we usually refer to a *market pair*. Örneğin, USD: EUR çifti karşısında USD karşılığında işlem yapabiliriz.
 
 Tutarlılık uğruna, çiftlerin aşağıdaki gibi temsil edilen * taban * ve * alıntı * genelleştirilmiş terimlerini kullanacağız
 
@@ -15,11 +15,11 @@ and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD
 
 ## Kitap Siparişi
 
-The order book consists of an *ask* and a *bid* side. Alım satım çiftlerinin tercih edilen yönelimleri olmadığı ve tersine çevrilebileceği için, aşağıdaki tabloda, her iki tarafın sorma / teklif ve buna karşılık gelen satın alma / satma işlemleri hakkında genel bir bilgi verilmektedir:
+Sipariş defteri, bir *ask* ile bir *bid* tarafını içermektedir. Alım satım çiftlerinin tercih edilen yönelimleri olmadığı ve tersine çevrilebileceği için, aşağıdaki tabloda, her iki tarafın sorma / teklif ve buna karşılık gelen satın alma / satma işlemleri hakkında genel bir bilgi verilmektedir:
 
 | Yan           | Sat       | Satın al  |
 | ------------- | --------- | --------- |
-| Ask           | *alıntı*  | *baz*     |
+| Sor           | *alıntı*  | *baz*     |
 | teklif        | *baz*     | *alıntı*  |
 | \---\---\---- | \---\---- | \---\---- |
 
