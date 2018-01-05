@@ -1,8 +1,8 @@
-# Short Selling BitAssets
+# Kısa Satış Bit Varlıkları
 
 In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go *borrow* this bitAsset from the network and *sell it short*. We will here briefly describe the procedure.
 
-## Borrowing
+## Borçlanma
 
 The BitShares network is capable of issuing any amount of any BitAsset and lend it out to participants given enough collateral.
 
