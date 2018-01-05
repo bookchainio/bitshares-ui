@@ -147,7 +147,7 @@
             "add": "أضف إلى اللائحة البيضاء",
             "add_black": "أضف إلى اللائحة السوداء",
             "empty": "ال %(account)s لم يوضع في اللائحة البيضاء لأي حساب.",
-            "empty_black": "%(account)s has not blacklisted any accounts.",
+            "empty_black": "ال %(account)s لم يوضع في القائمة السوداء لأي حساب.",
             "white_by": "أضيف إلى اللائحة البيضاء من طرف",
             "black_by": "أضيف إلى اللائحة السوداء من طرف",
             "empty_white_by": "لا يوجد أي حساب أضاف %(account)s في لائحته البيضاء.",
@@ -159,7 +159,7 @@
             "title": "الأرصدة المودعة",
             "balance_number": "رصيد #%(id)s",
             "no_balances": "هذا الحساب ليس لديه أية أرصدة مودعة",
-            "explain": "Vesting balances contain any fees earned through the referral program or from worker pay, for example. They have a certain vesting period and are continually unlocked during that vesting period until all of the balances are available"
+            "explain": "أرصدة الاستحقاق لا تحتوي على أية رسوم مكتسبة من خلال برنامج الإحالة أو من أجر العامل، على سبيل المثال. لديهم فترة استحقاق معينة وتكون مقفلة بشكل مستمر خلال تلك الفترة الاستحقاق حتى تتاح كل الأرصدة"
         },
         "member": {
             "stats": "إحصائيات العضوية",
@@ -172,8 +172,8 @@
             "membership": "العضوية",
             "fees_paid": "إجمالي الرسوم المدفوعة",
             "referrals": "الإحالات",
-            "rewards": "Cashback Rewards",
-            "cashback": "Vesting balance amount",
+            "rewards": "استرداد نقود المكافآت",
+            "cashback": "مبلغ الرصيد المستحق",
             "vested": "Vested",
             "unknown": "عضو غير معروف",
             "lifetime": "عضو لمدى الحياة",
@@ -472,7 +472,7 @@
             "memo_error": "خطأ في تحليل مذكرة التحويل، الرجاء المحاولة مرة أخرى لاحقاً."
         },
         "back": "BACK",
-        "confirm": "CONFIRM",
+        "confirm": "تأكيد",
         "broadcasting": "Broadcasting...",
         "broadcast": "تم نقل التحويل الخاص بك الى الشبكة",
         "again": "إنشاء تحويل آخر",
@@ -480,14 +480,14 @@
         "close": "إغلاق",
         "cancel": "إلغاء",
         "copy_address": "نسخ العنوان",
-        "copy_memo": "Copy Memo",
-        "memo_unlock": "Unlock your wallet/account in order to see this memo",
-        "optional": "Optional"
+        "copy_memo": "نسخ المذكرة",
+        "memo_unlock": "إفتح المحفظة/الحساب الخاص بك لرؤية هذه المذكرة",
+        "optional": "إختياري"
     },
     "operation": {
         "pending": "pending %(blocks)s blocks",
-        "no_recent": "No recent transactions",
-        "reg_account": "{registrar} registered the account {new_account}",
+        "no_recent": "لا توجد معاملات حديثة",
+        "reg_account": "{registrar} سجيل {new_account} الحساب",
         "transfer": "{from} sent {amount} to {to}",
         "proposal_create": "{account} أنشأ المعاملة المقترحة",
         "proposal_update": "{account} حدث المعاملة المقترحة",
@@ -498,7 +498,7 @@
         "balance_claim": "{account} claimed a balance of {amount}",
         "publish_feed": "{account} published feed price of {price}",
         "set_proxy": "{account} تعيين {proxy} كبروكسي التصويت الخاص به",
-        "update_account": "{account} updated their account data",
+        "update_account": "{account} حدث بيانات الحساب الخاص به",
         "limit_order_sell": "{account} placed an order to sell {amount} at {price}",
         "limit_order_buy": "{account} placed an order to buy {amount} at {price}",
         "limit_order_cancel": "{account} cancelled order #%(order)s",
