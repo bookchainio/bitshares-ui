@@ -558,10 +558,10 @@
     "transaction": {
         "confirm": "Please confirm the transaction",
         "broadcast_success": "Transaction has been broadcast",
-        "transaction_confirmed": "Transaction confirmed",
+        "transaction_confirmed": "تم تأكيد المعاملة",
         "broadcast_fail": "Failed to broadcast the transaction: %(message)s",
-        "broadcasting": "Broadcasting transaction..",
-        "broadcasting_short": "Broadcasting..",
+        "broadcasting": "بث المعاملة..",
+        "broadcasting_short": "البث..",
         "waiting": "Waiting for confirmation..",
         "sent": "sent",
         "to": "to",
