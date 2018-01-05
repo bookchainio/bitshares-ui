@@ -479,8 +479,8 @@
         "see": "查看我的转账记录",
         "close": "关闭",
         "cancel": "取消",
-        "copy_address": "Copy Address",
-        "copy_memo": "Copy Memo",
+        "copy_address": "复制地址",
+        "copy_memo": "复制备注",
         "memo_unlock": "解锁钱包以查看交易备注",
         "optional": "可选"
     },
@@ -537,7 +537,7 @@
         "status": "状态",
         "asset_create": "使用账户{account}创建资产%{asset}s",
         "asset_update": "使用 {account} 更新 {asset} ",
-        "asset_settle": "Request a settlement of",
+        "asset_settle": "请求解决",
         "update": {
             "active_approvals_to_add": "要添加的活跃权限许可",
             "active_approvals_to_remove": "要移除的活跃权限许可",
@@ -549,8 +549,8 @@
         "approve": "批准",
         "reject": "否决",
         "override_transfer": "从 {from} 到 {to} 转账 {amount}， 由 {issuer} 授权",
-        "asset_issue": "Issue {amount} to {to} using {account}",
-        "asset_reserve": "Burn (reserve) {amount} using {account}",
+        "asset_issue": "用{account}向{to}发出{amount}",
+        "asset_reserve": "用{account}焚毁 (储备) {amount}",
         "vesting_balance_withdraw": "Withdraw {amount} from vesting balance of {account}",
         "feed_producer": "Update the feed producers for the asset {asset} using the account {account}",
         "call_order_update": "Change {account} {debtSymbol} debt by {debt} and collateral by {collateral}"
