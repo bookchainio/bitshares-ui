@@ -20,7 +20,7 @@
         "ru": "Русский"
     },
     "incognito": {
-        "no_support": "This BitShares Wallet relies on Local Storage and IndexedDB which are not persistent when using Incognito Browsing. We recommend using a regular browsing session.",
+        "no_support": "Bu BitShares Cüzdanı, Gizli Göz Atma özelliğini kullanırken kalıcı olmayan Yerel Depolama Alanı ve Dizine Eklenmiş Veritabanı'na güvenir. Düzenli göz atma oturumu kullanmanızı öneririz.",
         "ignore": "Anladım, devam."
     },
     "sync_fail": {
