@@ -1,11 +1,11 @@
 [# receive]
 
-### Receiving BTS
+### BTS alma
 
-In order to receive BTS from another person or from an exchange, simply give them your account name: **{account}**
+BTS'yi başka bir kişiden veya bir borsadan almak için hesap adınızı verin: **{account}**
 
 [# deposit-short]
 
-### Depositing or withdrawing coins
+### Para yatırma veya para çekme
 
-If you want to deposit or withdraw funds, either in fiat or from other blockchains, you may use a [bridge](introduction/bridges_gateways) or [gateway](introduction/bridges_gateways) service to do so.
+Diğer blok zincirleriden para yatırmak ya da çekmek için emir vermek istiyorsanız, bunu yapmak için [bridge](introduction/bridges_gateways) veya [gateway](introduction/bridges_gateways) hizmetini kullanabilirsiniz.
