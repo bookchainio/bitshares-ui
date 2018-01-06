@@ -11,7 +11,7 @@ Tutarlılık uğruna, çiftlerin aşağıdaki gibi temsil edilen * taban * ve * 
     * alıntı *: * tabanı *
     
 
-and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD pair.
+ve *base* USD ve *quote* EUR gibi ise, EUR: USD çifti ifade eder.
 
 ## Kitap Siparişi
 
