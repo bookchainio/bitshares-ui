@@ -1404,12 +1404,12 @@
             "coming_soon": "即将推出"
         },
         "unavailable": "网关服务暂时不可用，请稍候再试",
-        "unavailable_bridge": "网关服务暂时不可用，请稍候再试",
-        "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
-        "unavailable_RUDEX": "The RuDEX Gateway is down or not responding",
-        "unavailable_TRADE": "The Blocktrades Bridge is down or not responding",
-        "contact_TRADE": "Contact Blocktrades",
-        "over_limit": "Limit Reached",
+        "unavailable_bridge": "桥服务暂时不可用，请稍候再试",
+        "unavailable_OPEN": "OpenLeger网关关闭或者没有反应",
+        "unavailable_RUDEX": "RuDEX网关关闭或者没有反应",
+        "unavailable_TRADE": "Blocktrades桥关闭或者没有反应",
+        "contact_TRADE": "联系Blocktrades",
+        "over_limit": "达到限制。",
         "agreement": {
             "hint": "我已阅读并同意",
             "name": "《用户服务协议》",
@@ -1446,18 +1446,18 @@
         "expire": "你的交易账单确认超时，请稍后尝试。"
     },
     "migration": {
-        "title": "Notice",
-        "announcement_1": "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
-        "text_1": "Local wallet detected",
-        "text_2": "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
-        "text_3": "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well."
+        "title": "注意",
+        "announcement_1": "为了增强基于网络钱包的安全性，我们正在将其迁移到下面的地址，并立刻生效。 请务必更新你可能拥有的任何书签。",
+        "text_1": "探测到本地钱包",
+        "text_2": "请备份你的钱包并把备份文件恢复到<a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>，这将是你的网络钱包的新地址。感谢你的一贯支持。",
+        "text_3": "从现在起请使用<a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>你现有的方式可以让你在那里登陆。"
     },
     "news": {
-        "news": "News",
-        "author": "Author",
-        "subject": "Subject",
+        "news": "新闻",
+        "author": "作者",
+        "subject": "主题",
         "errors": {
-            "fetch": "Ops... Something went wrong fetching the news"
+            "fetch": "对不起，获取新闻时出错"
         }
     }
 }
