@@ -51,32 +51,32 @@
 | \---\---\---- | \---\--- |
 | 界值：           | 51%      |
 
-Now the funds can either be accessed by Alice and a single friend or by all three friends together.
+现在, 这笔资金要么可以由Alice和她的一位朋友操作, 要么由所有的三位朋友一起操作。
 
-## Multi-Hierarchical Flexible Multi-Signature
+## 多层次灵活性多重签名
 
-Let's take a look at a simple multi-hierarchical corporate account setup. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
+让我们来看一个简单的多层次公司帐户设置。 我们在研究的这个公司, 有财务总监 (CFO) 和他工作的其他部门：如财务、主管、税务经理、会计等。 该公司还有一个希望有消费特权的CEO。 因此，我们为此基金设置如下授权：
 
-| Account       | Weight   |
+| 账户            | 权重       |
 | ------------- | -------- |
 | CEO.COMPANY   | 51%      |
 | CFO.COMPANY   | 51%      |
 | \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| 界值：           | 51%      |
 
-whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, the CFO.COMPANY account could look like:
+这里 CEO.COMPANY和 CFO.COMPANY有各自的授权。例如，CFO.COMPANY 的账户可以如下：
 
-| CFO.COMPANY               | Weight   |
+| CFO.COMPANY               | 权重       |
 | ------------------------- | -------- |
 | Chief.COMPANY             | 51%      |
 | Treasurer.COMPANY         | 33%      |
 | Controller.COMPANY        | 33%      |
 | Tax Manager.COMPANY       | 10%      |
-| Accounting.COMPANY        | 10%      |
+| Accounting.COMPANY        | 10$      |
 | \---\---\---\---\---\---- | \---\--- |
-| Threshold:                | 51%      |
+| 界值：                       | 51%      |
 
-This scheme allows:
+此方案允许：
 
 * the CEO to spend funds
 * the Chief of Finance Officer to spend funds
