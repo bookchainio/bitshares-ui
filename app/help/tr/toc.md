@@ -9,14 +9,14 @@
 - [Önerilen İşlemler](accounts/proposed.md)
 - [İzinler](accounts/permissions.md)
 - [Üyelikler](accounts/membership.md)
-- [Market Pegged Assets](assets/mpa.md) 
+- [Pazara Bağlı Varlıklar](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
 - [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
+- [Özelleştirilmiş BitAssetler](assets/privbitassets.md)
 - [Decentralized Exchange](dex/introduction.md)
-- [Trading](dex/trading.md)
+- [Ticari](dex/trading.md)
 - [Short Selling BitAssets](dex/shorting.md)
 - Ağ geçitleri 
     - [OpenLedger](gateways/openledger.md)
