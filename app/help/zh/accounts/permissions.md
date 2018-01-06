@@ -32,24 +32,24 @@
 | Charlie       | 33%      |
 | Dennis        | 33%      |
 | \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| 界值            | 51%      |
 
-All four participants have a weight of 33% but the threshold is set to 51%. Hence only two out of the four need to agree to validate the transaction.
+所有四位参与者都有33%的权重，可是界值被设为51%。所以，只要四人中的两位同样就可以让交易生效。
 
-Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights to 17 or increase the threshold to 99%.
+或者，为了形成一个3-4方案，我们可以把权重减小到17%或增加界值到99%。
 
-## (Flat) Flexible Multi-Signature
+## (Flat) 灵活的多重签名
 
-With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+有了界值和权重，我们现在对我们的资金有了更大的灵活性, 或者更确切地说, 我们有更多的 * 控制 *。 比如，我们可以为不同的人设置不同的权重。 让我们假设Alice希望她的资金更安全，以防止被多重签名方案盗取她的资金，所以她不希望让她的朋友有过多的控制。 因此，我们可以创建一个类似于下面内容的授权：
 
-| Account       | Weight   |
+| 账号            | 权重       |
 | ------------- | -------- |
 | Alice         | 49%      |
 | Bob           | 25%      |
 | Charlie       | 25%      |
 | Dennis        | 10%      |
 | \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| 界值：           | 51%      |
 
 Now the funds can either be accessed by Alice and a single friend or by all three friends together.
 
