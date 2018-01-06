@@ -17,15 +17,15 @@
 
 # 示例
 
-让我们讨论一些例子，来阐明使用的术语和用户实例。 We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
+让我们讨论一些例子，来阐明使用的术语和用户实例。 我们假定有一个新建的帐户, 它的活动权限设置如下。 请注意相同的模式同样适用于所有者权限!
 
-## (Flat) Multi-Signature
+## (Flat) 多重签名
 
-A flat multi-signature scheme is composed of `M` entities of which `N` entities must sign in order for the transaction to be valid. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Still we can achieve the very same thing with even more flexibility as we will see now.
+一个简单的多重签名方案，包括`M` 实体且 `N` 为了交易生效，实体必须签名。 现在，在 BitShares，我们有 *权重* 和一个 *界值* 代替 `M` 和 `N`。 可以看到，我们仍然可达到相同的结果，甚至更灵活。
 
-Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
+让我们假定 Alice, Bob, Charlie 和 Dennis 有共同的基金。 只要其中两者同意，我们希望可以形成一个有效的交易。 所以一个 **2-到-4** (N-of-M) 的方案可以看到如下：
 
-| Account       | Weight   |
+| 账号            | 权重       |
 | ------------- | -------- |
 | Alice         | 33%      |
 | Bob           | 33%      |
