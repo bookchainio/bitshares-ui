@@ -1,3 +1,3 @@
-# Proposed Transactions
+# 推荐的交易
 
-This is an advanced feature of Bitshares accessible from the send feature. It allows for something known a multisig. Imagine you have a single account but require more than one person to authorize a transaction. This capability is built into bitshares, but requires advanced knowledge and there is a setup process. If you haven't previously setup multisig for your account, it's safe to say you do not need it.
+这是Bitshares的高级功能，可以从发送特征中访问。 它允许已知的多重签名的存在。 假设您有一个单独的帐户, 但需要多个人来授权交易。 此功能内置在 bitshares 中, 但需要高级技能并需要一个安装过程。 如果您以前没有为您的帐户设置多重签名, 那你大可以不需要它。
