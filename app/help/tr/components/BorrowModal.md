@@ -1,3 +1,3 @@
-Update your {debt} margin position by adjusting the debt and collateral levels.
+Borç ve teminat seviyelerini ayarlayarak, marjınızı güncelleyin {debt}.
 
-Collateral and debt levels can be adjusted in any way you desire, as long as your collateral ratio stays above the maintenance collateral ratio of {mr}. [Read more.](dex/shorting)
+Teminat ve borç seviyeleri, teminat oranınız, bakım teminat oranının {mr} üzerinde kaldığı sürece istediğiniz herhangi bir şekilde ayarlanabilir. [Read more.](dex/shorting)
