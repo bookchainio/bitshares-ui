@@ -1236,7 +1236,7 @@
         "understand_3": " 我明白如果我丢失密码，我将不能够存取我的资金。",
         "bts_rules": "比特股法则第一条: 不要弄丢自己的密码。<br/>第二条法则: 不要弄丢自己的密码。<br />第三条法则: 没有人能帮你恢复。<br />第四条法则: 如果你仅凭脑力就能记住自己的密码，那通常来说它不够强。<br />第五条法则: 只用随机生成的密码。<br />第六条法则: 别告诉别人你的密码。<br />第七条法则: 总是备份你的密码。",
         "ok_done": "好，把我带到仪表板",
-        "local_switch": "Local wallet detected matching the given password, switching to local wallet mode"
+        "local_switch": "本地钱包检测到给定密码匹配，切换到本地钱包模式"
     },
     "borrow": {
         "title": "%(asset_symbol)s 保证金头寸",
@@ -1244,7 +1244,7 @@
         "coll_ratio": "保证金比例",
         "call_limit": "Market Call Limit",
         "adjust": "调整头寸",
-        "adjust_short": "Adjust",
+        "adjust_short": "调节",
         "close": "平仓",
         "update": "调整",
         "errors": {
@@ -1255,8 +1255,8 @@
     },
     "modal": {
         "send": {
-            "header": "Send from <span class=\"send-name\">%(fromName)s</span>",
-            "header_propose": "Propose Send from <span class=\"send-name\">%(fromName)s</span>"
+            "header": "从<span class=\"send-name\">%(fromName)s</span>发送",
+            "header_propose": "建议从<span class=\"send-name\">%(fromName)s</span>发送"
         },
         "issue": {
             "to": "发行到",
@@ -1273,8 +1273,8 @@
             "submit": "充值"
         },
         "convert": {
-            "amount": "Amount to Convert",
-            "submit": "Ok"
+            "amount": "要转换的金额",
+            "submit": "确认"
         },
         "settle": {
             "title": "请求清算资产%(asset)s",
@@ -1327,11 +1327,11 @@
         "expiration_time": "过期时间",
         "proposed_operations": "提议的操作",
         "fee_paying_account": "付费账户",
-        "id": "Proposal object id"
+        "id": "提案对象id"
     },
     "gateway": {
         "fee": "网关手续费",
-        "title": "Deposit & Withdraw",
+        "title": "存款和提现",
         "assets": {
             "open": "<br/><br/>资产 %(asset)s 由真实资产 %(backed)s 1:1 储备背书。可以通过 Openledger 提供的网关服务进行充值提现。",
             "trade": "<br/><br/>资产 %(asset)s 由真实资产 %(backed)s 1:1 储备背书。可以通过 Blocktrades 提供的网关服务进行充值提现。",
@@ -1339,9 +1339,9 @@
             "bitcny": "<br/><br/>bitCNY 可以通过 Magic Wallet 提供的网关服务进行充值提现。更多信息请访问 https://www.magicw.net/"
         },
         "your_account": "你的账户",
-        "bitkapital_text": "Choose an asset to deposit or withdraw:",
-        "bitkapital_withdraw": "You are withdrawing",
-        "bitkapital_receive": "You will receive",
+        "bitkapital_text": "选择存款或提现的资产:",
+        "bitkapital_withdraw": "你在提款",
+        "bitkapital_receive": "您将收到",
         "iban": "IBAN",
         "service": "转账服务",
         "bridge": "桥接",
@@ -1349,20 +1349,20 @@
         "symbol": "资产",
         "website": "访问网站",
         "deposit_to": "请将你的 %(asset)s 资产充值到以下地址",
-        "deposit_address": "Deposit address",
-        "add_funds": "Quickly and easily add funds to your BitShares account <strong>%(account)s</strong>. This service is provided by Openledger.",
-        "withdraw_funds": "You are going to withdraw funds from your BitShares account to your external %(asset)s account.",
-        "balance_asset": "Current %(asset)s balance",
-        "withdraw_placeholder": "Please enter your %(asset)s address",
+        "deposit_address": "存款地址",
+        "add_funds": "快速方便地将资金添加到您的BitShares帐户<strong>%(account)s</strong>。此服务由Openledger提供。",
+        "withdraw_funds": "你将从你的BitShares帐户提取资金到您的外部的%(asset)s帐户。",
+        "balance_asset": "当前%(asset)s余额",
+        "withdraw_placeholder": "请输入您的%(asset)s 地址",
         "balance": "余额",
         "generate": "生成地址",
         "generate_new": "生成新地址",
-        "generate_new_memo": "Get new memo",
+        "generate_new_memo": "获取新备注",
         "deposit": "充值",
         "withdraw": "提现",
-        "convert": "Internal conversion",
+        "convert": "内部转换",
         "withdraw_now": "提现",
-        "convert_now": "Convert now",
+        "convert_now": "现在转换",
         "inventory": "库存",
         "scan_qr": "扫描二维码，手机支付",
         "calc": "计算中",
@@ -1383,7 +1383,7 @@
         "support_block": "获得客户支持，请联络 Blocktrades:",
         "valid_address": "请输入合法的 %(coin_type)s 地址",
         "withdraw_coin": "提现 %(coin)s (%(symbol)s)",
-        "convert_coin": "Convert to %(coin)s (%(symbol)s)",
+        "convert_coin": "转换为%(coin)s (%(symbol)s)",
         "limit": "限额: %(amount)s %(symbol)s",
         "bridge_text": "桥接能让你将一种资产转变成另一种资产，比如从 BTC 转换到 BTS。",
         "gateway_text": "网关能让你将BitShares中的资产与外部资产进行互换，比如OPEN.BTC到BTC。",
@@ -1393,18 +1393,18 @@
         },
         "purchase": "购买 %(asset)s",
         "purchase_1": "快速简便地从外部钱包使用 %(inputAsset)s 购买 %(outputAsset)s 。这项服务由 <a href='https://blocktrades.us/' target='blank' rel='noopener noreferrer'>Blocktrades</a> 提供",
-        "purchase_notice": "%(inputAsset)s sent to this address will show up as %(outputAsset)s",
-        "purchase_notice_memo": "Memo <b>required</b> for proper routing to your account",
+        "purchase_notice": "发送%(inputAsset)s到这个地址将显示为%(outputAsset)s",
+        "purchase_notice_memo": "备注<b>必需</b>以正确路径到您的帐户",
         "deposit_limit": "充值限额",
-        "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\">with memo</span> %(memo)s",
+        "address_with_memo": "%(address)s <span class=\"blocktrades-with-memo\">有备注</span> %(memo)s",
         "rudex": {
-            "support_block": "For support, please contact RuDEX at:",
-            "min_amount": "Minimum amount: %(minAmount)s %(symbol)s",
-            "min_amount_error": "Please enter number >= minimum",
-            "coming_soon": "Coming soon"
+            "support_block": "获得客户支持，请联络RudEX:",
+            "min_amount": "最小提现金额：%(minAmount)s %(symbol)s",
+            "min_amount_error": "请输入数字>=最小值",
+            "coming_soon": "即将推出"
         },
         "unavailable": "网关服务暂时不可用，请稍候再试",
-        "unavailable_bridge": "The bridge service for this asset is currently down, please try again later",
+        "unavailable_bridge": "网关服务暂时不可用，请稍候再试",
         "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
         "unavailable_RUDEX": "The RuDEX Gateway is down or not responding",
         "unavailable_TRADE": "The Blocktrades Bridge is down or not responding",
