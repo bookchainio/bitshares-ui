@@ -8,7 +8,7 @@ If you registered with a username and password, you have a cloud wallet. Althoug
 
 ## Local Wallet
 
-The local wallet creates a database within your browser. This means that access to your funds it tied to **that browser only**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
+Yerel cüzdan, tarayıcınızda bir veritabanı oluşturur. This means that access to your funds it tied to **that browser only**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
 
 ## Güvenlik
 
