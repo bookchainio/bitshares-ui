@@ -1,9 +1,9 @@
-[# summary]
+[# 摘要]
 
-### Asset {symbol}
+### 资产 {symbol}
 
 {description}
 
-Issued by: {issuer}
+发布者: {issuer}
 
-The Euro (sign: €; symbol: EUR) is the official currency of participating countries in the Europ zone.
+欧元（标志: €；符号：EUR） 是欧盟的官方货币。
