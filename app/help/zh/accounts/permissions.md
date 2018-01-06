@@ -5,19 +5,19 @@
 * **活动权限**: 控制其资金并
 * **所有者权限**: 控制账户。
 
-Both can be defined in the `Permissions` tab of your account using so called *authorities* (see below) together with a so called *threshold* that has to be exceeded in order for a transaction to be valid.
+两者皆可由`权限`定义，它在您的账号的*授权*(如下所示) 里，为了让一个交易有效*界值*必须被超过。
 
-## Authorities
+## 授权
 
-In BitShares an *authority* consists of one or many entities that authorize an action, such as transfers or trades.
+在 BitShares 里，一个*授权* 包括一个或多个实体授权一个操作，如转账或交易。
 
-An authority consists of one or several pairs of an account name with a *weight*.
+一个授权由一对或多对具有 * 权重 * 的帐户名组成。
 
-In order to obtain a valid transaction, the sum of the weights from signing the parties has to exceed the threshold as defined in the permissions.
+为实现一个有效的交易, 签署各方的权重的总和必须超过权限中定义的界值。
 
-# Examples
+# 示例
 
-Let's discuss some examples to shed some light on the used terminology and the use-cases. We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
+让我们讨论一些例子，来阐明使用的术语和用户实例。 We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
 
 ## (Flat) Multi-Signature
 
