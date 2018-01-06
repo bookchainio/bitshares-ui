@@ -20,14 +20,14 @@ Bir yazılım geliştiricisiyseniz, şu adresten bir ödül sistemine katkıda b
 
 ## Giriş
 
-Welcome to the worlds fastest decentralized exchange (The DEX). BitShares, blok zincirinin yenilikçiliğini tüm endüstrilere yayacağı görünüyor, hizmetlerine güveniyor. Whether its banking, stock exchanges, lotteries, voting, music, auctions or many others, a digital public ledger allows for the creation of distributed autonomous companies (or DACs) that provide better quality services at a fraction of the cost incurred by their more traditional, centralized counterparts. The advent of DACs ushers in a new paradigm in organizational structure in which companies can run without any human management and under the control of an incorruptible set of business rules. These rules are encoded in publicly auditable open source software distributed across the computers of the companies’ shareholders, who effortlessly secure the company from arbitrary control.
+Welcome to the worlds fastest decentralized exchange (The DEX). BitShares, blok zincirinin yenilikçiliğini tüm endüstrilere yayacağı görünüyor, hizmetlerine güveniyor. Bankacılık, borsa, piyangolar, oylama, müzikler, müzayedeler veya diğerleri, bir dijital kamu defteri gibi alanlarda, daha geleneksel, ekonomik, mali ve ekonomik koşulların getirdiği maliyetin çok daha düşük bir bölümünde daha kaliteli hizmetler sunan dağıtılmış özerk şirketler (DAC'ler) merkezi muadilleri. DAC'lerin ortaya çıkışı, şirketlerin insan yönetimi olmadan ve kararsız iş kuralları kümesi altında çalışabildiği yeni bir örgüt yapısı paradigmasını başlatmaktadır. Bu kurallar, şirketi keyfi kontrolden zahmetsizce kurtaran şirket hissedarlarının bilgisayarlarında dağıtılan, halka açık denetimli açık kaynaklı yazılımlarda kodlanmıştır.
 
 BitShares does for business what bitcoin did for money by utilizing distributed consensus technology to create companies that are inherently global, transparent, trustworthy, efficient and most importantly profitable.
 
-## Wallet
+## Cüzdan
 
-This wallet allows access most features of the BitShares network including
+Bu cüzdan, BitShares ağının özelliklerinin çoğuna erişmenizi sağlar
 
 - [BitAssets](/help/assets/mpa.md)
-- [User-Issued Assets](/help/assets/uia.md)
+- [Kullanıcı Tanımlı Varlıklar](/help/assets/uia.md)
 - [The DEX](/help/dex/introduction.md)
