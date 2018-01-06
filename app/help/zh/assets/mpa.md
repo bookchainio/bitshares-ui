@@ -1,12 +1,12 @@
-# Market Pegged Assets
+# 市场绑定资产
 
-A crypto-currency, with the properties and advantages of Bitcoin, that is capable of maintaining price parity with a globally adopted currency (e.g. U.S. dollar), has high utility for convenient and censorship resistant commerce. This can be achieved by BitShares' market pegged assets (MPA), a new type of freely traded digital asset whose value is meant to track the value of a conventional underlying asset by means of contracts for difference (CFD).
+一个区块链货币，有比特币的属性和优势，在全球认可的货币中（如美元）有能力维持自己的价位，并有极强的便捷能力和抵抗商业审查。 者种新型的自由数字商业资产可以成为BitShare的市场绑定资产，它的价值来自它可以跟踪潜在资产的转换，通过不同合同的意义（CFD)。
 
-A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as *collateral* in a CFD.
+* SmartCoin * (MPA 的同义词) 是一种密码货币, 它的 * 总是 * 具有100% 或更多的 BitShares 核心货币 (BTS) 支持的值, 它们可以随时转换为, 在 CFD 中为 * 抵押品 *。
 
-What makes MPAs unique is that they are free from counterparty risk even though they resemble a CFD backed by collateral. This is achievable by letting the network itself (implemented as a software protocol) be responsible for securing the collateral and performing settlements as will be described in more detail below.
+是MPA独特的是他们没有国家政党的风险，即便是有CFD的保证。 为安全代理和处理结算负责，这一点通过网络本身就可以完成（如同软件协议一样的执行），更多详情请看下面的详细说明。
 
-This is a subset of the available market pegged assets:
+这就是可用的市场绑定资产的一组数据：
 
 * BitUSD
 * BitCNY
