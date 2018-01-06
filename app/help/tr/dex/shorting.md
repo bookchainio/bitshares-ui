@@ -1,6 +1,6 @@
 # Kısa Satış BitAssests
 
-In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go *borrow* this bitAsset from the network and *sell it short*. Burada prosedür kısaca açıklanmıştır.
+BTS'ye olan riskinizi artırmak ve USD, EUR, GOLD vb. Gibi BitAssets'e likidite sağlamak için ağdan bu bitAsset'i ödünç alabilir *borrow* ve satabilirsiniz *sell it short*. Burada prosedür kısaca açıklanmıştır.
 
 ## Borçlanma
 
