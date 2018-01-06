@@ -1,3 +1,3 @@
-This is a binary prediction market.
+Bu bir ikili tahmini pazar.
 
-The collateral ratio of this market is 1:1.
+Bu pazarın teminat oranı 1:1'dir.
