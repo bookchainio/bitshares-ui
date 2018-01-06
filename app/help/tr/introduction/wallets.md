@@ -8,12 +8,12 @@ If you registered with a username and password, you have a cloud wallet. Althoug
 
 ## Local Wallet
 
-Yerel cüzdan, tarayıcınızda bir veritabanı oluşturur. This means that access to your funds it tied to **that browser only**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
+Yerel cüzdan, tarayıcınızda bir veritabanı oluşturur. Bu, yalnızca tarayıcıya erişim anlamına gelir **that browser only**. Yerel cüzdanınıza başka herhangi bir bilgisayardan veya başka bir tarayıcıdan erişmeye çalışırsanız, orijinal tarayıcı yedek dosyasından yedek dosyanızı aktif olarak almadıkça erişim başarısız olur. İşlem aslında kolay. Sorumluyu görün [backups](/help/introduction/backups).
 
 ## Güvenlik
 
-Rest assured that our servers do not have access to your funds because none of your private keys ever leave your browser. Instead, they are encrypted with your passphrase and are stored in your local browser's database. As such, you should make sure to have a proper [Backup](../introduction/backups.md) in the event something happens to your computer or browser.
+Kişisel anahtarlarınızı hiçbiri tarayıcıda bırakmadığından, sunucularımızın fonlarına erişmediğinden emin olabilirsiniz. Bunun yerine, bunlar parola ile şifrelenir ve yerel tarayıcınızın veritabanında saklanır. Bu nedenle, bilgisayarınıza veya tarayıcınıza bir şey olması halinde uygun bir yedekleme [Backup](../introduction/backups.md) öğesine sahip olduğunuzdan emin olmalısınız.
 
 ## Yönetim
 
-The user interface is capable of carrying and accessing several separated wallets each containing possible several accounts and corresponding funds. You can create, backup, and switch existing wallets in `Settings->Wallets`.
+Kullanıcı arabirimi, her biri birkaç hesap ve karşılık gelen para birimi içeren birkaç ayrı cüzdan taşıyabilir ve bunlara erişebilir. Mevcut cüzdanları `Settings->Wallets` 'da oluşturabilir, yedekleyebilir ve değiştirebilirsiniz.
