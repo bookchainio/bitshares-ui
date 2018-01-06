@@ -23,7 +23,7 @@ Kullanılan terminoloji ve bu terminolojiyi biraz aydınlatacak bazı örnekler 
 
 Düz çok imzalı bir şema, `N` varlıklarının bulunduğu `M` varlıklardan oluşur işlemin geçerli olabilmesi için imzalanması gerekir. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Hala bunu başarabiliriz aynı şeyi daha fazla esneklik ile şimdi göreceğimiz gibi.
 
-Alice, Bob, Charlie ve Dennis'in ortak fonları olduğunu varsayalım. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
+Alice, Bob, Charlie ve Dennis'in ortak fonları olduğunu varsayalım. Onlardan yalnızca ikisi katılıyorsa, geçerli bir işlem oluşturabilmek istiyoruz. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
 | Hesap         | Ağırlık  |
 | ------------- | -------- |
