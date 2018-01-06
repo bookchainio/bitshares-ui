@@ -78,9 +78,9 @@
 
 此方案允许：
 
-* the CEO to spend funds
-* the Chief of Finance Officer to spend funds
-* Treasurer together with Controller to spend funds
-* Controller or Treasurer together with the Tax Manager and Accounting to spend funds.
+* 该CEO使用资金
+* 该CFO使用资金
+* 财务和主管一起使用资金
+* 主管或财务连同税务经理和会计可使用资金。
 
-Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
+因此, 此方式跨越各种层次构建一个灵活的授权方案，可以适合大多数公司业务。
