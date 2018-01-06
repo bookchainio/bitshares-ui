@@ -1,3 +1,3 @@
-### Glossary
+### Sözlük
 
-[Back to index](index.md)
+[Dizine geri dön](index.md)
