@@ -1,5 +1,5 @@
-# Privatized BitAssets
+# 个人的BitAssets
 
-Privatized BitAssets serve those customers that would like to issue a market pegged asset but do not want the witnesses to publish the prices. Instead, when creating a *privatized* bitasset, the issuer can define a set of authorities that are allowed to publish the price for that particular asset. The issuer can further define all kinds of fees involving this asset and make a profit.
+个人的BitAssets服务于那些愿意为市场绑定资产，但不想公开价格的客户。 相反的，当创建一个*私有*bitasset，发行人可以定义一组认证数据，以允许在特别的资产上公开其价格。 发行人可以更进一步定义包括此资产的所有费用，并得到盈利。
 
-This feature is of particular interest for exchanges and institutes that have access to real-time prices and would like to increase exposure and volume.
+对交易和组织可以访问实时价位、并愿意提高投资数目的人来说，这个功能尤为有用。
