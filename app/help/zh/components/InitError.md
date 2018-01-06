@@ -1,6 +1,6 @@
-[# connection-error] We couldn't establish websocket connection to a full node.
+[# connection-error]我们不能建立到一个完整节点的网络接口连接。
 
-Possible reasons: TODO
+可能原因：TODO
 
-- reason #1
-- reason #2
+- 原因1
+- 原因2
