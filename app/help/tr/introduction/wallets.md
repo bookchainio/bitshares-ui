@@ -1,10 +1,10 @@
 # Cüzdan
 
-As you may have noticed already, this application is a web application and runs in a browser. A connection is established to a trusted node in the network that serves as a gateway to the rest of the ecosystem.
+As you may have noticed already, this application is a web application and runs in a browser. Ağdaki güvenilir bir düğüme bir ekosistemin geri kalanına ağ geçidi olarak hizmet veren bir bağlantı kuruldu.
 
 ## Bulut cüzdan
 
-If you registered with a username and password, you have a cloud wallet. Although nothing is technically stored in the cloud, we user the term Cloud Wallet because you can use these credentials (username and password) from any web browser at any time to gain access to your account. The cloud wallet only allows for a single account to be accessed at a time. This is generally the correct choice for new users. While it is possible to change the auto-generated password, we do not recommend doing so at this time. The team is working on a responsible way to manage the password change that requires no technical knowledge. We will make an announcement once it's released.
+Bir kullanıcı adı ve şifre ile kayıt yaptıysanız, bulut cüzdanınız olur. Although nothing is technically stored in the cloud, we user the term Cloud Wallet because you can use these credentials (username and password) from any web browser at any time to gain access to your account. Bulut cüzdanı tek seferde yalnızca tek bir hesaba erişilmesini sağlar. This is generally the correct choice for new users. While it is possible to change the auto-generated password, we do not recommend doing so at this time. The team is working on a responsible way to manage the password change that requires no technical knowledge. We will make an announcement once it's released.
 
 ## Local Wallet
 
