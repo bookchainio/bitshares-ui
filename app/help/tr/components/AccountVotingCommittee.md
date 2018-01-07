@@ -1,1 +1,1 @@
-[Committee members](introduction/committee) (Komite Üyeleri) blok zincirinin dinamik parametrelerinde, ücretler, blok zamanı ve daha birçok şey gibi değişiklikler önerebilir. BitShares'in nasıl çalıştığını daha iyi anlayabilmek için büyük sorumluluk sahibi bir konumdur.
+[Committee members](introduction/committee) (Komite Üyeleri) blok zincirinin dinamik parametrelerinde, ücretler, blok zamanı ve daha birçok şey gibi değişiklikler önerebilir. Bu pozisyon, BitShares'in nasıl çalıştığını daha iyi anlayabilmek için büyük sorumluluk sahibi pozisyondur.
