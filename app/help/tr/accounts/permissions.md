@@ -55,7 +55,7 @@ Artık fonlara Alice ve tek bir arkadaş tarafından erişilebilir ya da herkes 
 
 ## Çok Hiyerarşili Esnek Çoklu İmza
 
-Şimdi basit çok hiyerarşik kurumsal hesap ayarlarına göz atalım. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
+Şimdi basit çok hiyerarşik kurumsal hesap ayarlarına göz atalım. Bir Mali İşler Sorumlusu (CFO) ve bazıları Sayıştay, Kontrolör, Vergi Müdürü, Muhasebe gibi kendisi için çalışan departmanlar. The company also has a CEO that wants to have spending privileges. Dolayısıyla fonlara aşağıdakilere göre bir otorite oluşturuyoruz:
 
 | Hesap         | Ağırlık  |
 | ------------- | -------- |
