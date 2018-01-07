@@ -1404,14 +1404,14 @@
         "withdraw_to": "点击下方按钮进行 %(asset)s 提现",
         "intermediate": "中间账户",
         "asset_to_withdraw": "提现资产:",
-        "support_block": "For DEPOSIT AND WITHDRAWAL issues using \"OpenLedger TRANSFER SERVICE\", please contact Openledger at:",
+        "support_block": "如果使用\"OpenLedger转账服务\"有存款和提款的问题，请联系OpenLedger：",
         "valid_address": "请输入合法的 %(coin_type)s 地址",
         "withdraw_coin": "提现 %(coin)s (%(symbol)s)",
         "convert_coin": "转换为%(coin)s (%(symbol)s)",
         "limit": "限额: %(amount)s %(symbol)s",
         "bridge_text": "桥接能让你将一种资产转变成另一种资产，比如从 BTC 转换到 BTS。",
         "gateway_text": "网关能让你将BitShares中的资产与外部资产进行互换，比如OPEN.BTC到BTC。",
-        "fiat_text": "Note: Fiat gateways are closed till further notice. Sorry for the inconvenience! Please follow our latest news and updates here <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
+        "fiat_text": "注意：发币网关已经关闭，请等候通知。为您带来不便，敬请谅解！请在这里阅读我们的最新新闻和更新 <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
         "meta": {
             "open_website": "访问官网"
         },
@@ -1426,7 +1426,7 @@
             "min_amount": "最小提现金额：%(minAmount)s %(symbol)s",
             "min_amount_error": "请输入数字>=最小值",
             "coming_soon": "即将推出",
-            "under_construction": "Under Construction"
+            "under_construction": "正在建设中"
         },
         "unavailable": "网关服务暂时不可用，请稍候再试",
         "unavailable_bridge": "桥服务暂时不可用，请稍候再试",
