@@ -16,7 +16,7 @@ Bir ömür boyu üyelik çok fazla ise, yine de aynı nakit parayı alabilirsin.
 
 ### Ücret Bölümü
 
-Sevk ettiğiniz bir hesap bir işlem ücreti ödediğinde, bu ücret birkaç farklı hesap arasında bölünür. Şebeke bir kesim alır ve Ömür Boyu Hesabı havale eden üye bir kesim yapar.
+Sevk ettiğiniz hesap bir işlem ücreti ödediğinde, bu ücret birkaç farklı hesap arasında bölünür. Şebeke bir kesinti alır ve Ömür Boyu Hesabı havale eden üye kesim yapar.
 
 Kayıtevi, işlem ücretini kaydettirmek için ödenen hesaptır. şebeke ile hesap edin. Kendileri ve kendi kuruluşları arasında kalan ücretin nasıl bölüştürüleceğine sicil karar verir.
 
