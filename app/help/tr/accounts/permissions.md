@@ -9,15 +9,15 @@ Both can be defined in the `Permissions` tab of your account using so called *au
 
 ## Yetkililer
 
-BitShares'te bir *authority*, yetkili olan bir veya birden fazla varlıktan oluşan İşlemler, örneğin transferler veya işlemler.
+BitShares'te bir *authority*, yetkili olan bir veya birden fazla varlıktan oluşan İşlemler, örneğin transferler veya ticaretler.
 
 Bir yetki, bir hesap adının bir veya birkaç çiftinden oluşur *weight*.
 
-Geçerli bir işlem elde etmek için, imzalamadan gelen ağırlıkların toplamı tarafların izinlerde tanımlanan eşiği aşmaları gerekir.
+Geçerli bir işlem elde etmek için, imzaların ağırlıklarının toplamı tarafların izinlerinde tanımlanan barajı aşmaları gerekir.
 
 # Örnekler
 
-Kullanılan terminoloji ve bu terminolojiyi biraz aydınlatacak bazı örnekler üzerinde tartışalım -olayları kullanın. Etkin izinleriyle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Aynı düzenin sahibi için de çalıştığını unutmayın. izinler!
+Kullanılan terminoloji ve bu terminolojiyi biraz aydınlatacak bazı örnekler üzerinde tartışalım -olayları kullanın. Etkin izinlerle yeni bir hesap oluşturulduğunu varsayıyoruz aşağıda açıklandığı gibi ayarlayın. Mal sahibi içinde aynı düzenin çalıştığını unutmayın!
 
 ## (Düz) Çoklu İmza
 
