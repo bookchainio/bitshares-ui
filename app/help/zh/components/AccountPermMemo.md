@@ -1,3 +1,3 @@
-The memo key is where you receive memos, in order to decode the memos you need to control the private key for the public key.
+备忘录钥匙是当你收到备忘录时，为了解密备忘录，你需要为公匙控制的私钥。
 
-By using a public/private key pair without spending authority, you may give read-only access to your memos to third parties.
+不需授权来对公钥/私钥配对，您可以向第三方提供对您的备忘录的只读访问权限。
