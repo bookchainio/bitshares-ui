@@ -1,12 +1,12 @@
 # Pazara Bağlı Varlıklar
 
-Bitcoin'in özellikleri ve avantajlarıyla, küresel olarak benimsenen bir para birimiyle (örn. ABD doları) fiyat eşitliğini koruyabilen bir kripto para birimi, uygun ve sansürlere dayanıklı ticaret için yüksek yarar sağlar. This can be achieved by BitShares' market pegged assets (MPA), a new type of freely traded digital asset whose value is meant to track the value of a conventional underlying asset by means of contracts for difference (CFD).
+Bitcoin'in özellikleri ve avantajlarıyla, küresel olarak benimsenen bir para birimiyle (örn. ABD doları) fiyat eşitliğini koruyabilen bir kripto para birimi, uygun ve sansürlere dayanıklı ticaret için yüksek yarar sağlar. Bu, BitShares'in piyasa değerine dayanan varlıklar (MPA) ile elde edilebilir; değer, geleneksel sözleşmeye dayalı varlığın değerini fark sözleşmeleri (CFD) aracılığıyla izlemek anlamına gelen, serbest işlem gören yeni bir dijital varlık türüdür.
 
-A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as *collateral* in a CFD.
+*SmartCoin* (MPA ile eşanlamlıdır), herzaman *always* değerinin BitShares çekirdek para biriminin (BTS) desteklediği değerinin% 100'üne veya daha fazlasına sahip olduğu bir kripto para birimidir herhangi bir zamanda CFD'de *collateral*teminata dönüştürülebilir.
 
-What makes MPAs unique is that they are free from counterparty risk even though they resemble a CFD backed by collateral. This is achievable by letting the network itself (implemented as a software protocol) be responsible for securing the collateral and performing settlements as will be described in more detail below.
+MPA'ları benzersiz kılan şey, teminata dayanan bir CFD'ye benzese de karşı taraf riskinden uzak olmasıdır. Bu, ağın (bir yazılım protokolü olarak uygulanan) teminatının güvence altına alınması ve yerleşimlerin yerine getirilmesinden aşağıda daha ayrıntılı olarak açıklanacağı gibi olmaktan sorumlu olacak şekilde gerçekleştirilebilir.
 
-This is a subset of the available market pegged assets:
+Bu, mevcut piyasa kaynaklarından edinilen varlıkların bir alt kümesidir:
 
 * BitUSD
 * BitCNY
