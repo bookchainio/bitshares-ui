@@ -1283,12 +1283,12 @@
             "no_gateway_available": "没有可用网关",
             "select_gateway": "请选择一个网关操作员",
             "address_generation_error": "无法生成地址",
-            "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
-            "close": "Close",
-            "cancel": "Cancel",
+            "bts_transfer_description": "从任何地方接收BTS都很容易。只要BTS发送到你的帐户名，它就会显示在你的钱包。 此QR码包含你的帐户名。",
+            "close": "关闭",
+            "cancel": "取消",
             "amount": "充值数量",
             "submit": "充值",
-            "submit_beta": "Deposit (beta)"
+            "submit_beta": "存款(beta)"
         },
         "convert": {
             "amount": "要转换的金额",
@@ -1348,12 +1348,12 @@
         "id": "提案对象id"
     },
     "gateway": {
-        "deposit_notice_delay": "(new address can be generated once per 5 minutes)",
-        "copy_memo": "Copy memo",
-        "please_generate_address": "Please, get new address ",
+        "deposit_notice_delay": "(每五分钟可以产生新地址)",
+        "copy_memo": "复制备注",
+        "please_generate_address": "请获得新地址",
         "generate_new": "生成新地址",
-        "copy_address": "Copy address",
-        "use_copy_button": "PLEASE USE COPY BUTTON TO MAKE COPY OF ADDRESS OR MEMO ON THIS PAGE",
+        "copy_address": "复制地址",
+        "use_copy_button": "请使用复制按钮复制这个页面的地址或者备注。",
         "fee": "网关手续费",
         "title": "存款和提现",
         "assets": {
@@ -1371,7 +1371,7 @@
         "bridge": "桥接",
         "gateway": "承兑商",
         "symbol": "资产",
-        "asset": "Asset",
+        "asset": "资产",
         "website": "访问网站",
         "deposit_to": "请将你的 %(asset)s 资产充值到以下地址",
         "deposit_address": "存款地址",
