@@ -1,1 +1,1 @@
-[Committee members](introduction/committee) may propose changes to the dynamic parameters of the blockchain, such as fees, block time and many other things. It is a position of great responsibility that requires a good understanding of how BitShares works.
+[ 委员会成员 ](introduction/committee) 可以建议更改 blockchain 的动态参数，如费用、区块时间和其他。 这是一个极具责任的位置，需要对 BitShares 的工作原理有很深的理解。
