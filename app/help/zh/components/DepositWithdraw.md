@@ -8,4 +8,4 @@
 
 ### 存入或去处货币
 
-If you want to deposit or withdraw funds, either in fiat or from other blockchains, you may use a [bridge](introduction/bridges_gateways) or [gateway](introduction/bridges_gateways) service to do so.
+如果你想存款或者提款，无论是以法定货币还是以其他区块链的形式，你可以使用一个[桥](introduction/bridges_gateways)或者 [网关](introduction/bridges_gateways)服务来做。
