@@ -1,3 +1,3 @@
-Active permissions define the accounts that have permission to spend funds for this account.
+活动权限定义了此帐户有权向此账号发送资金。
 
-They can be used to easily setup a multi-signature scheme, see [permissions](accounts/permissions) for more details.
+它们被用于简单地设置多重签名方案，请参阅 [ 权限 ](accounts/permissions) 以了解更多详细信息。
