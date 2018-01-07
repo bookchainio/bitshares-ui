@@ -12,6 +12,6 @@ The most convenient way to create a new backup is by exporting the wallet with t
 
 If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
 
-## Remark: Hierarchical Authorities (advanced uses ONLY)
+## Açıklama: Hiyerarşik Makamlar (SADECE ileri düzey kullanır)
 
 If you are using hierarchical authorities (account and/or active permissions), backing up your keys alone may not be sufficient to regain access to your funds! Please revise the documentations about hierarchical authorities.
