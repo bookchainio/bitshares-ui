@@ -36,6 +36,7 @@
         "exchange": "Биржа",
         "payments": "Отправить",
         "payments_beta": "Отправить (бета)",
+        "payments_legacy": "Send (legacy)",
         "logout": "Выйти",
         "settings": "Настройки",
         "current": "Текущий аккаунт",
@@ -91,7 +92,8 @@
         "over_limit": "Мост не обладает достаточным количеством желаемого актива для данного ордера на покупку",
         "propose_tip": "Предложить другому пользователю инициировать транзакцию",
         "follow_user": "Вы подписаны на этого пользователя",
-        "follow_user_add": "Нажмите, чтобы подписаться на этого пользователя"
+        "follow_user_add": "Нажмите, чтобы подписаться на этого пользователя",
+        "gateway": "Gateways back desposits by 100% real assets"
     },
     "propose": "Предложить",
     "cancel": "Отменить",
@@ -162,7 +164,7 @@
             "explain": "Балансы вестинг-счетов включают в себя все вознаграждения, заработанные на партнерской программе или, например, в результате выплат работникам. У них есть определенный вестинг-период, в течение которого средства последовательно разблокируются вплоть до полной доступности всех балансов"
         },
         "member": {
-            "stats": "Статистика членства",
+            "stats": "Членство",
             "join": "Присоединился",
             "registrar": "Регистратор",
             "referrer": "Аффилированный Реферал",
@@ -265,7 +267,7 @@
             "owner": "Права доступа владельца",
             "memo_key": "Ключ примечания",
             "publish": "Сохранить",
-            "reset": "Сбросить",
+            "reset": "Отменить",
             "add": "Добавить разрешение",
             "type": "Тип",
             "key": "Ключ/Имя",
@@ -310,7 +312,7 @@
             "verifying": "Идет проверка, пожалуйста, подождите...",
             "invalidformat": "Невозможно определить формат подписанного сообщения",
             "invaliduser": "Аккаунт отправителя сообщения не соответствует требованиям",
-            "invalidsignature": "Содержание сообщения не может быть сверено с подписью",
+            "invalidsignature": "Содержание сообщения может быть сверено с подписью",
             "errorverifying": "Произошла ошибка при проверке сообщения",
             "keymismatch": "Предоставленный публичный ключ отправителя не совпадает с ключом, хранящимся в аккаунте отправителя",
             "sign": "Подписать",
@@ -392,8 +394,8 @@
             "memo_key": "Ключ примечания"
         },
         "upgrade": "Улучшить аккаунт",
-        "unfollow": "Удалить контакт",
-        "follow": "Добавить контакт",
+        "unfollow": "Отписаться",
+        "follow": "Следовать",
         "pay": "Отправить к",
         "deposit": "Внести депозит в BTS",
         "deposit_address": "Ваш адрес депозита – это имя Вашего аккаунта",
@@ -453,7 +455,7 @@
         "amount": "Количество",
         "to": "Кому",
         "memo": "Примечание",
-        "warn_name_unable_read_memo": "Предложенный отправитель не сможет прочесть это мемо!",
+        "warn_name_unable_read_memo": "Предупреждение: %(name)s не сможет прочесть это примечание",
         "fee": "Комиссия",
         "send": "Отправить",
         "final": "Итоговый баланс",
@@ -889,8 +891,8 @@
         "no": "Нет",
         "walletLockTimeout": "Время автоблокировки кошелька (в секундах, 0 - для отключения)",
         "themes": "Тема",
-        "darkTheme": "Тёмная",
-        "lightTheme": "Светлая",
+        "darkTheme": "Темная тема",
+        "lightTheme": "Светлая тема",
         "midnightTheme": "Полночь",
         "olDarkTheme": "Темная Openledger",
         "reset": "Сбросить настройки",
@@ -1002,7 +1004,7 @@
         "volume": "Объем",
         "vol_short": "Объем",
         "spread": "Спред",
-        "quantity": "Количество",
+        "quantity": "Quantity",
         "buy": "Купить",
         "buy_min": "Купить по меньшей мере",
         "sell": "Продать",
@@ -1057,7 +1059,10 @@
         "show_star_2": "только",
         "quote": "Валюта котировки:",
         "search": "Искать здесь другие рынки",
-        "order_value": "Сумма ордера"
+        "price_market": "Market Price",
+        "description": "Description",
+        "buy_description": "Buy %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s",
+        "sell_description": "Sell %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s"
     },
     "fees": {
         "title": "Прейскурант Комиссионных Сборов"
@@ -1269,8 +1274,21 @@
             "submit": "Вывод"
         },
         "deposit": {
+            "header": "Deposit to %(account_name)s",
+            "header_short": "Deposit",
+            "asset": "Asset",
+            "gateway": "Gateway",
+            "disabled": "Gateway service disabled",
+            "wallet_error": "Gateway wallet disabled",
+            "no_gateway_available": "No gateway available",
+            "select_gateway": "Please select a gateway operator",
+            "address_generation_error": "Unable to generate address",
+            "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
+            "close": "Close",
+            "cancel": "Cancel",
             "amount": "Сумма пополнения счета",
-            "submit": "Пополнить счет"
+            "submit": "Пополнить счет",
+            "submit_beta": "Deposit (beta)"
         },
         "convert": {
             "amount": "Сумма к обмену",
@@ -1330,6 +1348,12 @@
         "id": "Идентификатор предложения"
     },
     "gateway": {
+        "deposit_notice_delay": "(new address can be generated once per 5 minutes)",
+        "copy_memo": "Copy memo",
+        "please_generate_address": "Please, get new address ",
+        "generate_new": "Получить новый адрес",
+        "copy_address": "Copy address",
+        "use_copy_button": "PLEASE USE COPY BUTTON TO MAKE COPY OF ADDRESS OR MEMO ON THIS PAGE",
         "fee": "Комиссия шлюза",
         "title": "Пополнение и Вывод",
         "assets": {
@@ -1347,6 +1371,7 @@
         "bridge": "Мост",
         "gateway": "Шлюз",
         "symbol": "Символ",
+        "asset": "Asset",
         "website": "Посетить веб-сайт",
         "deposit_to": "Пожалуйста, отправьте Ваши %(asset)s на адрес ниже",
         "deposit_address": "Адрес депозита",
@@ -1356,7 +1381,6 @@
         "withdraw_placeholder": "Пожалуйста, введите Ваш %(asset)s адрес",
         "balance": "Текущий остаток на счете",
         "generate": "Сформировать",
-        "generate_new": "Получить новый адрес",
         "generate_new_memo": "Получить новое мемо",
         "deposit": "Пополнить счет",
         "withdraw": "Вывод",
@@ -1380,14 +1404,14 @@
         "withdraw_to": "Нажмите кнопку ниже, чтобы открыть вывод %(asset)s",
         "intermediate": "Промежуточный аккаунт",
         "asset_to_withdraw": "Актив для вывода:",
-        "support_block": "Для получения поддержки, пожалуйста, свяжитесь с OpenLedger по адресу:",
+        "support_block": "For DEPOSIT AND WITHDRAWAL issues using \"OpenLedger TRANSFER SERVICE\", please contact Openledger at:",
         "valid_address": "Пожалуйста, введите действительный %(coin_type)s адрес",
         "withdraw_coin": "Вывести %(coin)s (%(symbol)s)",
         "convert_coin": "Конвертировать в %(coin)s (%(symbol)s)",
         "limit": "Лимит: %(amount)s %(symbol)s",
         "bridge_text": "Шлюз позволяет Вам \"превращать\" один актив в другой, например BTC в BTS.",
         "gateway_text": "Здесь выберите, хотите ли Вы разместить депозит или вывести средства",
-        "fiat_text": "Пополнение депозита и вывод фиатных денег производится с помощью OpenLedger. Чтобы начать, Вам необходимо завершить процесс регистрации. Доступны следующие виды конверсии:",
+        "fiat_text": "Note: Fiat gateways are closed till further notice. Sorry for the inconvenience! Please follow our latest news and updates here <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
         "meta": {
             "open_website": "Открыть веб-сайт"
         },
@@ -1401,7 +1425,8 @@
             "support_block": "Для получения поддержки, пожалуйста, свяжитесь с RuDEX по адресу:",
             "min_amount": "Минимальная сумма: %(minAmount)s %(symbol)s",
             "min_amount_error": "Пожалуйста введите число >= минимума",
-            "coming_soon": "Скоро"
+            "coming_soon": "Скоро",
+            "under_construction": "Under Construction"
         },
         "unavailable": "Шлюз для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
         "unavailable_bridge": "Мост для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
