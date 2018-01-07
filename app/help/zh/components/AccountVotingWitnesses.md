@@ -1,1 +1,1 @@
-[见证人](introduction/witness)是BitShares的区块生产者。 They validate transactions and ensure the safety of the network. You may vote for as many witnesses as you'd like, and they will all receive the same amount of votes. Witness proposals can be found here: [BitSharestalk - Stakeholder Proposals Board](https://bitsharestalk.org/index.php/board,75.0.html).
+[见证人](introduction/witness)是BitShares的区块生产者。 他们验证交易并确保网络的安全。 你可以投票给尽可能多的证人，他们都将获得同样数量的选票。 见证人提议可以在这里找到: [ BitSharestalk-利益相关者提案板 ](https://bitsharestalk.org/index.php/board,75.0.html)。
