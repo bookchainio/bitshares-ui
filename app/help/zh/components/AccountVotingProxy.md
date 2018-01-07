@@ -1,3 +1,3 @@
-If you don't fully understand the roles of Witnesses, Committee Members and Workers, you may elect to choose a Proxy. A proxy is an account that you trust to make decisions about the Bitshares network on your behalf. You may find people proposing to act as proxies in the BitShares forum at [BitSharestalk](https://bitsharestalk.org/index.php/board,75.0.html). Additionally, you may choose from the list below, or you can manually enter any account you choose.
+如果你不完全理解见证人、委员会成员和工人的角色，你可以选择一个代理。 代理是你所信任的帐户。它可以代表你对Bitshares网络做出决定。 您可能会发现有人在[BitSharestalk](https://bitsharestalk.org/index.php/board,75.0.html)的BitShares论坛中提议充当代理。 此外，你可以从下面的列表中进行选择，或者手动输入你选择的任何帐户。
 
-**Be sure to select publish changes above once you've made your selection**.
+**请确保在选择完成之后选择发布更改**。
