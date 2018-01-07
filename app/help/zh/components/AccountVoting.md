@@ -1,7 +1,7 @@
-### Voting
+### 投票中
 
-Voting in BitShares is important for both the security and the development of the network. Votes determine which Witnesses are selected to handle the network, which Committee Members have the power to vote on important policies and which Worker Proposals are accepted to improve or expand features.
+在 BitShares 中投票对网络的安全和发展都很重要。 投票决定选择哪些证人来处理网站，包括委员会成员有权对重要政策进行表决,，以及接受哪些工作提议来改进或扩大其功能。
 
-If you don't fully understand the various roles listed above, you may choose to delegate your voting power to a Proxy, who can then vote on your behalf. If you do choose to use a Proxy, you will be unable to vote for Witnesses, Committee Members and Worker Proposals. You can always release your proxy at a later date if you decide to participate in the full voting process.
+如果您不完全了解上面列出的各种规则，您可以选择将您的投票权委派给一个代理, 代理将代表您投票。 如果您选择使用代理, 您本人将无法投票给证人、委员会成员和工作提案。 如果您决定参加完整的投票过程, 您可以投票之后的任何一天使代理生效。
 
-**Be sure to select Publish Changes once you've made your selection.**
+**当你确定后，请选择“发布修改”。**
