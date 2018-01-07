@@ -1,5 +1,5 @@
-[# permissions] Permissions define the available features for an asset. However, even if a feature is permitted, it must still be activated using the corresponding flag in order to be enforced by the blockchain.
+[# 权限] 权限定义了资产的可用功能。 可是，即使允许某个功能，也必须使用相应的标志激活它, 以便由 blockchain 来执行。
 
-After creation, you may only remove a given permission, you cannot enable a permission that was disabled on creation.
+创建后, 您只能删除给定的权限，但无法启用在创建时禁用的权限。
 
-[# flags] Flags define which asset features are active or inactive. They can be switched on and off by the asset owner at any time.
+[# 标志] 标志定义哪些资产功能是激活的或非激活的。它们可以随时被资产所有者打开和关闭。
