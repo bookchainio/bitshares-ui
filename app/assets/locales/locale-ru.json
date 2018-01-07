@@ -1061,8 +1061,8 @@
         "search": "Искать здесь другие рынки",
         "price_market": "Рыночная цена",
         "description": "Описание",
-        "buy_description": "Buy %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s",
-        "sell_description": "Sell %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s"
+        "buy_description": "Купить %(baseAsset)s %(baseName)s за %(quoteAsset)s %(quoteName)s",
+        "sell_description": "Продать %(baseAsset)s %(baseName)s за %(quoteAsset)s %(quoteName)s"
     },
     "fees": {
         "title": "Прейскурант Комиссионных Сборов"
@@ -1274,7 +1274,7 @@
             "submit": "Вывод"
         },
         "deposit": {
-            "header": "Deposit to %(account_name)s",
+            "header": "Пополнить аккаунт %(account_name)s",
             "header_short": "Пополнить",
             "asset": "Актив",
             "gateway": "Шлюз",
@@ -1426,7 +1426,7 @@
             "min_amount": "Минимальная сумма: %(minAmount)s %(symbol)s",
             "min_amount_error": "Пожалуйста введите число >= минимума",
             "coming_soon": "Скоро",
-            "under_construction": "В разработке"
+            "under_construction": "Технические работы"
         },
         "unavailable": "Шлюз для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
         "unavailable_bridge": "Мост для данного актива в настоящее время не работает, пожалуйста, повторите попытку позже",
