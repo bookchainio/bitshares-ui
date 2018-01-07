@@ -1,23 +1,23 @@
-[# lifetime]
+[# 生命周期]
 
-### Get {feesCashback}% Cashback on Fees
+### 得到费用的 {feesCashback}% 现金返还
 
-Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. A Lifetime Membership is just {price}.
+终身成员在他们的每笔交易费用中都会获得 {feesCashback}% 的现金返还，并有资格从他们推荐注册的用户那里获得介绍费。 终身会员只收取 {price}。
 
-[# fee-division]
+[# 收费部门]
 
-#### Fee Division
+#### 收费部门
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+每次{account} 支付交易费时, 该费用会在几个不同的账户中划分。 该网络采取{networkFee}% 减价, 终身成员推荐用户{account} 会得到一个{lifetimeFee}% 减价。
 
-The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
+* 注册服务商 * 是收取交易费用、帮您注册{account} 帐户的服务账号。 注册服务商可以决定如何划分剩余的{referrerTotalFee}% 和他们自己的*Affiliate Referrer* 项目。
 
-{account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
+{account} 的注册服务商选择与 * 会员推荐 * 共享{referrerFee}% 的总费用, 并保留自己的{registrarFee}% 的总费用。
 
-#### Pending Fees
+#### 未决费用
 
-Fees paid by {account} are divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
+由{account}支付的费用只能在网络、介绍者和注册者之间，在每个定期的维护时间段(每 {maintenanceInterval} 秒)被划分。
 
-#### Vesting Fees
+#### 授权费
 
-Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
+大多数费用是立即生效的，但超过 {vestingThreshold} 的费用（如那些为升级会员资格或注册一个主要帐户的费用）必须为总共{vestingPeriod} 天。
