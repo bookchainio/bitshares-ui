@@ -1,5 +1,5 @@
-# Fees
+# 费用
 
-In the BitShares ecosystem every operation is assigned an *individual* fee. These fees are subject to change. However, they are defined solely by shareholder approval, thus each and every shareholder of the BitShares core asset (BTS) has a say as to what the fees should be. If shareholders can be convinced to reduce a certain fee and consensus is reached, the fee will be reduced automatically by the blockchain. Changes of blockchain parameters are proposed by members of the committee. These members are voted by shareholders and improve the flexibility and reaction rate.
+在Bitshares生态系统中，每一个操作都有其*独立的*费用。 这些费用可能更改。 然后，他们完全由股东批准来决定。因此，BitShares核心资产（BTS）的每个股东对费用应该是多少都有发言权。 如果股东能够被说服减少一项费用而且能够达成共识，这项费用将会被区块链自动减少。 区块链参数的更改由委员会成员提议。 这些成员由股东投票选出，从而增进了灵活性和反应速度。
 
-\*: These operations require Lifetime membership!
+\*: 这些操作需要终身会员！
