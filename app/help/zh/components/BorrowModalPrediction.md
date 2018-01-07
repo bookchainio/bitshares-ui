@@ -1,3 +1,3 @@
-This is a binary prediction market.
+这是一个二进制预测市场。
 
-The collateral ratio of this market is 1:1.
+这个市场的抵押比例是1:1。
