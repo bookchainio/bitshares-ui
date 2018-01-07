@@ -6,6 +6,6 @@ Rudex is a gateway service built on the Bitshares Exchange. A gateway service is
 
 <https://rudex.org>
 
-## Support
+## Destek
 
 [Open a Ticket](https://rudex.freshdesk.com)
