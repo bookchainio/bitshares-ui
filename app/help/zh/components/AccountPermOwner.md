@@ -1,3 +1,3 @@
-Owner permissions define who has control over the account. Owners may overwrite all keys and change any account settings.
+所有者权限定义了谁拥有着该帐户的控制权。所有者可以覆盖所有密钥并更改任何帐户设置。
 
-See [permissions](accounts/permissions) for more details.
+有关详细信息, 请参见 [ 权限 ](accounts/permissions)。
