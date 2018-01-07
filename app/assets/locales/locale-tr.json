@@ -86,10 +86,10 @@
         "sync_yes": "Geçerli düğüm blok zinciri ile senkronize",
         "sync_no": "Geçerli düğüm blok zinciriyle senkronize değil, başka bir butonla değiştirmeyi deneyin",
         "disconnected": "Bir API elemanına bağlı değilsiniz, ayarlardan yeniden yüklemeyi veya yeni bir erişim noktası ayarlamayı deneyin",
-        "market_fee": "The owner of %(asset)s charges a market fee of %(percent)s%% for buy orders. This fee will be subtracted from the amount you receive when your order fills, it is not paid when placing an order.",
+        "market_fee": "Varlık(lar) %(asset)s sahibi, satınalma siparişleri için %(percent)s%% tutarında bir pazar ücreti tahsil eder. Bu ücret, siparişiniz dolduğunda aldığınız tutardan çıkarılır, sipariş verildiğinde ödenmez.",
         "bridge_TRADE": "BlockTrades, varlıkların anında ticaretini destekleyen bir köprüdür. Ayrıntılar ve koşullar https://blocktrades.us adresinde bulunabilir",
         "over_limit": "The bridge does not have enough of the desired asset for this buy order",
-        "propose_tip": "Propose another user to initiate a transaction",
+        "propose_tip": "Başka bir kullanıcıya bir işlem başlatmasını öner",
         "follow_user": "Bu kullanıcıyı takip ediyorsun",
         "follow_user_add": "Bu kullanıcıyı takip etmek için tıklayın"
     },
@@ -208,7 +208,7 @@
             "approx_fee": "Yaklaşık ücret",
             "exists": "O dijital varlık zaten mevcut",
             "max_positive": "Azami değer pozitif bir sayı olmalıdır",
-            "too_large": "That max supply is too big, please choose a smaller number",
+            "too_large": "Bu maksimum kaynak çok büyük, lütfen daha küçük bir sayı seçin",
             "core_exchange_rate": "Esas kur oranı",
             "quote": "Miktar",
             "quote_name": "Dijital Varlık",
@@ -447,7 +447,7 @@
     },
     "transfer": {
         "header": "Transfer detayları",
-        "header_subheader": "Transfers are used for sending funds to<br /> other BitShares Account Holders",
+        "header_subheader": "Transferler, diğer <br /> BitShares Hesap Sahiplerine fon göndermek için kullanılır",
         "from": "Gönderen",
         "pay_from": "Ödeyen hesap",
         "amount": "Miktar",
@@ -551,8 +551,8 @@
         "override_transfer": "Transfer {amount} from {from} to {to} by authority of {issuer}",
         "asset_issue": "Issue {amount} to {to} using {account}",
         "asset_reserve": "Burn (reserve) {amount} using {account}",
-        "vesting_balance_withdraw": "Withdraw {amount} from vesting balance of {account}",
-        "feed_producer": "Update the feed producers for the asset {asset} using the account {account}",
+        "vesting_balance_withdraw": "Tutarındaki {amount} hakediş bakiyesinin {account} tutarından çekilmesi",
+        "feed_producer": "Hesabını {account} kullanarak {asset} öğesindeki feed üreticilerini güncelleyin",
         "call_order_update": "Change {account} {debtSymbol} debt by {debt} and collateral by {collateral}"
     },
     "transaction": {
