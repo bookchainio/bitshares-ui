@@ -1,3 +1,3 @@
-Update your {debt} margin position by adjusting the debt and collateral levels.
+通过调整债务和担保水平来更新你的{debt}保证金头寸。
 
-Collateral and debt levels can be adjusted in any way you desire, as long as your collateral ratio stays above the maintenance collateral ratio of {mr}. [Read more.](dex/shorting)
+只要你的抵押比率保持在{mr}的维持担保比率以上，抵押品和债务水平就可以用任何你希望的方式进行调整。 更多阅读。</ 0></p>
