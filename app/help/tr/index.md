@@ -8,10 +8,10 @@ This help section gives a brief overview and describes the most basic concepts o
 
 - [BitShares](introduction/bitshares.md)
 - [Cüzdan](introduction/wallets.md)
-- [Backups](introduction/backups.md)
+- [Yedeklemeler](introduction/backups.md)
 - [Blokzinciri](introduction/blockchain.md)
 - [Tanıklar](introduction/witness.md)
-- [Workers](introduction/workers.md)
+- [Geliştiriciler](introduction/workers.md)
 - [Committe Members](introduction/committee.md)
 
 ## Hesaplar
