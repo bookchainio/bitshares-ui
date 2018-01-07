@@ -1,5 +1,5 @@
-# User Issued Assets
+# Kullanıcı Tanımlı Varlıklar
 
-In addition to the aforementioned *market pegged* assets, BitShares allows individuals and companies to create and issue their own tokens for anything they can imagine. The potential use cases for so called user-issued assets (UIA) are innumerable. On the one hand, UIAs can be used as simple event tickets deposited on the customers mobile phone to pass the entrance of a concert. On the other hand, they can be used for crowd funding, ownership tracking or even to sell equity of a company in form of stock.
+BitShares, bahsedilen *market pegged* pazar odaklı varlıklara ek olarak, bireylerin ve şirketlerin hayal edebileceği herhangi bir şey için kendi belirteçlerini oluşturmalarına ve yayınlamalarına izin verir. Kullanıcı tarafından verilen varlıkların (UIA) potansiyel kullanım örnekleri çok sayıdadır. Bir yandan UIA'lar, bir konsere gitmek için müşteriler cep telefonlarında birikenleri basit etkinlik biletleri olarak kullanılabilir. Öte yandan, kalabalık finansman, mülkiyet takibi veya hisse senedi şeklinde bir şirketin öz sermaye satışı için kullanılabilirler.
 
-Obviously, the regulations that apply to each kind of token vary widely and are often different in every jurisdiction. Hence, BitShares comes with tools that allow issuers to remain compliant with all applicable regulations when issuing assets assuming regulators allow such assets in the first place.
+Açıkçası, her bir gösterge çeşidine uygulanan düzenlemeler çok çeşitlidir ve her yargı bölgesinde genellikle farklıdır. Böylelikle, BitShares, düzenleyicilerin bu tür varlıklara ilk etapta izin verdiği varsayımıyla, ihraççının geçerli düzenlemelerle uyumlu kalmalarını sağlayan araçlarla birlikte gelir.
