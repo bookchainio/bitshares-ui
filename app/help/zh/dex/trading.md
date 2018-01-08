@@ -23,12 +23,12 @@
 | 出价            | *基础*      | *报价*      |
 | \---\---\---- | \---\---- | \---\---- |
 
-很显然，美元兑欧元的出价方，会是欧元兑美元的询问方。 Of course prices are internally represented as fractions, and thus results in both pairs being identical.
+很显然，美元兑欧元的出价方，会是欧元兑美元的询问方。 当然，价格在内部被表示为分数，因此导致两者相对等同。
 
-## Trading
+## 买卖
 
-To place a trading order, it is required to fill the form on either the *ask* or the *bid* side (respectively, *buy* or *sell* side). You will need to define a *price* and an *amount* to sell/buy. The cost for this order will be calculated automatically. Note that there will be an additional fee required to actually place the order.
+要下一个交易指令，需要填写或者 *询问方* 或者 *出价方*(分别为 *买入方* 或*卖出方*)。 你可以定义一个*价格*和一个*金额*来卖出或买入。 订单的费用将会自动计算出。 请注意，实际下订单将需要额外的费用。
 
-Once the order is filled (i.e. someone sold/bought your offer), your account will be credited by the corresponding asset.
+一旦订单已满足条件（即有人出售/购买了您的报价），您的账户将被转入相应的资产。
 
-Unfilled orders can be canceled at any time.
+未满足条件的订单可随时被取消。
