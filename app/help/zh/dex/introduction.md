@@ -1,10 +1,10 @@
 # 去中心化交易所
 
-The decentralized exchange (further denoted simply as *the DEX*) allows for direct exchange of digital goods traded in the BitShares ecosystem.
+去中心化交易（进一步简称为 *the DEX*）允许在BitShares生态系统中直接交易数字商品。
 
-A decentralized exchange has a very particular set of advantages over traditional centralized exchanges and we would like to address some of them briefly below. Although the BitShares DEX comes with all of them, it is up to the reader and customer to leverage those features in full or only partially.
+和传统中心化交易所相比，去中心化交易所具有非常特别的优势，让我们来简要的介绍其中一些。 虽然BitShares DEX具备了所有这些功能，但它仍然依赖于读者和客户是否能完全或部分的利用这些功能。
 
-* **Separation of Powers**: There is no reason why the same entity needs to be responsible for issuing IOUs and for processing the order book. In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
+* **权力的分离**： 同一个实体没有理由为发行借据和处理订单来负责。 In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
 
 * **Global Unified Order Book**: Since BitShares is global, anybody with an internet access can use the DEX for trading. This brings the world's liquidity to a single order book for decentralized trading.
 
