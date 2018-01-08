@@ -1,14 +1,14 @@
-# Openledger Gateway Service
+# Openledger网关服务
 
-OpenLedger is a gateway service built on the Bitshares Exchange. A gateway service is responsible for moving cryptocurrencies to and from the Bitshares Exchange. They support a wide range of popular assets. You can easily identify those supported by OpenLedger because they are prefixed with the word OPEN.*. For example OPEN.BTC, OPEN.LTC etc.
+OpenLedger是建立在Bitshares交易所上的网关服务。 网关服务负责将密码货币在Bitshares交易所买入和卖出。 他们支持大多数的流行资产。 通过前缀名OPEN.*，您可以很轻松识别出OpenLedger支持的字符。 例如 OPEN.BTC, OPEN.LTC 等等。
 
-## Website
+## 网站
 
 <https://openledger.info>
 
-## Support
+## 支持
 
-If you have questions or experience delays with sending or receiving assets:
+如果您在发送或接收资产时遇到问题或遭遇延迟：
 
-- [Open a Ticket](https://openledger.freshdesk.com/support/home)
-- [Telegram Chat](https://t.me/OpenLedgerDC).
+- [打开一个单子](https://openledger.freshdesk.com/support/home)
+- [Telegram 聊天](https://t.me/OpenLedgerDC).
