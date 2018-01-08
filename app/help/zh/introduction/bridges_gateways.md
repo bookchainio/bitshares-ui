@@ -10,4 +10,4 @@
 
 网关等价于标准的交易所模型，你依赖于交易所的偿付能力来支付你的币。 一般来讲，网关发行用他们的符号，比如OPEN、TRADE、或者META，开头的资产。 这些资产以100%真正的其他人存入网关的比特币或者以太币或者其他货币为后备。
 
-OPEN.BTC理论上等同于你在Poloniex上得到的比特币。在那里，可以被称为POLO.BTC。 对于这两种情况，你依赖于服务提供商，CCEDK for OPEN. 资产和POLO的Poloniex。 assets, to remain solvent in order to back the value of the assets they've issued. 因为网关紧紧提供这一项服务，通常只有一方运行交易所。所以有人可以宣称他们有容易确保财产的安全。
+OPEN.BTC理论上等同于你在Poloniex上得到的比特币。在那里，可以被称为POLO.BTC。 对于这两种情况，你依赖于服务提供商，CCEDK for OPEN. 资产和POLO的Poloniex。 资产，为保证他们已发行的资产的价值，要保持他们的偿付能力。 因为网关紧紧提供这一项服务，通常只有一方运行交易所。所以有人可以宣称他们有容易确保财产的安全。
