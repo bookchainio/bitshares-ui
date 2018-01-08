@@ -6,8 +6,8 @@
 
 BitShares网络能够发出任何数量的BitAsset，也能借出给予参与者足够的抵押品。
 
-- *settlement price*: The price for 1 BTS as it is traded on external exchanges.
-- *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
+- *结算价格*：在外部交易所交易1个BTS的价格。
+- *维持抵押品比率*（MCR）：由证人定义的最低所需抵押品比率的比率
 - *maximum short squeeze ratio* (MSQR): A ratio defined by the witnesses as to how far shorts are protected against short squeezes
 - *short squeeze protection* (SQP): Defines the most that a margin position will ever be forced to pay to cover 
 - *call price* (CP): The price at which short/borrow positions are margin called
