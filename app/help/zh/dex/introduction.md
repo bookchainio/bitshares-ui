@@ -18,6 +18,6 @@
 
 * **快速**： 与其他去中心化网络相比，BitShares DEX允许实时交易，它唯一收到的限制是光速和本星球大小。
 
-* **Provable Order Matching Algorithm**: What makes the BitShares DEX unique is the provable order matching algorithm. Given a set of orders, you will always be able to provably verify that these orders have been matched properly.
+* **可证明的订单匹配算法**： 这是令BitShares DEX独特的可证明的顺序匹配算法。 给定一组订单，你可以永远证明这些订单已经被正确匹配了。
 
-* **Collateralized Smartcoins**: One of the biggest features of BitShares are its *smartcoins* such as bitUSD, bitEUR, bitCNY, and others. For the sake of convenience, these assets are denotes simply as USD, EUR, CNY, etc. in the wallet. These digital tokens represent the same value as their underlaying physical asset. Hence 1 USD in this wallet is worth $1 and can be redeemed as such. Any of these tokens is backed by BitShares' company shares (BTS) being locked up as collateral and being available for settlement at its current price.
+* **抵押智能币**： 比特股最大的亮点之一，是它的*智能货币*，如bitUSD，bitEUR，bitCNY等等。 只是为了方便，我们把这些资产简称为美元，欧元，人民币等。 在钱包里的。 这些数字令牌代表着与其下层实物资产相同的价值。 因此数字钱包里的1 USD等值于1美元，就可以如此进行兑换。 所有的这些令牌是被BitShares的公司股份（BTS）支持的，它们被锁定为抵押品，并可按当前价格结算。
