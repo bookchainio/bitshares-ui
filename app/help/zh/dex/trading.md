@@ -4,26 +4,26 @@
 
 ## 配对
 
-在比特股中，几乎任何资产都可以与所有的其他的资产进行交易。 Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+在比特股中，几乎任何资产都可以与所有的其他的资产进行交易。 一旦我们有了选择两个资产，我们通常指的是一个*市场配对*。 例如，我们可以在美元：欧元配对中，用美元兑换欧元。
 
-For sake of consistency, we will use the generalized terms *base* and *quote* such that pairs are represented as
+为了保持一致性，我们将使用一般术语* 基本*和* 报价* 如此配对将呈现为
 
-    *quote* : *base*
+    *报价* : *基本*
     
 
-and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD pair.
+例如以*基础* 为美元 *报价* 为欧元，表示欧元：美元配对。
 
-## Order Books
+## 预定订单
 
-The order book consists of an *ask* and a *bid* side. Since trading pairs do not have a preferred orientation, and can be flipped, the following table shall give an overview of ask/bid and the corresponding buy/sell operations for each side:
+订单由*询价*和*出价*两部分组成。 由于交易配对没有有一个指定的方向，而且它可被翻转，下表应给出 询价/出价的概述以及相应的买方/卖方操作：
 
-| Side          | Sell      | Buy       |
+| 方             | 卖         | 买         |
 | ------------- | --------- | --------- |
-| Ask           | *quote*   | *base*    |
-| Bid           | *base*    | *quote*   |
+| 问价            | *报价*      | *基础*      |
+| 出价            | *基础*      | *报价*      |
 | \---\---\---- | \---\---- | \---\---- |
 
-Obviously, what is on the bid side of the USD:EUR pair will be on the ask side on the EUR:USD pair. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
+很显然，美元兑欧元的出价方，会是欧元兑美元的询问方。 Of course prices are internally represented as fractions, and thus results in both pairs being identical.
 
 ## Trading
 
