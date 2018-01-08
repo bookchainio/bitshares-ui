@@ -1,10 +1,10 @@
-# Short Selling BitAssets
+# 卖空 BitAssets
 
-In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go *borrow* this bitAsset from the network and *sell it short*. We will here briefly describe the procedure.
+为了增加您对BTS的了解，并向BitAssets提供流动性，如美元、欧元、黄金等，您可以从网络中*借用*这个bitAsset，然后*卖空*它。 我们在这里简要介绍一下过程。
 
-## Borrowing
+## 借贷
 
-The BitShares network is capable of issuing any amount of any BitAsset and lend it out to participants given enough collateral.
+BitShares网络能够发出任何数量的BitAsset，也能借出给予参与者足够的抵押品。
 
 - *settlement price*: The price for 1 BTS as it is traded on external exchanges.
 - *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
