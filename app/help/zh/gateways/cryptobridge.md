@@ -8,4 +8,4 @@ CryptoBridge是建立在Bitshares交易所上的网关服务。 网关服务负�
 
 ## 支持
 
-CryptoBridge is still finalizing their gateway service and is not yet fully operational to the general public.
+CryptoBridge仍在确定其网关服务的最终阶段，还没有完全向公众开放。
