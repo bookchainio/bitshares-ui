@@ -12,11 +12,11 @@
 
 * **无限制**： BitShares协议无法限制您的交易体验。
 
-* **Decentralized**: The DEX is decentralized across the globe. This not only means that there is no single point of failure, but it also implies that the BitShares exchange is open for trading 24/7 because it's always daytime somewhere.
+* **去中心化**： DEX是去中心化的分布在全球各地。 这不仅意味着将没有单一的失败点，也意味着比特股交易是24/7的开放交易，因为在地球的某个角落，总是白天。
 
-* **Secure**: Your funds and trades are secured with industry-grade elliptic curve cryptography. No one will be able to access your funds unless you let them. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
+* **安全**： 您的资金和交易都安装行业标准的椭圆曲线来进行加密。 除非您允许，否则没有人能够获得您的资金。 为了进一步加强安全，我们允许我们的客户设置托管和多重签名方案。
 
-* **Fast**: In contrast to other decentralized networks, the BitShares DEX allows for real-time trading and is only limited by the speed of light and the size of the planet.
+* **快速**： 与其他去中心化网络相比，BitShares DEX允许实时交易，它唯一收到的限制是光速和本星球大小。
 
 * **Provable Order Matching Algorithm**: What makes the BitShares DEX unique is the provable order matching algorithm. Given a set of orders, you will always be able to provably verify that these orders have been matched properly.
 
