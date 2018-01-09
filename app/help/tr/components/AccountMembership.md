@@ -10,14 +10,14 @@
 
 {account} her zaman işlem ücreti öder, bu ücret birkaç farklı hesap arasında bölünmektedir. Ağ {networkFee}% oranında bir kesinti alır ve {account} 'a referans olan Ömür Boyu Üye {lifetimeFee}% oranında bir kesinti alır.
 
-The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
+*kayıt memuru*, {account} 'ı ağa kaydetmek için işlem ücretini ödeyen hesaptır. Kayıt memuru, kalan {referrerTotalFee}% oranının kendileri ile kendi *İştirakçi Referansı* arasında nasıl pay edileceğine karar verir.
 
-{account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
+{account}'nın kayıt memuru toplam ücretin {referrerFee}%'sini *İştirakçi Referansı* ile paylaşmayı ve toplam ücretin {registrarFee}%'sini kendileri için tutmayı tercih eder.
 
 #### Bekleyen Ücretler
 
-Fees paid by {account} are divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
+{account} tarafından ödene ücretler her bakım aralığında ({maintenanceInterval} zamanı) ağ, referanslar ve kayıt memurları arasında bölünür. Bir sonraki bakım zamanı {nextMaintenanceTime}.
 
 #### Katılım Ücretleri
 
-Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
+Çoğu ücretler hemen kullanılabilir hale getirilir, fakat {vestingThreshold} üzerindeki ücretler (üyeliğinizi yükseltmek veya bir premium hesap adı kaydetmek için ödenenler gibi) toplam {vestingPeriod} gün için hak edilmelidir.
