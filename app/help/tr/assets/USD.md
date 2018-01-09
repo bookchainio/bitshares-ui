@@ -4,6 +4,6 @@
 
 {description}
 
-Issued by: {issuer}
+Tarafından:{issuer}
 
-The United States dollar (sign: $; symbol: USD) is the official currency of the United States of America.
+ABD Doları (simgesi:$ sembolü: USD) Amerika Birleşik Devletlerinin resmi para birimidir.
