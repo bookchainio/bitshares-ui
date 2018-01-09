@@ -2,13 +2,13 @@
 
 ### Ücretlerden {feesCashback}% Geri Ödeme Alın
 
-Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. Bir ömür boyu üyelik sadece {price}.
+Ömür boyu üyeler yaptıkları her işlemde ödedikleri tutarda {feesCashback}% oranında geri ödeme alırlar ve kayıt yaptırdıkları veya ağa başvururusu için referans oldukları kullanıcılardan referans geliri kazanmaya hak kazanırlar. Bir ömür boyu üyelik sadece {price}.
 
 [# ücret-bölüm]
 
 #### Ücret Bölümü
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+{account} her zaman işlem ücreti öder, bu ücret birkaç farklı hesap arasında bölünmektedir. Ağ {networkFee}% oranında bir kesinti alır ve {account} 'a referans olan Ömür Boyu Üye {lifetimeFee}% oranında bir kesinti alır.
 
 The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
