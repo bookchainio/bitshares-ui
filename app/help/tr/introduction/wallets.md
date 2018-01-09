@@ -8,7 +8,7 @@ Bir kullanıcı adı ve şifre ile kayıt yaptıysanız, bulut cüzdanınız olu
 
 ## Local Wallet
 
-Yerel cüzdan, tarayıcınızda bir veritabanı oluşturur. Bu, yalnızca tarayıcıya erişim anlamına gelir **that browser only**. Yerel cüzdanınıza başka herhangi bir bilgisayardan veya başka bir tarayıcıdan erişmeye çalışırsanız, orijinal tarayıcı yedek dosyasından yedek dosyanızı aktif olarak almadıkça erişim başarısız olur. İşlem aslında kolay. Sorumluyu görün [backups](/help/introduction/backups).
+Yerel cüzdan, tarayıcınızda bir veritabanı oluşturur. Bu, yalnızca tarayıcıya erişim anlamına gelir **that browser only**. Yerel cüzdanınıza başka herhangi bir bilgisayardan veya başka bir tarayıcıdan erişmeye çalışırsanız, orijinal tarayıcı yedek dosyasından yedek dosyanızı aktif olarak almadıkça erişim başarısız olur. Bu basit bir işlemdir. Sorumluyu görün [backups](/help/introduction/backups).
 
 ## Güvenlik
 
