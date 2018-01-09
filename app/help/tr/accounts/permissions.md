@@ -3,7 +3,7 @@
 Bitshares'de her bir hesap şunlara ayrılmıştır
 
 * **Active Permission**: fonlar üzerinde kontrol ve
-* **Owner Permission**: hesabı kontrol et.
+* **Owner Permission**: Hesap Kontrolü.
 
 Both can be defined in the `Permissions` tab of your account using so called *authorities* (see below) together with a so called *threshold* that has to be exceeded in order for a transaction to be valid.
 
