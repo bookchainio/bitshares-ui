@@ -28,7 +28,7 @@ BitAsset sahipleri istediği bir fiyattan, istediği zaman *fair price* bir uzla
 
 ## Satış
 
-BitAssets'i ödünç alındıktan sonra, alıcıların ödemeyi düşündüğü herhangi bir fiyata karşılık gelen pazarlardan herhangi birinde ücretsiz olarak satılabilirler. With this step, the short-selling is now complete and you are short that particular bitAsset.
+BitAssets'i ödünç alındıktan sonra, alıcıların ödemeyi düşündüğü herhangi bir fiyata karşılık gelen pazarlardan herhangi birinde ücretsiz olarak satılabilirler. Bu adım ile, artık kısa pozisyon-satım işlemi şimdi tamamlanmış oldu ve artık bu özel bitAsset'te kısa posizyondasınız.
 
 ## Teminat Oranı Güncellemesi
 
