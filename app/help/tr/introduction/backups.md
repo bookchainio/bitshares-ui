@@ -4,14 +4,14 @@
 
 Yedeklemeler, Cüzdan Yönetim Konsolundan edinilebilir(` Ayarlar> Cüzdanlar `).
 
-## Wallet Exports
+## Cüzdanı Dışa Aktarma
 
-The most convenient way to create a new backup is by exporting the wallet with the provided link in the Wallet Management Console. Please store your backups safe from loss, theft, and natural catastrophes
+Yeni bir yedek oluşturmanın en kolay yolu, Cüzdan Yönetim Konsolu tarafından sağlanan bağlantı ile cüzdan dışa aktarmaktır. Lütfen yedeklemelerinizi kaybolmaya, hırsızlığa ve doğal felaketlere karşı koruyunuz
 
 ## Brainkey (SADECE ileri düzey kullanıcılar)
 
-If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
+Eğer bir hesap anahtarını manuel olarak cüzdanınıza hiç aktarmadıtsanız, alternatif olarak hesabınızı ve hesabınıza ait paraları *brainkey* anahtarlarınızın deterministik olarak elde edildiği bir dizi sözcük ile dışa aktararak yedekleyebilirsiniz.
 
 ## Açıklama: Hiyerarşik Makamlar (SADECE ileri düzey kullanır)
 
-If you are using hierarchical authorities (account and/or active permissions), backing up your keys alone may not be sufficient to regain access to your funds! Please revise the documentations about hierarchical authorities.
+Eğer Hiyerarşik makamlar (hesap ve/veya aktif izinler) kullanıyorsanız, anahtarlarınızı tek başına yedeklemek paranıza tekrar erişmek için yeterli olmayabilir! Lütfen hiyerarşik makamlar ile ilgili belgeleri gözden geçirin.
