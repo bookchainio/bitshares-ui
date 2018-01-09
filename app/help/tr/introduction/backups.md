@@ -1,6 +1,6 @@
 # Yedeklemeler
 
-Çoğu durumda tek bir yedeklemenin yeterli olmasına rağmen cüzdanınızı düzenli olarak yedeklemeniz önerilir. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Dolayısıyla, ya cüzdanınızı ya da şifrenizi kaybederseniz, bir daha fonlarınıza erişemezsiniz!
+Çoğu durumda tek bir yedeklemenin yeterli olmasına rağmen cüzdanınızı düzenli olarak yedeklemeniz önerilir. Lütfen dikkat edin, bir yedekten geri kurtarmak için ayrıca, şifre cümlesini sağlamanız gerekmektedir çünkü **yedekler şifrelidirler**. Dolayısıyla, ya cüzdanınızı ya da şifrenizi kaybederseniz, bir daha fonlarınıza erişemezsiniz!
 
 Yedeklemeler, Cüzdan Yönetim Konsolundan edinilebilir(` Ayarlar> Cüzdanlar `).
 
