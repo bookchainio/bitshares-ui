@@ -1,6 +1,6 @@
 # Rudex Ağ Geçidi Hizmeti
 
-Rudex is a gateway service built on the Bitshares Exchange. A gateway service is responsible for moving cryptocurrencies to and from the Bitshares Exchange. They support a wide range of popular assets. You can easily identify those supported by OpenLedger because they are prefixed with the word RUDEX.*. For example RUDEX.BTC, RUDEX.LTC etc.
+Rudex Bitshares Borsası üzerine kurulmuş bir ağ geçidi hizmetidir. Bir ağ geçidi hizmeti kripto paraların Bitshares Borsasına transferi ve Bitshares Borsasından transferi için sorumludur. Geniş bir yelpazedeki popüler varlıkları desteklemektedirler. OpenLedger tarafından desteklenenleri kolayca tanımlayabilirsiniz çünkü bunların başında RUDEX.* öneki bulunmaktadır. For example RUDEX.BTC, RUDEX.LTC etc.
 
 ## Website
 
