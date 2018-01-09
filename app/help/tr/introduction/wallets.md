@@ -12,8 +12,8 @@ Yerel cüzdan, tarayıcınızda bir veritabanı oluşturur. Bu, yalnızca taray�
 
 ## Güvenlik
 
-Kişisel anahtarlarınızı hiçbiri tarayıcıda bırakmadığından, sunucularımızın fonlarına erişmediğinden emin olabilirsiniz. Bunun yerine, bunlar parola ile şifrelenir ve yerel tarayıcınızın veritabanında saklanır. Bu nedenle, bilgisayarınıza veya tarayıcınıza bir şey olması halinde uygun bir yedekleme [Backup](../introduction/backups.md) öğesine sahip olduğunuzdan emin olmalısınız.
+Kişisel anahtarlarınızın hiçbirinin tarayıcıda bırakılmadığından, sunucularımızın fonlarınıza erişemediğinden emin olabilirsiniz. Bunun yerine, parola ile şifrelenir ve yerel tarayıcınızın veritabanında saklanır. Bu nedenle, bilgisayarınıza veya tarayıcınıza bir şey olması halinde uygun bir yedekleme [Backup](../introduction/backups.md) öğesine sahip olduğunuzdan emin olmalısınız.
 
 ## Yönetim
 
-Kullanıcı arabirimi, her biri birkaç hesap ve karşılık gelen para birimi içeren birkaç ayrı cüzdan taşıyabilir ve bunlara erişebilir. Mevcut cüzdanları `Settings->Wallets` 'da oluşturabilir, yedekleyebilir ve değiştirebilirsiniz.
+Kullanıcı arabirimi, birkaç hesap ve karşılık gelen para birimini içeren birkaç ayrı cüzdan taşıyabilir ve bu cüzdanlara erişebilir. Mevcut cüzdanları `Settings->Wallets` 'da oluşturabilir, yedekleyebilir ve değiştirebilirsiniz.
