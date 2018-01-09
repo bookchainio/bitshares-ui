@@ -1,6 +1,6 @@
 # Rudex Ağ Geçidi Hizmeti
 
-Rudex Bitshares Borsası üzerine kurulmuş bir ağ geçidi hizmetidir. Bir ağ geçidi hizmeti kripto paraların Bitshares Borsasına transferi ve Bitshares Borsasından transferi için sorumludur. Geniş bir yelpazedeki popüler varlıkları desteklemektedirler. OpenLedger tarafından desteklenenleri kolayca tanımlayabilirsiniz çünkü bunların başında RUDEX.* öneki bulunmaktadır. For example RUDEX.BTC, RUDEX.LTC etc.
+Rudex Bitshares Borsası üzerine kurulmuş bir ağ geçidi hizmetidir. Bir ağ geçidi hizmeti kripto paraların Bitshares Borsasına transferi ve Bitshares Borsasından transferi için sorumludur. Geniş bir yelpazedeki popüler varlıkları desteklemektedirler. OpenLedger tarafından desteklenenleri kolayca tanımlayabilirsiniz çünkü bunların başında RUDEX.* öneki bulunmaktadır. Örnek olarak RUDEX.BTC, RUDEX.LTC vb.
 
 ## Website
 
@@ -8,4 +8,4 @@ Rudex Bitshares Borsası üzerine kurulmuş bir ağ geçidi hizmetidir. Bir ağ 
 
 ## Destek
 
-[Open a Ticket](https://rudex.freshdesk.com)
+[Bir Etiket Açın](https://rudex.freshdesk.com)
