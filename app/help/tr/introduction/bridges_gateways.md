@@ -8,6 +8,6 @@ Bir köprü hizmeti, BitShares dışındaki bir miktar şifreleme para birimini 
 
 ### Ağ geçitleri: güven temelli model
 
-Ağ geçitleri, paraları itfa edebilmek için dövizin ödeme gücüne bağlı olduğu temelde standart değişim modeline eşdeğerdir. Genellikle ağ geçitlerinden, AÇIK, TİCARET veya META gibi sembolleri öneki olan öğeler çıkarılır. Bu varlıklar, gerçek BTC, ETH veya kişilerin ağ geçitlerinde biriktirdikleri diğer paralarla %100 desteklenir.
+Ağ geçitleri, paraları itfa edebilmek için dövizin ödeme gücüne bağlı olduğu temelde standart değişim modeline denktir. Genellikle ağ geçitlerinden, AÇIK, TİCARET veya META gibi sembolleri öneki olan öğeler çıkarılır. Bu varlıklar, gerçek BTC, ETH veya kişilerin ağ geçitlerinde biriktirdikleri diğer paralarla %100 desteklenir.
 
-OPEN.BTC, teorik olarak Poloniex üzerinden elde ettiğiniz BTC'ye eşittir ve POLO.BTC. ön eki bulunabilir. Her iki durumda da servis sağlayıcınız CCEDK için AÇIK. varlıklar ve POLO için Poloneix. assets, to remain solvent in order to back the value of the assets they've issued. Ağ geçitleri, normal olarak bir alışveriş merkezinin yalnızca bir parçası olan bu hizmeti sağladığından dolayı, işletmelerin güvenliğini sağlamanın daha kolay bir iş olduğunu iddia edebilirler.
+OPEN.BTC, teorik olarak Poloniex üzerinden elde ettiğiniz BTC'ye eşittir ve POLO.BTC. ön eki bulunabilir. Her iki durumda da servis sağlayıcınız CCEDK için AÇIK. varlıklar ve POLO için Poloneix. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
