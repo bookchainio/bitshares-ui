@@ -6,7 +6,7 @@ Elbette, bu web cüzdanında denetiminizde size yardımcı olacak bir blok araş
 
 ## Uzlaşma Mekanizması
 
-Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. Esasen, BitShares'in sahipleri (BTS belirtecinin sahipleri), tercih ettikleri blok üreticileri için blokçu üzerinde oy kullanabilir. En çok oy alanların *witnesses* olarak adlandırılanların blok üretmesine izin verilir.
+Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. Esasen, BitShares'in sahipleri (BTS belirtecinin sahipleri), tercih ettikleri blok üreticileri için blok zinciri üzerinde oy kullanabilir. En çok oy alanların *witnesses* olarak adlandırılanların blok üretmesine izin verilir.
 
 ## İşlemler
 
