@@ -1,10 +1,10 @@
-# Kısa Satış BitAssests
+# Kısa Satış BitAssest' ler
 
 BTS'ye olan riskinizi artırmak ve USD, EUR, GOLD vb. Gibi BitAssets'e likidite sağlamak için ağdan bu bitAsset'i ödünç alabilir *borrow* ve satabilirsiniz *sell it short*. Burada prosedür kısaca açıklanmıştır.
 
 ## Borçlanma
 
-BitShares ağı, herhangi bir BitAsset'i, yeterli teminat verilmiş katılımcılara borç verebilmektedir.
+BitShares ağı, herhangi bir BitAsset'i, yeterli teminat vermiş olan katılımcılara borç verebilmektedir.
 
 - *settlement price*: Harici borsalarda işlem gören 1 BTS fiyatı.
 - *maintenance collateral ratio*(MCR): Tanıkların minimum asgari teminat oranı olarak tanımladıkları oran
@@ -32,7 +32,7 @@ BitAssets'i ödünç alındıktan sonra, alıcıların ödemeyi düşündüğü 
 
 ## Teminat Oranı Güncellemesi
 
-Borç / kısa pozisyon sahibi, herhangi bir zamanda, piyasa davranışını esnek bir şekilde ayarlamak için teminat oranını değiştirebilir. Teminat oranı artarsa, ek BTS miktarı teminat olarak kilitlenirken, teminat oranının düşürülmesine karşılık gelen BitAsset'in şebekeye geri ödenmesini gerektirir.
+Borç / kısa pozisyon sahipleri, herhangi bir zamanda, piyasa davranışını esnek bir şekilde ayarlamak için teminat oranını değiştirebilir. Teminat oranı artarsa, ek BTS miktarı teminat olarak kilitlenirken, teminat oranının düşürülmesine karşılık gelen BitAsset'in şebekeye geri ödenmesini gerektirir.
 
 ## Kapsam
 
