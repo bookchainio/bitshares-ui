@@ -20,7 +20,7 @@ BitShares ağı, ödünç alınan bitAsset'leri geri yüklemek için yeterli tem
     call price = DEBT / COLLATERAL * MCR
     
 
-Teminat çağrısı teminatı alacak, ödünç alınan bedAsset hisselerini SQP'ye kadar piyasa fiyatlarında satın alacak ve pozisyonunu kapatacaktır. Teminatın kalan BTS'si müşteriye iade edilir.
+Teminat tamamlama çağrısı teminatı alacak, ödünç alınan bitAsset hisselerini SQP' ye kadar piyasa fiyatlarında satın alacak ve pozisyonunu kapatacaktır. Teminatın kalan BTS'si müşteriye iade edilir.
 
 ### Ödeme
 
