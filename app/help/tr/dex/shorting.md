@@ -6,7 +6,7 @@ BTS'ye olan riskinizi artırmak ve USD, EUR, GOLD vb. Gibi BitAssets'e likidite 
 
 BitShares ağı, herhangi bir BitAsset'i, yeterli teminat vermiş olan katılımcılara borç verebilmektedir.
 
-- *settlement price*: Harici borsalarda işlem gören 1 BTS fiyatı.
+- *settlement price*: Dış borsalarda işlem gören 1 BTS fiyatı.
 - *maintenance collateral ratio*(MCR): Tanıkların minimum asgari teminat oranı olarak tanımladıkları oran
 - *maximum short squeeze ratio* (MSQR): A ratio defined by the witnesses as to how far shorts are protected against short squeezes
 - *short squeeze protection* (SQP): Bir marj pozisyonunu karşılamak için ödenecek en fazla tutarı tanımlar 
