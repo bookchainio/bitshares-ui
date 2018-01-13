@@ -14,11 +14,11 @@ Los miembros vitalicios obtienen un porcentaje de devolución en cada cuota de t
 
 Si una membresía vitalicia es demasiado usted aun puede obtener la misma devolución a lo largo del siguiente año convirtiéndose en un suscriptor anual a través de una tarifa única menor con una duración de solo un año.
 
-### Fee Division
+### División de Cuota
 
-Every time an account you referred pays a transaction fee, that fee is divided among several different accounts. The network takes a cut, and the Lifetime Member who referred the account gets a cut.
+Cada vez que una cuenta que usted refirió paga una una cuota de transacción, esa cuota es dividida entre varias cuentas diferentes. La red obtiene una parte, y el Miembro Vitalicio que refirió la cuenta obtiene una parte.
 
-The registrar is the account that paid the transaction fee to register the account with the network. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
+El registrante es la cuenta que pagó la cuota de transacción para registrar la cuenta con la red. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
 
 ### Pending Fees
 
