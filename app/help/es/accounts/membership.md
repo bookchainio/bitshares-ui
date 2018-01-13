@@ -18,7 +18,7 @@ Si una membresía vitalicia es demasiado usted aun puede obtener la misma devolu
 
 Cada vez que una cuenta que usted refirió paga una una comisión de transacción, esa comisión es dividida entre varias cuentas diferentes. La red obtiene una parte, y el Miembro Vitalicio que refirió la cuenta obtiene una parte.
 
-El registrante es la cuenta que pagó la comisión de transacción para registrar la cuenta con la red. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
+El registrante es la cuenta que pagó la comisión de transacción para registrar la cuenta con la red. El registrante decide cómo dividir el remanente de la comisión entre ellos y sus propios afiliados.
 
 ### Pending Fees
 
