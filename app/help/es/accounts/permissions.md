@@ -32,15 +32,15 @@ Asumamos, Alicia, Roberto, Carlos y Daniel tienen fondos comunes. Queremos ser c
 | Charlie       | 33%        |
 | Dennis        | 33%        |
 | \---\---\---- | \---\---   |
-| Threshold:    | 51%        |
+| Umbral:       | 51%        |
 
-All four participants have a weight of 33% but the threshold is set to 51%. Hence only two out of the four need to agree to validate the transaction.
+Los cuatro participantes tienen una relevancia del 33% pero el umbral está establecido en 51%. Entonces solo dos de los cuatro deben estar de acuerdo para validar la transacción.
 
-Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights to 17 or increase the threshold to 99%.
+Alternativamente, para construir un esquema 3-de-4, podemos o disminuir las relevancias a 17 o incrementar el umbral a 99%.
 
-## (Flat) Flexible Multi-Signature
+## Firma Múltiple Flexible (Simple)
 
-With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+Con los umbrales y relevancias, podemos ahora tener más flexibilidad sobre nuestros fondos, o más precisamente, tenemos más *control*. Por ejemplo, podemos tener relevancias separadas para diferentes personas. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
 
 | Account       | Weight   |
 | ------------- | -------- |
