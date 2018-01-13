@@ -40,29 +40,29 @@ Alternativamente, para construir un esquema 3-de-4, podemos o disminuir las rele
 
 ## Firma Múltiple Flexible (Simple)
 
-Con los umbrales y relevancias, podemos ahora tener más flexibilidad sobre nuestros fondos, o más precisamente, tenemos más *control*. Por ejemplo, podemos tener relevancias separadas para diferentes personas. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+Con los umbrales y relevancias, podemos ahora tener más flexibilidad sobre nuestros fondos, o más precisamente, tenemos más *control*. Por ejemplo, podemos tener relevancias separadas para diferentes personas. Asumamos que Alice desea asegurar aquí fondos en contra de robos a través de un esquema de firma múltiple pero ella no desea ceder demasiado control a sus amigos. Por lo tanto, creamos una autoridad similar a:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| Alice         | 49%      |
-| Bob           | 25%      |
-| Charlie       | 25%      |
-| Dennis        | 10%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Cuenta        | Relevancia |
+| ------------- | ---------- |
+| Alice         | 49%        |
+| Bob           | 25%        |
+| Charlie       | 25%        |
+| Dennis        | 10%        |
+| \---\---\---- | \---\---   |
+| Umbral:       | 51%        |
 
-Now the funds can either be accessed by Alice and a single friend or by all three friends together.
+Ahora los fondos pueden ser accedidos por Alice y tan solo un amigo o por los tres amigos en conjunto.
 
-## Multi-Hierarchical Flexible Multi-Signature
+## Firma Múltiple Flexible de Jerarquía Múltiple
 
-Let's take a look at a simple multi-hierarchical corporate account setup. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
+Echemos un vistazo a un ajuste de cuenta corporativo de jerarquía múltiple simple. Estamos observando a una compañía que tiene un Director de Finanzas (CFO) y a algunos departamentos trabajando para él, así como el Tesorero, el Controlador, el gerente de impuestos, el contador, etc. La compañía tambien tiene un CEO que desea tener privilegios para gastos. Por lo tanto construimos una autoridad para los fondos de acuerdo a:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| CEO.COMPANY   | 51%      |
-| CFO.COMPANY   | 51%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Cuenta        | Relevancia |
+| ------------- | ---------- |
+| CEO.COMPAÑÍA  | 51%        |
+| CFO.COMPAÑÍA  | 51%        |
+| \---\---\---- | \---\---   |
+| Umbral:       | 51%        |
 
 whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, the CFO.COMPANY account could look like:
 
