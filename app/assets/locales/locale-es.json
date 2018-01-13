@@ -253,8 +253,8 @@
             "visible": "Ocultar activos desde la búsqueda y el mercados",
             "cer_warning_1": "Advertencia",
             "cer_warning_2": "Asegúrese de que su tipo de cambio sea más alto que el precio de mercado, de lo contrario, las personas comprarán su token desde el mercado y agotarán su grupo de honorarios a través del arbitraje implícito. La tasa de cambio central debe actualizarse periódicamente para reflejar el precio de mercado de su activo.",
-            "feed_producers": "Feed producers",
-            "add_feed": "Add new feed producer",
+            "feed_producers": "Productores de feed",
+            "add_feed": "Añadir nuevo productor de feed",
             "feed_not_allowed_1": "Cannot set feed producers on a witness- or committee-fed asset",
             "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers"
         },
@@ -1443,28 +1443,28 @@
         },
         "deposit_warning": "Enviar cualquier otra moneda a la dirección %(asset)s resultará en la pérdida de su depósito",
         "time": "Hora",
-        "info": "Info",
-        "status": "Status",
+        "info": "Información",
+        "status": "Estado",
         "asset_unavailable": "El gateway para %(asset)s no está en servicio",
-        "user_unavailable": "User informaction is current unavailable, please try again later",
-        "frozen": "The user account %(account)s was frozen",
-        "transaction_history_info": " %(amount)s %(assetName)s with trancation id: %(txid)s ",
-        "support_gdex": "For support, please contact GDEX",
+        "user_unavailable": "Información de usuario actualmente no disponible, por favor intentar de nuevo más tarde",
+        "frozen": "La cuenta de usuario %(account)s ha sido congelada",
+        "transaction_history_info": " %(amount)s %(assetName)s con la id de transacción: %(txid)s ",
+        "support_gdex": "Para soporte, por favor contactar a GDEX",
         "withdraw_history_status": {
-            "confirming": "confirming",
-            "auditing": "withdraw auditing",
-            "audited": "auditting completed",
-            "refused": "auditting failed",
-            "transfering": "transfering",
-            "success": "success",
-            "fail": "fail"
+            "confirming": "confirmando",
+            "auditing": "retirar auditoría",
+            "audited": "auditoría completada",
+            "refused": "auditoría fallida",
+            "transfering": "transfiriendo",
+            "success": "éxito",
+            "fail": "fracaso"
         },
         "deposit_history_status": {
-            "confirming": "deposit confirming",
-            "waiting": "waiting for deposit",
-            "transfering": "transfering",
-            "success": "success",
-            "fail": "fail"
+            "confirming": "confirmando depósito",
+            "waiting": "esperando depósito",
+            "transfering": "transfiriendo",
+            "success": "éxito",
+            "fail": "fracaso"
         }
     },
     "trx_error": {
