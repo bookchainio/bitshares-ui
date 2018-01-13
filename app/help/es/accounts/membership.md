@@ -1,18 +1,18 @@
-# Memberships
+# Membresías
 
-Accounts in BitShares are separated into three groups. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
+Las cuentas en Bitshares se separan en tres grupos. Hemos decidido dar a los usuarios la opción de ascender sus cuentas a un estado similar a VIP si así lo desean y se verán lucrados por cuotas reducidas y funciones adicionales.
 
-## Non-Members
+## No-Miembros
 
-A *regular* account is a *non-member*.
+Una cuenta *regular* es un *no-miembro*.
 
-## Lifetime Members
+## Miembros Vitalicios
 
-Lifetime Members get a percentage cashback on every transaction fee they pay and qualify to earn referral income from users they register with or referer to the network. A Lifetime membership is associated with a certain one-time fee that is defined by the committee.
+Los miembros vitalicios obtienen un porcentaje de devolución en cada cuota de transacción que paguen y califican para adquirir ingresos por referidos provenientes de usuarios con los cuales se registren o que hayan referido a la red. Una membresía vitalicia está asociada a alguna tarifa única que está definida por el comité.
 
-## Anual Members
+## Miembros Anuales
 
-If a lifetime membership is too much you can still get the same cashback for the next year by becoming an annual subscriber for a smaller one-time fee which lasts for only one year.
+Si una membresía vitalicia es demasiado usted aun puede obtener la misma devolución a lo largo del siguiente año convirtiéndose en un suscriptor anual a través de una tarifa única menor con una duración de solo un año.
 
 ### Fee Division
 
