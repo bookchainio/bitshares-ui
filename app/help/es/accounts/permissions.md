@@ -5,19 +5,19 @@ En BitShares, cada cuenta está separada en
 * **Permiso Activo**: control sobre sus fondos y
 * **Permiso de Propietario**: control sobre la cuenta.
 
-Both can be defined in the `Permissions` tab of your account using so called *authorities* (see below) together with a so called *threshold* that has to be exceeded in order for a transaction to be valid.
+Ambos pueden ser definidos en la pestaña `Permisos` de su cuenta usando la llamada *autoridades* (ver abajo) en conjunto al llamado *umbral* que debe ser excedido para que una transacción sea válida.
 
-## Authorities
+## Autoridades
 
-In BitShares an *authority* consists of one or many entities that authorize an action, such as transfers or trades.
+En BitShares una *autoridad* consiste en una de muchas entidades que autorizan una acción, así como transferencias o intercambios.
 
-An authority consists of one or several pairs of an account name with a *weight*.
+Una autoridad consiste en uno de varios pares de un nombre de cuenta con una *relevancia*.
 
-In order to obtain a valid transaction, the sum of the weights from signing the parties has to exceed the threshold as defined in the permissions.
+Para obtener una transacción válida, la suma de las relevancias de las partes firmantes debe exceder el umbral como se ha definido en los permisos.
 
-# Examples
+# Ejemplos
 
-Let's discuss some examples to shed some light on the used terminology and the use-cases. We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
+Discutams algunos ejemplos para aclarar en la terminología utilizad y los casos de uso. Asumimos que una nueva cuenta es creada con sus permisos activos ajustados de la forma descrita a continuación. ¡Note que el mismo esquema también funciona para los permisos de propietario!
 
 ## (Flat) Multi-Signature
 
