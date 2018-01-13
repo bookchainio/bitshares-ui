@@ -19,20 +19,20 @@ Para obtener una transacción válida, la suma de las relevancias de las partes 
 
 Discutams algunos ejemplos para aclarar en la terminología utilizad y los casos de uso. Asumimos que una nueva cuenta es creada con sus permisos activos ajustados de la forma descrita a continuación. ¡Note que el mismo esquema también funciona para los permisos de propietario!
 
-## (Flat) Multi-Signature
+## Firma Múltiple (Simple)
 
-A flat multi-signature scheme is composed of `M` entities of which `N` entities must sign in order for the transaction to be valid. Now, in BitShares, we have *weights* and a *threshold* instead of `M` and `N`. Still we can achieve the very same thing with even more flexibility as we will see now.
+Un esquema de firma múltiple simple está compuesto por `M` entidades de las cuales `N` deben firmar para que la transacción sea válida. Ahora, en BitShares, tenemos *relevancias* y un *umbral* en lugar de `M` y `N`. Aun así podemos alcanzar el mismo fin con incluso más flexibilidad como ahora veremos.
 
-Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
+Asumamos, Alicia, Roberto, Carlos y Daniel tienen fondos comunes. Queremos ser capaces de construir una transacción válida si solo dos de ellos están de acuerdo. Entonces un esquema **2-de-4** (N-de-M) se puede ver de la forma:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| Alice         | 33%      |
-| Bob           | 33%      |
-| Charlie       | 33%      |
-| Dennis        | 33%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| Cuenta        | Relevancia |
+| ------------- | ---------- |
+| Alice         | 33%        |
+| Bob           | 33%        |
+| Charlie       | 33%        |
+| Dennis        | 33%        |
+| \---\---\---- | \---\---   |
+| Threshold:    | 51%        |
 
 All four participants have a weight of 33% but the threshold is set to 51%. Hence only two out of the four need to agree to validate the transaction.
 
