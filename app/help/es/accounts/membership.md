@@ -20,9 +20,9 @@ Cada vez que una cuenta que usted refirió paga una una comisión de transacció
 
 El registrante es la cuenta que pagó la comisión de transacción para registrar la cuenta con la red. El registrante decide cómo dividir el remanente de la comisión entre ellos y sus propios afiliados.
 
-### Pending Fees
+### Comisiones Pendientes
 
-Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
+Las comisiones solo son divididas entre la red, los referentes, y los registrantes una vez cada intervalo de mantenimiento.
 
 ### Vesting Fees
 
