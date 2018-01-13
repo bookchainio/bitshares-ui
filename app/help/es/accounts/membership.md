@@ -1,6 +1,6 @@
 # Membresías
 
-Las cuentas en Bitshares se separan en tres grupos. Hemos decidido dar a los usuarios la opción de ascender sus cuentas a un estado similar a VIP si así lo desean y se verán lucrados por cuotas reducidas y funciones adicionales.
+Las cuentas en Bitshares se separan en tres grupos. Hemos decidido dar a los usuarios la opción de actualizar sus cuentas a un estado similar a VIP si así lo desean y así se verán lucrados por comisiones reducidas y funciones adicionales.
 
 ## No-Miembros
 
@@ -24,6 +24,6 @@ El registrante es la cuenta que pagó la comisión de transacción para registra
 
 Las comisiones solo son divididas entre la red, los referentes, y los registrantes una vez cada intervalo de mantenimiento.
 
-### Vesting Fees
+### Comisiones de Consolidación
 
-Most fees are made available immediately, but fees over the vesting threshold (such as those paid to upgrade your membership or register a premium account name) must vest for some days as defined by the committee.
+La mayoría de las comisiones se hacen disponibles inmediatamente, pero las comisiones sobre el umbral de consolidación (así como aquellas pagadas para actualizar su membresía o para registrar un nombre de cuenta premium) deben consolidarse a lo largo de varios días como lo defina el comité.
