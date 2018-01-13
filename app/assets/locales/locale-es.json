@@ -93,7 +93,7 @@
         "propose_tip": "Proponer otro usuario para iniciar una transacción",
         "follow_user": "Usted está siguiendo a este usuario",
         "follow_user_add": "Haga clic para seguir a este usuario",
-        "gateway": "Gateways back desposits by 100% real assets"
+        "gateway": "Gateways deposita de vuelta en un 100% los activos reales"
     },
     "propose": "Propose",
     "cancel": "Cancel",
@@ -471,7 +471,7 @@
             "noFeeBalance": "Your balance is insufficient to pay fees using this asset, please choose another asset to pay your fees with",
             "noPoolBalance": "That asset has an insufficient fee pool balance to pay the fees with. Please inform the asset owner or select another asset for paying fees.",
             "minimum_amount": "Minimum withdraw amount: %(amount)s %(symbol)s",
-            "memo_error": "The transfer memo parsing error, please try again later."
+            "memo_error": "El error de análisis de memo de transferencia, porfavor intentar de nuevo más tarde."
         },
         "back": "VOLVER",
         "confirm": "CONFIRMAR",
@@ -1278,10 +1278,10 @@
             "header_short": "Deposit",
             "asset": "Asset",
             "gateway": "Gateway",
-            "disabled": "Gateway service disabled",
-            "wallet_error": "Gateway wallet disabled",
-            "no_gateway_available": "No gateway available",
-            "select_gateway": "Please select a gateway operator",
+            "disabled": "Servicio de gateway inhabilitado",
+            "wallet_error": "Billetera de gateway inhabilitada",
+            "no_gateway_available": "Ningún gateway disponible",
+            "select_gateway": "Porfavor seleccionar un operador de gateway",
             "address_generation_error": "Unable to generate address",
             "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "close": "Close",
@@ -1348,8 +1348,8 @@
         "id": "Propuesta objeto id "
     },
     "gateway": {
-        "deposit_notice_delay": "(new address can be generated once per 5 minutes)",
-        "copy_memo": "Copy memo",
+        "deposit_notice_delay": "(una nueva dirección puede ser generada una vez cada 5 minutos)",
+        "copy_memo": "Copiar memo",
         "please_generate_address": "Please, get new address ",
         "generate_new": "Obtener nueva dirección",
         "copy_address": "Copy address",
@@ -1411,7 +1411,7 @@
         "limit": "Limite: %(amount)s %(symbol)s",
         "bridge_text": "Un puente le permite intercambiar un activo por otro, por ejemplo BTC a BTS.",
         "gateway_text": "Elija si desea realizar un depósito o una retirada aquí",
-        "fiat_text": "Note: Fiat gateways are closed till further notice. Sorry for the inconvenience! Please follow our latest news and updates here <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
+        "fiat_text": "Nota: gateways de fiat cerrados hasta próximas noticias. ¡Disculpe las inconveniencias! Porfavor siga nuestras últimas noticias y actualizaciones aquí <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
         "meta": {
             "open_website": "Website abierto"
         },
@@ -1445,7 +1445,7 @@
         "time": "Time",
         "info": "Info",
         "status": "Status",
-        "asset_unavailable": "The gateway for %(asset)s is not in service",
+        "asset_unavailable": "El gateway para %(asset)s no está en servicio",
         "user_unavailable": "User informaction is current unavailable, please try again later",
         "frozen": "The user account %(account)s was frozen",
         "transaction_history_info": " %(amount)s %(assetName)s with trancation id: %(txid)s ",
