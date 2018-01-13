@@ -64,23 +64,23 @@ Echemos un vistazo a un ajuste de cuenta corporativo de jerarquía múltiple sim
 | \---\---\---- | \---\---   |
 | Umbral:       | 51%        |
 
-whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, the CFO.COMPANY account could look like:
+donde CEO.COMPAÑÍA y CFO.COMPAÑÍA tienen sus propias autoridades. Por ejemplo, la cuenta CFO.COMPAÑÍA podría tener la forma:
 
-| CFO.COMPANY               | Weight   |
-| ------------------------- | -------- |
-| Chief.COMPANY             | 51%      |
-| Treasurer.COMPANY         | 33%      |
-| Controller.COMPANY        | 33%      |
-| Tax Manager.COMPANY       | 10%      |
-| Accounting.COMPANY        | 10%      |
-| \---\---\---\---\---\---- | \---\--- |
-| Threshold:                | 51%      |
+| CFO.COMPAÑÍA                  | Relevancia |
+| ----------------------------- | ---------- |
+| Director.COMPAÑÍA             | 51%        |
+| Tesorero.COMPAÑÍA             | 33%        |
+| Controlador.COMPAÑÍA          | 33%        |
+| Gerente de Impuestos.COMPAÑÍA | 10%        |
+| Contador.COMPAÑÍA             | 10%        |
+| \---\---\---\---\---\----     | \---\---   |
+| Umbral:                       | 51%        |
 
-This scheme allows:
+Este esquema permite que:
 
-* the CEO to spend funds
-* the Chief of Finance Officer to spend funds
-* Treasurer together with Controller to spend funds
-* Controller or Treasurer together with the Tax Manager and Accounting to spend funds.
+* el CEO utilice los fondos
+* el Director de Finanzas utilice los fondos
+* el Tesorero en conjunto con el Controlador utilicen los fondos
+* el Controlador o el Tesorero en conjunto con el Gerente de Impuestos y el Contador utilicen los fondos.
 
-Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
+Por lo tanto, un intento de profundes arbitraria puede ser abarcado para construir una autoridad flexible que refleje en su mayoría cualquier caso de uso empresarial.
