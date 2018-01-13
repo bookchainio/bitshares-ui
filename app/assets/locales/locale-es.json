@@ -36,7 +36,7 @@
         "exchange": "Exchange",
         "payments": "Transferir",
         "payments_beta": "enviar (Beta)",
-        "payments_legacy": "Send (legacy)",
+        "payments_legacy": "Enviar (herencia)",
         "logout": "Salir",
         "settings": "Configuraciónes",
         "current": "Cuenta Actual",
