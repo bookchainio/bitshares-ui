@@ -8,7 +8,7 @@ Una cuenta *regular* es un *no-miembro*.
 
 ## Miembros Vitalicios
 
-Los miembros vitalicios obtienen un porcentaje de devolución en cada cuota de transacción que paguen y califican para adquirir ingresos por referidos provenientes de usuarios con los cuales se registren o que hayan referido a la red. Una membresía vitalicia está asociada a alguna tarifa única que está definida por el comité.
+Los miembros vitalicios obtienen un porcentaje de devolución en cada comisión de transacción que paguen y califican para adquirir ingresos por referidos provenientes de usuarios con los cuales se registren o que hayan referido a la red. Una membresía vitalicia está asociada a alguna tarifa única que está definida por el comité.
 
 ## Miembros Anuales
 
@@ -16,9 +16,9 @@ Si una membresía vitalicia es demasiado usted aun puede obtener la misma devolu
 
 ### División de Cuota
 
-Cada vez que una cuenta que usted refirió paga una una cuota de transacción, esa cuota es dividida entre varias cuentas diferentes. La red obtiene una parte, y el Miembro Vitalicio que refirió la cuenta obtiene una parte.
+Cada vez que una cuenta que usted refirió paga una una comisión de transacción, esa comisión es dividida entre varias cuentas diferentes. La red obtiene una parte, y el Miembro Vitalicio que refirió la cuenta obtiene una parte.
 
-El registrante es la cuenta que pagó la cuota de transacción para registrar la cuenta con la red. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
+El registrante es la cuenta que pagó la comisión de transacción para registrar la cuenta con la red. The registrar gets to decide how to divide the remaining fee between themselves and their own affiliate.
 
 ### Pending Fees
 
