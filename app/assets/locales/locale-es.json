@@ -471,7 +471,7 @@
             "noFeeBalance": "Your balance is insufficient to pay fees using this asset, please choose another asset to pay your fees with",
             "noPoolBalance": "That asset has an insufficient fee pool balance to pay the fees with. Please inform the asset owner or select another asset for paying fees.",
             "minimum_amount": "Minimum withdraw amount: %(amount)s %(symbol)s",
-            "memo_error": "El error de análisis de memo de transferencia, porfavor intentar de nuevo más tarde."
+            "memo_error": "El error de análisis de memo de transferencia, por favor intentar de nuevo más tarde."
         },
         "back": "VOLVER",
         "confirm": "CONFIRMAR",
@@ -1281,7 +1281,7 @@
             "disabled": "Servicio de gateway inhabilitado",
             "wallet_error": "Billetera de gateway inhabilitada",
             "no_gateway_available": "Ningún gateway disponible",
-            "select_gateway": "Porfavor seleccionar un operador de gateway",
+            "select_gateway": "Por favor seleccionar un operador de gateway",
             "address_generation_error": "Unable to generate address",
             "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "close": "Close",
@@ -1350,10 +1350,10 @@
     "gateway": {
         "deposit_notice_delay": "(una nueva dirección puede ser generada una vez cada 5 minutos)",
         "copy_memo": "Copiar memo",
-        "please_generate_address": "Please, get new address ",
+        "please_generate_address": "Por favor, obtenga una nueva dirección ",
         "generate_new": "Obtener nueva dirección",
-        "copy_address": "Copy address",
-        "use_copy_button": "PLEASE USE COPY BUTTON TO MAKE COPY OF ADDRESS OR MEMO ON THIS PAGE",
+        "copy_address": "Copiar dirección",
+        "use_copy_button": "POR FAVOR USE EL BOTÓN COPIAR PARA REALIZAR UNA COPIA DE LA DIRECCIÓN O MEMO EN ESTA PÁGINA",
         "fee": "Comisiòn del gateway ",
         "title": "Depósito y retiro",
         "assets": {
@@ -1371,7 +1371,7 @@
         "bridge": "Puente",
         "gateway": "Puerta",
         "symbol": "Símbolo",
-        "asset": "Asset",
+        "asset": "Activo",
         "website": "Visitar el website",
         "deposit_to": "Por favor envíe su %(asset)s a la dirección a continuación",
         "deposit_address": "Dirección de depósito",
@@ -1404,14 +1404,14 @@
         "withdraw_to": "Haga clic en el botón de abajo para abrir un %(asset)s retiro",
         "intermediate": "Cuenta intermedia",
         "asset_to_withdraw": "activos para retirar:",
-        "support_block": "For DEPOSIT AND WITHDRAWAL issues using \"OpenLedger TRANSFER SERVICE\", please contact Openledger at:",
+        "support_block": "Para problemas con DEPÓSITOS Y RETIROS usando \"OpenLedger TRANSFER SERVICE\", por favor contactar a Openledger a través de:",
         "valid_address": "Por favor, introduza un valor valido %(coin_type)s direcciòn",
         "withdraw_coin": "Retiro %(coin)s (%(symbol)s)",
         "convert_coin": "Convertir a %(coin)s (%(symbol)s)",
         "limit": "Limite: %(amount)s %(symbol)s",
         "bridge_text": "Un puente le permite intercambiar un activo por otro, por ejemplo BTC a BTS.",
         "gateway_text": "Elija si desea realizar un depósito o una retirada aquí",
-        "fiat_text": "Nota: gateways de fiat cerrados hasta próximas noticias. ¡Disculpe las inconveniencias! Porfavor siga nuestras últimas noticias y actualizaciones aquí <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
+        "fiat_text": "Nota: gateways de fiat cerrados hasta próximas noticias. ¡Disculpe las inconveniencias! Por favor siga nuestras últimas noticias y actualizaciones aquí <a target='_blank' href='https://blog.openledger.info/'>blog.openledger.info</a>",
         "meta": {
             "open_website": "Website abierto"
         },
@@ -1426,7 +1426,7 @@
             "min_amount": "Monto minimo: %(minAmount)s %(symbol)s",
             "min_amount_error": "Por favor ingrese número >= mínimo",
             "coming_soon": "Próximamente",
-            "under_construction": "Under Construction"
+            "under_construction": "En Construcción"
         },
         "unavailable": "El servicio de puerta de enlace para este activo está actualmente inactivo. Inténtalo de nuevo más tarde.",
         "unavailable_bridge": "El servicio de puente para este activo está actualmente inactivo. Inténtalo de nuevo más tarde.",
@@ -1436,13 +1436,13 @@
         "contact_TRADE": "Contacta Blocktrades",
         "over_limit": "Límite alcanzado",
         "agreement": {
-            "hint": "I have read and agreed to",
-            "name": "《Service Agreement》",
-            "register": "Agree",
-            "notice": "Please check the agreement to continue"
+            "hint": "He leído y estoy de acuerdo con",
+            "name": "《Acuerdo de Servicio》",
+            "register": "De acuerdo",
+            "notice": "Por favor revise el acuerdo para continuar"
         },
-        "deposit_warning": "Sending any other currency to the %(asset)s address will result in the loss of your deposit",
-        "time": "Time",
+        "deposit_warning": "Enviar cualquier otra moneda a la dirección %(asset)s resultará en la pérdida de su depósito",
+        "time": "Hora",
         "info": "Info",
         "status": "Status",
         "asset_unavailable": "El gateway para %(asset)s no está en servicio",
