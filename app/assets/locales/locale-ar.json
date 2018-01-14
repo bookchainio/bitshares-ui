@@ -438,7 +438,7 @@
         "asset_details": "تفاصيل الأصول",
         "portfolio": "Portfolio",
         "activity": "Activity",
-        "eq_value_header": "القيمة ({asset})",
+        "eq_value_header": "قيمة ({asset})",
         "qty": "الكمية",
         "quote": "Quote",
         "total": "المجموع ({asset})"
