@@ -2,7 +2,7 @@
 
 ### Activo {symbol}
 
-{descripción}
+{description}
 
 Emitido por: {issuer}
 
