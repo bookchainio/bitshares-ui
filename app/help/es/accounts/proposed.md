@@ -1,3 +1,3 @@
-# Proposed Transactions
+# Transacciones Propuestas
 
-This is an advanced feature of Bitshares accessible from the send feature. It allows for something known a multisig. Imagine you have a single account but require more than one person to authorize a transaction. This capability is built into bitshares, but requires advanced knowledge and there is a setup process. If you haven't previously setup multisig for your account, it's safe to say you do not need it.
+Esta es una función avanzada de Bitshares accesible desde la función enviar. Esta permite algo llamado multisig. Imagine que usted tiene una sola cuenta pero requiere de más de una persona para autorizar una transacción. Esta capacidad está incorporada a bitshares, pero requiere conocimiento avanzado y hay un proceso de instalación. Si usted no ha instalado previamente multisig para su cuenta, es seguro decir que usted no lo necesita.
