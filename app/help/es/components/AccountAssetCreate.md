@@ -1,5 +1,5 @@
-[# permisos] Los permisos definen las fuciones disponibles para un activo. However, even if a feature is permitted, it must still be activated using the corresponding flag in order to be enforced by the blockchain.
+[# permisos] Los permisos definen las fuciones disponibles para un activo. Sin embargo, incluso si una función está permitida, esta aun debe ser activada usando la bandera correspondiente para entonces ser impuesta por la cadena de bloques.
 
-After creation, you may only remove a given permission, you cannot enable a permission that was disabled on creation.
+Después de su creación, solo puede remover un permiso dado, usted no puede habilitar un permiso que fue inhabilitado durante la creación.
 
-[# flags] Flags define which asset features are active or inactive. They can be switched on and off by the asset owner at any time.
+[# banderas] Las banderas definen cuáles funciones de activo están activas e inactivas. Estas pueden ser cambiadas entre prendido y apagado por el propietario del activo en cualquier momento.
