@@ -1,20 +1,20 @@
 [# resumen]
 
-### Asset {symbol}
+### Activo {symbol}
 
-{description}
+{descripción}
 
-Issued by: {issuer}
+Emitido por: {issuer}
 
-[# annual]
+[# anual]
 
-If a lifetime membership is too much you can still get {feesCashback}% cashback for the next year by becoming an annual subscriber for just {price} per year. ![GitHub Logo](/images/logo.png)
+Si una membresía de por vida es demasiado usted aun puede obtener {feesCashback}% de devolución por el siguiente año convirtiéndose en suscriptor anual por tan solo {price} por año. ![GitHub Logo](/images/logo.png)
 
-[# fee-division]
+[# división-de-cuota]
 
-#### Fee Division
+#### División de Cuota
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+Cada vez que {account} paga una cuota de transacción, esa cuota es dividida entre diferentes cuentas. La red toma un {networkFee}%, y el Miembro Vitalicio que refirió a {account} obtiene un {lifetimeFee}%.
 
 The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
 
