@@ -1,3 +1,3 @@
-The memo key is where you receive memos, in order to decode the memos you need to control the private key for the public key.
+La llave memo es donde usted recibe memos, para decodificar los memos usted necesita controlar la llave privada para la llave pública.
 
-By using a public/private key pair without spending authority, you may give read-only access to your memos to third parties.
+Usando un par de llaves pública/privada sin autoridad para gastar, usted puede otorgar acceso de solo-lectura de sus memos a terceros.
