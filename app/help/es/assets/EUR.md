@@ -1,8 +1,8 @@
-[# summary]
+[# resumen]
 
-### Asset {symbol}
+### Activo {symbol}
 
-{description}
+{descripción}
 
 Issued by: {issuer}
 
