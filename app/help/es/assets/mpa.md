@@ -2,11 +2,11 @@
 
 Una cripto-moneda, con las propiedades y ventajas de Bitcoin, que es capaz de mantener paridad de precios con una moneda gobalmente aceptada (ej. Dolar Estadounidense), tiene una alta utilidad para comercios convenientes y resistentes a la censura. Esto puede ser logrado a través de los activos vinculados al mercado (market pegged assets - MPA) de BitShares, un nuevo tipo de activo libremente intercambiado de forma digital cuyo valor está destinado a seguir el rastro de activos subyacentes convencionales a través de contratos por diferencia (contract for difference - CFD).
 
-A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as *collateral* in a CFD.
+Un *SmartCoin* (sinónimo de los MPA) es una cripto-moneda que *siempre* tiene un 100% o más de su valor respaldado en la moneda núcleo de BitShares (BTS), a la cual pueden ser convertidos en cualquier momento como un *colateral* en un CFD.
 
-What makes MPAs unique is that they are free from counterparty risk even though they resemble a CFD backed by collateral. This is achievable by letting the network itself (implemented as a software protocol) be responsible for securing the collateral and performing settlements as will be described in more detail below.
+Lo que hace a los MPAs únicos es que están libres de riesgo por contrapartes incluso siendo similares a un CFD respaldado por colateral. Esto es realizable dejando que la red en si misma (implementada como un protocolo de software) sea responsable de asegurar el colateral y realizando liquidaciones como será descrito en más detalle abajo.
 
-This is a subset of the available market pegged assets:
+Este es un subconjuntos de los activos vinculados al mercado disponibles:
 
 * BitUSD
 * BitCNY
