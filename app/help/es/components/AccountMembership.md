@@ -1,16 +1,16 @@
-[# lifetime]
+[# vitalicio]
 
-### Get {feesCashback}% Cashback on Fees
+### Obten {feesCashback}% de Devolución en Cuotas
 
-Lifetime Members get {feesCashback}% cashback on every transaction fee they pay and qualify to earn referral income from users they register with or refer to the network. A Lifetime Membership is just {price}.
+Los Miembros Vitalicios obtienen un {feesCashback}% de devolución en cada cuota de transacción que pagan y califican para ganar ingresos de referidos de usuarios con los cuales se registren o que refieran a la red. Una Membresía Vitalicia vale tan solo {price}.
 
-[# fee-division]
+[# división-de-cuota]
 
-#### Fee Division
+#### División de Cuota
 
-Every time {account} pays a transaction fee, that fee is divided among several different accounts. The network takes a {networkFee}% cut, and the Lifetime Member who referred {account} gets a {lifetimeFee}% cut.
+Cada vez que {account} pague una cuota de transacción, esa cuota es dividida entre varias cuentas diferentes. La red obtiene el {networkFee}% y el Miembro Vitalicio que refirió a {account} obtiene el {lifetimeFee}%.
 
-The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
+El *registrante* es la cuenta que pagó la cuota de transacción para registrar a {account} con la red. El registrante decide como dividir el {referrerTotalFee}% restante entre ellos y su propio programa de *Afiliado Referente*.
 
 {account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
 
