@@ -12,12 +12,12 @@ Cada vez que {account} pague una cuota de transacción, esa cuota es dividida en
 
 El *registrante* es la cuenta que pagó la cuota de transacción para registrar a {account} con la red. El registrante decide como dividir el {referrerTotalFee}% restante entre ellos y su propio programa de *Afiliado Referente*.
 
-{account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
+El registrante de {account} escogió compartir el {referrerFee}% de la cuota total con el *Afiliado Referente* y mantener el {registrarFee}% de la cuota total para si mismos.
 
-#### Pending Fees
+#### Cuotas Pendientes
 
-Fees paid by {account} are divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
+Las cuotas pagadas por {account} son divididas entre la red, los referentes, y los registrantes una vez cada intervalo de mantenimiento ({maintenanceInterval} segundos). La próxima hora de mantenimiento es {nextMaintenanceTime}.
 
-#### Vesting Fees
+#### Cuotas de Consolidación
 
-Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
+La mayoría de las cuotas se hacen disponibles inmediatamente, pero las cuotas sobre {vestingThreshold} (así como aquellas pagadas para actualizar su membresía o registrar un nombre de cuenta premium) deben consolidarse por un total de {vestingPeriod} días.
