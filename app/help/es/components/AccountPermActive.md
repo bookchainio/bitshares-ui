@@ -1,3 +1,3 @@
-Active permissions define the accounts that have permission to spend funds for this account.
+Los permisos activos definen las cuentas que tienen permiso para utilizar fondos para esta cuenta.
 
-They can be used to easily setup a multi-signature scheme, see [permissions](accounts/permissions) for more details.
+Pueden ser usados para fácilmente configurar un esquema de firma múltiple, ver [permisos](accounts/permissions) para más detalles.
