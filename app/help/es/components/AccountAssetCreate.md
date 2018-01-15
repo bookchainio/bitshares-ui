@@ -1,4 +1,4 @@
-[# permissions] Permissions define the available features for an asset. However, even if a feature is permitted, it must still be activated using the corresponding flag in order to be enforced by the blockchain.
+[# permisos] Los permisos definen las fuciones disponibles para un activo. However, even if a feature is permitted, it must still be activated using the corresponding flag in order to be enforced by the blockchain.
 
 After creation, you may only remove a given permission, you cannot enable a permission that was disabled on creation.
 
