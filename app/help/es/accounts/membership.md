@@ -20,10 +20,10 @@ Cada vez que una cuenta que usted refirió paga una una comisión de transacció
 
 El registrante es la cuenta que pagó la comisión de transacción para registrar la cuenta con la red. El registrante decide cómo dividir el remanente de la comisión entre ellos y sus propios afiliados.
 
-### Comisiones Pendientes
+### Cuotas Pendientes
 
 Las comisiones solo son divididas entre la red, los referentes, y los registrantes una vez cada intervalo de mantenimiento.
 
-### Comisiones de Consolidación
+### Cuotas de Consolidación
 
 La mayoría de las comisiones se hacen disponibles inmediatamente, pero las comisiones sobre el umbral de consolidación (así como aquellas pagadas para actualizar su membresía o para registrar un nombre de cuenta premium) deben consolidarse a lo largo de varios días como lo defina el comité.
