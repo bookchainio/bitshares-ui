@@ -1,6 +1,6 @@
 # Activos Vinculados al Mercado
 
-Una cripto-moneda, con las propiedades y ventajas de Bitcoin, que es capaz de mantener paridad de precios con una moneda gobalmente aceptada (ej. Dolar Estadounidense), tiene una alta utilidad para comercios convenientes y resistentes a la censura. This can be achieved by BitShares' market pegged assets (MPA), a new type of freely traded digital asset whose value is meant to track the value of a conventional underlying asset by means of contracts for difference (CFD).
+Una cripto-moneda, con las propiedades y ventajas de Bitcoin, que es capaz de mantener paridad de precios con una moneda gobalmente aceptada (ej. Dolar Estadounidense), tiene una alta utilidad para comercios convenientes y resistentes a la censura. Esto puede ser logrado a través de los activos vinculados al mercado (market pegged assets - MPA) de BitShares, un nuevo tipo de activo libremente intercambiado de forma digital cuyo valor está destinado a seguir el rastro de activos subyacentes convencionales a través de contratos por diferencia (contract for difference - CFD).
 
 A *SmartCoin* (synonym for MPA) is a crypto-currency that *always* has 100% or more of its value backed by the BitShares core currency (BTS), to which they can be converted at any time, as *collateral* in a CFD.
 
