@@ -8,7 +8,7 @@ Emitido por: {issuer}
 
 [# anual]
 
-Si una membresía de por vida es demasiado usted aun puede obtener {feesCashback}% de devolución por el siguiente año convirtiéndose en suscriptor anual por tan solo {price} por año. ![GitHub Logo](/images/logo.png)
+Si una membresía de por vida es demasiado usted aun puede obtener {feesCashback}% de devolución por el siguiente año convirtiéndose en suscriptor anual por tan solo {price} por año. ![Logotipo de GitHub](/images/logo.png)
 
 [# división-de-cuota]
 
@@ -16,14 +16,14 @@ Si una membresía de por vida es demasiado usted aun puede obtener {feesCashback
 
 Cada vez que {account} paga una cuota de transacción, esa cuota es dividida entre diferentes cuentas. La red toma un {networkFee}%, y el Miembro Vitalicio que refirió a {account} obtiene un {lifetimeFee}%.
 
-The *registrar* is the account that paid the transaction fee to register {account} with the network. The registrar gets to decide how to divide the remaining {referrerTotalFee}% between themselves and their own *Affiliate Referrer* program.
+El *registrante* es la cuenta que pagó la cuota de transacción para registrar a {account} con la red. El registrante decide como dividir el {referrerTotalFee}% restante entre ellos mismos y su propio programa de *Afiliado Referente*.
 
-{account}'s registrar chose to share {referrerFee}% of the total fee with the *Affiliate Referrer* and keep {registrarFee}% of the total fee for themselves.
+El registrante de {account} decidió compartir {referrerFee}% de la cuota total con el *Afiliado Referente* y mantener el {registrarFee}% de la cuota total para si mismos.
 
-#### Pending Fees
+#### Cuotas Pendientes
 
-Fees paid by {account} are only divided among the network, referrers, and registrars once every maintenance interval ({maintenanceInterval} seconds). The next maintenance time is {nextMaintenanceTime}.
+Cuotas pagadas por {account} son solo divididas entre la red, los referentes, y los registrantes una vez cada intervalo ({maintenanceInterval} segundos). La próxima hora de mantenimiento es {nextMaintenanceTime}.
 
-#### Vesting Fees
+#### Cuotas de consolidación
 
-Most fees are made available immediately, but fees over {vestingThreshold} (such as those paid to upgrade your membership or register a premium account name) must vest for a total of {vestingPeriod} days.
+La mayoría de las cuotas se hacen disponibles inmediatamente, pero cuotas sobre {vestingThreshold} (así como aquellas pagadas para actualizar su membresía o registrar un nombre de cuenta premium) deben consolidarse por un total de {vestingPeriod} días.
