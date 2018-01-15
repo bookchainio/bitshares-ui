@@ -4,6 +4,6 @@
 
 {descripción}
 
-Issued by: {issuer}
+Emitido por: {issuer}
 
-The Euro (sign: €; symbol: EUR) is the official currency of participating countries in the Europ zone.
+El Euro (signo: €, símbolo: EUR) es la moneda oficial de los países participantes en la zona Europea.
