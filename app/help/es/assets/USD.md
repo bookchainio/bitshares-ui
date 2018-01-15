@@ -1,9 +1,9 @@
-[# summary]
+[# resumen]
 
-### Asset {symbol}
+### Activo {symbol}
 
 {description}
 
-Issued by: {issuer}
+Emitido por: {issuer}
 
-The United States dollar (sign: $; symbol: USD) is the official currency of the United States of America.
+El dolar estadounidense (signo: $; símbolo: USD) es la moneda oficial de los Estados Unidos de América.
