@@ -1,4 +1,4 @@
-[# summary]
+[# resumen]
 
 ### Asset {symbol}
 
