@@ -1,6 +1,6 @@
-# Permissions
+# الأذونات
 
-In BitShares, each account is separated into
+في BitShares، ينقسم كل حساب إلى
 
 * **Active Permission**: control over its funds and
 * **Owner Permission**: control over the account.
@@ -15,7 +15,7 @@ An authority consists of one or several pairs of an account name with a *weight*
 
 In order to obtain a valid transaction, the sum of the weights from signing the parties has to exceed the threshold as defined in the permissions.
 
-# Examples
+# الأمثلة
 
 Let's discuss some examples to shed some light on the used terminology and the use-cases. We assume that a new account is created with it's active permissions set as described below. Note that the same scheme also works for the owner permissions!
 
@@ -25,14 +25,14 @@ A flat multi-signature scheme is composed of `M` entities of which `N` entities 
 
 Let's assume, Alice, Bob, Charlie and Dennis have common funds. We want to be able to construct a valid transaction if only two of those agree. Hence a **2-of-4** (N-of-M) scheme can look as follows:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| Alice         | 33%      |
-| Bob           | 33%      |
-| Charlie       | 33%      |
-| Dennis        | 33%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| الحساب        | الوزن/الأهمية |
+| ------------- | ------------- |
+| Alice         | 33%           |
+| Bob           | 33%           |
+| Charlie       | 33%           |
+| Dennis        | 33%           |
+| \---\---\---- | \---\---      |
+| العتبة:       | 51%           |
 
 All four participants have a weight of 33% but the threshold is set to 51%. Hence only two out of the four need to agree to validate the transaction.
 
@@ -60,7 +60,7 @@ Let's take a look at a simple multi-hierarchical corporate account setup. We are
 | Account       | Weight   |
 | ------------- | -------- |
 | CEO.COMPANY   | 51%      |
-| CFO.COMPANY   | 51%      |
+| CEO.COMPANY   | 51%      |
 | \---\---\---- | \---\--- |
 | Threshold:    | 51%      |
 
