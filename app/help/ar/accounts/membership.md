@@ -22,8 +22,8 @@ The registrar is the account that paid the transaction fee to register the accou
 
 ### الرسوم المعلقة
 
-Fees paid are only divided among the network, referrers, and registrars once every maintenance interval.
+وتنقسم الرسوم المدفوعة فقط بين الشبكة و العناصر المرجعية، والمسجلين مرة واحدة كل فاصل صيانة.
 
-### Vesting Fees
+### رسوم الاستحقاق
 
-Most fees are made available immediately, but fees over the vesting threshold (such as those paid to upgrade your membership or register a premium account name) must vest for some days as defined by the committee.
+معظم الرسوم متاحة فورا، ولكن يجب أن تبلغ الرسوم عتبة الاستحقاق (مثل تلك التي تدفع لترقية العضوية الخاصة بك أو تسجيل اسم حساب ممتاز) یجب أن یستحق لبعض الأیام، کما تحددھا اللجنة.
