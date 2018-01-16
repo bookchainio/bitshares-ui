@@ -42,14 +42,14 @@ Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights 
 
 With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| Alice         | 49%      |
-| Bob           | 25%      |
-| 25%           | 25%      |
-| Dennis        | 10%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| الحساب        | الوزن/الأهمية |
+| ------------- | ------------- |
+| Alice         | 49%           |
+| Bob           | 25%           |
+| Charlie       | 25%           |
+| Dennis        | 10%           |
+| \---\---\---- | \---\---      |
+| العتبة:       | 51%           |
 
 Now the funds can either be accessed by Alice and a single friend or by all three friends together.
 
@@ -74,7 +74,7 @@ whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, th
 | Tax Manager.COMPANY       | 10%           |
 | Accounting.COMPANY        | 10%           |
 | \---\---\---\---\---\---- | \---\---      |
-| Threshold:                | 51%           |
+| العتبة:                   | 51%           |
 
 يسمح هذا النظام:
 
