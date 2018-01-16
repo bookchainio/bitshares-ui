@@ -1,6 +1,6 @@
 # العضويات
 
-Accounts in BitShares are separated into three groups. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
+تنقسم الحسابات في BitShares إلى ثلاث مجموعات. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
 
 ## Non-Members
 
@@ -14,7 +14,7 @@ Lifetime Members get a percentage cashback on every transaction fee they pay and
 
 If a lifetime membership is too much you can still get the same cashback for the next year by becoming an annual subscriber for a smaller one-time fee which lasts for only one year.
 
-### Fee Division
+### قسم الرسوم
 
 Every time an account you referred pays a transaction fee, that fee is divided among several different accounts. The network takes a cut, and the Lifetime Member who referred the account gets a cut.
 
