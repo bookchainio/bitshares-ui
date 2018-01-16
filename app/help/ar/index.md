@@ -29,8 +29,8 @@
 ## التبادلات اللامركزية
 
 - [مقدمة](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
+- [المتاجرة](dex/trading.md)
+- [BitAssets بيع باختصار](dex/shorting.md)
 
 * * *
 
