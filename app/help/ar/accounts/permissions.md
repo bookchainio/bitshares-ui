@@ -46,7 +46,7 @@ With the threshold and weights, we now have more flexibility over our funds, or 
 | ------------- | -------- |
 | Alice         | 49%      |
 | Bob           | 25%      |
-| Charlie       | 25%      |
+| 25%           | 25%      |
 | Dennis        | 10%      |
 | \---\---\---- | \---\--- |
 | Threshold:    | 51%      |
@@ -57,26 +57,26 @@ Now the funds can either be accessed by Alice and a single friend or by all thre
 
 Let's take a look at a simple multi-hierarchical corporate account setup. We are looking at a company that has a Chief of Financial Officer (CFO) and a some departments working for him, such as the Treasurer, Controller, Tax Manager, Accounting, etc. The company also has a CEO that wants to have spending privileges. Hence we construct an authority for the funds according to:
 
-| Account       | Weight   |
-| ------------- | -------- |
-| CEO.COMPANY   | 51%      |
-| CEO.COMPANY   | 51%      |
-| \---\---\---- | \---\--- |
-| Threshold:    | 51%      |
+| الحساب        | الوزن/الأهمية |
+| ------------- | ------------- |
+| CEO.COMPANY   | 51%           |
+| CEO.COMPANY   | 51%           |
+| \---\---\---- | \---\---      |
+| العتبة:       | 51%           |
 
 whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, the CFO.COMPANY account could look like:
 
-| CFO.COMPANY               | Weight   |
-| ------------------------- | -------- |
-| Chief.COMPANY             | 51%      |
-| Treasurer.COMPANY         | 33%      |
-| Controller.COMPANY        | 33%      |
-| Tax Manager.COMPANY       | 10%      |
-| Accounting.COMPANY        | 10%      |
-| \---\---\---\---\---\---- | \---\--- |
-| Threshold:                | 51%      |
+| CEO.COMPANY               | الوزن/الأهمية |
+| ------------------------- | ------------- |
+| Chief.COMPANY             | 51%           |
+| Treasurer.COMPANY         | 33%           |
+| Controller.COMPANY        | 33%           |
+| Tax Manager.COMPANY       | 10%           |
+| Accounting.COMPANY        | 10%           |
+| \---\---\---\---\---\---- | \---\---      |
+| Threshold:                | 51%           |
 
-This scheme allows:
+يسمح هذا النظام:
 
 * the CEO to spend funds
 * the Chief of Finance Officer to spend funds
