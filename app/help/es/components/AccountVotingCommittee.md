@@ -1,1 +1,1 @@
-[Committee members](introduction/committee) may propose changes to the dynamic parameters of the blockchain, such as fees, block time and many other things. It is a position of great responsibility that requires a good understanding of how BitShares works.
+Los [Miembros de Comité](introduction/committee) pueden proponer cambios a los parámetros dinámicos de la cadena de bloques, tal como cuotas, tiempo entre bloques y muchas otras cosas. Es una posición de gran responsabilidad y requiere un buen entendimiento de cómo funciona BitShares.
