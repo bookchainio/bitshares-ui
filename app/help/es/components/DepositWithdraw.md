@@ -6,6 +6,6 @@ Para recibir BTS de otra persona o de un intercambio, simplemente proporciónale
 
 [# deposit-corto]
 
-### Depositing or withdrawing coins
+### Depositar o retirar monedas
 
-If you want to deposit or withdraw funds, either in fiat or from other blockchains, you may use a [bridge](introduction/bridges_gateways) or [gateway](introduction/bridges_gateways) service to do so.
+Si usted desea depositar o retirar fondos, sea de fiat o de otras cadenas de bloques, usted puede utilizar un servicio [puente](introduction/bridges_gateways) o [gateway](introduction/bridges_gateways) para realizarlo.
