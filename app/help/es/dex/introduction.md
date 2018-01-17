@@ -4,9 +4,9 @@ El mercado de intercambio descentralizado (denotado simplemente como *el DEX - D
 
 Un mercado de intercambio descentralizado tiene un muy particular conjunto de ventajas sobre los tradicionales mercados de intercambio centralizados y nos gustaría señalar brevemente algunas de ellas abajo. Aunque el DEX de BitShares viene acompañado de todas estas, está en decisión del lector y consumidor apalancar dichas funciones en su totalidad o parcialmente.
 
-* **Separation of Powers**: There is no reason why the same entity needs to be responsible for issuing IOUs and for processing the order book. In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
+* **Separación de Poderes**: No hay ninguna razón por la cual la misma entidad debe ser responsable de emitir "pagarés" (IOUs) y de procesar el libro de ordenes. En BitShares, el emparejamiento de ordenes es realizado por el protocolo, el cual no está consciente de implicaciones referentes a los activos involucrados.
 
-* **Global Unified Order Book**: Since BitShares is global, anybody with an internet access can use the DEX for trading. This brings the world's liquidity to a single order book for decentralized trading.
+* **Libro de Ordenes Unificado y Global**: Ya que BitShares es global, cualquiera con acceso a internet puede utilizar el DEX para intercambios. Esto simplifica la liquidez del mundo a un solo libro de ordenes para intercambios descentralizados.
 
 * **Trade Almost Anything**: The BitShares DEX is asset agnostic. Hence you can trade at **any** pair. While some pairs may end up with low liquidity, such as SILVER:GOLD, other pairs such as USD:EUR for FOREX trading will see huge volume.
 
