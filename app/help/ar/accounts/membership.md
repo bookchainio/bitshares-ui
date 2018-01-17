@@ -1,10 +1,10 @@
 # العضويات
 
-تنقسم الحسابات في BitShares إلى ثلاث مجموعات. We decided to give users the option to upgrade their accounts into a VIP-like status if they desire and profit from reduced fees and additional features.
+تنقسم الحسابات في BitShares إلى ثلاث مجموعات. لقد قررنا إعطاء المستخدمين خيار لترقية حساباتهم في وضع كبار الشخصيات مثلا إذا رغبوا الربح من الرسوم المخفضة وميزات إضافية.
 
-## Non-Members
+## غير الأعضاء
 
-A *regular* account is a *non-member*.
+الحساب *العادي* *غير عضو*.
 
 ## عضوية مدى الحياة
 
