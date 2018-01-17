@@ -1,3 +1,3 @@
-Update your {debt} margin position by adjusting the debt and collateral levels.
+Actualice su posición de margen {debt} ajustando los niveles de deuda y del colateral.
 
-Collateral and debt levels can be adjusted in any way you desire, as long as your collateral ratio stays above the maintenance collateral ratio of {mr}. [Read more.](dex/shorting)
+Los niveles del colateral y de deuda pueden ser ajustados en cualquier forma que lo desee, mientras que su proporción del colateral se mantenga sobre la proporción del colateral de mantenimiento de {mr}. [Leer mas.](dex/shorting)
