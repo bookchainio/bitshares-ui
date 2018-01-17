@@ -1,3 +1,3 @@
-Owner permissions define who has control over the account. Owners may overwrite all keys and change any account settings.
+Los permisos de propietario definen quién tiene control sobre la cuenta. Los propiestarios pueden sobrescribir todas las llaves y cambiar cualquier ajuste de cuenta.
 
-See [permissions](accounts/permissions) for more details.
+Ver [permisos](accounts/permissions) para más detalles.
