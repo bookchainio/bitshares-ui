@@ -1,3 +1,3 @@
-This is a binary prediction market.
+Este es un mercado de predicción binaria.
 
-The collateral ratio of this market is 1:1.
+La proporción del colateral de este mercado es 1:1.
