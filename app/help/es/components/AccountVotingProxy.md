@@ -1,3 +1,3 @@
-If you don't fully understand the roles of Witnesses, Committee Members and Workers, you may elect to choose a Proxy. A proxy is an account that you trust to make decisions about the Bitshares network on your behalf. You may find people proposing to act as proxies in the BitShares forum at [BitSharestalk](https://bitsharestalk.org/index.php/board,75.0.html). Additionally, you may choose from the list below, or you can manually enter any account you choose.
+Si usted no entiende completamente los roles de Testigos, Miembros de Comité y Trabajadores, usted puede elegir utilizar un Proxy. Un proxy es una cuenta en la cual usted confía para tomar decisiones con respecto a la red BitShares en su nombre. Usted puede encontrar gente propuesta para actuar como proxys en el foro de BitShares a través de [BitSharestalk](https://bitsharestalk.org/index.php/board,75.0.html). Adicionalmente, usted puede elegir de la lista a continuación, o puede introducir manualmente cualquier cuenta que escoja.
 
-**Be sure to select publish changes above once you've made your selection**.
+**Asegúrese de selecionar publicar cambios arriba una vez que haya realizado su selección**.
