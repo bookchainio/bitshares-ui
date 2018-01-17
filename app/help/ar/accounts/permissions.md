@@ -40,7 +40,7 @@ Alternatively, to construct a 3-of-4 scheme, we can either decrease the weights 
 
 ## (Flat) Flexible Multi-Signature
 
-With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. Hence, we create an authority similar to:
+With the threshold and weights, we now have more flexibility over our funds, or more precisely, we have more *control*. For instance, we can have separate weights for different people. Let's assume Alice wants to secure here funds against theft by a multi-signature scheme but she does not want to hand over too much control to her friends. ومن ثم نحن ننشئ هيئة مماثلة إلى:
 
 | الحساب        | الوزن/الأهمية |
 | ------------- | ------------- |
@@ -78,9 +78,9 @@ whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, th
 
 يسمح هذا النظام:
 
-* the CEO to spend funds
-* the Chief of Finance Officer to spend funds
-* Treasurer together with Controller to spend funds
-* Controller or Treasurer together with the Tax Manager and Accounting to spend funds.
+* الرئيس التنفيذي الشركة لإنفاق الأموال
+* كبير الموظفين الماليين لإنفاق الأموال
+* الخازن جنبا إلى جنب مع المراقب للتحكم في إنفاق الأموال
+* المراقب المالي أو أمين الصندوق جنبا إلى جنب مع إدارة الضرائب والمحاسبة لإنفاق الأموال.
 
 Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
