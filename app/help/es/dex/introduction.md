@@ -8,16 +8,16 @@ Un mercado de intercambio descentralizado tiene un muy particular conjunto de ve
 
 * **Libro de Ordenes Unificado y Global**: Ya que BitShares es global, cualquiera con acceso a internet puede utilizar el DEX para intercambios. Esto simplifica la liquidez del mundo a un solo libro de ordenes para intercambios descentralizados.
 
-* **Trade Almost Anything**: The BitShares DEX is asset agnostic. Hence you can trade at **any** pair. While some pairs may end up with low liquidity, such as SILVER:GOLD, other pairs such as USD:EUR for FOREX trading will see huge volume.
+* **Intercambie Casi Cualquier Cosa**: El DEX de BitShares es agnóstico en activos. Por lo tanto usted puede intercambiar **cualquier** par. Mientras que algunos pares puedan resultar en baja liquidez, tal como PLATA:ORO, otros pares tal como USD:EUR para intercambios FOREX verán un gran volumen.
 
-* **No Limits**: The BitShares protocol is unable to limit your trading experience.
+* **Sin límites**: El protocolo BitShares es incapaz de limitar su experiencia de comercio.
 
-* **Decentralized**: The DEX is decentralized across the globe. This not only means that there is no single point of failure, but it also implies that the BitShares exchange is open for trading 24/7 because it's always daytime somewhere.
+* **Descentralizado**: El DEX es descentralizado a lo largo del globo terraqueo. Esto no solo quiere decir que no hay oportunidades para fallas, también implica que el mercado de intercambios BitShares está abierto para comercios 24/7 ya que siempre es de día en algún lugar.
 
-* **Secure**: Your funds and trades are secured with industry-grade elliptic curve cryptography. No one will be able to access your funds unless you let them. To further strengthen the security, we allow our customers to setup escrow and multi-signature schemes.
+* **Seguro**: Sus fondos y comercios están asegurados con curvas criptográficas elípticas de grado industrial. Nadie podrá acceder sus fondos a menos que usted le permita. Para reforzar aun más la seguridad, le permitimos a nuestros clientes establecer escrow y esquemas de firmas múltiples.
 
-* **Fast**: In contrast to other decentralized networks, the BitShares DEX allows for real-time trading and is only limited by the speed of light and the size of the planet.
+* **Rápido**: En contraste a otras redes descentralizadas, el DEX de BitShares permite comercios en tiempo-real y solo está limitado por la velocidad de la luz y el tamaño del planeta.
 
-* **Provable Order Matching Algorithm**: What makes the BitShares DEX unique is the provable order matching algorithm. Given a set of orders, you will always be able to provably verify that these orders have been matched properly.
+* **Algoritmo de Emparejamiento de Ordenes Comprobable**: Lo que hace al DEX de BitShares único es el algoritmo de emparejamiento de ordenes comprobable. Dado un conjunto de ordenes, usted siempre será capaz de verificar con pruebas que estas ordenes han sido emparejadas correctamente.
 
-* **Collateralized Smartcoins**: One of the biggest features of BitShares are its *smartcoins* such as bitUSD, bitEUR, bitCNY, and others. For the sake of convenience, these assets are denotes simply as USD, EUR, CNY, etc. in the wallet. These digital tokens represent the same value as their underlaying physical asset. Hence 1 USD in this wallet is worth $1 and can be redeemed as such. Any of these tokens is backed by BitShares' company shares (BTS) being locked up as collateral and being available for settlement at its current price.
+* **Smartcoins con Colateral**: Una de las funciones mas grandes de BitShares son sus *smartcoins* tales como el bitUSD, el bitEUR, el bitCNY, entre otras. Por conveniencia, estos activos son denotados simplemente como USD, EUR, CNY, etc. en la billetera. Estos tokens digitales representan el mismo valor que el activo físico asociado. Por lo tanto 1 USD en esta billetera tiene un valor de $1 y puede ser redimido por dicho valor. Any of these tokens is backed by BitShares' company shares (BTS) being locked up as collateral and being available for settlement at its current price.
