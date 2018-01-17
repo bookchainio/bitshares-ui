@@ -3,20 +3,20 @@
 - [BitShares](introduction/bitshares.md)
 - [Billetera](introduction/wallets.md)
 - [Backups](introduction/backups.md)
-- [Blockchain](introduction/blockchain.md)
+- [Cadena de bloques](introduction/blockchain.md)
 - [Votación](voting.md)
 - [Cuentas](accounts/general.md)
-- [Proposed Transactions](accounts/proposed.md)
+- [Transacciones propuestas](accounts/proposed.md)
 - [Permisos](accounts/permissions.md)
 - [Membresías](accounts/membership.md)
-- [Market Pegged Assets](assets/mpa.md) 
+- [Activos Vinculados al Mercado](assets/mpa.md) 
     - bitUSD
     - bitEUR
     - bitGOLD
 - [Activos Emitidos por Usuarios](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
+- [BitActivos Privatizados](assets/privbitassets.md)
 - [Decentralized Exchange](dex/introduction.md)
-- [Trading](dex/trading.md)
+- [Comercio](dex/trading.md)
 - [Short Selling BitAssets](dex/shorting.md)
 - Gateways 
     - [OpenLedger](gateways/openledger.md)
