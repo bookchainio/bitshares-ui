@@ -2,7 +2,7 @@
 
 ### Recibir BTS
 
-Para recibir BTS de otra persona o de un intercambio, simplemente proporciónale tu nombre de cuenta: **{account}**
+Para recibir BTS de otra persona o de un mercado de intercambio, simplemente proporciónale tu nombre de cuenta: **{account}**
 
 [# deposit-corto]
 
