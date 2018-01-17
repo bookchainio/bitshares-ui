@@ -1,10 +1,10 @@
-[# receive]
+[# recibir]
 
-### Receiving BTS
+### Recibir BTS
 
-In order to receive BTS from another person or from an exchange, simply give them your account name: **{account}**
+Para recibir BTS de otra persona o de un intercambio, simplemente proporciónale tu nombre de cuenta: **{account}**
 
-[# deposit-short]
+[# deposit-corto]
 
 ### Depositing or withdrawing coins
 
