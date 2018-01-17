@@ -15,7 +15,7 @@
     - bitGOLD
 - [Activos Emitidos por Usuarios](assets/uia.md)
 - [BitActivos Privatizados](assets/privbitassets.md)
-- [Intercambio Descentralizado](dex/introduction.md)
+- [Mercado de Intercambio Descentralizado](dex/introduction.md)
 - [Comercio](dex/trading.md)
 - [Venta Corta de BitActivos](dex/shorting.md)
 - Gateways 
