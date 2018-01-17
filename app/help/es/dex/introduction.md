@@ -1,8 +1,8 @@
-# Decentralized Exchange
+# Mercado de Intercambio Descentralizado
 
-The decentralized exchange (further denoted simply as *the DEX*) allows for direct exchange of digital goods traded in the BitShares ecosystem.
+El mercado de intercambio descentralizado (denotado simplemente como *el DEX - Decentralized Exchange*) permite el intercambio directo de bienes digitales negociados en el ecosistema BitShares.
 
-A decentralized exchange has a very particular set of advantages over traditional centralized exchanges and we would like to address some of them briefly below. Although the BitShares DEX comes with all of them, it is up to the reader and customer to leverage those features in full or only partially.
+Un mercado de intercambio descentralizado tiene un muy particular conjunto de ventajas sobre los tradicionales mercados de intercambio centralizados y nos gustaría señalar brevemente algunas de ellas abajo. Aunque el DEX de BitShares viene acompañado de todas estas, está en decisión del lector y consumidor apalancar dichas funciones en su totalidad o parcialmente.
 
 * **Separation of Powers**: There is no reason why the same entity needs to be responsible for issuing IOUs and for processing the order book. In BitShares, order matching is performed by the protocol, which is unaware of implications concerning the involved assets.
 
