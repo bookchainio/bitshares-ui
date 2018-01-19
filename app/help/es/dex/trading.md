@@ -23,7 +23,7 @@ El libro de orden consiste en un lado de *demanda* y un lado de *oferta*. Ya que
 | Oferta        | *base*       | *cotización* |
 | \---\---\---- | \---\----    | \---\----    |
 
-Obviously, what is on the bid side of the USD:EUR pair will be on the ask side on the EUR:USD pair. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
+Obviamente, lo que esté en lado de ofertas en emparejamientos USD:EUR estará en el lado de demandas en el emparejamiento EUR:USD. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
 
 ## Trading
 
