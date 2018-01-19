@@ -29,6 +29,6 @@ Obviamente, lo que esté en lado de ofertas en emparejamientos USD:EUR estará e
 
 Para publicar una orden de comercio, se requiere llenar un formulario en cualquiera de los dos lados de *demanda* u *oferta* (respectivamente, el lado *compra* o *venta*). Usted debe definir un *precio* y una *cantidad* para comprar/vender. El costo de esta orden será calculado automáticamente. Nótese que habrá una cuota adicional requerida para realmente publicar la orden.
 
-Once the order is filled (i.e. someone sold/bought your offer), your account will be credited by the corresponding asset.
+Una vez se complete la orden (ej. alguien vendió/compró su oferta), su cuenta será acreditada con el activo correspondiente.
 
-Unfilled orders can be canceled at any time.
+Las órdenes sin completar pueden ser canceladas en cualquier momento.
