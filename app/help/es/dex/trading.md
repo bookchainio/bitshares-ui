@@ -1,14 +1,14 @@
-# Trading
+# Comercio
 
-This page will give a very quick introduction on how to interpret the terms used by the DEX and how trading pairs are presented.
+Esta página proveerá una muy rápida introducción de cómo interpretar los términos usandos por el DEX y como los pares del comercio son presentados.
 
-## Pairs
+## Pares
 
-In BitShares, almost any asset can be traded with all other assets. Once we have picked two assets, we usually refer to a *market pair*. For instance, we can trade USD against EUR in the USD:EUR pair.
+En BitShares, casi cualquier activo puede ser intercambiado con todos los demás activos. Una vez que hayamos escogido dos activos, usualmente preferimos usar el término *emparejamiento de mercado*. Por ejemplo, podemos intercambiar USD con EUR en un emparejamiento USD:EUR.
 
-For sake of consistency, we will use the generalized terms *base* and *quote* such that pairs are represented as
+Buscando consistencia, utilizaremos los términos generalizados *base* y *cita* para que los pares sean representados de la forma
 
-    *quote* : *base*
+    *cita* : *base*
     
 
 and for instance with *base* being USD and *quote* being EUR, denote the EUR:USD pair.
