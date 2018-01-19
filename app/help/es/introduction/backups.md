@@ -1,15 +1,14 @@
 # Respaldos
 
-Es recomendable realizar respaldos regulares de su billetera incluso cuando en la mayoría de los casos un solo respaldo puede resultar suficiente. Please note that in order to recover from a backup you will also need to provide the pass phrase because **backups are encrypted**. Hence, if you either lose your wallet or your pass phrase you will be unable to access any of your funds again!
+Es recomendable realizar respaldos regulares de su billetera incluso cuando en la mayoría de los casos un solo respaldo puede resultar suficiente. Por favor note que para recuperar de un respaldo usted también deberá proveer la contraseña ya que **los respaldos están encriptados**. Por lo tanto, si usted pierde su billetera o contraseña ¡estará inhabilitado para acceder sus fondos nuevamente!
 
-Backups can be obtain from the Wallet Management Console (`Settings ->
-Wallets`).
+Los repaldos pueden ser obtenidos desde la Consola de Administración de Billetera (`Configuraciones -> Billeteras`).
 
-## Wallet Exports
+## Exportaciones de Billetera
 
-The most convenient way to create a new backup is by exporting the wallet with the provided link in the Wallet Management Console. Please store your backups safe from loss, theft, and natural catastrophes
+La forma más conveniente de crear un nuevo respaldo es exportando la billetera con el enlace suministrado en la Consola de Administración de Billetera. Por favor almacene sus respaldos a salvo de perdidas, robos y catástrofes naturales
 
-## Brainkey (advanced users ONLY)
+## Brainkey (SOLO para usuarios avanzados)
 
 If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
 
