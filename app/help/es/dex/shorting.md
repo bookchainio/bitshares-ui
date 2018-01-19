@@ -1,8 +1,8 @@
-# Short Selling BitAssets
+# Venta Corta de BitActivos
 
-In order to increase your exposure to BTS and offer liquidity to BitAssets, such as USD, EUR, GOLD, etc., you can go *borrow* this bitAsset from the network and *sell it short*. We will here briefly describe the procedure.
+Para incrementar su exposición a BTS y ofrecer liquidez a los BitActivos, tal como USD, EUR, GOLD, etc. usted puede *pedir prestado* este bitActivo de la red y *vender acciones por adquirir*. Aquí describiremos brevemente el procedimiento.
 
-## Borrowing
+## Pedir Prestado
 
 The BitShares network is capable of issuing any amount of any BitAsset and lend it out to participants given enough collateral.
 
