@@ -471,7 +471,8 @@
             "noFeeBalance": "当前所选资产余额不足以支付手续费, 请换一种用来支付手续费的资产。",
             "noPoolBalance": "这个资产没有充足的手续费池余额用来支付手续费了，请联系资产所有者或换一种资产。",
             "minimum_amount": "最小提现金额：%(amount)s %(symbol)s",
-            "memo_error": "转账备注解析错误，请稍候再试。"
+            "memo_error": "转账备注解析错误，请稍候再试。",
+            "precision": "Minimum withdraw precision value: %(precision)s"
         },
         "back": "返回",
         "confirm": "确认发送",
@@ -965,6 +966,7 @@
         "latency": "延迟"
     },
     "exchange": {
+        "trading_pair": "Trading pair",
         "chart_options": {
             "tools": "工具",
             "title": "指标",
@@ -1483,6 +1485,22 @@
         "subject": "主题",
         "errors": {
             "fetch": "对不起，获取新闻时出错"
+        }
+    },
+    "winex": {
+        "gateway": {
+            "support_block": "For support, please contact Winex at:",
+            "fee": "Gateway Fee",
+            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+        },
+        "withdraw": {
+            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
+            "finalNumber": "Actual amount ：%(final_number)s"
+        },
+        "transfer": {
+            "errors": {
+                "minWithdraw": "Minimum amount：%(min_amount)s"
+            }
         }
     }
 }
