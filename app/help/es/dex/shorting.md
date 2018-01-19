@@ -28,12 +28,12 @@ Los poseedores de cualquier bitActivo pueden solicitar una liquidación a un *pr
 
 ## Vender
 
-Después de pedir prestado bitActivos, estos pueden ser vendidos sin costo en cualquiera de los mercados correspondientes a cualquier precio que un comprador esté dispuesto a pagar. With this step, the short-selling is now complete and you are short that particular bitAsset.
+Después de pedir prestado bitActivos, estos pueden ser vendidos sin costo en cualquiera de los mercados correspondientes a cualquier precio que un comprador esté dispuesto a pagar. Con este paso, la venta corta está ahora completa y usted ya no posee dicho bitActivo.
 
-## Updating Collateral Ratio
+## Actualizando Relación de Colateral
 
-At any time, the holder of a borrow/short position can modify the collateral ratio in order to flexibly adjust to market behavior. If the collateral ratio is increase, an additional amount of BTS is locked as collateral, while reducing the collateral ratio will require an amount of the corresponding BitAsset to be payed back to the network.
+En cualquier momento, el poseedor de una posición de prestamo/corto puede modificar la relación de colateral para ajustar flexiblemente el comportamiento de mercado. Si la relación de colateral es incrementada, una cantidad adicional de BTS es encerrada como colateral, al reducir la relación de colateral se requerirá una cantidad correspondiente al BitActivo para ser pagada de vuelta a la red.
 
-## Covering
+## Cobertura
 
-To close a borrow/short position, one must hold the borrowed amount of that particular bitAsset to hand it over to the BitShares network. After that, the BitAssets are reduced from the corresponding supply and the collateral is released and given back to its owner.
+Para cerrar una posición de préstamo/corto, uno debe poseer la cantidad prestada de ese bitActivo particular para entregarlo a la red BitShares. After that, the BitAssets are reduced from the corresponding supply and the collateral is released and given back to its owner.
