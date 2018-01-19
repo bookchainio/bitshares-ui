@@ -6,7 +6,7 @@ Para incrementar su exposición a BTS y ofrecer liquidez a los BitActivos, tal c
 
 La red BitShares es capás de emitir cualquier cantidad de BitActivo y prestarla a participantes dado que haya suficiente colateral.
 
-- *settlement price*: The price for 1 BTS as it is traded on external exchanges.
+- *precio de liquidación*: El precio de 1 BTS tal como es negociado en mercados de intercambio externos.
 - *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
 - *maximum short squeeze ratio* (MSQR): A ratio defined by the witnesses as to how far shorts are protected against short squeezes
 - *short squeeze protection* (SQP): Defines the most that a margin position will ever be forced to pay to cover 
