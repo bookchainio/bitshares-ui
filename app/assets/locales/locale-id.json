@@ -471,7 +471,8 @@
             "noFeeBalance": "Saldo Anda tidak mencukupi untuk membayar biaya dengan menggunakan aset ini, pilih aset lain untuk membayar biaya Anda",
             "noPoolBalance": "Aset tersebut memiliki saldo kolam yang tidak mencukupi untuk membayar biaya. Informasikan kepada pemilik aset atau pilih aset lain untuk membayar biaya.",
             "minimum_amount": "Jumlah penarikan minimum: %(amount)s %(symbol)s",
-            "memo_error": "Kesalahan parsing transfer memo, coba lagi nanti."
+            "memo_error": "Kesalahan parsing transfer memo, coba lagi nanti.",
+            "precision": "Minimum withdraw precision value: %(precision)s"
         },
         "back": "KEMBALI",
         "confirm": "Konfirmasi",
@@ -965,6 +966,7 @@
         "latency": "Latensi"
     },
     "exchange": {
+        "trading_pair": "Trading pair",
         "chart_options": {
             "tools": "Alat",
             "title": "Indikator",
@@ -1483,6 +1485,22 @@
         "subject": "Subyek",
         "errors": {
             "fetch": "Ups... Ada yang salah dalam mengambil berita"
+        }
+    },
+    "winex": {
+        "gateway": {
+            "support_block": "For support, please contact Winex at:",
+            "fee": "Gateway Fee",
+            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+        },
+        "withdraw": {
+            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
+            "finalNumber": "Actual amount ：%(final_number)s"
+        },
+        "transfer": {
+            "errors": {
+                "minWithdraw": "Minimum amount：%(min_amount)s"
+            }
         }
     }
 }
