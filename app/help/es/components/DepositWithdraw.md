@@ -4,7 +4,7 @@
 
 Para recibir BTS de otra persona o de un mercado de intercambio, simplemente proporciónale tu nombre de cuenta: **{account}**
 
-[# deposit-corto]
+[# depositar-corto]
 
 ### Depositar o retirar monedas
 
