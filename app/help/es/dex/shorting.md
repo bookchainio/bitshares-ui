@@ -7,9 +7,9 @@ Para incrementar su exposición a BTS y ofrecer liquidez a los BitActivos, tal c
 La red BitShares es capás de emitir cualquier cantidad de BitActivo y prestarla a participantes dado que haya suficiente colateral.
 
 - *precio de liquidación*: El precio de 1 BTS tal como es negociado en mercados de intercambio externos.
-- *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
-- *maximum short squeeze ratio* (MSQR): A ratio defined by the witnesses as to how far shorts are protected against short squeezes
-- *short squeeze protection* (SQP): Defines the most that a margin position will ever be forced to pay to cover 
+- *relación colateral de mantenimiento* (MCR - maintenance collateral ratio): Una relación definida por los testigos que describe el mínimo requerido de proporción con colaterales
+- *máxima relación de contracción alcista* (MSQR - maximum short squeeze ratio): Una relación definida por los testigos que define que tanto se protegen los cortos ante contracciones altistas
+- *protección a contracción altista* (SQP - short squeeze protection): Define lo máximo que se obligará a una posición de margen a pagar para cubrir 
 - *call price* (CP): The price at which short/borrow positions are margin called
 
 ### Margin Call
@@ -22,13 +22,13 @@ The BitShares network is capable of margin calling those positions that do not h
 
 The margin call will take the collateral, buy shares of borrowed bitAsset at market rates up to the SQP and close the position. The remaining BTS of the collateral are returned to the customer.
 
-### Settlement
+### Precio de Liquidación
 
-Holders of any bitAsset can request a settlement at a *fair price* at any time. The settlement closes the borrow/short positions with lowest collateral ratio and sells the collateral for the settlement.
+Los poseedores de cualquier bitActivo pueden solicitar una liquidación a un *precio justo* en cualquier momento. La liquidación cierra las posiciones de prestamo/corto con la menor relación de colateral y vende el colateral para la liquidación.
 
-## Selling
+## Vender
 
-After borrowing bitAssets, they can be sold free at any of the corresponding markets at any price a buyer is willing to pay. With this step, the short-selling is now complete and you are short that particular bitAsset.
+Después de pedir prestado bitActivos, estos pueden ser vendidos sin costo en cualquiera de los mercados correspondientes a cualquier precio que un comprador esté dispuesto a pagar. With this step, the short-selling is now complete and you are short that particular bitAsset.
 
 ## Updating Collateral Ratio
 
