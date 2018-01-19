@@ -4,7 +4,7 @@ Para incrementar su exposición a BTS y ofrecer liquidez a los BitActivos, tal c
 
 ## Pedir Prestado
 
-The BitShares network is capable of issuing any amount of any BitAsset and lend it out to participants given enough collateral.
+La red BitShares es capás de emitir cualquier cantidad de BitActivo y prestarla a participantes dado que haya suficiente colateral.
 
 - *settlement price*: The price for 1 BTS as it is traded on external exchanges.
 - *maintenance collateral ratio* (MCR): A ratio defined by the witnesses as minimum required collateral ratio
