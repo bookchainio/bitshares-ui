@@ -1,14 +1,14 @@
-# Openledger Gateway Service
+# Servicio Gateway de Openledger
 
-OpenLedger is a gateway service built on the Bitshares Exchange. A gateway service is responsible for moving cryptocurrencies to and from the Bitshares Exchange. They support a wide range of popular assets. You can easily identify those supported by OpenLedger because they are prefixed with the word OPEN.*. For example OPEN.BTC, OPEN.LTC etc.
+Openledger es un servicio de gateway incorporado en el Mercado de Intercambios Bitshares. Un servicio de gateway es el responsable de mover criptomonedas desde y hacia el Mercado de Intercambios Bitshares. Estos soportan una gran variedad de activos populares. Usted puede identificar fácilmente aquellos soportados por OpenLedger ya que poseen como prefijo la palabra OPEN.*. Por ejemplo OPEN.BTC, OPEN.LTC etc.
 
-## Website
+## Página Web
 
 <https://openledger.info>
 
-## Support
+## Soporte
 
-If you have questions or experience delays with sending or receiving assets:
+Si usted tiene alguna pregunta o experimenta retrasos al enviar o recibir activos:
 
-- [Open a Ticket](https://openledger.freshdesk.com/support/home)
-- [Telegram Chat](https://t.me/OpenLedgerDC).
+- [Abrir un Ticket](https://openledger.freshdesk.com/support/home)
+- [Chat de Telegram](https://t.me/OpenLedgerDC).
