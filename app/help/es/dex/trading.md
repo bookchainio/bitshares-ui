@@ -23,11 +23,11 @@ El libro de orden consiste en un lado de *demanda* y un lado de *oferta*. Ya que
 | Oferta        | *base*       | *cotización* |
 | \---\---\---- | \---\----    | \---\----    |
 
-Obviamente, lo que esté en lado de ofertas en emparejamientos USD:EUR estará en el lado de demandas en el emparejamiento EUR:USD. Of course prices are internally represented as fractions, and thus results in both pairs being identical.
+Obviamente, lo que esté en lado de ofertas en emparejamientos USD:EUR estará en el lado de demandas en el emparejamiento EUR:USD. Desde luego los precios son representados internamente como fracciones, por lo tanto ambos pares resultan idénticos.
 
-## Trading
+## Comercio
 
-To place a trading order, it is required to fill the form on either the *ask* or the *bid* side (respectively, *buy* or *sell* side). You will need to define a *price* and an *amount* to sell/buy. The cost for this order will be calculated automatically. Note that there will be an additional fee required to actually place the order.
+Para publicar una orden de comercio, se requiere llenar un formulario en cualquiera de los dos lados de *demanda* u *oferta* (respectivamente, el lado *compra* o *venta*). Usted debe definir un *precio* y una *cantidad* para comprar/vender. El costo de esta orden será calculado automáticamente. Nótese que habrá una cuota adicional requerida para realmente publicar la orden.
 
 Once the order is filled (i.e. someone sold/bought your offer), your account will be credited by the corresponding asset.
 
