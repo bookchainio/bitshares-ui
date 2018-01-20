@@ -10,8 +10,8 @@ La forma más conveniente de crear un nuevo respaldo es exportando la billetera 
 
 ## Brainkey (SOLO para usuarios avanzados)
 
-If you never manually imported an account key into your wallet, you can alternatively backup your accounts and their funds by exporting the *brainkey*, a string of words from which your keys are derived deterministically.
+Si usted jamás importó manualmente una llave de cuenta a su billetera, usted puede alternativamente respaldar sus cuentas y sus fondos exportando el *brainkey*, una cadena de palabras de la cual sus llaves son derivadas deterministicamente.
 
-## Remark: Hierarchical Authorities (advanced uses ONLY)
+## Observación: Autoridades Jerárquicas (SOLO usos avanzados)
 
 If you are using hierarchical authorities (account and/or active permissions), backing up your keys alone may not be sufficient to regain access to your funds! Please revise the documentations about hierarchical authorities.
