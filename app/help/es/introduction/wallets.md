@@ -8,12 +8,12 @@ Si usted registró un nombre de usuario y contraseña, usted tiene una billetera
 
 ## Billetera Local
 
-La billetera local crea una base de datos en su navegador. Esto quiere decir que el acceso a sus fondos está atado **únicamente a ese navegador**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
+La billetera local crea una base de datos en su navegador. Esto quiere decir que el acceso a sus fondos está atado **únicamente a ese navegador**. Si usted intenta acceder a su billetera local desde cualquier otra computadora, o cualquier otro navegador, fallará a menos que activamente importe su archivo de respaldo desde el archivo de respaldo del navegador original. El proceso es en realidad sencillo. Ver administrar [respaldos](/help/introduction/backups).
 
-## Security
+## Seguridad
 
-Rest assured that our servers do not have access to your funds because none of your private keys ever leave your browser. Instead, they are encrypted with your passphrase and are stored in your local browser's database. As such, you should make sure to have a proper [Backup](../introduction/backups.md) in the event something happens to your computer or browser.
+Aseguramos que nuestros servidores no tienen acceso a sus fondos ya que ninguna de sus llaves privadas jamás salen de su navegador. En su lugar, ellas están encriptadas con su contraseña y están almacenadas en la base de datos de su navegador local. Entonces, usted debería asegurarse de tener un [Respaldo](../introduction/backups.md) apropiado en caso de que algo suceda a su computadora o navegador.
 
-## Management
+## Administración
 
-The user interface is capable of carrying and accessing several separated wallets each containing possible several accounts and corresponding funds. You can create, backup, and switch existing wallets in `Settings->Wallets`.
+La interfaz de usuario es capás de llevar y acceder varias billeteras separadas cada una conteniendo varias cuentas y sus fondos correspondientes. Usted puede crear, respaldar y cambiar entre las billeteras existentes desde `Configuraciones->Billeteras`.
