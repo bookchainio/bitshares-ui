@@ -2,13 +2,13 @@
 
 Como puede que haya notado, esta aplicación es una aplicación web que opera a través de un navegador. Una conección es establecida a un nodo confiable en la red que sirve como puerta al resto del ecosistema.
 
-## Billetera en la nube
+## Billetera en la Nube
 
-Si usted regristró un nombre de usuario y contraseña, usted tiene una billetera en la nube. Aunque nada esté técnicamente almacenado en la nube, nosotros usamos el término billetera en la nube ya que usted puede usar estas credenciales (nombre de usuario y contraseña) desde cualquier navegador web en cualquier momento para acceder a su cuenta. La billetera en la nube solo permite acceder a una cuenta a la vez. Esta es generalmente la decisión correcta para nuevos usuarios. Aunque es posible cambiar la contraseña generada automáticamente, nosotros no recomendamos realizarlo en este momento. El equipo está trabajando en una forma responsable de administrar el cambio de contraseña que no requiera de conocimiento técnico. Realizaremos un anuncio en su lanzamiento.
+Si usted registró un nombre de usuario y contraseña, usted tiene una billetera en la nube. Aunque nada esté técnicamente almacenado en la nube, nosotros usamos el término Billetera en la Nube ya que usted puede usar estas credenciales (nombre de usuario y contraseña) desde cualquier navegador web en cualquier momento para acceder a su cuenta. La billetera en la nube solo permite acceder a una cuenta a la vez. Esta es generalmente la decisión correcta para nuevos usuarios. Aunque es posible cambiar la contraseña generada automáticamente, nosotros no recomendamos realizarlo en este momento. El equipo está trabajando en una forma responsable de administrar el cambio de contraseña que no requiera de conocimiento técnico. Realizaremos un anuncio en su lanzamiento.
 
 ## Billetera Local
 
-The local wallet creates a database within your browser. This means that access to your funds it tied to **that browser only**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
+La billetera local crea una base de datos en su navegador. Esto quiere decir que el acceso a sus fondos está atado **únicamente a ese navegador**. If you attempt to access your local wallet from any other computer, or any other browser, it will fail unless you actively import your backup file from the original browser backup file. The process actually easy. See managing [backups](/help/introduction/backups).
 
 ## Security
 
