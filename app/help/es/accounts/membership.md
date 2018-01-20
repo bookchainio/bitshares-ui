@@ -8,11 +8,11 @@ Una cuenta *regular* es un *no-miembro*.
 
 ## Miembros Vitalicios
 
-Los miembros vitalicios obtienen un porcentaje de devolución en cada comisión de transacción que paguen y califican para adquirir ingresos por referidos provenientes de usuarios con los cuales se registren o que hayan referido a la red. Una membresía de por vida está asociada a alguna tarifa única que está definida por el comité.
+Los miembros vitalicios obtienen un porcentaje reembolsado en cada comisión de transacción que paguen y califican para adquirir ingresos por referidos provenientes de usuarios con los cuales se registren o que hayan referido a la red. Una membresía de por vida está asociada a alguna tarifa única que está definida por el comité.
 
 ## Miembros Anuales
 
-Si una membresía de por vida es demasiado usted aun puede obtener la misma devolución a lo largo del siguiente año convirtiéndose en un suscriptor anual a través de una tarifa única menor con una duración de solo un año.
+Si una membresía de por vida es demasiado usted aun puede obtener el mismo reembolso a lo largo del siguiente año convirtiéndose en un suscriptor anual a través de una tarifa única menor con una duración de solo un año.
 
 ### División de Cuota
 
