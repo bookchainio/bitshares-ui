@@ -14,4 +14,4 @@ Si usted jamás importó manualmente una llave de cuenta a su billetera, usted p
 
 ## Observación: Autoridades Jerárquicas (SOLO usos avanzados)
 
-If you are using hierarchical authorities (account and/or active permissions), backing up your keys alone may not be sufficient to regain access to your funds! Please revise the documentations about hierarchical authorities.
+Si usted está usando autoridades jerárquicas (permisos de cuenta y/o activos), ¡solo respaldar sus llaves puede no resultar suficiente para recuperar sus fondos! Por favor revisar las documentaciones con respecto a las autoridades jerárquicas.
