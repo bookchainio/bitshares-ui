@@ -1,3 +1,3 @@
 ### Glosario
 
-[Back to index](index.md)
+[De vuelta al index](index.md)
