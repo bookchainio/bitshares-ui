@@ -1,8 +1,8 @@
 [# vitalicio]
 
-### Obten {feesCashback}% de Devolución en Cuotas
+### Obten {feesCashback}% de Reembolso en Cuotas
 
-Los Miembros Vitalicios obtienen un {feesCashback}% de devolución en cada cuota de transacción que pagan y califican para ganar ingresos de referidos de usuarios con los cuales se registren o que refieran a la red. Una Membresía Vitalicia vale tan solo {price}.
+Los Miembros Vitalicios obtienen un {feesCashback}% de reembolso en cada cuota de transacción que pagan y califican para ganar ingresos de referidos de usuarios con los cuales se registren o que refieran a la red. Una Membresía Vitalicia vale tan solo {price}.
 
 [# división-de-cuota]
 
