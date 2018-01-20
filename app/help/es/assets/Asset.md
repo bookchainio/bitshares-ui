@@ -8,7 +8,7 @@ Emitido por: {issuer}
 
 [# anual]
 
-Si una membresía de por vida es demasiado usted aun puede obtener {feesCashback}% de devolución por el siguiente año convirtiéndose en suscriptor anual por tan solo {price} por año. ![Logotipo de GitHub](/images/logo.png)
+Si una membresía de por vida es demasiado usted aun puede obtener un {feesCashback}% de reembolso por el siguiente año convirtiéndose en suscriptor anual por tan solo {price} por año. ![Logotipo de GitHub](/images/logo.png)
 
 [# división-de-cuota]
 
