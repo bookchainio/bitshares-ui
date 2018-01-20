@@ -1,10 +1,10 @@
-# Blockchain
+# Cadena de Bloques
 
-As most crypto currencies, Graphene makes use of a blockchain to update participants about transfers and market activities. Since blocks always refer to the previous block, we get a chain of blocks (blockchain) that contains all transactions every made in the network. Because the blockchain is a publicly accessible and auditable ledger, everyone can take a closer look and verify transfers as well as market orders and order books.
+Como en la mayoría de las criptomonedas, Graphene hace uso de la cadena de bloques para actualizar a los participantes con respecto a las transferencias y actividades de mercado. Ya que los bloques siempre refieren al bloque anterior, podemos obtener una cadena de bloques (blockchain) que contiene todas las transacciones que se han realizado en la red. Ya que la cadena de bloques es accesible para todo el público y funciona como un gran libro contable auditabe, cualquiera puede mirar mas de cerca y verificar las transferencias así como las órdenes de mercado y los libros de órdenes.
 
-Of course, this web wallet offers a block explorer to assist you with your audit.
+Por supuesto, esta billetera web ofrece un explorador de bloques para asistirle en sus procesos de auditoría.
 
-## Consensus Mechanism
+## Mecanismo de Consensos
 
 Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. In essence, the shareholders of BitShares (holders of the BTS token) can cast a vote for their preferred block producers on the blockchain. Those so called *witnesses* with the most votes are allowed to produce blocks.
 
