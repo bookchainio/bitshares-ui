@@ -1,37 +1,37 @@
-# Graphene Help
+# Ayuda con Graphene
 
-BitShares 2.0 is a Financial Smart Contracts platform that is based on the [Graphene](https://github.com/cryptonomex/graphene) technology built by [Cryptonomex](http://cryptonomex.com). You can see Graphene as a toolkit or technology for real-time blockchains.
+BitShares 2.0 es una plataforma de Contratos Inteligentes Financieros que está basada en la tecnología [Graphene](https://github.com/cryptonomex/graphene) construida por [Cryptonomex](http://cryptonomex.com). Usted puede ver a Graphene como un kit de herramientas o una tecnología de cadenas de bloques a tiempo real.
 
-This help section gives a brief overview and describes the most basic concepts of this application.
+Esta sección de ayuda ofrece una breve visión general y describe los más básicos conceptos de esta aplicación.
 
-## Introduction
+## Introducción
 
 - [BitShares](introduction/bitshares.md)
-- [Wallet](introduction/wallets.md)
-- [Backups](introduction/backups.md)
-- [Blockchain](introduction/blockchain.md)
-- [Witnesses](introduction/witness.md)
-- [Workers](introduction/workers.md)
-- [Committe Members](introduction/committee.md)
+- [Billetera](introduction/wallets.md)
+- [Respaldos](introduction/backups.md)
+- [Cadena de Bloques](introduction/blockchain.md)
+- [Testigos](introduction/witness.md)
+- [Trabajadores](introduction/workers.md)
+- [Miembros de Comité](introduction/committee.md)
 
-## Accounts
+## Cuentas
 
-- [Introduction](accounts/general.md)
-- [Permissions](accounts/permissions.md)
-- [Memberships](accounts/membership.md)
+- [Introducción](accounts/general.md)
+- [Permisos](accounts/permissions.md)
+- [Membresías](accounts/membership.md)
 
-## Assets
+## Activos
 
-- [Market Pegged Assets](assets/mpa.md) (BitUSD, BitEUR, BitGOLD, Bit\*,...)
-- [User Issued Assets](assets/uia.md)
-- [Privatized BitAssets](assets/privbitassets.md)
+- [Activos Vinculados al Mercado](assets/mpa.md) (BitUSD, BitEUR, BitGOLD, Bit\*,...)
+- [Activos Emitidos por Usuarios](assets/uia.md)
+- [BitActivos Privatizados](assets/privbitassets.md)
 
-## Decentralized Exchange
+## Mercado de Intercambios Descentralizado
 
-- [Introduction](dex/introduction.md)
-- [Trading](dex/trading.md)
-- [Short Selling BitAssets](dex/shorting.md)
+- [Introducción](dex/introduction.md)
+- [Comercio](dex/trading.md)
+- [Venta Corta de BitActivos](dex/shorting.md)
 
 * * *
 
-[Glossary](glossary.md)
+[Glosario](glossary.md)
