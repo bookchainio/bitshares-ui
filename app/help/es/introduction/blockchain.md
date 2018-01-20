@@ -6,8 +6,8 @@ Por supuesto, esta billetera web ofrece un explorador de bloques para asistirle 
 
 ## Mecanismo de Consensos
 
-Who exactly is allows to *produce* a block at which time instant is defined by a consensus mechanism called *Delegated Proof of Stake*. In essence, the shareholders of BitShares (holders of the BTS token) can cast a vote for their preferred block producers on the blockchain. Those so called *witnesses* with the most votes are allowed to produce blocks.
+El que propiamente está autorizado para *producir* un bloque en un tiempo específico es definido por un mecanismo de consenso llamado *Prueba Delegada de Inversión*. En esencia, el accionista de BitShares (poseedores del token BTS) puede emitir un voto a favor de su productor de bloque preferido en la cadena de bloques. Aquellos llamados *testigos* con la mayor cantidad de votos son quienes están autorizados para producir bloques.
 
-## Transactions
+## Transacciones
 
-The Graphene blockchain technology offers a variety of transaction types. Users are not only able to simply transfer assets between each other, but there are also transactions to interact with the decentralized exchange. Most of these transaction types are labeled with a self-explaining tag, others require more knowledge about the inner workings of the company.
+La tecnología de cadena de bloques Graphene ofrece una variedad de tipos de transacción. Los usuarios no solo están habilitados para simplemente transferir activos entre si, hay también transacciones en las que se interactua con el mercado de intercambios descentralizado. La mayoría de estos tipos de transacciones están rotulados con una etiqueta auto-explicativa, otras requieren un mayor conocimiento con respecto al funcionamiento interno de la compañía.
