@@ -1,12 +1,12 @@
-## Bridge and gateway services
+## Servicios de gateway y de puente
 
-Both bridges and gateways allow you to deposit and withdraw coins, but there is a difference in the amount of trust you need to place in the service providers.
+Ambos, los puentes y los gateways, le permiten depositar y retirar monedas, pero hay una diferencia entre la cantidad de confianza que debe colocar en los proveedores de servicio.
 
-### Bridges: trust-free model
+### Puentes: modelo libre de confianza
 
-A bridge service provides a way to deposit an amount of a crypto-currency other than BitShares, and in turn receive a SmartCoin equivalent. SmartCoins have no counterparty risk, so the only risk you experience when using a bridge is during the short time it takes to complete the transfer. This is better than a centralized exchange such as Poloniex, where you are always at risk of the exchange being hacked, going bankrupt, or experiencing any number of other issues.
+Un servicio de puente provee una ruta para depositar una cantidad de una criptomoneda diferente a BitShares, y en su lugar recibir su equivalente en SmartCoin. Las SmartCoins no poseen riesgo por contraparte, por lo que el único riesgo que usted puede experimentar al usar un puente es durante el pequeño tiempo que tarda en completarse la transferencia. Esto resulta mejor que un mercado de intercambios tal como Poloniex, donde usted siempre afronta el riesgo de que el mercado de intercambios centralizado sea "hackeado" o caiga en quiebra, entre otros problemas que puede experimentar.
 
-### Gateways: trust-based model
+### Gateways: modelo basado en confianza
 
 Gateways are basically equivalent to the standard exchange model where you depend on the solvency of the exchange to be able to redeem your coins. Generally gateways issue assets prefixed with their symbol, like OPEN, TRADE, or META. These assets are backed 100% by the real BTC or ETH or any other coin that people deposit with the gateways.
 
