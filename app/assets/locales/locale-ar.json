@@ -544,8 +544,8 @@
         "update": {
             "active_approvals_to_add": "Active approvals to add",
             "active_approvals_to_remove": "Active approvals to remove",
-            "owner_approvals_to_add": "Owner approvals to add",
-            "owner_approvals_to_remove": "Owner approvals to remove",
+            "owner_approvals_to_add": "موافقة المالك للإضافة",
+            "owner_approvals_to_remove": "موافقة المالك للإزالة",
             "key_approvals_to_add": "Key approvals to add",
             "key_approvals_to_remove": "Key approvals to remove"
         },
@@ -554,7 +554,7 @@
         "override_transfer": "نقل {amount} من {from} إلى {to} بترخيص {issuer}",
         "asset_issue": "إصدار {amount} إلى {to} باستخدام {account}",
         "asset_reserve": "Burn (reserve) {amount} using {account}",
-        "vesting_balance_withdraw": "Withdraw {amount} from vesting balance of {account}",
+        "vesting_balance_withdraw": "سحب {amount} من إسناد رصيد {account}",
         "feed_producer": "تحديث منتجي المستجدات للأصل {asset} باستخدام الحساب {account}",
         "call_order_update": "Change {account} {debtSymbol} debt by {debt} and collateral by {collateral}"
     },
