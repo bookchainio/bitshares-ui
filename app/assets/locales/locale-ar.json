@@ -633,7 +633,7 @@
             "account_update": "تحديث الحساب",
             "account_whitelist": "القائمة البيضاء للحساب",
             "account_upgrade": "ترقية الحساب",
-            "account_transfer": "Transfer Account",
+            "account_transfer": "نقل الحساب",
             "asset_create": "إنشاء الأصل",
             "asset_update": "تحديث الأصل",
             "asset_update_bitasset": "تحديث SmartCoin",
@@ -663,7 +663,7 @@
             "worker_create": "انشاء عامل",
             "custom": "Custom",
             "assert": "Assert operation",
-            "balance_claim": "Claim balance",
+            "balance_claim": "المطالبة بالرصيد",
             "override_transfer": "Override transfer",
             "transfer_to_blind": "Transfer to blinded account",
             "blind_transfer": "Blinded transfer",
@@ -671,7 +671,7 @@
             "asset_claim_fees": "Claim asset fees"
         },
         "feeGroups": {
-            "general": "General",
+            "general": "العام",
             "asset": "Asset-Specific",
             "market": "Market-Specific",
             "account": "Account-Specific",
@@ -683,24 +683,24 @@
             "price_per_kbyte": "Price per KByte Transaction Size",
             "basic_fee": "Basic Fee",
             "premium_fee": "Fee for Premium Names",
-            "membership_annual_fee": "Annual Membership",
-            "membership_lifetime_fee": "Lifetime Membership",
-            "symbol3": "Symbols with 3 Characters",
-            "symbol4": "Symbols with 4 Characters",
+            "membership_annual_fee": "العضوية السنوية",
+            "membership_lifetime_fee": "عضوية لمدى الحياة",
+            "symbol3": "الرموز ب 3 أحرف",
+            "symbol4": "الرموز ب 4 أحرف",
             "long_symbol": "Longer Symbols"
         },
         "whitelist_states": {
             "no_listing": "Unlisted",
-            "white_listed": "Whitelisted",
-            "black_listed": "Blacklisted",
-            "white_and_black_listed": "Whitelisted and blacklisted"
+            "white_listed": "أضيف إلى اللائحة البيضاء",
+            "black_listed": "أضيف إلى القائمة السوداء",
+            "white_and_black_listed": "في اللائحة البيضاء و القائمة السوداء"
         },
         "csv": "Export to .csv",
         "csv_tip": "Download history as comma separated .csv file"
     },
     "explorer": {
         "accounts": {
-            "title": "Accounts",
+            "title": "الحسابات",
             "filter": "Filter accounts",
             "filter_contacts": "Filter contacts"
         },
