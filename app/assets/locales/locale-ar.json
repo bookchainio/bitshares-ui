@@ -687,10 +687,10 @@
             "membership_lifetime_fee": "عضوية لمدى الحياة",
             "symbol3": "الرموز ب 3 أحرف",
             "symbol4": "الرموز ب 4 أحرف",
-            "long_symbol": "Longer Symbols"
+            "long_symbol": "الرموز الأطول"
         },
         "whitelist_states": {
-            "no_listing": "Unlisted",
+            "no_listing": "غير مدرج",
             "white_listed": "أضيف إلى اللائحة البيضاء",
             "black_listed": "أضيف إلى القائمة السوداء",
             "white_and_black_listed": "في اللائحة البيضاء و القائمة السوداء"
@@ -708,7 +708,7 @@
             "title": "Blockchain",
             "globals": "Global parameters",
             "recent": "Recent blocks",
-            "trx": "Transaction",
+            "trx": "المعاملة",
             "block_times": "Block times",
             "block_time": "Block time",
             "transactions": "# of transactions",
@@ -724,9 +724,9 @@
         "block": {
             "title": "Block",
             "id": "Block ID",
-            "witness": "Witness",
+            "witness": "الشهود",
             "count": "Transaction count",
-            "date": "Date",
+            "date": "التاريخ",
             "time": "Time",
             "previous": "Previous",
             "previous_secret": "Previous secret",
