@@ -81,6 +81,6 @@ whereas CEO.COMPANY and CFO.COMPANY have their own authorities. For instance, th
 * الرئيس التنفيذي الشركة لإنفاق الأموال
 * كبير الموظفين الماليين لإنفاق الأموال
 * الخازن جنبا إلى جنب مع المراقب للتحكم في إنفاق الأموال
-* المراقب المالي أو أمين الصندوق جنبا إلى جنب مع إدارة الضرائب والمحاسبة لإنفاق الأموال.
+* أمين الصندوق أو المراقب المالي جنبا إلى جنب مع إدارة الضرائب والمحاسبة لإنفاق الأموال.
 
 Hence, a try of arbitrary depth can be spanned in order to construct a flexible authority to reflect mostly any business use-case.
