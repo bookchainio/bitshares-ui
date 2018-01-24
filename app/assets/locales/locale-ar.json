@@ -1285,7 +1285,7 @@
             "no_gateway_available": "No gateway available",
             "select_gateway": "Please select a gateway operator",
             "address_generation_error": "Unable to generate address",
-            "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
+            "bts_transfer_description": "فمن السهل تلقي BTS من أي مكان. طالما يتم إرسال اسم الحساب الخاص بك سوف تظهر في محفظتك BTS. رمز ال QR هذا يحتوي أيضا على اسم الحساب الخاص بك.",
             "close": "Close",
             "cancel": "Cancel",
             "amount": "Amount to Deposit",
