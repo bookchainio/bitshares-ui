@@ -394,8 +394,8 @@
             "memo_key": "مفتاح المذكرة"
         },
         "upgrade": "ترقية الحساب",
-        "unfollow": "Remove contact",
-        "follow": "Add contact",
+        "unfollow": "إزالة جهة الاتصال",
+        "follow": "إضافة جهة الاتصال",
         "pay": "ارسل الى",
         "deposit": "إيداع BTS",
         "deposit_address": "عنوان الإيداع الخاص بك هو اسم الحساب الخاص بك",
@@ -702,7 +702,7 @@
         "accounts": {
             "title": "الحسابات",
             "filter": "Filter accounts",
-            "filter_contacts": "Filter contacts"
+            "filter_contacts": "تصفية جهات الاتصال"
         },
         "blocks": {
             "title": "Blockchain",
@@ -900,7 +900,7 @@
         "general": "General",
         "wallet": "Local Wallet",
         "accounts": "Accounts",
-        "no_accounts": "This local wallet does not contain any accounts.",
+        "no_accounts": "لا تحتوي هذه المحفظة المحلية على أية حسابات.",
         "password": "Password",
         "backup": "Backup",
         "restore": "Restore/Import",
@@ -1088,7 +1088,7 @@
         "change_wallet": "Change Local Wallet",
         "wallet_created": "Local Wallet Created",
         "create_wallet": "Create new local wallet",
-        "create_importkeys_text": "In order to import keys, you first need to create a local wallet to contain the keys. Complete the dialog below to create a new local wallet.",
+        "create_importkeys_text": "من أجل استيراد المفاتيح، تحتاج أولا إلى إنشاء محفظة محلية لاحتواء هذه المفاتيح. أكمل إستطلاع أدناه لإنشاء محفظة محلية جديدة.",
         "create_wallet_backup": "Create new wallet from backup",
         "import_bts1": "Import from BitShares 0.9.3c",
         "setup_wallet": "Setup your local wallet",
@@ -1156,7 +1156,7 @@
         "need_backup": "This local wallet needs a backup",
         "noneed_backup": "No backup is needed",
         "restore": "Restore Local Wallet from Backup",
-        "create_text": "The BitShares local wallet is stored in your browser, it is not stored in the cloud. A wallet can contain multiple accounts and can be easily transferred between browsers and computers using a backup file.",
+        "create_text": "سيتم استخدام كلمة المرور هذه لإنشاء محفظة BitShares محلية جديدة لك، والتي سيتم تخزينها محليا فقط في المتصفح الخاص بك. محفظة BitShares يمكن أن تحتوي على حسابات متعددة ويمكن نقلها بسهولة من بين المتصفحات وأجهزة الكمبيوتر باستخدام ملف النسخ الاحتياطي.",
         "account_create_wallet_text": "سيتم استخدام كلمة المرور هذه لإنشاء محفظة BitShares محلية جديدة لك، والتي سيتم تخزينها محليا فقط في المتصفح الخاص بك. محفظة BitShares يمكن أن تحتوي على حسابات متعددة ويمكن نقلها بسهولة بين المتصفحات وأجهزة الكمبيوتر باستخدام ملف النسخ الاحتياطي.",
         "create_account_text": "The account name you choose needs to be unique, as it will be registered publicly on the blockchain and will be your identifer for any transactions you make.",
         "first_account_paid": "Since this is your first account, a faucet will pay the registration fee for you.",
@@ -1435,7 +1435,7 @@
         "unavailable_OPEN": "The OpenLedger Gateway is down or not responding",
         "unavailable_RUDEX": "The RuDEX Gateway is down or not responding",
         "unavailable_TRADE": "The Blocktrades Bridge is down or not responding",
-        "contact_TRADE": "Contact Blocktrades",
+        "contact_TRADE": "جهة الاتصال Blocktrades",
         "over_limit": "Limit Reached",
         "agreement": {
             "hint": "I have read and agreed to",
