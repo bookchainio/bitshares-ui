@@ -2,7 +2,7 @@
 
 ## Support
 
-> If you have an issue related to a Gateway provider, please be sure to contact them directly. See Gateways in the left menu.
+> إذا كان لديك مسألة تتصل بالبوابة، يرجى التأكد من الاتصال بهم مباشرة. انظر إلى البوابات في القائمة اليسرى.
 
 ### Bitshares Chat
 
