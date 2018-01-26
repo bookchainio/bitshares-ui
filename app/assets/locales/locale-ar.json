@@ -386,7 +386,7 @@
             "line": "Line",
             "save_finish": "انقر فوق حفظ للإنهاء",
             "threshold": "الأصوات اللازمة لتنشيط",
-            "missing": "Needed"
+            "missing": "مطلوب"
         },
         "options": {
             "num_witnesses": "الشهود المرغوبون",
@@ -432,7 +432,7 @@
             "premium_name_faucet": "هذا اسم مميز وهو غير مدعوم من طرف هذا الصنبور. الرجاء إدخال اسم عادي يحتوي على شرطة واحدة على الأقل، أو رقم أو بدون حروف علة.",
             "premium_name_warning": "هذا اسم مميز وهو أكثر تكلفة من اسم يحتوي على شرطة (-) أو عدد."
         },
-        "propose_from": "Propose From",
+        "propose_from": "اقتراح من",
         "settle": "Settle",
         "no_orders": "لا توجد أوامر مفتوحة",
         "asset_details": "تفاصيل الأصول",
@@ -497,7 +497,7 @@
         "proposal_delete": "{account} حذف المعاملة المقترحة",
         "fill_order_buy": "{account} اشترى {amount} ب {price}",
         "fill_order_sell": "{account} باع {amount} ب {price}",
-        "vesting_balance_withdraw": "{account} withdrew vesting balance of {amount}",
+        "vesting_balance_withdraw": "{account} سحب رصيد الإستحقاق {amount}",
         "balance_claim": "{account} claimed a balance of {amount}",
         "publish_feed": "{account} published feed price of {price}",
         "set_proxy": "{account} تعيين {proxy} كبروكسي التصويت الخاص به",
@@ -538,7 +538,7 @@
         "expires": "انتهاء مدة الصلاحية",
         "update_account": "تحديث بيانات الحساب ل {account}",
         "status": "Status",
-        "asset_create": "Create the asset %(asset)s using the account {account}",
+        "asset_create": "إنشاء الأصل %(asset)s باستخدام الحساب {account}",
         "asset_update": "Update the asset {asset} using the account {account}",
         "asset_settle": "Request a settlement of",
         "update": {
