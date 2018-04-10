@@ -1,4 +1,9 @@
 {
+    "page404": {
+        "page_not_found_title": "",
+        "page_not_found_subtitle": "",
+        "home": ""
+    },
     "counterpart": {
         "formats": {
             "date": {
@@ -17,11 +22,17 @@
         "es": "Español",
         "it": "Italiano",
         "tr": "Turkish",
-        "ru": "Русский"
+        "ru": "Русский",
+        "ja": ""
+    },
+    "global": {
+        "confirm": "",
+        "cancel": "",
+        "help": ""
     },
     "incognito": {
-        "no_support": "当前比特股钱包依赖于本地存储和IndexedDB，在使用隐身浏览时会导致不稳定。我们建议您使用常规浏览方式。",
-        "ignore": "我了解，并继续。"
+        "mode": "",
+        "warning": ""
     },
     "sync_fail": {
         "title": "无法与API服务器同步连接",
@@ -32,6 +43,7 @@
         "title": "BitShares (石墨烯)钱包",
         "account": "账户",
         "dashboard": "概览",
+        "deposit-withdraw": "",
         "explorer": "浏览",
         "exchange": "交易",
         "payments": "转账",
@@ -42,6 +54,7 @@
         "current": "当前账户",
         "create_account": "创建账户",
         "create_asset": "创建资产",
+        "collateral_ratio": "",
         "update_asset": "更新资产",
         "lock": "锁定钱包",
         "unlock": "解锁",
@@ -54,10 +67,15 @@
         "account_notify": "当前活跃账户为 %(account)s",
         "account_value": "账户价值"
     },
+    "browser_notification_messages": {
+        "money_received_title": "",
+        "money_received_body": ""
+    },
     "tooltip": {
         "call_limit": "市场中最少抵押率头寸的平仓价",
         "margin_price": "这是触发平仓的最大价格。也被称为挤压价格。",
         "settle_price": "清算单执行时将使用的价格",
+        "feed_price": "",
         "sign_owner": "如果你是账户的所有人，请检查签名是否正确。这只有在你使用所有者账户，而该账户未包括与活跃权限时需要关注。",
         "latest_price": "市场最近的成交价",
         "no_price": "未找到该资产最近的成交价来评估价值",
@@ -95,9 +113,42 @@
         "follow_user_add": "单击以关注此用户",
         "gateway": "网关以100%实际资产支持存款。"
     },
+    "walkthrough": {
+        "language_flag": "",
+        "restore_account": "",
+        "create_cloud_wallet": "",
+        "create_local_wallet": "",
+        "switch_button": "",
+        "favourite_button": "",
+        "depth_chart": "",
+        "price_chart": "",
+        "chart_tool_zoom": "",
+        "chart_tool_duration": "",
+        "chart_tool_indicators": "",
+        "buy_form": "",
+        "sell_form": "",
+        "buy_orders": "",
+        "sell_orders": "",
+        "my_markets_tab": "",
+        "find_markets_tab": "",
+        "next_label": "",
+        "prev_label": "",
+        "skip_label": "",
+        "done_label": ""
+    },
     "propose": "提交",
     "cancel": "取消",
     "account": {
+        "confirm_asset_modal": {
+            "header": "",
+            "are_you_sure": ""
+        },
+        "optional": {
+            "formatter": "",
+            "restore_link": "",
+            "restore_form": ""
+        },
+        "search": "",
         "new_user": "新用户吗？",
         "existing_user": "老用户",
         "restore": "还原",
@@ -133,10 +184,12 @@
         "total_value": "市值",
         "show_hidden": "显示已忽略资产",
         "hide_hidden": "隐藏已忽略资产",
+        "show_visual": "",
         "ignore": "忽略",
         "unignore": "取消忽略",
         "show_ignored": "显示已忽略账户",
         "hide_ignored": "显示已忽略账户",
+        "hidden_accounts_row": "",
         "accounts": "账户",
         "contacts": "往来",
         "estimate_value": "账户价值估算",
@@ -157,6 +210,12 @@
             "whitelist_authorities": "白名单权限",
             "blacklist_authorities": "黑名单权限"
         },
+        "transactions": {
+            "id": "",
+            "type": "",
+            "info": "",
+            "time": ""
+        },
         "vesting": {
             "title": "待解冻余额",
             "balance_number": "余额 #%(id)s",
@@ -164,6 +223,7 @@
             "explain": "待解冻金额包含通过推荐计划返现的手续费支出，以及通过预算计划获得的收入。待解冻金额在解冻期间组建释放，直到所有待解冻金额全部释放。"
         },
         "member": {
+            "suspected_scammer": "",
             "stats": "资料",
             "join": "加入于",
             "registrar": "注册人",
@@ -197,6 +257,7 @@
         },
         "user_issued_assets": {
             "symbol": "资产代码",
+            "id": "",
             "name": "资产名称",
             "description": "描述",
             "max_supply": "最大供给量",
@@ -256,13 +317,17 @@
             "feed_producers": "喂价提供商",
             "add_feed": "添加新的喂价提供商",
             "feed_not_allowed_1": "无法在见证人或者委员会喂价资产上设置喂价提供商",
-            "feed_not_allowed_2": "请禁用 \"允许证人提供喂价\" 和 \"允许委员会成员提供喂价\" 的标志，以便允许手动定义喂价提供商。"
+            "feed_not_allowed_2": "请禁用 \"允许证人提供喂价\" 和 \"允许委员会成员提供喂价\" 的标志，以便允许手动定义喂价提供商。",
+            "too_many_feed": "",
+            "conflict_feed": ""
         },
         "connections": {
             "known": "识别为",
             "black": "被屏蔽"
         },
         "perm": {
+            "save": "",
+            "save_all": "",
             "active": "活跃权限",
             "owner": "账户权限",
             "memo_key": "备注密钥",
@@ -472,7 +537,8 @@
             "noPoolBalance": "这个资产没有充足的手续费池余额用来支付手续费了，请联系资产所有者或换一种资产。",
             "minimum_amount": "最小提现金额：%(amount)s %(symbol)s",
             "memo_error": "转账备注解析错误，请稍候再试。",
-            "precision": "Minimum withdraw precision value: %(precision)s"
+            "memo_length_error": "",
+            "precision": ""
         },
         "back": "返回",
         "confirm": "确认发送",
@@ -750,6 +816,7 @@
             "max_margin_period_sec": "Max margin period (s)",
             "call_limit": "Call limit",
             "short_limit": "Short limit",
+            "feed_price": "",
             "settlement_price": "喂价",
             "go_to": "Go to block"
         },
@@ -780,7 +847,10 @@
                 "title": "喂价",
                 "settlement_price": "喂价",
                 "maintenance_collateral_ratio": "维持保证金比例",
-                "maximum_short_squeeze_ratio": "强制平仓比例上限"
+                "maximum_short_squeeze_ratio": "强制平仓比例上限",
+                "global_settlement_price": "",
+                "settlement_delay": "",
+                "force_settlement_offset": ""
             },
             "fee_pool": {
                 "title": "手续费资金池",
@@ -897,6 +967,10 @@
         "midnightTheme": "午夜",
         "olDarkTheme": "OpenLedger黑",
         "reset": "恢复默认值",
+        "browser_notifications": "",
+        "browser_notifications_allow": "",
+        "browser_notifications_additional_transfer_to_me": "",
+        "browser_notifications_disabled_by_browser_notify": "",
         "general": "通用设置",
         "wallet": "钱包",
         "accounts": "账户",
@@ -905,6 +979,10 @@
         "backup": "备份",
         "restore": "恢复/导入",
         "access": "接入点",
+        "automatic": "",
+        "ping": "",
+        "reset_text": "",
+        "reset_text_description": "",
         "general_text": "调整基本设置参数。",
         "wallet_text": "管理控制钱包。",
         "accounts_text": "我的账户列表。",
@@ -938,13 +1016,19 @@
         "active_node": "活跃节点",
         "node_up": "上",
         "node_down": "下",
+        "switch": "",
         "available_nodes": "可用节点",
+        "hidden_nodes": "",
+        "my_nodes": "",
+        "show": "",
+        "hide": "",
         "add_api": "添加API服务器",
         "remove_api": "移除API服务器",
         "remove": "删除",
         "activate": "激活",
         "confirm_remove": "您确定要将%(name)s 从您的联系人列表中删除？",
         "valid_node_url": "节点URL必需以ws://或wss://开头",
+        "node_already_exists": "",
         "connection_error": "无法连接到 API 节点 %(url)s, 请撤回并使用已知可用节点",
         "low_latency": "低延迟",
         "medium_latency": "中延迟",
@@ -963,10 +1047,12 @@
         "unsynced": "未同步",
         "disconnected": "连接断开",
         "connected": "已连接",
-        "latency": "延迟"
+        "latency": "延迟",
+        "advanced_settings": ""
     },
     "exchange": {
-        "trading_pair": "Trading pair",
+        "buysell_formatter": "",
+        "trading_pair": "",
         "chart_options": {
             "tools": "工具",
             "title": "指标",
@@ -986,6 +1072,7 @@
             "volume_title": "交易量指标"
         },
         "market": "交易对",
+        "feed_price": "",
         "price_history": "价格历史",
         "order_depth": "市场深度",
         "history": "交易历史",
@@ -1008,9 +1095,13 @@
         "spread": "买卖价差",
         "quantity": "数量",
         "buy": "买入",
+        "deposit": "",
+        "borrow": "借入",
+        "borrow_short": "",
         "buy_min": "至少买",
         "sell": "卖出",
         "receive": "获得",
+        "flip": "",
         "vertical": "垂直布局",
         "horizontal": "水平布局",
         "market_name": "市场名称",
@@ -1041,7 +1132,6 @@
         "no_data": "暂无数据",
         "time": "时间间隔",
         "zoom": "缩放",
-        "borrow": "借入",
         "no_balance": "余额不足",
         "invalid_amount": "数量错误",
         "invalid_price": "价格错误",
@@ -1057,14 +1147,20 @@
         "featured": "热门市场",
         "new": "新增",
         "market_frozen": "%(asset)s 资产发行人已禁用该资产的市场交易",
-        "show_star_1": "显示",
-        "show_star_2": "仅",
+        "show_only_star_formatter": "",
+        "filter": "",
         "quote": "报价货币:",
         "search": "搜索更多交易对",
         "price_market": "市场价格",
         "description": "描述",
         "buy_description": "为%(quoteAsset)s %(quoteName)s买%(baseAsset)s %(baseName)s",
         "sell_description": "为%(quoteAsset)s %(quoteName)s卖%(baseAsset)s %(baseName)s"
+    },
+    "dashboard": {
+        "starred_markets": "",
+        "top_markets": "",
+        "featured_markets": "",
+        "table_empty": ""
     },
     "fees": {
         "title": "费率表"
@@ -1258,9 +1354,17 @@
             "below": "保证金率低于维持保证金要求",
             "close": "你的抵押率已接近最低抵押率 %(mr)s ，这意味着如果价格继续下跌你的头寸有可能被强制平仓。",
             "collateral": "可用保证金不足"
-        }
+        },
+        "use_max": "",
+        "pay_max_debt": "",
+        "maximize_debt_set_ratio_slider": ""
     },
     "modal": {
+        "buy": {
+            "title": "",
+            "asset": "",
+            "bridge": ""
+        },
         "send": {
             "header": "从<span class=\"send-name\">%(fromName)s</span>发送",
             "header_propose": "建议从<span class=\"send-name\">%(fromName)s</span>发送"
@@ -1273,17 +1377,27 @@
         "withdraw": {
             "amount": "提现金额",
             "address": "提现到地址",
-            "submit": "提现"
+            "bitshares_account": "",
+            "submit": "提现",
+            "quantity": "",
+            "estimated_value": "",
+            "memo": "",
+            "fee": "",
+            "gateway_fee": "",
+            "withdraw": "",
+            "cancel": "",
+            "available": "",
+            "submit_beta": "",
+            "no_estimate": "",
+            "header": "",
+            "no_gateways": "",
+            "address_not_valid": "",
+            "cannot_cover": ""
         },
         "deposit": {
             "header": "存到%(account_name)s",
             "header_short": "存款",
             "asset": "资产",
-            "gateway": "网关",
-            "disabled": "网关服务被禁用",
-            "wallet_error": "网关钱包被禁用",
-            "no_gateway_available": "没有可用网关",
-            "select_gateway": "请选择一个网关操作员",
             "address_generation_error": "无法生成地址",
             "bts_transfer_description": "从任何地方接收BTS都很容易。只要BTS发送到你的帐户名，它就会显示在你的钱包。 此QR码包含你的帐户名。",
             "close": "关闭",
@@ -1291,6 +1405,13 @@
             "amount": "充值数量",
             "submit": "充值",
             "submit_beta": "存款(beta)"
+        },
+        "deposit_withdraw": {
+            "gateway": "",
+            "disabled": "",
+            "wallet_error": "",
+            "no_gateway_available": "",
+            "select_gateway": ""
         },
         "convert": {
             "amount": "要转换的金额",
@@ -1351,9 +1472,14 @@
     },
     "gateway": {
         "deposit_notice_delay": "(每五分钟可以产生新地址)",
+        "min_deposit_warning_amount": "",
+        "min_deposit_warning_asset": "",
+        "limit_withdraw_asset": "",
+        "limit_withdraw_asset_none": "",
+        "limit_withdraw_asset_min": "",
+        "limit_withdraw_asset_max": "",
         "copy_memo": "复制备注",
         "please_generate_address": "请获得新地址",
-        "generate_new": "生成新地址",
         "copy_address": "复制地址",
         "use_copy_button": "请使用复制按钮复制这个页面的地址或者备注。",
         "fee": "网关手续费",
@@ -1372,6 +1498,7 @@
         "service": "转账服务",
         "bridge": "桥接",
         "gateway": "承兑商",
+        "fiat": "",
         "symbol": "资产",
         "asset": "资产",
         "website": "访问网站",
@@ -1383,6 +1510,7 @@
         "withdraw_placeholder": "请输入您的%(asset)s 地址",
         "balance": "余额",
         "generate": "生成地址",
+        "generate_new": "生成新地址",
         "generate_new_memo": "获取新备注",
         "deposit": "充值",
         "withdraw": "提现",
@@ -1443,7 +1571,10 @@
             "register": "确认",
             "notice": "未同意用户协议"
         },
+        "address": "",
+        "memo": "",
         "deposit_warning": "禁止充值 %(asset)s 之外的其他资产，任何非 %(asset)s 资产充值将不可找回",
+        "deposit_warning_memo": "",
         "time": "创建时间",
         "info": "交易信息",
         "status": "状态",
@@ -1467,7 +1598,9 @@
             "transfering": "转账确认中",
             "success": "充值成功",
             "fail": "充值失败"
-        }
+        },
+        "asset_search_deposit": "",
+        "asset_search_withdraw": ""
     },
     "trx_error": {
         "expire": "你的交易账单确认超时，请稍后尝试。"
@@ -1487,19 +1620,35 @@
             "fetch": "对不起，获取新闻时出错"
         }
     },
+    "openledger": {
+        "header_fiat": "",
+        "status": "",
+        "retry": "",
+        "loading": "",
+        "refresh_transaction_history": "",
+        "header_transaction_history": "",
+        "show_transaction_history": "",
+        "withdraw_amount": "",
+        "withdraw_none": "",
+        "deposit_amount": "",
+        "deposit_details": "",
+        "deposit_none": ""
+    },
     "winex": {
         "gateway": {
-            "support_block": "For support, please contact Winex at:",
-            "fee": "Gateway Fee",
-            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+            "support_block": "",
+            "fee": "",
+            "deposit_warning": "",
+            "click_getaddress": "",
+            "get_deposit_address": ""
         },
         "withdraw": {
-            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
-            "finalNumber": "Actual amount ：%(final_number)s"
+            "winAmount": "",
+            "finalNumber": ""
         },
         "transfer": {
             "errors": {
-                "minWithdraw": "Minimum amount：%(min_amount)s"
+                "minWithdraw": ""
             }
         }
     }
