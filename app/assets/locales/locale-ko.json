@@ -1,4 +1,9 @@
 {
+    "page404": {
+        "page_not_found_title": "",
+        "page_not_found_subtitle": "",
+        "home": ""
+    },
     "counterpart": {
         "formats": {
             "date": {
@@ -17,11 +22,17 @@
         "es": "Español",
         "it": "Italiano",
         "tr": "Turkish",
-        "ru": "Русский"
+        "ru": "Русский",
+        "ja": ""
+    },
+    "global": {
+        "confirm": "",
+        "cancel": "",
+        "help": ""
     },
     "incognito": {
-        "no_support": "This BitShares Wallet relies on Local Storage and IndexedDB which are not persistent when using Incognito Browsing. We recommend using a regular browsing session.",
-        "ignore": "I understand, continue."
+        "mode": "",
+        "warning": ""
     },
     "sync_fail": {
         "title": "Failed to sync with the API server",
@@ -32,6 +43,7 @@
         "title": "비트쉐어 2.0",
         "account": "계정",
         "dashboard": "전체보기",
+        "deposit-withdraw": "",
         "explorer": "탐색기",
         "exchange": "거래소",
         "payments": "전송",
@@ -42,6 +54,7 @@
         "current": "현재 계정",
         "create_account": "계정 생성",
         "create_asset": "자산 생성",
+        "collateral_ratio": "",
         "update_asset": "Update Asset",
         "lock": "잠금",
         "unlock": "잠금해제",
@@ -54,10 +67,15 @@
         "account_notify": "The active account is now %(account)s",
         "account_value": "계정 값"
     },
+    "browser_notification_messages": {
+        "money_received_title": "",
+        "money_received_body": ""
+    },
     "tooltip": {
         "call_limit": "This is the call price of the least collateralized margin position in the market.",
         "margin_price": "This is the maximum price that a margin called position can be made to pay. It also called the Squeeze Price.",
         "settle_price": "This is the price at which settle orders will execute.",
+        "feed_price": "",
         "sign_owner": "If you are the owner of this account, please check this to make sure the transaction gets signed properly. This is only necessary if you are using the owner account and that account is not included in the active permissions.",
         "latest_price": "This is the latest price seen in this market.",
         "no_price": "There's no recent price available for this asset that can be used to estimate its value.",
@@ -95,9 +113,42 @@
         "follow_user_add": "Click to Follow this user",
         "gateway": "Gateways back desposits by 100% real assets"
     },
+    "walkthrough": {
+        "language_flag": "",
+        "restore_account": "",
+        "create_cloud_wallet": "",
+        "create_local_wallet": "",
+        "switch_button": "",
+        "favourite_button": "",
+        "depth_chart": "",
+        "price_chart": "",
+        "chart_tool_zoom": "",
+        "chart_tool_duration": "",
+        "chart_tool_indicators": "",
+        "buy_form": "",
+        "sell_form": "",
+        "buy_orders": "",
+        "sell_orders": "",
+        "my_markets_tab": "",
+        "find_markets_tab": "",
+        "next_label": "",
+        "prev_label": "",
+        "skip_label": "",
+        "done_label": ""
+    },
     "propose": "Propose",
     "cancel": "Cancel",
     "account": {
+        "confirm_asset_modal": {
+            "header": "",
+            "are_you_sure": ""
+        },
+        "optional": {
+            "formatter": "",
+            "restore_link": "",
+            "restore_form": ""
+        },
+        "search": "",
         "new_user": "New user?",
         "existing_user": "Existing user",
         "restore": "Restore",
@@ -133,10 +184,12 @@
         "total_value": "Total value",
         "show_hidden": "Hidden",
         "hide_hidden": "Active",
+        "show_visual": "",
         "ignore": "Hide",
         "unignore": "Unhide",
         "show_ignored": "Show hidden accounts",
         "hide_ignored": "Hide hidden accounts",
+        "hidden_accounts_row": "",
         "accounts": "Accounts",
         "contacts": "Contacts",
         "estimate_value": "Estimated Account value",
@@ -157,6 +210,12 @@
             "whitelist_authorities": "Whitelist authority",
             "blacklist_authorities": "Blacklist authority"
         },
+        "transactions": {
+            "id": "",
+            "type": "",
+            "info": "",
+            "time": ""
+        },
         "vesting": {
             "title": "Vesting balances",
             "balance_number": "Balance #%(id)s",
@@ -164,6 +223,7 @@
             "explain": "Vesting balances contain any fees earned through the referral program or from worker pay, for example. They have a certain vesting period and are continually unlocked during that vesting period until all of the balances are available"
         },
         "member": {
+            "suspected_scammer": "",
             "stats": "회원정보",
             "join": "가입일",
             "registrar": "등록인",
@@ -197,6 +257,7 @@
         },
         "user_issued_assets": {
             "symbol": "약자",
+            "id": "",
             "name": "자산 이름",
             "description": "설명",
             "max_supply": "최대 공급량",
@@ -256,13 +317,17 @@
             "feed_producers": "Feed producers",
             "add_feed": "Add new feed producer",
             "feed_not_allowed_1": "Cannot set feed producers on a witness- or committee-fed asset",
-            "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers"
+            "feed_not_allowed_2": "Please disable the flags called 'Allow witnesses to provide feeds' and 'Allow committee members to provide feeds' in order to allow manual definition of feed producers",
+            "too_many_feed": "",
+            "conflict_feed": ""
         },
         "connections": {
             "known": "나와 연결됨",
             "black": "나를 차단함"
         },
         "perm": {
+            "save": "",
+            "save_all": "",
             "active": "활성화된 사용권한",
             "owner": "소유자 사용권한",
             "memo_key": "Memo key",
@@ -472,7 +537,8 @@
             "noPoolBalance": "That asset has an insufficient fee pool balance to pay the fees with. Please inform the asset owner or select another asset for paying fees.",
             "minimum_amount": "Minimum withdraw amount: %(amount)s %(symbol)s",
             "memo_error": "The transfer memo parsing error, please try again later.",
-            "precision": "Minimum withdraw precision value: %(precision)s"
+            "memo_length_error": "",
+            "precision": ""
         },
         "back": "뒤로가기",
         "confirm": "확인",
@@ -750,6 +816,7 @@
             "max_margin_period_sec": "Max margin period (s)",
             "call_limit": "콜 한도",
             "short_limit": "공매도 한도",
+            "feed_price": "",
             "settlement_price": "강제청산 가격",
             "go_to": "Go to block"
         },
@@ -780,7 +847,10 @@
                 "title": "Price Feed",
                 "settlement_price": "청산 가격",
                 "maintenance_collateral_ratio": "Maintenance collateral ratio",
-                "maximum_short_squeeze_ratio": "Maximum short squeeze ratio"
+                "maximum_short_squeeze_ratio": "Maximum short squeeze ratio",
+                "global_settlement_price": "",
+                "settlement_delay": "",
+                "force_settlement_offset": ""
             },
             "fee_pool": {
                 "title": "Fee Pool",
@@ -897,6 +967,10 @@
         "midnightTheme": "Midnight",
         "olDarkTheme": "Openledger dark",
         "reset": "Reset settings",
+        "browser_notifications": "",
+        "browser_notifications_allow": "",
+        "browser_notifications_additional_transfer_to_me": "",
+        "browser_notifications_disabled_by_browser_notify": "",
         "general": "General",
         "wallet": "Local Wallet",
         "accounts": "Accounts",
@@ -905,6 +979,10 @@
         "backup": "Backup",
         "restore": "Restore/Import",
         "access": "Access",
+        "automatic": "",
+        "ping": "",
+        "reset_text": "",
+        "reset_text_description": "",
         "general_text": "Adjust the basic settings.",
         "wallet_text": "Control the details of your local wallet.",
         "accounts_text": "Your accounts list.",
@@ -938,13 +1016,19 @@
         "active_node": "Active Node",
         "node_up": "UP",
         "node_down": "DOWN",
+        "switch": "",
         "available_nodes": "Available Nodes",
+        "hidden_nodes": "",
+        "my_nodes": "",
+        "show": "",
+        "hide": "",
         "add_api": "Add Node",
         "remove_api": "Remove Node",
         "remove": "Remove",
         "activate": "Activate",
         "confirm_remove": "Are you sure you want to remove %(name)s from your available nodes?",
         "valid_node_url": "Node URL must begin with ws:// or wss://",
+        "node_already_exists": "",
         "connection_error": "Unable to connect to API node %(url)s, falling back to known working nodes",
         "low_latency": "Low latency",
         "medium_latency": "Medium latency",
@@ -963,10 +1047,12 @@
         "unsynced": "Out of sync",
         "disconnected": "Disconnected",
         "connected": "Connected",
-        "latency": "Latency"
+        "latency": "Latency",
+        "advanced_settings": ""
     },
     "exchange": {
-        "trading_pair": "Trading pair",
+        "buysell_formatter": "",
+        "trading_pair": "",
         "chart_options": {
             "tools": "Tools",
             "title": "Indicators",
@@ -986,6 +1072,7 @@
             "volume_title": "Volume indicators"
         },
         "market": "Market",
+        "feed_price": "",
         "price_history": "과거 시세",
         "order_depth": "주문 깊이",
         "history": "Market trades",
@@ -1008,9 +1095,13 @@
         "spread": "스프레드",
         "quantity": "Quantity",
         "buy": "매수",
+        "deposit": "",
+        "borrow": "Borrow",
+        "borrow_short": "",
         "buy_min": "Buy at least",
         "sell": "매도",
         "receive": "Receive",
+        "flip": "",
         "vertical": "수직시세",
         "horizontal": "수평시세",
         "market_name": "종목명",
@@ -1041,7 +1132,6 @@
         "no_data": "No data",
         "time": "Candlesticks",
         "zoom": "Zoom",
-        "borrow": "Borrow",
         "no_balance": "Insufficient balance",
         "invalid_amount": "Invalid amount",
         "invalid_price": "Invalid price",
@@ -1057,14 +1147,20 @@
         "featured": "Top Markets",
         "new": "New",
         "market_frozen": "The owner of %(asset)s has disabled trading in this market.",
-        "show_star_1": "Show",
-        "show_star_2": "only",
+        "show_only_star_formatter": "",
+        "filter": "",
         "quote": "Quote currency:",
         "search": "Search for more markets here",
         "price_market": "Market Price",
         "description": "Description",
         "buy_description": "Buy %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s",
         "sell_description": "Sell %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s"
+    },
+    "dashboard": {
+        "starred_markets": "",
+        "top_markets": "",
+        "featured_markets": "",
+        "table_empty": ""
     },
     "fees": {
         "title": "Fee Schedule"
@@ -1258,9 +1354,17 @@
             "below": "Your collateral ratio is below %(mr)s which is not allowed.",
             "close": "Your collateral ratio is close to %(mr)s which means this position is in danger of being margin called if the price drops.",
             "collateral": "Insufficient collateral balance"
-        }
+        },
+        "use_max": "",
+        "pay_max_debt": "",
+        "maximize_debt_set_ratio_slider": ""
     },
     "modal": {
+        "buy": {
+            "title": "",
+            "asset": "",
+            "bridge": ""
+        },
         "send": {
             "header": "Send from <span class=\"send-name\">%(fromName)s</span>",
             "header_propose": "Propose Send from <span class=\"send-name\">%(fromName)s</span>"
@@ -1273,17 +1377,27 @@
         "withdraw": {
             "amount": "Amount to Withdraw",
             "address": "Withdraw to Address",
-            "submit": "Withdraw"
+            "bitshares_account": "",
+            "submit": "Withdraw",
+            "quantity": "",
+            "estimated_value": "",
+            "memo": "",
+            "fee": "",
+            "gateway_fee": "",
+            "withdraw": "",
+            "cancel": "",
+            "available": "",
+            "submit_beta": "",
+            "no_estimate": "",
+            "header": "",
+            "no_gateways": "",
+            "address_not_valid": "",
+            "cannot_cover": ""
         },
         "deposit": {
             "header": "Deposit to %(account_name)s",
             "header_short": "Deposit",
             "asset": "Asset",
-            "gateway": "Gateway",
-            "disabled": "Gateway service disabled",
-            "wallet_error": "Gateway wallet disabled",
-            "no_gateway_available": "No gateway available",
-            "select_gateway": "Please select a gateway operator",
             "address_generation_error": "Unable to generate address",
             "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "close": "Close",
@@ -1291,6 +1405,13 @@
             "amount": "Amount to Deposit",
             "submit": "Deposit",
             "submit_beta": "Deposit (beta)"
+        },
+        "deposit_withdraw": {
+            "gateway": "",
+            "disabled": "",
+            "wallet_error": "",
+            "no_gateway_available": "",
+            "select_gateway": ""
         },
         "convert": {
             "amount": "Amount to Convert",
@@ -1351,9 +1472,14 @@
     },
     "gateway": {
         "deposit_notice_delay": "(new address can be generated once per 5 minutes)",
+        "min_deposit_warning_amount": "",
+        "min_deposit_warning_asset": "",
+        "limit_withdraw_asset": "",
+        "limit_withdraw_asset_none": "",
+        "limit_withdraw_asset_min": "",
+        "limit_withdraw_asset_max": "",
         "copy_memo": "Copy memo",
         "please_generate_address": "Please, get new address ",
-        "generate_new": "Get new address",
         "copy_address": "Copy address",
         "use_copy_button": "PLEASE USE COPY BUTTON TO MAKE COPY OF ADDRESS OR MEMO ON THIS PAGE",
         "fee": "Gateway fee",
@@ -1372,6 +1498,7 @@
         "service": "Transfer Service",
         "bridge": "Bridge",
         "gateway": "Gateway",
+        "fiat": "",
         "symbol": "Symbol",
         "asset": "Asset",
         "website": "Visit the website",
@@ -1383,6 +1510,7 @@
         "withdraw_placeholder": "Please enter your %(asset)s address",
         "balance": "Balance",
         "generate": "Generate",
+        "generate_new": "Get new address",
         "generate_new_memo": "Get new memo",
         "deposit": "Deposit",
         "withdraw": "Withdraw",
@@ -1443,7 +1571,10 @@
             "register": "Agree",
             "notice": "Please check the agreement to continue"
         },
+        "address": "",
+        "memo": "",
         "deposit_warning": "Sending any other currency to the %(asset)s address will result in the loss of your deposit",
+        "deposit_warning_memo": "",
         "time": "Time",
         "info": "Info",
         "status": "Status",
@@ -1467,7 +1598,9 @@
             "transfering": "transfering",
             "success": "success",
             "fail": "fail"
-        }
+        },
+        "asset_search_deposit": "",
+        "asset_search_withdraw": ""
     },
     "trx_error": {
         "expire": "Your transaction has expired without being confirmed, please try again later."
@@ -1487,19 +1620,35 @@
             "fetch": "Ops... Something went wrong fetching the news"
         }
     },
+    "openledger": {
+        "header_fiat": "",
+        "status": "",
+        "retry": "",
+        "loading": "",
+        "refresh_transaction_history": "",
+        "header_transaction_history": "",
+        "show_transaction_history": "",
+        "withdraw_amount": "",
+        "withdraw_none": "",
+        "deposit_amount": "",
+        "deposit_details": "",
+        "deposit_none": ""
+    },
     "winex": {
         "gateway": {
-            "support_block": "For support, please contact Winex at:",
-            "fee": "Gateway Fee",
-            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+            "support_block": "",
+            "fee": "",
+            "deposit_warning": "",
+            "click_getaddress": "",
+            "get_deposit_address": ""
         },
         "withdraw": {
-            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
-            "finalNumber": "Actual amount ：%(final_number)s"
+            "winAmount": "",
+            "finalNumber": ""
         },
         "transfer": {
             "errors": {
-                "minWithdraw": "Minimum amount：%(min_amount)s"
+                "minWithdraw": ""
             }
         }
     }
