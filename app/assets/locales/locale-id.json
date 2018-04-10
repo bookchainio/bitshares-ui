@@ -1,4 +1,9 @@
 {
+    "page404": {
+        "page_not_found_title": "",
+        "page_not_found_subtitle": "",
+        "home": ""
+    },
     "counterpart": {
         "formats": {
             "date": {
@@ -17,11 +22,17 @@
         "es": "Español",
         "it": "Italiano",
         "tr": "Turkish",
-        "ru": "Русский"
+        "ru": "Русский",
+        "ja": ""
+    },
+    "global": {
+        "confirm": "",
+        "cancel": "",
+        "help": ""
     },
     "incognito": {
-        "no_support": "Dompet BitShares ini bergantung pada penyimpanan lokal dan IndexedDB yang tidak bertahan lama saat menggunakan penyamaran Browsing. Sebaiknya gunakan sesi penjelajahan biasa.",
-        "ignore": "Saya mengerti, lanjutkan."
+        "mode": "",
+        "warning": ""
     },
     "sync_fail": {
         "title": "Gagal menyinkronkan dengan server API",
@@ -32,6 +43,7 @@
         "title": "BitShares UI",
         "account": "Akun",
         "dashboard": "Dasbor",
+        "deposit-withdraw": "",
         "explorer": "Menjelajah",
         "exchange": "Pertukaran",
         "payments": "Kirim",
@@ -42,6 +54,7 @@
         "current": "Akun Saat Ini",
         "create_account": "Buat Akun",
         "create_asset": "Membuat aset",
+        "collateral_ratio": "",
         "update_asset": "Perbarui Aset",
         "lock": "Keluar (kunci dompet lokal)",
         "unlock": "Masuk Ke Dompet Lokal",
@@ -54,10 +67,15 @@
         "account_notify": "Akun aktif sekarang adalah %(akun)s",
         "account_value": "Nilai Akun"
     },
+    "browser_notification_messages": {
+        "money_received_title": "",
+        "money_received_body": ""
+    },
     "tooltip": {
         "call_limit": "Ini adalah harga panggilan dari posisi margin yang paling sedikit dijamin di pasar.",
         "margin_price": "Ini adalah harga maksimum yang bisa disebut posisi margin untuk membayar. Ini juga disebut Harga Peras.",
         "settle_price": "Ini adalah harga di mana menyelesaikan pesanan akan dijalankan.",
+        "feed_price": "",
         "sign_owner": "Jika Anda pemilik akun ini, harap periksa ini untuk memastikan transaksi ditandatangani dengan benar. Ini hanya diperlukan jika Anda menggunakan akun pemilik dan akun tersebut tidak disertakan dalam izin aktif.",
         "latest_price": "Ini adalah harga terbaru yang terlihat di pasar ini.",
         "no_price": "Tidak ada harga terbaru yang tersedia untuk aset ini yang dapat digunakan untuk memperkirakan nilainya.",
@@ -95,9 +113,42 @@
         "follow_user_add": "Klik untuk mengikuti pengguna ini",
         "gateway": "Gateways back desposits by 100% real assets"
     },
+    "walkthrough": {
+        "language_flag": "",
+        "restore_account": "",
+        "create_cloud_wallet": "",
+        "create_local_wallet": "",
+        "switch_button": "",
+        "favourite_button": "",
+        "depth_chart": "",
+        "price_chart": "",
+        "chart_tool_zoom": "",
+        "chart_tool_duration": "",
+        "chart_tool_indicators": "",
+        "buy_form": "",
+        "sell_form": "",
+        "buy_orders": "",
+        "sell_orders": "",
+        "my_markets_tab": "",
+        "find_markets_tab": "",
+        "next_label": "",
+        "prev_label": "",
+        "skip_label": "",
+        "done_label": ""
+    },
     "propose": "Mengusulkan",
     "cancel": "Membatalkan",
     "account": {
+        "confirm_asset_modal": {
+            "header": "",
+            "are_you_sure": ""
+        },
+        "optional": {
+            "formatter": "",
+            "restore_link": "",
+            "restore_form": ""
+        },
+        "search": "",
         "new_user": "Pengguna baru?",
         "existing_user": "Pengguna yang ada",
         "restore": "Mengembalikan",
@@ -133,10 +184,12 @@
         "total_value": "Nilai total",
         "show_hidden": "Tersembunyi",
         "hide_hidden": "Aktif",
+        "show_visual": "",
         "ignore": "Menyembunyikan",
         "unignore": "Jangan Sembunyikan",
         "show_ignored": "Tampilkan akun tersembunyi",
         "hide_ignored": "Sembunyikan akun tersembunyi",
+        "hidden_accounts_row": "",
         "accounts": "Akun",
         "contacts": "Kontak",
         "estimate_value": "Perkiraan nilai Akun",
@@ -157,6 +210,12 @@
             "whitelist_authorities": "Otoritas daftar putih",
             "blacklist_authorities": "Otoritas daftar hitam"
         },
+        "transactions": {
+            "id": "",
+            "type": "",
+            "info": "",
+            "time": ""
+        },
         "vesting": {
             "title": "Saldo pinjaman",
             "balance_number": "Keseimbangan #%(id)s",
@@ -164,6 +223,7 @@
             "explain": "Saldo Vesting berisi biaya yang diperoleh melalui program rujukan atau dari gaji pekerja, misalnya. Mereka memiliki periode vesting tertentu dan terus dibuka selama periode vesting sampai semua saldo tersedia"
         },
         "member": {
+            "suspected_scammer": "",
             "stats": "Statistik keanggotaan",
             "join": "Bergabung pada",
             "registrar": "Mendaftar",
@@ -197,6 +257,7 @@
         },
         "user_issued_assets": {
             "symbol": "Simbol",
+            "id": "",
             "name": "Nama Aset",
             "description": "Deskripsi",
             "max_supply": "Pasokan maksimal",
@@ -256,13 +317,17 @@
             "feed_producers": "Produsen pakan",
             "add_feed": "Tambahkan produsen pakan baru",
             "feed_not_allowed_1": "Tidak dapat mengatur produsen pakan pada aset saksi atau komite",
-            "feed_not_allowed_2": "Nonaktifkan bendera yang disebut 'Izinkan saksi memberikan umpan' dan 'Izinkan anggota komite memberi umpan' agar memungkinkan definisi manual produsen pakan"
+            "feed_not_allowed_2": "Nonaktifkan bendera yang disebut 'Izinkan saksi memberikan umpan' dan 'Izinkan anggota komite memberi umpan' agar memungkinkan definisi manual produsen pakan",
+            "too_many_feed": "",
+            "conflict_feed": ""
         },
         "connections": {
             "known": "Dikenal oleh",
             "black": "Daftar Hitam oleh"
         },
         "perm": {
+            "save": "",
+            "save_all": "",
             "active": "Izin aktif",
             "owner": "Izin pemilik",
             "memo_key": "Kunci Memo",
@@ -472,7 +537,8 @@
             "noPoolBalance": "Aset tersebut memiliki saldo kolam yang tidak mencukupi untuk membayar biaya. Informasikan kepada pemilik aset atau pilih aset lain untuk membayar biaya.",
             "minimum_amount": "Jumlah penarikan minimum: %(amount)s %(symbol)s",
             "memo_error": "Kesalahan parsing transfer memo, coba lagi nanti.",
-            "precision": "Minimum withdraw precision value: %(precision)s"
+            "memo_length_error": "",
+            "precision": ""
         },
         "back": "KEMBALI",
         "confirm": "Konfirmasi",
@@ -750,6 +816,7 @@
             "max_margin_period_sec": "Periode(s) margin maksimum",
             "call_limit": "Batas panggilan",
             "short_limit": "Batas pendek",
+            "feed_price": "",
             "settlement_price": "Harga penyelesaian",
             "go_to": "Pergi untuk memblokir"
         },
@@ -780,7 +847,10 @@
                 "title": "Harga Pakan",
                 "settlement_price": "Harga penyelesaian",
                 "maintenance_collateral_ratio": "Rasio jaminan pemeliharaan (maintenance agunan ratio/MCR)",
-                "maximum_short_squeeze_ratio": "Rasio pemerasan pendek maksimum (MSSR)"
+                "maximum_short_squeeze_ratio": "Rasio pemerasan pendek maksimum (MSSR)",
+                "global_settlement_price": "",
+                "settlement_delay": "",
+                "force_settlement_offset": ""
             },
             "fee_pool": {
                 "title": "Biaya kolam",
@@ -897,6 +967,10 @@
         "midnightTheme": "Tengah malam",
         "olDarkTheme": "Openledger gelap",
         "reset": "Mengatur ulang pengaturan",
+        "browser_notifications": "",
+        "browser_notifications_allow": "",
+        "browser_notifications_additional_transfer_to_me": "",
+        "browser_notifications_disabled_by_browser_notify": "",
         "general": "Umum",
         "wallet": "Dompet lokal",
         "accounts": "Akun",
@@ -905,6 +979,10 @@
         "backup": "Backup",
         "restore": "Kembalikan/Impor",
         "access": "Mengakses",
+        "automatic": "",
+        "ping": "",
+        "reset_text": "",
+        "reset_text_description": "",
         "general_text": "Sesuaikan pengaturan dasar.",
         "wallet_text": "Kontrol rincian dompet lokal Anda.",
         "accounts_text": "Daftar akun anda.",
@@ -938,13 +1016,19 @@
         "active_node": "Node Aktif",
         "node_up": "NAIK",
         "node_down": "TURUN",
+        "switch": "",
         "available_nodes": "Tersedia Node",
+        "hidden_nodes": "",
+        "my_nodes": "",
+        "show": "",
+        "hide": "",
         "add_api": "Tambah Node",
         "remove_api": "Menghapus Node",
         "remove": "Menghapus",
         "activate": "Mengaktifkan",
         "confirm_remove": "Yakin ingin menghapus %(name)s dari simpul yang ada?",
         "valid_node_url": "URL Node harus dimulai dengan ws:// atau wss://",
+        "node_already_exists": "",
         "connection_error": "Tidak dapat terhubung ke node API %(url)s, jatuh kembali ke node kerja yang diketahui",
         "low_latency": "Latensi rendah",
         "medium_latency": "Latensi menengah",
@@ -963,10 +1047,12 @@
         "unsynced": "Tidak sinkron",
         "disconnected": "Terputus",
         "connected": "Terhubung",
-        "latency": "Latensi"
+        "latency": "Latensi",
+        "advanced_settings": ""
     },
     "exchange": {
-        "trading_pair": "Trading pair",
+        "buysell_formatter": "",
+        "trading_pair": "",
         "chart_options": {
             "tools": "Alat",
             "title": "Indikator",
@@ -986,6 +1072,7 @@
             "volume_title": "Indikator volume"
         },
         "market": "Pasar",
+        "feed_price": "",
         "price_history": "Grafik harga",
         "order_depth": "Kedalaman Pasar",
         "history": "Pasar perdagangan",
@@ -1008,9 +1095,13 @@
         "spread": "Penyebaran",
         "quantity": "Kuantitas",
         "buy": "Beli",
+        "deposit": "",
+        "borrow": "Meminjam",
+        "borrow_short": "",
         "buy_min": "Pembelian terbaru",
         "sell": "Jual",
         "receive": "Terima",
+        "flip": "",
         "vertical": "Vertikal",
         "horizontal": "Horizontal",
         "market_name": "Pasar saya",
@@ -1041,7 +1132,6 @@
         "no_data": "Tidak ada data",
         "time": "Tongkat lilin",
         "zoom": "Perbesar",
-        "borrow": "Meminjam",
         "no_balance": "Saldo tidak mencukupi",
         "invalid_amount": "Nominal tidak sah",
         "invalid_price": "Harga tidak valid",
@@ -1057,14 +1147,20 @@
         "featured": "Pasar teratas",
         "new": "Baru",
         "market_frozen": "Pemilik %(asset)s telah menonaktifkan perdagangan di pasar ini.",
-        "show_star_1": "Tampilkan",
-        "show_star_2": "hanya",
+        "show_only_star_formatter": "",
+        "filter": "",
         "quote": "Mata uang kutipan:",
         "search": "Cari lebih banyak pasar di sini",
         "price_market": "Harga pasar",
         "description": "Deskripsi",
         "buy_description": "Beli%(baseAsset)s%(baseName)s dari %(quoteAsset)s%(quoteName)s",
         "sell_description": "Jual %(baseAsset)s%(baseName)s dari%(quoteAsset)s%(quoteName)s"
+    },
+    "dashboard": {
+        "starred_markets": "",
+        "top_markets": "",
+        "featured_markets": "",
+        "table_empty": ""
     },
     "fees": {
         "title": "Jadwal biaya"
@@ -1258,9 +1354,17 @@
             "below": "Rasio jaminan Anda di bawah %(mr)s yang tidak diperbolehkan.",
             "close": "Rasio jaminan Anda mendekati %(mr)s yang berarti posisi ini dalam bahaya menjadi margin disebut jika harga turun.",
             "collateral": "Saldo agunan tidak mencukupi"
-        }
+        },
+        "use_max": "",
+        "pay_max_debt": "",
+        "maximize_debt_set_ratio_slider": ""
     },
     "modal": {
+        "buy": {
+            "title": "",
+            "asset": "",
+            "bridge": ""
+        },
         "send": {
             "header": "Dikirim dari <span class=\"send-name\">%(fromName)s</span>",
             "header_propose": "Usulkan Kirim dari <span class=\"send-name\">%(fromName)s</span>"
@@ -1273,17 +1377,27 @@
         "withdraw": {
             "amount": "Jumlah untuk menarik",
             "address": "Alamat untuk manarik",
-            "submit": "Penarikan"
+            "bitshares_account": "",
+            "submit": "Penarikan",
+            "quantity": "",
+            "estimated_value": "",
+            "memo": "",
+            "fee": "",
+            "gateway_fee": "",
+            "withdraw": "",
+            "cancel": "",
+            "available": "",
+            "submit_beta": "",
+            "no_estimate": "",
+            "header": "",
+            "no_gateways": "",
+            "address_not_valid": "",
+            "cannot_cover": ""
         },
         "deposit": {
             "header": "Deposit ke %(nama_akun)s",
             "header_short": "Deposit",
             "asset": "Asset",
-            "gateway": "Gateway",
-            "disabled": "Gateway service disabled",
-            "wallet_error": "Gateway wallet disabled",
-            "no_gateway_available": "No gateway available",
-            "select_gateway": "Please select a gateway operator",
             "address_generation_error": "Unable to generate address",
             "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "close": "Close",
@@ -1291,6 +1405,13 @@
             "amount": "Jumlah untuk deposit",
             "submit": "Deposit",
             "submit_beta": "Deposit (beta)"
+        },
+        "deposit_withdraw": {
+            "gateway": "",
+            "disabled": "",
+            "wallet_error": "",
+            "no_gateway_available": "",
+            "select_gateway": ""
         },
         "convert": {
             "amount": "Jumlah untuk Mengkonversi",
@@ -1351,9 +1472,14 @@
     },
     "gateway": {
         "deposit_notice_delay": "(new address can be generated once per 5 minutes)",
+        "min_deposit_warning_amount": "",
+        "min_deposit_warning_asset": "",
+        "limit_withdraw_asset": "",
+        "limit_withdraw_asset_none": "",
+        "limit_withdraw_asset_min": "",
+        "limit_withdraw_asset_max": "",
         "copy_memo": "Copy memo",
         "please_generate_address": "Please, get new address ",
-        "generate_new": "Dapatkan alamat baru",
         "copy_address": "Copy address",
         "use_copy_button": "PLEASE USE COPY BUTTON TO MAKE COPY OF ADDRESS OR MEMO ON THIS PAGE",
         "fee": "Biaya Gateway",
@@ -1372,6 +1498,7 @@
         "service": "Layanan servis",
         "bridge": "Jembatan",
         "gateway": "Gateway",
+        "fiat": "",
         "symbol": "Simbol",
         "asset": "Asset",
         "website": "Kunjungi situs web",
@@ -1383,6 +1510,7 @@
         "withdraw_placeholder": "Harap masukkan alamat %(asset)s anda",
         "balance": "Saldo Terakhir",
         "generate": "Menghasilkan",
+        "generate_new": "Dapatkan alamat baru",
         "generate_new_memo": "Dapatkan memo baru",
         "deposit": "Deposito",
         "withdraw": "Penarikan",
@@ -1443,7 +1571,10 @@
             "register": "Setuju",
             "notice": "Silakan periksa kesepakatan untuk melanjutkan"
         },
+        "address": "",
+        "memo": "",
         "deposit_warning": "Mengirim mata uang lain ke alamat %(asset)s akan mengakibatkan hilangnya deposit Anda",
+        "deposit_warning_memo": "",
         "time": "Waktu",
         "info": "Info",
         "status": "Status",
@@ -1467,7 +1598,9 @@
             "transfering": "mentransfer",
             "success": "keberhasilan",
             "fail": "gagal"
-        }
+        },
+        "asset_search_deposit": "",
+        "asset_search_withdraw": ""
     },
     "trx_error": {
         "expire": "Transaksi Anda telah kedaluwarsa tanpa dikonfirmasi, silakan coba lagi nanti."
@@ -1487,19 +1620,35 @@
             "fetch": "Ups... Ada yang salah dalam mengambil berita"
         }
     },
+    "openledger": {
+        "header_fiat": "",
+        "status": "",
+        "retry": "",
+        "loading": "",
+        "refresh_transaction_history": "",
+        "header_transaction_history": "",
+        "show_transaction_history": "",
+        "withdraw_amount": "",
+        "withdraw_none": "",
+        "deposit_amount": "",
+        "deposit_details": "",
+        "deposit_none": ""
+    },
     "winex": {
         "gateway": {
-            "support_block": "For support, please contact Winex at:",
-            "fee": "Gateway Fee",
-            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+            "support_block": "",
+            "fee": "",
+            "deposit_warning": "",
+            "click_getaddress": "",
+            "get_deposit_address": ""
         },
         "withdraw": {
-            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
-            "finalNumber": "Actual amount ：%(final_number)s"
+            "winAmount": "",
+            "finalNumber": ""
         },
         "transfer": {
             "errors": {
-                "minWithdraw": "Minimum amount：%(min_amount)s"
+                "minWithdraw": ""
             }
         }
     }
