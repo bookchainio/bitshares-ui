@@ -1,4 +1,9 @@
 {
+    "page404": {
+        "page_not_found_title": "",
+        "page_not_found_subtitle": "",
+        "home": ""
+    },
     "counterpart": {
         "formats": {
             "date": {
@@ -17,11 +22,17 @@
         "es": "Español",
         "it": "Italiano",
         "tr": "Turkish",
-        "ru": "Русский"
+        "ru": "Русский",
+        "ja": ""
+    },
+    "global": {
+        "confirm": "",
+        "cancel": "",
+        "help": ""
     },
     "incognito": {
-        "no_support": "Bu BitShares Cüzdanı, Gizli Göz Atma özelliğini kullanırken kalıcı olmayan Yerel Depolama Alanı ve Dizine Eklenmiş Veritabanı'na güvenir. Düzenli göz atma oturumu kullanmanızı öneririz.",
-        "ignore": "Anladım, devam."
+        "mode": "",
+        "warning": ""
     },
     "sync_fail": {
         "title": "API sunucusu bağlantısı yok.",
@@ -32,6 +43,7 @@
         "title": "BitKapital",
         "account": "Hesap",
         "dashboard": "Ana Sayfa",
+        "deposit-withdraw": "",
         "explorer": "İncele",
         "exchange": "Takas",
         "payments": "Gönder",
@@ -42,6 +54,7 @@
         "current": "Kullanılan Hesap",
         "create_account": "Hesap Oluştur",
         "create_asset": "Dijital Varlık Oluştur",
+        "collateral_ratio": "",
         "update_asset": "Dijital Varlık Güncelle",
         "lock": "Kilitle",
         "unlock": "Kilidi Aç",
@@ -54,10 +67,15 @@
         "account_notify": "Aktif hesap: %(account)s",
         "account_value": "Hesap değeri"
     },
+    "browser_notification_messages": {
+        "money_received_title": "",
+        "money_received_body": ""
+    },
     "tooltip": {
         "call_limit": "Piyasadaki en az teminatlı marjin pozisyonunun itfa fiyatı",
         "margin_price": "Teminat tamamlama çağrısı yapılmış pozisyonun ödemesi istenebilecek en yüksek değer",
         "settle_price": "Sona erdirilen emirlerin gerçekleşeceği fiyat",
+        "feed_price": "",
         "sign_owner": "Hesap sahibi anahtarı ile işlem yapıyorssanı ve bu anahtar hesabın aktif anahtarları arasında değilse, işlemin doğru imzalanması için lütfen burayı işaretleyin",
         "latest_price": "Piyasadaki gerçekleşen son işlemin fiyat değeri",
         "no_price": "Bu dijital varlığın değerini tespit etmek için piyasada yeterli veri bulunmamaktadır.",
@@ -95,9 +113,42 @@
         "follow_user_add": "Bu kullanıcıyı takip etmek için tıklayın",
         "gateway": "Gateways back desposits by 100% real assets"
     },
+    "walkthrough": {
+        "language_flag": "",
+        "restore_account": "",
+        "create_cloud_wallet": "",
+        "create_local_wallet": "",
+        "switch_button": "",
+        "favourite_button": "",
+        "depth_chart": "",
+        "price_chart": "",
+        "chart_tool_zoom": "",
+        "chart_tool_duration": "",
+        "chart_tool_indicators": "",
+        "buy_form": "",
+        "sell_form": "",
+        "buy_orders": "",
+        "sell_orders": "",
+        "my_markets_tab": "",
+        "find_markets_tab": "",
+        "next_label": "",
+        "prev_label": "",
+        "skip_label": "",
+        "done_label": ""
+    },
     "propose": "Teklif Et",
     "cancel": "İptal",
     "account": {
+        "confirm_asset_modal": {
+            "header": "",
+            "are_you_sure": ""
+        },
+        "optional": {
+            "formatter": "",
+            "restore_link": "",
+            "restore_form": ""
+        },
+        "search": "",
         "new_user": "Yeni kullanıcı?",
         "existing_user": "Mevcut kullanıcı",
         "restore": "Restore",
@@ -133,10 +184,12 @@
         "total_value": "Toplam değeri",
         "show_hidden": "Göster",
         "hide_hidden": "Gizle",
+        "show_visual": "",
         "ignore": "Yok say",
         "unignore": "Geri getir",
         "show_ignored": "Göster",
         "hide_ignored": "Gizle",
+        "hidden_accounts_row": "",
         "accounts": "Hesaplar",
         "contacts": "Kontaklar",
         "estimate_value": "Toplam hesap değeri (yaklaşık)",
@@ -157,6 +210,12 @@
             "whitelist_authorities": "Beyaz liste yetkisi",
             "blacklist_authorities": "Kara liste otoritesi"
         },
+        "transactions": {
+            "id": "",
+            "type": "",
+            "info": "",
+            "time": ""
+        },
         "vesting": {
             "title": "Tutulan Bakiyeler",
             "balance_number": "Bakiye #%(id)s",
@@ -164,6 +223,7 @@
             "explain": "Bekletilen bakiyeler tavsiye programlarından yada geliştirici ödemelerinden elde edilen geilrleri kapsar. Bunların belli bir bekleme süreleri vardır, fonların tümü müsait olana kadar  belli aralıklarla bu bakiyelerin bir kısmı serbest bırakılır."
         },
         "member": {
+            "suspected_scammer": "",
             "stats": "Üyelik Bilgileri",
             "join": "Katılma tarihi",
             "registrar": "Kaydı yapan",
@@ -197,6 +257,7 @@
         },
         "user_issued_assets": {
             "symbol": "Sembol",
+            "id": "",
             "name": "Dijital Varlık Adı",
             "description": "Tanım",
             "max_supply": "Azami arz",
@@ -256,13 +317,17 @@
             "feed_producers": "Yem üreticileri",
             "add_feed": "Yeni yem üreticisi ekle",
             "feed_not_allowed_1": "Tanık ya da komite kaynaklı varlık üzerinde yem üreticileri ayarlanamaz",
-            "feed_not_allowed_2": "Lütfen yem üreticilerinin manuel olarak tanımlanmasına izin vermek için 'Şahitlere besleme sağlama şansını ver' ve 'Komite üyelerinin besleme sağlamalarına izin ver' bayrakları devre dışı bırakın"
+            "feed_not_allowed_2": "Lütfen yem üreticilerinin manuel olarak tanımlanmasına izin vermek için 'Şahitlere besleme sağlama şansını ver' ve 'Komite üyelerinin besleme sağlamalarına izin ver' bayrakları devre dışı bırakın",
+            "too_many_feed": "",
+            "conflict_feed": ""
         },
         "connections": {
             "known": "Tarafından Tanınıyor",
             "black": "Tarafından Kara listelenmiş"
         },
         "perm": {
+            "save": "",
+            "save_all": "",
             "active": "Etkin İzinler",
             "owner": "Sahip İzinleri ",
             "memo_key": "Memo anahtarı",
@@ -472,7 +537,8 @@
             "noPoolBalance": "That asset has an insufficient fee pool balance to pay the fees with. Please inform the asset owner or select another asset for paying fees.",
             "minimum_amount": "Minimum çekme miktarı: %(amount)s %(symbol)s",
             "memo_error": "Aktarım belleği ayrıştırma hatası, lütfen daha sonra tekrar deneyin.",
-            "precision": "Minimum withdraw precision value: %(precision)s"
+            "memo_length_error": "",
+            "precision": ""
         },
         "back": "GERİ",
         "confirm": "ONAYLA",
@@ -750,6 +816,7 @@
             "max_margin_period_sec": "Maksimum marjin periodları (s)",
             "call_limit": "Çağrı Sınırı",
             "short_limit": "Kısa pozisyon limit",
+            "feed_price": "",
             "settlement_price": "Uzlaşma",
             "go_to": "Go to block"
         },
@@ -780,7 +847,10 @@
                 "title": "Fiyat Yayını",
                 "settlement_price": "Uzlaşma",
                 "maintenance_collateral_ratio": "Sürdürme Teminat Oranı (MCR)",
-                "maximum_short_squeeze_ratio": "Maksimum kısa pozisyon sıkıştırma oranı (MSSR)"
+                "maximum_short_squeeze_ratio": "Maksimum kısa pozisyon sıkıştırma oranı (MSSR)",
+                "global_settlement_price": "",
+                "settlement_delay": "",
+                "force_settlement_offset": ""
             },
             "fee_pool": {
                 "title": "Ücret Havuzu",
@@ -897,6 +967,10 @@
         "midnightTheme": "Gece yarısı",
         "olDarkTheme": "OpenLedger koyu",
         "reset": "Ayarları sıfırla",
+        "browser_notifications": "",
+        "browser_notifications_allow": "",
+        "browser_notifications_additional_transfer_to_me": "",
+        "browser_notifications_disabled_by_browser_notify": "",
         "general": "Genel",
         "wallet": "Cüzdan",
         "accounts": "Hesaplar",
@@ -905,6 +979,10 @@
         "backup": "Yedekle",
         "restore": "Cüzdan kurtarma",
         "access": "Erişim",
+        "automatic": "",
+        "ping": "",
+        "reset_text": "",
+        "reset_text_description": "",
         "general_text": "Genel ayarlar",
         "wallet_text": "Cüzdan detayları",
         "accounts_text": "Hesap listesi",
@@ -938,13 +1016,19 @@
         "active_node": "Aktif düğüm",
         "node_up": "YUKARI",
         "node_down": "AŞAĞI",
+        "switch": "",
         "available_nodes": "Kullanılabilir düğümler",
+        "hidden_nodes": "",
+        "my_nodes": "",
+        "show": "",
+        "hide": "",
         "add_api": "API ekle",
         "remove_api": "API kaldır",
         "remove": "Kaldır",
         "activate": "Etkinleştir",
         "confirm_remove": "% (Ad) 'ların mevcut düğümlerinizden kaldırılmasını istediğinizden emin misiniz?",
         "valid_node_url": "Düğüm URL'si ws: // veya wss: // ile başlamalıdır",
+        "node_already_exists": "",
         "connection_error": "Unable to connect to API node %(url)s, falling back to known working nodes",
         "low_latency": "Düşük Gecikme",
         "medium_latency": "Orta gecikme süresi",
@@ -963,10 +1047,12 @@
         "unsynced": "Senkron dışında",
         "disconnected": "Bağlı değil",
         "connected": "Bağlandı",
-        "latency": "Gecikme"
+        "latency": "Gecikme",
+        "advanced_settings": ""
     },
     "exchange": {
-        "trading_pair": "Trading pair",
+        "buysell_formatter": "",
+        "trading_pair": "",
         "chart_options": {
             "tools": "Araçlar",
             "title": "Göstergeler",
@@ -986,6 +1072,7 @@
             "volume_title": "Hacim göstergeleri"
         },
         "market": "Piyasa",
+        "feed_price": "",
         "price_history": "Fiyat Tablosu",
         "order_depth": "Piyasa Derinliği",
         "history": "Son İşlemler",
@@ -1008,9 +1095,13 @@
         "spread": "Makas",
         "quantity": "Quantity",
         "buy": "Alış -",
+        "deposit": "",
+        "borrow": "Ödünç Al",
+        "borrow_short": "",
         "buy_min": "Hesaba geçecek",
         "sell": "Satış -",
         "receive": "Tahsil",
+        "flip": "",
         "vertical": "Dikey",
         "horizontal": "Yatay",
         "market_name": "Piyasalarım",
@@ -1041,7 +1132,6 @@
         "no_data": "Veri yok",
         "time": "Mum Biçimi",
         "zoom": "Yakınlaştır",
-        "borrow": "Ödünç Al",
         "no_balance": "Yetersiz bakiye",
         "invalid_amount": "Geçersiz miktar",
         "invalid_price": "Geçersiz fiyat",
@@ -1057,14 +1147,20 @@
         "featured": "Öne Çıkan Piyasalar",
         "new": "Yeni",
         "market_frozen": "The owner of %(asset)s has disabled trading in this market.",
-        "show_star_1": "Show",
-        "show_star_2": "only",
+        "show_only_star_formatter": "",
+        "filter": "",
         "quote": "Quote currency:",
         "search": "Search for more markets here",
         "price_market": "Market Price",
         "description": "Description",
         "buy_description": "Buy %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s",
         "sell_description": "Sell %(baseAsset)s %(baseName)s for %(quoteAsset)s %(quoteName)s"
+    },
+    "dashboard": {
+        "starred_markets": "",
+        "top_markets": "",
+        "featured_markets": "",
+        "table_empty": ""
     },
     "fees": {
         "title": "Ücret Tarifesi"
@@ -1258,9 +1354,17 @@
             "below": "Teminat oranı çok düşük, bu pozisyon anında marjin-çağrılır",
             "close": "Teminat oranı %(mr)s yakındır; bu durum, fiyat düştüğünde bu pozisyon marjı olma tehlikesiyle karşı karşıya kalmaktadır.",
             "collateral": "Yetersiz teminat seviyesi"
-        }
+        },
+        "use_max": "",
+        "pay_max_debt": "",
+        "maximize_debt_set_ratio_slider": ""
     },
     "modal": {
+        "buy": {
+            "title": "",
+            "asset": "",
+            "bridge": ""
+        },
         "send": {
             "header": "Send from <span class=\"send-name\">%(fromName)s</span>",
             "header_propose": "Propose Send from <span class=\"send-name\">%(fromName)s</span>"
@@ -1273,17 +1377,27 @@
         "withdraw": {
             "amount": "Çekilecek Miktar",
             "address": "Kripto paranın gönderileceği adres",
-            "submit": "Çek"
+            "bitshares_account": "",
+            "submit": "Çek",
+            "quantity": "",
+            "estimated_value": "",
+            "memo": "",
+            "fee": "",
+            "gateway_fee": "",
+            "withdraw": "",
+            "cancel": "",
+            "available": "",
+            "submit_beta": "",
+            "no_estimate": "",
+            "header": "",
+            "no_gateways": "",
+            "address_not_valid": "",
+            "cannot_cover": ""
         },
         "deposit": {
             "header": "Deposit to %(account_name)s",
             "header_short": "Deposit",
             "asset": "Asset",
-            "gateway": "Gateway",
-            "disabled": "Gateway service disabled",
-            "wallet_error": "Gateway wallet disabled",
-            "no_gateway_available": "No gateway available",
-            "select_gateway": "Please select a gateway operator",
             "address_generation_error": "Unable to generate address",
             "bts_transfer_description": "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "close": "Close",
@@ -1291,6 +1405,13 @@
             "amount": "Yatıralacak Miktar",
             "submit": "Yatır",
             "submit_beta": "Deposit (beta)"
+        },
+        "deposit_withdraw": {
+            "gateway": "",
+            "disabled": "",
+            "wallet_error": "",
+            "no_gateway_available": "",
+            "select_gateway": ""
         },
         "convert": {
             "amount": "Dönüştürme miktarı",
@@ -1351,9 +1472,14 @@
     },
     "gateway": {
         "deposit_notice_delay": "(new address can be generated once per 5 minutes)",
+        "min_deposit_warning_amount": "",
+        "min_deposit_warning_asset": "",
+        "limit_withdraw_asset": "",
+        "limit_withdraw_asset_none": "",
+        "limit_withdraw_asset_min": "",
+        "limit_withdraw_asset_max": "",
         "copy_memo": "Copy memo",
         "please_generate_address": "Please, get new address ",
-        "generate_new": "Yeni adres al",
         "copy_address": "Copy address",
         "use_copy_button": "PLEASE USE COPY BUTTON TO MAKE COPY OF ADDRESS OR MEMO ON THIS PAGE",
         "fee": "Gateway fee",
@@ -1372,6 +1498,7 @@
         "service": "Transfer Hizmet Sağlayıcısı",
         "bridge": "Köprü",
         "gateway": "Geçit",
+        "fiat": "",
         "symbol": "Sembol",
         "asset": "Asset",
         "website": "Websitesini ziyaret edin",
@@ -1383,6 +1510,7 @@
         "withdraw_placeholder": "Lütfen %(asset)s adresinizi girin",
         "balance": "Mevcut Bakiye",
         "generate": "Yeni Oluştur",
+        "generate_new": "Yeni adres al",
         "generate_new_memo": "Yeni memo al",
         "deposit": "Yatır",
         "withdraw": "Çek",
@@ -1443,7 +1571,10 @@
             "register": "Kabul",
             "notice": "Devam etmek için lütfen sözleşmeyi kontrol edin"
         },
+        "address": "",
+        "memo": "",
         "deposit_warning": "%(varlık) adresine başka bir para birimini göndermek depozitonuzun kaybolmasına neden olacaktır",
+        "deposit_warning_memo": "",
         "time": "Zaman",
         "info": "Bilgi",
         "status": "Durum",
@@ -1467,7 +1598,9 @@
             "transfering": "aktarılıyor",
             "success": "başarı",
             "fail": "başarısız"
-        }
+        },
+        "asset_search_deposit": "",
+        "asset_search_withdraw": ""
     },
     "trx_error": {
         "expire": "Your transaction has expired without being confirmed, please try again later."
@@ -1487,19 +1620,35 @@
             "fetch": "Operasyon... Haber getirilirken bir şeyler ters gitti"
         }
     },
+    "openledger": {
+        "header_fiat": "",
+        "status": "",
+        "retry": "",
+        "loading": "",
+        "refresh_transaction_history": "",
+        "header_transaction_history": "",
+        "show_transaction_history": "",
+        "withdraw_amount": "",
+        "withdraw_none": "",
+        "deposit_amount": "",
+        "deposit_details": "",
+        "deposit_none": ""
+    },
     "winex": {
         "gateway": {
-            "support_block": "For support, please contact Winex at:",
-            "fee": "Gateway Fee",
-            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+            "support_block": "",
+            "fee": "",
+            "deposit_warning": "",
+            "click_getaddress": "",
+            "get_deposit_address": ""
         },
         "withdraw": {
-            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
-            "finalNumber": "Actual amount ：%(final_number)s"
+            "winAmount": "",
+            "finalNumber": ""
         },
         "transfer": {
             "errors": {
-                "minWithdraw": "Minimum amount：%(min_amount)s"
+                "minWithdraw": ""
             }
         }
     }
