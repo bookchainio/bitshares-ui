@@ -1,4 +1,9 @@
 {
+    "page404": {
+        "page_not_found_title": "",
+        "page_not_found_subtitle": "",
+        "home": ""
+    },
     "counterpart": {
         "formats": {
             "date": {
@@ -17,11 +22,17 @@
         "es": "Español",
         "it": "Italiano",
         "tr": "Turkish",
-        "ru": "Русский"
+        "ru": "Русский",
+        "ja": ""
+    },
+    "global": {
+        "confirm": "",
+        "cancel": "",
+        "help": ""
     },
     "incognito": {
-        "no_support": "Esta billetera BitShares se basa en el almacenamiento local y IndexedDB que no son persistentes cuando se está usando el navegador en Incógnito. Recomendamos usar una sesión de navegación normal.",
-        "ignore": "Entiendo, continúa."
+        "mode": "",
+        "warning": ""
     },
     "sync_fail": {
         "title": "Error al sincronizar con el API del servidor ",
@@ -32,6 +43,7 @@
         "title": "BitShares - Interfaz de Usiario",
         "account": "Cuenta",
         "dashboard": "Tablero",
+        "deposit-withdraw": "",
         "explorer": "Explorer",
         "exchange": "Exchange",
         "payments": "Transferir",
@@ -42,6 +54,7 @@
         "current": "Cuenta Actual",
         "create_account": "Crear Cuenta",
         "create_asset": "Crear Activo",
+        "collateral_ratio": "",
         "update_asset": "Actualizar activo",
         "lock": "Bloquear",
         "unlock": "Desbloquear",
@@ -54,10 +67,15 @@
         "account_notify": "La cuenta activa es ahora %(account)s",
         "account_value": "Valor de la cuenta"
     },
+    "browser_notification_messages": {
+        "money_received_title": "",
+        "money_received_body": ""
+    },
     "tooltip": {
         "call_limit": "Este es el precio de llamada (call price) de la posición en el mercado colateralizada a margen .",
         "margin_price": "Este es el precio máximo que una posición a margen puede pagar. Es tambien llamado precio Squeeze.",
         "settle_price": "Este es el precio al que se ejecutarán los pedidos colocados.",
+        "feed_price": "",
         "sign_owner": "si eseres el proprietario de esta cuenta, por favor verifique que la transacción ha sido firmada correctamente. Esto es necesario solamente si estás usando la cuenta del proprietario y esta cuenta no ésta incluida en los permisos activos.",
         "latest_price": "Este es el utlimo precio en el mercado.",
         "no_price": "No hay un precio reciente disponible para este activo que pueda usarse para estimar su valor.",
@@ -95,9 +113,42 @@
         "follow_user_add": "Haga clic para seguir a este usuario",
         "gateway": "Gateways deposita de vuelta en un 100% los activos reales"
     },
+    "walkthrough": {
+        "language_flag": "",
+        "restore_account": "",
+        "create_cloud_wallet": "",
+        "create_local_wallet": "",
+        "switch_button": "",
+        "favourite_button": "",
+        "depth_chart": "",
+        "price_chart": "",
+        "chart_tool_zoom": "",
+        "chart_tool_duration": "",
+        "chart_tool_indicators": "",
+        "buy_form": "",
+        "sell_form": "",
+        "buy_orders": "",
+        "sell_orders": "",
+        "my_markets_tab": "",
+        "find_markets_tab": "",
+        "next_label": "",
+        "prev_label": "",
+        "skip_label": "",
+        "done_label": ""
+    },
     "propose": "Propose",
     "cancel": "Cancel",
     "account": {
+        "confirm_asset_modal": {
+            "header": "",
+            "are_you_sure": ""
+        },
+        "optional": {
+            "formatter": "",
+            "restore_link": "",
+            "restore_form": ""
+        },
+        "search": "",
         "new_user": "Nuevo usuario?",
         "existing_user": "Usuario existente",
         "restore": "Restaurar",
@@ -133,10 +184,12 @@
         "total_value": "Total value",
         "show_hidden": "Hidden",
         "hide_hidden": "Active",
+        "show_visual": "",
         "ignore": "Ocultar",
         "unignore": "Mostrar",
         "show_ignored": "Mostrar cuentas ocultas",
         "hide_ignored": "Ocultar cuentas ocultas",
+        "hidden_accounts_row": "",
         "accounts": "Cuentas",
         "contacts": "Contactos",
         "estimate_value": "Valor estimado de la cuenta",
@@ -157,6 +210,12 @@
             "whitelist_authorities": "Autoridad de lista blanca",
             "blacklist_authorities": "Autoridad de lista negra"
         },
+        "transactions": {
+            "id": "",
+            "type": "",
+            "info": "",
+            "time": ""
+        },
         "vesting": {
             "title": "Saldos de consolidación",
             "balance_number": "Saldo #%(id)s",
@@ -164,6 +223,7 @@
             "explain": "Los saldos de consolidación no contienen los honorarios obtenidos a través del programa de referencia o desde trabajador, por ejemplo. Tienen un cierto período de consolidación y se desbloquean continuamente durante ese período hasta que todos los saldos estén disponibles."
         },
         "member": {
+            "suspected_scammer": "",
             "stats": "Membresía",
             "join": "Ingresado en",
             "registrar": "Registrante",
@@ -197,6 +257,7 @@
         },
         "user_issued_assets": {
             "symbol": "Simbolo",
+            "id": "",
             "name": "Nombre del Activo",
             "description": "Descripcion",
             "max_supply": "Emision maxima",
@@ -256,13 +317,17 @@
             "feed_producers": "Productores de feed",
             "add_feed": "Añadir nuevo productor de feed",
             "feed_not_allowed_1": "No se pueden establecer productores de feed en un activo alimentado por testigos o un comité",
-            "feed_not_allowed_2": "Por favor inhabilitar las banderas llamadas \"Permitir a testigos proveer feeds\" y \"Permitir a miembros de comité proveer feeds\" para permitir la definición manual de productores de feed"
+            "feed_not_allowed_2": "Por favor inhabilitar las banderas llamadas \"Permitir a testigos proveer feeds\" y \"Permitir a miembros de comité proveer feeds\" para permitir la definición manual de productores de feed",
+            "too_many_feed": "",
+            "conflict_feed": ""
         },
         "connections": {
             "known": "Conocido por",
             "black": "En lista negra por"
         },
         "perm": {
+            "save": "",
+            "save_all": "",
             "active": "Permisos Activos",
             "owner": "Permisos de Propietario",
             "memo_key": "Memo key",
@@ -472,7 +537,8 @@
             "noPoolBalance": "That asset has an insufficient fee pool balance to pay the fees with. Please inform the asset owner or select another asset for paying fees.",
             "minimum_amount": "Monto mínimo de retiro: %(amount)s %(symbol)s",
             "memo_error": "El error de análisis de memo de transferencia, por favor intentar de nuevo más tarde.",
-            "precision": "Minimum withdraw precision value: %(precision)s"
+            "memo_length_error": "",
+            "precision": ""
         },
         "back": "VOLVER",
         "confirm": "CONFIRMAR",
@@ -750,6 +816,7 @@
             "max_margin_period_sec": "Max margin period (s)",
             "call_limit": "Call limit",
             "short_limit": "Short limit",
+            "feed_price": "",
             "settlement_price": "Precio de liquidación",
             "go_to": "Ir al bloque"
         },
@@ -780,7 +847,10 @@
                 "title": "Price Feed",
                 "settlement_price": "Precio de liquidación",
                 "maintenance_collateral_ratio": "Relación colateral de mantenimiento (MCR)",
-                "maximum_short_squeeze_ratio": "Maximo short de relaciòn squeeze (MSSR)"
+                "maximum_short_squeeze_ratio": "Maximo short de relaciòn squeeze (MSSR)",
+                "global_settlement_price": "",
+                "settlement_delay": "",
+                "force_settlement_offset": ""
             },
             "fee_pool": {
                 "title": "Fondo de Comisiones",
@@ -897,6 +967,10 @@
         "midnightTheme": "Media noche",
         "olDarkTheme": "Openledger oscuro",
         "reset": "Restablecer ajustes",
+        "browser_notifications": "",
+        "browser_notifications_allow": "",
+        "browser_notifications_additional_transfer_to_me": "",
+        "browser_notifications_disabled_by_browser_notify": "",
         "general": "General",
         "wallet": "Billetera local",
         "accounts": "Cuentas",
@@ -905,6 +979,10 @@
         "backup": "Backup",
         "restore": "Restaurar/Importar",
         "access": "Acceso",
+        "automatic": "",
+        "ping": "",
+        "reset_text": "",
+        "reset_text_description": "",
         "general_text": "Ajusta la configuración básica.",
         "wallet_text": "Controle los detalles de su billetera local.",
         "accounts_text": "Su lista de cuentas.",
@@ -938,13 +1016,19 @@
         "active_node": "Nodo activo",
         "node_up": "UP",
         "node_down": "DOWN",
+        "switch": "",
         "available_nodes": "Nodos disponibles",
+        "hidden_nodes": "",
+        "my_nodes": "",
+        "show": "",
+        "hide": "",
         "add_api": "Añadir nodo",
         "remove_api": "Eliminar nodo",
         "remove": "retirar",
         "activate": "Activar",
         "confirm_remove": "Estás seguro de que desea eliminar %(name)s de tus nodos disponibles?",
         "valid_node_url": "La URL del nodo debe comenzar con ws:// or wss://",
+        "node_already_exists": "",
         "connection_error": "No se puede conectar al nodo API %(url)s, retrocediendo a nodos de trabajo conocidos",
         "low_latency": "Baja latencia",
         "medium_latency": "Latencia media",
@@ -963,10 +1047,12 @@
         "unsynced": "Fuera de sincronización",
         "disconnected": "Desconectado",
         "connected": "Conectado",
-        "latency": "Estado latente"
+        "latency": "Estado latente",
+        "advanced_settings": ""
     },
     "exchange": {
-        "trading_pair": "Trading pair",
+        "buysell_formatter": "",
+        "trading_pair": "",
         "chart_options": {
             "tools": "Herramientas",
             "title": "Indicators",
@@ -986,6 +1072,7 @@
             "volume_title": "Indicadores de volumen"
         },
         "market": "Mercado",
+        "feed_price": "",
         "price_history": "Gráfico de Precios",
         "order_depth": "Profundidad de Mercado",
         "history": "Trades del mercado",
@@ -1008,9 +1095,13 @@
         "spread": "Margen (spread)",
         "quantity": "Cantidad",
         "buy": "Comprar",
+        "deposit": "",
+        "borrow": "Pedir prestado",
+        "borrow_short": "",
         "buy_min": "Buy at least",
         "sell": "Vender",
         "receive": "Recibir",
+        "flip": "",
         "vertical": "Vertical",
         "horizontal": "Horizontal",
         "market_name": "Mis mercados",
@@ -1041,7 +1132,6 @@
         "no_data": "No data",
         "time": "Candlesticks",
         "zoom": "Zoom",
-        "borrow": "Pedir prestado",
         "no_balance": "Saldo insuficiente",
         "invalid_amount": "Monto invalido",
         "invalid_price": "Precio inválido",
@@ -1057,14 +1147,20 @@
         "featured": "Mercados principales",
         "new": "Nuevo",
         "market_frozen": "El propietario de %(asset)s ha deshabilitado el comercio en este mercado.",
-        "show_star_1": "Mostrar",
-        "show_star_2": "Solo",
+        "show_only_star_formatter": "",
+        "filter": "",
         "quote": "Quote currency:",
         "search": "Busque más mercados aquí",
         "price_market": "Precio de mercado",
         "description": "Descripción",
         "buy_description": "Comprar %(baseAsset)s %(baseName)s por %(quoteAsset)s %(quoteName)s",
         "sell_description": "Vender %(baseAsset)s %(baseName)s por %(quoteAsset)s %(quoteName)s"
+    },
+    "dashboard": {
+        "starred_markets": "",
+        "top_markets": "",
+        "featured_markets": "",
+        "table_empty": ""
     },
     "fees": {
         "title": "Programa de comisiònes"
@@ -1258,9 +1354,17 @@
             "below": "Su colateral está por debajo %(mr)s y no está permitido.",
             "close": "Su proporciòn de colateral está por debajo %(mr)s lo que significa que esta posición está en peligro de ser llamada de margen si el precio baja.",
             "collateral": "Insuficiente saldo colateral"
-        }
+        },
+        "use_max": "",
+        "pay_max_debt": "",
+        "maximize_debt_set_ratio_slider": ""
     },
     "modal": {
+        "buy": {
+            "title": "",
+            "asset": "",
+            "bridge": ""
+        },
         "send": {
             "header": "Envia desde <span class=\"send-name\">%(fromName)s</span>",
             "header_propose": "Proponer envío desde <span class=\"send-name\">%(fromName)s</span>"
@@ -1273,17 +1377,27 @@
         "withdraw": {
             "amount": "Cantidad a retirar",
             "address": "Retirar a la dirección",
-            "submit": "Retirar"
+            "bitshares_account": "",
+            "submit": "Retirar",
+            "quantity": "",
+            "estimated_value": "",
+            "memo": "",
+            "fee": "",
+            "gateway_fee": "",
+            "withdraw": "",
+            "cancel": "",
+            "available": "",
+            "submit_beta": "",
+            "no_estimate": "",
+            "header": "",
+            "no_gateways": "",
+            "address_not_valid": "",
+            "cannot_cover": ""
         },
         "deposit": {
             "header": "Depositar a %(account_name)s",
             "header_short": "Depositar",
             "asset": "Activo",
-            "gateway": "Gateway",
-            "disabled": "Servicio de gateway inhabilitado",
-            "wallet_error": "Billetera de gateway inhabilitada",
-            "no_gateway_available": "Ningún gateway disponible",
-            "select_gateway": "Por favor seleccionar un operador de gateway",
             "address_generation_error": "Incapaz de generar dirección",
             "bts_transfer_description": "Es fácil recibir BTS de cualquier lugar. Mientras que se envíe BTS a tu nombre de cuenta este aparecerá en su billetera. Este código QR también contiene su nombre de cuenta.",
             "close": "Cerrar",
@@ -1291,6 +1405,13 @@
             "amount": "Cantidad a depositar",
             "submit": "Depositar",
             "submit_beta": "Depositar (beta)"
+        },
+        "deposit_withdraw": {
+            "gateway": "",
+            "disabled": "",
+            "wallet_error": "",
+            "no_gateway_available": "",
+            "select_gateway": ""
         },
         "convert": {
             "amount": "Cantidad a convertir",
@@ -1351,9 +1472,14 @@
     },
     "gateway": {
         "deposit_notice_delay": "(una nueva dirección puede ser generada una vez cada 5 minutos)",
+        "min_deposit_warning_amount": "",
+        "min_deposit_warning_asset": "",
+        "limit_withdraw_asset": "",
+        "limit_withdraw_asset_none": "",
+        "limit_withdraw_asset_min": "",
+        "limit_withdraw_asset_max": "",
         "copy_memo": "Copiar memo",
         "please_generate_address": "Por favor, obtenga una nueva dirección ",
-        "generate_new": "Obtener nueva dirección",
         "copy_address": "Copiar dirección",
         "use_copy_button": "POR FAVOR USE EL BOTÓN COPIAR PARA REALIZAR UNA COPIA DE LA DIRECCIÓN O MEMO EN ESTA PÁGINA",
         "fee": "Comisiòn del gateway ",
@@ -1372,6 +1498,7 @@
         "service": "Servicio de transferencia",
         "bridge": "Puente",
         "gateway": "Puerta",
+        "fiat": "",
         "symbol": "Símbolo",
         "asset": "Activo",
         "website": "Visitar el website",
@@ -1383,6 +1510,7 @@
         "withdraw_placeholder": "Por favor introduzca su direcciòn de %(asset)s ",
         "balance": "Saldo actual",
         "generate": "Generar",
+        "generate_new": "Obtener nueva dirección",
         "generate_new_memo": "Obtener una nueva nota",
         "deposit": "Depositar",
         "withdraw": "Retiro",
@@ -1443,7 +1571,10 @@
             "register": "De acuerdo",
             "notice": "Por favor revise el acuerdo para continuar"
         },
+        "address": "",
+        "memo": "",
         "deposit_warning": "Enviar cualquier otra moneda a la dirección %(asset)s resultará en la pérdida de su depósito",
+        "deposit_warning_memo": "",
         "time": "Hora",
         "info": "Información",
         "status": "Estado",
@@ -1467,7 +1598,9 @@
             "transfering": "transfiriendo",
             "success": "éxito",
             "fail": "fracaso"
-        }
+        },
+        "asset_search_deposit": "",
+        "asset_search_withdraw": ""
     },
     "trx_error": {
         "expire": "Su transacción ha expirado sin confirmación, intente de nuevo más tarde."
@@ -1487,19 +1620,35 @@
             "fetch": "Ups... Algo salió mal en la extracción de noticias"
         }
     },
+    "openledger": {
+        "header_fiat": "",
+        "status": "",
+        "retry": "",
+        "loading": "",
+        "refresh_transaction_history": "",
+        "header_transaction_history": "",
+        "show_transaction_history": "",
+        "withdraw_amount": "",
+        "withdraw_none": "",
+        "deposit_amount": "",
+        "deposit_details": "",
+        "deposit_none": ""
+    },
     "winex": {
         "gateway": {
-            "support_block": "For support, please contact Winex at:",
-            "fee": "Gateway Fee",
-            "deposit_warning": "Do not deposit non-%(asset)s assets into %(asset)s address, otherwise they will not be recovered"
+            "support_block": "",
+            "fee": "",
+            "deposit_warning": "",
+            "click_getaddress": "",
+            "get_deposit_address": ""
         },
         "withdraw": {
-            "winAmount": "Minimum amount: %(min_amount)s %(asset)s",
-            "finalNumber": "Actual amount ：%(final_number)s"
+            "winAmount": "",
+            "finalNumber": ""
         },
         "transfer": {
             "errors": {
-                "minWithdraw": "Minimum amount：%(min_amount)s"
+                "minWithdraw": ""
             }
         }
     }
